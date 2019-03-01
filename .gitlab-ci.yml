@@ -7,17 +7,19 @@ build-win32-installer:
   stage: build
   script:
     - ./prepare-build.sh
-    - veyon/.travis/linux.cross.win32/script.sh licensing ldap-pro network-discovery
+    - veyon/.travis/linux.cross.win32/script.sh extra-plugins-nsi
+    - mv veyon/build/*.exe .
   artifacts:
-    paths: [ "veyon/build/plugins/extra/*/*.dll" ]
+    paths: [ "*.exe" ]
 
 build-win64-installer:
   stage: build
   script:
     - ./prepare-build.sh
-    - veyon/.travis/linux.cross.win64/script.sh licensing ldap-pro network-discovery
+    - veyon/.travis/linux.cross.win64/script.sh extra-plugins-nsi
+    - mv veyon/build/*.exe .
   artifacts:
-    paths: [ "veyon/build/plugins/extra/*/*.dll" ]
+    paths: [ "*.exe" ]
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
