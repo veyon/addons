@@ -1,7 +1,3 @@
-FILE(GLOB plugins RELATIVE ${CMAKE_CURRENT_SOURCE_DIR} ${CMAKE_CURRENT_SOURCE_DIR}/*)
-
-FOREACH(plugin ${plugins})
-  IF(IS_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/${plugin})
-    ADD_SUBDIRECTORY(${plugin})
-  ENDIF()
-ENDFOREACH()
+ADD_SUBDIRECTORY(internet-access-control)
+ADD_SUBDIRECTORY(ldap-pro)
+ADD_SUBDIRECTORY(network-discovery)
