@@ -1,0 +1,19 @@
+image: $CI_REGISTRY/veyon/veyon:4.2-win64
+
+stages:
+  - build
+
+build-win32-installer:
+  stage: build
+  script:
+    - ./prepare-build.sh
+    - veyon/.travis/linux.cross.win32/script.sh veyon-core
+
+build-win64-installer:
+  stage: build
+  script:
+    - ./prepare-build.sh
+    - veyon/.travis/linux.cross.win64/script.sh veyon-core
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
