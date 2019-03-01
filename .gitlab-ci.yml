@@ -7,13 +7,13 @@ build-win32-installer:
   stage: build
   script:
     - ./prepare-build.sh
-    - veyon/.travis/linux.cross.win32/script.sh veyon-core
+    - veyon/.travis/linux.cross.win32/script.sh licensing ldap-pro network-discovery
 
 build-win64-installer:
   stage: build
   script:
     - ./prepare-build.sh
-    - veyon/.travis/linux.cross.win64/script.sh veyon-core
+    - veyon/.travis/linux.cross.win64/script.sh licensing ldap-pro network-discovery
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
