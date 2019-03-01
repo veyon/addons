@@ -14,3 +14,7 @@
 	path = internet-access-control
 	url = ../internet-access-control
 	branch = master
+[submodule "veyon"]
+	path = veyon
+	url = ../veyon
+	branch = master
