@@ -1,0 +1,16 @@
+[submodule "licensing"]
+	path = licensing
+	url = ../licensing
+	branch = master
+[submodule "ldap-pro"]
+	path = ldap-pro
+	url = ../ldap-pro
+	branch = master
+[submodule "network-discovery"]
+	path = network-discovery
+	url = ../network-discovery
+	branch = master
+[submodule "internet-access-control"]
+	path = internet-access-control
+	url = ../internet-access-control
+	branch = master
