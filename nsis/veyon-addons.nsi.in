@@ -1,11 +1,11 @@
-!define APP_NAME "Veyon Extra Plugins"
+!define APP_NAME "Veyon Addons"
 !define COMP_NAME "Veyon Solutions"
 !define WEB_SITE "https://veyon.io"
 !define VERSION "@VERSION_MAJOR@.@VERSION_MINOR@.@VERSION_PATCH@.@VERSION_BUILD@"
 !define COPYRIGHT "2019 Veyon Solutions"
-!define DESCRIPTION "Veyon Extra Plugins Installer"
+!define DESCRIPTION "Veyon Addons Installer"
 !define LICENSE_TXT "@CMAKE_SOURCE_DIR@/COPYING"
-!define INSTALLER_NAME "veyon-extra-plugins-${VERSION}-@MINGW_PLATFORM@-setup.exe"
+!define INSTALLER_NAME "veyon-addons-${VERSION}-@MINGW_PLATFORM@-setup.exe"
 !define INSTALL_TYPE "SetShellVarContext all"
 !define REG_ROOT "HKLM"
 !define UNINSTALL_PATH "Software\Microsoft\Windows\CurrentVersion\Uninstall\${APP_NAME}"
@@ -162,10 +162,10 @@ FunctionEnd
 
 Section -Icons_Reg
 SetOutPath "$INSTDIR"
-WriteUninstaller "$INSTDIR\uninstall-extra-plugins.exe"
+WriteUninstaller "$INSTDIR\uninstall-addons.exe"
 
 WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "DisplayName" "${APP_NAME}"
-WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "UninstallString" "$INSTDIR\uninstall-extra-plugins.exe"
+WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "UninstallString" "$INSTDIR\uninstall-addons.exe"
 #WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "DisplayIcon" "$INSTDIR\${MAIN_APP_EXE}"
 WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "DisplayVersion" "${VERSION}"
 WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "Publisher" "${COMP_NAME}"
@@ -180,7 +180,7 @@ ${INSTALL_TYPE}
 Delete "$INSTDIR\plugins\licensing.dll"
 Delete "$INSTDIR\plugins\ldap-pro.dll"
 Delete "$INSTDIR\plugins\network-discovery.dll"
-Delete "$INSTDIR\uninstall-extra-plugins.exe"
+Delete "$INSTDIR\uninstall-addons.exe"
 
 DeleteRegKey ${REG_ROOT} "${UNINSTALL_PATH}"
 SectionEnd

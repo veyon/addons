@@ -3,12 +3,12 @@ ADD_SUBDIRECTORY(licensing)
 ADD_SUBDIRECTORY(ldap-pro)
 ADD_SUBDIRECTORY(network-discovery)
 
-SET(TMP "${CMAKE_BINARY_DIR}/veyon-extra-plugins")
-SET(NSI "veyon-extra-plugins.nsi")
+SET(TMP "${CMAKE_BINARY_DIR}/veyon-addons")
+SET(NSI "veyon-addons.nsi")
 
 CONFIGURE_FILE(nsis/${NSI}.in nsis/${NSI} @ONLY)
 
-ADD_CUSTOM_TARGET(extra-plugins-nsi
+ADD_CUSTOM_TARGET(addons-nsi
 
    COMMAND rm -rf ${TMP}
    COMMAND mkdir -p ${TMP}/plugins
@@ -20,6 +20,6 @@ ADD_CUSTOM_TARGET(extra-plugins-nsi
    #COMMAND rm -rf ${TMP}
   )
 
-add_dependencies(extra-plugins-nsi licensing ldap-pro network-discovery)
+add_dependencies(addons-nsi licensing ldap-pro network-discovery)
 
 
