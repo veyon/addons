@@ -7,7 +7,7 @@ build-win32-installer:
   stage: build
   script:
     - ./prepare-build.sh
-    - veyon/.ci/windows/build.sh addons-nsi
+    - cd veyon && .ci/windows/build.sh 32 addons-nsi && cd ..
     - mv veyon/*.exe .
   artifacts:
     paths: [ "*.exe" ]
@@ -16,7 +16,7 @@ build-win64-installer:
   stage: build
   script:
     - ./prepare-build.sh
-    - veyon/.ci/windows/build.sh addons-nsi
+    - cd veyon && .ci/windows/build.sh 64 addons-nsi && cd ..
     - mv veyon/*.exe .
   artifacts:
     paths: [ "*.exe" ]
