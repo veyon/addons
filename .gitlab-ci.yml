@@ -1,4 +1,4 @@
-image: $CI_REGISTRY/veyon/veyon:4.2-win64
+image: $CI_REGISTRY/veyon/ci-mingw-w64:4.2
 
 stages:
   - build
@@ -7,8 +7,8 @@ build-win32-installer:
   stage: build
   script:
     - ./prepare-build.sh
-    - veyon/.travis/linux.cross.win32/script.sh extra-plugins-nsi
-    - mv veyon/build/*.exe .
+    - veyon/.ci/windows/build.sh extra-plugins-nsi
+    - mv veyon/*.exe .
   artifacts:
     paths: [ "*.exe" ]
 
@@ -16,8 +16,8 @@ build-win64-installer:
   stage: build
   script:
     - ./prepare-build.sh
-    - veyon/.travis/linux.cross.win64/script.sh extra-plugins-nsi
-    - mv veyon/build/*.exe .
+    - veyon/.ci/windows/build.sh extra-plugins-nsi
+    - mv veyon/*.exe .
   artifacts:
     paths: [ "*.exe" ]
 
