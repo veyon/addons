@@ -178,6 +178,7 @@ Section Uninstall
 ${INSTALL_TYPE}
 
 Delete "$INSTDIR\plugins\licensing.dll"
+Delete "$INSTDIR\plugins\internetaccesscontrol*.dll"
 Delete "$INSTDIR\plugins\ldap-pro.dll"
 Delete "$INSTDIR\plugins\network-discovery.dll"
 Delete "$INSTDIR\uninstall-addons.exe"

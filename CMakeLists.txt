@@ -20,6 +20,11 @@ ADD_CUSTOM_TARGET(addons-nsi
    #COMMAND rm -rf ${TMP}
   )
 
-add_dependencies(addons-nsi licensing ldap-pro network-discovery)
-
+add_dependencies(addons-nsi
+	internetaccesscontrol
+	internetaccesscontrol-routing
+	licensing
+	ldap-pro
+	network-discovery
+)
 
