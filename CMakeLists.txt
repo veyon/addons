@@ -23,6 +23,7 @@ ADD_CUSTOM_TARGET(addons-nsi
 add_dependencies(addons-nsi
 	internetaccesscontrol
 	internetaccesscontrol-routing
+	internetaccesscontrol-firewall
 	licensing
 	ldap-pro
 	network-discovery
