@@ -24,6 +24,7 @@ ADD_CUSTOM_TARGET(addons-nsi
   )
 
 add_dependencies(addons-nsi
+	addons-translations
 	internetaccesscontrol
 	internetaccesscontrol-routing
 	internetaccesscontrol-firewall
