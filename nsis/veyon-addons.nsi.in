@@ -143,6 +143,8 @@ Section
 SetOverwrite on
 SetOutPath "$INSTDIR\plugins"
 File "plugins/*.dll"
+SetOutPath "$INSTDIR\translations"
+File "translations/*.qm"
 SectionEnd
 
 
@@ -177,6 +179,7 @@ SectionEnd
 Section Uninstall
 ${INSTALL_TYPE}
 
+Delete "$INSTDIR\translations\addons*.qm"
 Delete "$INSTDIR\plugins\licensing.dll"
 Delete "$INSTDIR\plugins\internetaccesscontrol*.dll"
 Delete "$INSTDIR\plugins\ldap-pro.dll"
