@@ -1,3 +1,4 @@
+ADD_SUBDIRECTORY(translations)
 ADD_SUBDIRECTORY(internet-access-control)
 ADD_SUBDIRECTORY(licensing)
 ADD_SUBDIRECTORY(ldap-pro)
