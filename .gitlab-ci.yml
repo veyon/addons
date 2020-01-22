@@ -1,4 +1,4 @@
-image: $CI_REGISTRY/veyon/ci-mingw-w64:4.2
+image: $CI_REGISTRY/veyon/ci-mingw-w64:4.3
 
 stages:
   - build
