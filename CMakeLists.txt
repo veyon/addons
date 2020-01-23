@@ -1,15 +1,15 @@
-ADD_SUBDIRECTORY(translations)
-ADD_SUBDIRECTORY(internet-access-control)
-ADD_SUBDIRECTORY(licensing)
-ADD_SUBDIRECTORY(ldap-pro)
-ADD_SUBDIRECTORY(network-discovery)
+add_subdirectory(translations)
+add_subdirectory(internet-access-control)
+add_subdirectory(licensing)
+add_subdirectory(ldap-pro)
+add_subdirectory(network-discovery)
 
-SET(TMP "${CMAKE_BINARY_DIR}/veyon-addons")
-SET(NSI "veyon-addons.nsi")
+set(TMP "${CMAKE_BINARY_DIR}/veyon-addons")
+set(NSI "veyon-addons.nsi")
 
-CONFIGURE_FILE(nsis/${NSI}.in nsis/${NSI} @ONLY)
+configure_file(nsis/${NSI}.in nsis/${NSI} @ONLY)
 
-ADD_CUSTOM_TARGET(addons-nsi
+add_custom_target(addons-nsi
 
 	COMMAND rm -rf ${TMP}
 	COMMAND mkdir -p ${TMP}/plugins
@@ -20,8 +20,7 @@ ADD_CUSTOM_TARGET(addons-nsi
 	COMMAND cp nsis/${NSI} ${TMP}
 	COMMAND makensis ${TMP}/${NSI}
 	COMMAND mv ${TMP}/veyon-*setup.exe ${CMAKE_BINARY_DIR}
-	#COMMAND rm -rf ${TMP}
-  )
+)
 
 add_dependencies(addons-nsi
 	addons-translations
