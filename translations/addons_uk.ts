@@ -83,32 +83,8 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block access to the internet</source>
-        <translation>Блокувати доступу до інтернету</translation>
-    </message>
-    <message>
-        <source>Allow access to the internet</source>
-        <translation>Дозволити доступ до інтернету</translation>
-    </message>
-    <message>
         <source>Show help about command</source>
         <translation>Показати довідку щодо команди</translation>
-    </message>
-    <message>
-        <source>Block internet</source>
-        <translation>Блокувати інтернет</translation>
-    </message>
-    <message>
-        <source>Click this button to block access to the internet.</source>
-        <translation>Натисніть цю кнопку, щоб заблокувати доступ до інтернету.</translation>
-    </message>
-    <message>
-        <source>Unblock internet</source>
-        <translation>Розблокувати інтернет</translation>
-    </message>
-    <message>
-        <source>Click this button to allow access to the internet.</source>
-        <translation>Натисніть цю кнопку, щоб дозволити доступ до інтернету.</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -117,6 +93,30 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Команди для керування доступом до інтернету</translation>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation>Доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Блокувати доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation>Блокувати або розблокувати доступ до інтернету.</translation>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation>Натисніть цю кнопку, щоб заблокувати доступ до інтернету.</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Розблокувати доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
+        <translation>Натисніть цю кнопку, щоб розблокувати доступ до інтернету.</translation>
     </message>
 </context>
 <context>

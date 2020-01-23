@@ -83,32 +83,8 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block access to the internet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Allow access to the internet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Show help about command</source>
         <translation>Komut hakkında bilgi göster</translation>
-    </message>
-    <message>
-        <source>Block internet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click this button to block access to the internet.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unblock internet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Click this button to allow access to the internet.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -116,6 +92,30 @@
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
         <translation type="unfinished"/>
     </message>
 </context>

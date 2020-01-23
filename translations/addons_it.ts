@@ -83,32 +83,8 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block access to the internet</source>
-        <translation>Blocca l&apos;accesso a Internet</translation>
-    </message>
-    <message>
-        <source>Allow access to the internet</source>
-        <translation>Consentire l&apos;accesso a Internet</translation>
-    </message>
-    <message>
         <source>Show help about command</source>
         <translation>Mostra aiuto per i comandi</translation>
-    </message>
-    <message>
-        <source>Block internet</source>
-        <translation>Blocca internet</translation>
-    </message>
-    <message>
-        <source>Click this button to block access to the internet.</source>
-        <translation>Fare clic su questo pulsante per bloccare l&apos;accesso a Internet.</translation>
-    </message>
-    <message>
-        <source>Unblock internet</source>
-        <translation>Sblocca internet</translation>
-    </message>
-    <message>
-        <source>Click this button to allow access to the internet.</source>
-        <translation>Fare clic su questo pulsante per consentire l&apos;accesso a Internet.</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -117,6 +93,30 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Comandi per il controllo dell&apos;accesso a Internet</translation>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation>Accesso ad Internet </translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Blocca l&apos;accesso a Internet</translation>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation>Blocca o sblocca l&apos;accesso a Internet.</translation>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation>Fare clic su questo pulsante per bloccare l&apos;accesso a Internet.</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Sblocca l&apos;accesso a Internet</translation>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
+        <translation>Fare clic su questo pulsante per sbloccare l&apos;accesso a Internet.</translation>
     </message>
 </context>
 <context>

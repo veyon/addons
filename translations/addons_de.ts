@@ -83,32 +83,8 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block access to the internet</source>
-        <translation>Zugriff auf das Internet blockieren</translation>
-    </message>
-    <message>
-        <source>Allow access to the internet</source>
-        <translation>Zugriff auf das Internet erlauben</translation>
-    </message>
-    <message>
         <source>Show help about command</source>
         <translation>Hilfe über Befehl anzeigen</translation>
-    </message>
-    <message>
-        <source>Block internet</source>
-        <translation>Internet sperren</translation>
-    </message>
-    <message>
-        <source>Click this button to block access to the internet.</source>
-        <translation>Klicken Sie auf diesen Button, um den Zugriff auf das Internet zu sperren.</translation>
-    </message>
-    <message>
-        <source>Unblock internet</source>
-        <translation>Internet freigeben</translation>
-    </message>
-    <message>
-        <source>Click this button to allow access to the internet.</source>
-        <translation>Klicken Sie auf diesen Button, um den Zugriff auf das Internet wieder freizugeben.</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -117,6 +93,30 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Befehle zur Steuerung des Internetzugriffs</translation>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation>Internetzugriff</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Internetzugriff sperren</translation>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation>Internetzugriff sperren oder freigeben</translation>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation>Klicken Sie auf diesen Button, um den Zugriff auf das Internet zu sperren.</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Internetzugriff freigeben</translation>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
+        <translation>Klicken Sie auf diesen Button, um den Zugriff auf das Internet freizugeben.</translation>
     </message>
 </context>
 <context>

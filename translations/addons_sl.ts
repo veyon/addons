@@ -83,32 +83,8 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block access to the internet</source>
-        <translation>Blokiraj dostop do interneta</translation>
-    </message>
-    <message>
-        <source>Allow access to the internet</source>
-        <translation>Dovoli dostop do interneta</translation>
-    </message>
-    <message>
         <source>Show help about command</source>
         <translation>Prikaži pomoč o ukazu</translation>
-    </message>
-    <message>
-        <source>Block internet</source>
-        <translation>Blokiraj internet</translation>
-    </message>
-    <message>
-        <source>Click this button to block access to the internet.</source>
-        <translation>Kliknite ta gumb, da blokirate dostop do interneta.</translation>
-    </message>
-    <message>
-        <source>Unblock internet</source>
-        <translation>Odblokiraj internet</translation>
-    </message>
-    <message>
-        <source>Click this button to allow access to the internet.</source>
-        <translation>Kliknite ta gumb, da omogočite dostop do interneta.</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -117,6 +93,30 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Ukazi za nadzor dostopa do interneta</translation>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

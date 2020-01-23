@@ -3,31 +3,31 @@
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
-        <translation type="unfinished"/>
+        <translation>Összes kimenő TCP port forgalom tiltása</translation>
     </message>
     <message>
         <source>e.g. 8080</source>
-        <translation type="unfinished"/>
+        <translation>pl. 8080</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Egyéni</translation>
     </message>
     <message>
         <source>21 (FTP)</source>
-        <translation type="unfinished"/>
+        <translation>21 (FTP)</translation>
     </message>
     <message>
         <source>80/443 (HTTP/HTTPS)</source>
-        <translation type="unfinished"/>
+        <translation>80/443 (HTTP/HTTPS)</translation>
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>Nem helyi alhálózat felé kimenő összes forgalom tiltása</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"/>
+        <translation>Kivételek</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -35,19 +35,19 @@
     </message>
     <message>
         <source>Networks &amp; hosts</source>
-        <translation type="unfinished"/>
+        <translation>Hálózatok és kiszolgálók</translation>
     </message>
     <message>
         <source>Ports</source>
-        <translation type="unfinished"/>
+        <translation>Portok</translation>
     </message>
     <message>
         <source>e.g. 80 443</source>
-        <translation type="unfinished"/>
+        <translation>pl. 80 443</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
+        <translation>Előrekonfigurált tűzfalszabály bekapcsolása</translation>
     </message>
     <message>
         <source>Name</source>
@@ -58,7 +58,7 @@
     <name>FirewallPlugin</name>
     <message>
         <source>Block internet access via system firewall</source>
-        <translation type="unfinished"/>
+        <translation>Internetelérés tiltása a rendszer tűzfalán</translation>
     </message>
 </context>
 <context>
@@ -83,32 +83,8 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block access to the internet</source>
-        <translation>Internet-hozzáférés blokkolása</translation>
-    </message>
-    <message>
-        <source>Allow access to the internet</source>
-        <translation>Internet-hozzáférés engedélyezése</translation>
-    </message>
-    <message>
         <source>Show help about command</source>
         <translation>Parancsról segítség megjelenítése</translation>
-    </message>
-    <message>
-        <source>Block internet</source>
-        <translation>Internet blokkolása</translation>
-    </message>
-    <message>
-        <source>Click this button to block access to the internet.</source>
-        <translation>Az internet-hozzáférés blokkolásához kattintson erre a gombra. </translation>
-    </message>
-    <message>
-        <source>Unblock internet</source>
-        <translation>Internet blokkolásának feloldása</translation>
-    </message>
-    <message>
-        <source>Click this button to allow access to the internet.</source>
-        <translation>Az internet-hozzáférés engedélyezéséhez kattintson erre a gombra. </translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -117,6 +93,30 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Internethozzáférés-vezérlés parancsai</translation>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -493,7 +493,7 @@ HASZNÁLATA
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
-        <translation type="unfinished"/>
+        <translation>Az internet-hozzáférés tiltása az útválasztási táblázat módosításával</translation>
     </message>
 </context>
 <context>

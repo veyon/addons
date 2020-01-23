@@ -83,32 +83,8 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block access to the internet</source>
-        <translation>阻止访问互联网</translation>
-    </message>
-    <message>
-        <source>Allow access to the internet</source>
-        <translation>允许访问互联网</translation>
-    </message>
-    <message>
         <source>Show help about command</source>
         <translation>显此命令的帮助信息</translation>
-    </message>
-    <message>
-        <source>Block internet</source>
-        <translation>阻止互联网</translation>
-    </message>
-    <message>
-        <source>Click this button to block access to the internet.</source>
-        <translation>点击此按钮，阻止访问互联网。</translation>
-    </message>
-    <message>
-        <source>Unblock internet</source>
-        <translation>取消阻止互联网</translation>
-    </message>
-    <message>
-        <source>Click this button to allow access to the internet.</source>
-        <translation>点击此按钮，取消阻止访问互联网。</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -117,6 +93,30 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>控制访问互联网的命令</translation>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
