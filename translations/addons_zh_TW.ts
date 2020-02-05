@@ -3,31 +3,31 @@
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
-        <translation type="unfinished"/>
+        <translation>封鎖 TCP 埠的所有連出流量</translation>
     </message>
     <message>
         <source>e.g. 8080</source>
-        <translation type="unfinished"/>
+        <translation>例如: 8080</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>自訂</translation>
     </message>
     <message>
         <source>21 (FTP)</source>
-        <translation type="unfinished"/>
+        <translation>21 (FTP)</translation>
     </message>
     <message>
         <source>80/443 (HTTP/HTTPS)</source>
-        <translation type="unfinished"/>
+        <translation>80/443 (HTTP/HTTPS)</translation>
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>封鎖所有連出流量到非本機子網路</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"/>
+        <translation>例外</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -35,19 +35,19 @@
     </message>
     <message>
         <source>Networks &amp; hosts</source>
-        <translation type="unfinished"/>
+        <translation>網路 &amp; 主機</translation>
     </message>
     <message>
         <source>Ports</source>
-        <translation type="unfinished"/>
+        <translation>連接埠</translation>
     </message>
     <message>
         <source>e.g. 80 443</source>
-        <translation type="unfinished"/>
+        <translation>例如: 80 443</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
+        <translation>啟用預組態的防火牆規則</translation>
     </message>
     <message>
         <source>Name</source>
@@ -58,7 +58,7 @@
     <name>FirewallPlugin</name>
     <message>
         <source>Block internet access via system firewall</source>
-        <translation type="unfinished"/>
+        <translation>透過系統防火牆封鎖 Internet 存取</translation>
     </message>
 </context>
 <context>
@@ -96,27 +96,27 @@
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet 存取</translation>
     </message>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>封鎖 internet 存取</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>封鎖或取消封鎖 internet 存取。</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>按一下此按鈕可封鎖 internet 存取。</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>取消封鎖 internet 存取</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>按一下此按鈕可取消封鎖 internet 存取。</translation>
     </message>
 </context>
 <context>
@@ -383,7 +383,7 @@ USAGE
     </message>
     <message>
         <source>Last address</source>
-        <translation>上次位址</translation>
+        <translation>最後位址</translation>
     </message>
     <message>
         <source>Add new network range</source>
@@ -493,7 +493,7 @@ USAGE
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
-        <translation type="unfinished"/>
+        <translation>透過修改路由表封鎖 Internet 存取</translation>
     </message>
 </context>
 <context>
