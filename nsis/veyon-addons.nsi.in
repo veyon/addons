@@ -140,11 +140,14 @@ RequestExecutionLevel admin
 ######################################################################
 
 Section
+ClearErrors
+ExecWait '"$INSTDIR\veyon-wcli.exe" service stop'
 SetOverwrite on
 SetOutPath "$INSTDIR\plugins"
 File "plugins/*.dll"
 SetOutPath "$INSTDIR\translations"
 File "translations/*.qm"
+ExecWait '"$INSTDIR\veyon-wcli.exe" service start'
 SectionEnd
 
 
