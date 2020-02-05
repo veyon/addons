@@ -3,23 +3,23 @@ image: $CI_REGISTRY/veyon/ci-mingw-w64:4.3
 stages:
   - build
 
-build-win32-installer:
+build-win32:
   stage: build
   script:
     - ./prepare-build.sh
-    - cd veyon && .ci/windows/build.sh 32 addons-nsi && cd ..
-    - mv veyon/*.exe .
+    - cd veyon && .ci/windows/build.sh 32 addons-binaries && cd ..
+    - mv veyon/veyon-addons-win32* .
   artifacts:
-    paths: [ "*.exe" ]
+    paths: [ "veyon-addons-win32*" ]
 
-build-win64-installer:
+build-win64:
   stage: build
   script:
     - ./prepare-build.sh
-    - cd veyon && .ci/windows/build.sh 64 addons-nsi && cd ..
-    - mv veyon/*.exe .
+    - cd veyon && .ci/windows/build.sh 64 addons-binaries && cd ..
+    - mv veyon/veyon-addons-win64* .
   artifacts:
-    paths: [ "*.exe" ]
+    paths: [ "veyon-addons-win64*" ]
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
