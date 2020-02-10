@@ -8,7 +8,6 @@
 !define INSTALLER_NAME "veyon-addons-${VERSION}-@MINGW_PLATFORM@-setup.exe"
 !define INSTALL_TYPE "SetShellVarContext all"
 !define REG_ROOT "HKLM"
-!define UNINSTALL_PATH "Software\Microsoft\Windows\CurrentVersion\Uninstall\${APP_NAME}"
 
 ######################################################################
 
@@ -46,14 +45,9 @@ RequestExecutionLevel admin
 !define MUI_UNWELCOMEFINISHPAGE_BITMAP "nsis/welcome-page.bmp"
 
 !define MUI_ICON "nsis/installer.ico"
-!define MUI_UNICON "nsis/uninstaller.ico"
 !define MUI_HEADERIMAGE
 !define MUI_HEADERIMAGE_BITMAP "nsis/header.bmp"
 !define MUI_HEADERIMAGE_RIGHT
-
-!define MUI_LANGDLL_REGISTRY_ROOT "${REG_ROOT}"
-!define MUI_LANGDLL_REGISTRY_KEY "${UNINSTALL_PATH}"
-!define MUI_LANGDLL_REGISTRY_VALUENAME "Installer Language"
 
 !insertmacro MUI_PAGE_WELCOME
 
@@ -64,9 +58,6 @@ RequestExecutionLevel admin
 # !insertmacro MUI_PAGE_COMPONENTS
 
 !insertmacro MUI_PAGE_INSTFILES
-
-!define MUI_FINISHPAGE_LINK "Support Veyon project with a donation"
-!define MUI_FINISHPAGE_LINK_LOCATION "https://www.paypal.com/cgi-bin/webscr?item_name=Donation+to+Veyon+-+OpenSource+classroom+management&cmd=_donations&business=donate%40veyon.io"
 
 !insertmacro MUI_PAGE_FINISH
 
@@ -161,41 +152,6 @@ ${If} $0 != "admin"
 	SetErrorLevel 740 ;ERROR_ELEVATION_REQUIRED
 	Quit
 ${EndIf}
-FunctionEnd
-
-######################################################################
-
-Section -Icons_Reg
-SetOutPath "$INSTDIR"
-WriteUninstaller "$INSTDIR\uninstall-addons.exe"
-
-WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "DisplayName" "${APP_NAME}"
-WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "UninstallString" "$INSTDIR\uninstall-addons.exe"
-#WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "DisplayIcon" "$INSTDIR\${MAIN_APP_EXE}"
-WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "DisplayVersion" "${VERSION}"
-WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "Publisher" "${COMP_NAME}"
-WriteRegStr ${REG_ROOT} "${UNINSTALL_PATH}"  "URLInfoAbout" "${WEB_SITE}"
-SectionEnd
-
-######################################################################
-
-Section Uninstall
-${INSTALL_TYPE}
-
-Delete "$INSTDIR\translations\addons*.qm"
-Delete "$INSTDIR\plugins\licensing.dll"
-Delete "$INSTDIR\plugins\internetaccesscontrol*.dll"
-Delete "$INSTDIR\plugins\ldap-pro.dll"
-Delete "$INSTDIR\plugins\network-discovery.dll"
-Delete "$INSTDIR\uninstall-addons.exe"
-
-DeleteRegKey ${REG_ROOT} "${UNINSTALL_PATH}"
-SectionEnd
-
-######################################################################
-
-Function un.onInit
-!insertmacro MUI_UNGETLANGUAGE
 FunctionEnd
 
 ######################################################################
