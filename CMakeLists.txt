@@ -16,7 +16,6 @@ add_custom_target(addons-binaries
 	COMMAND rm -rf ${ADDONS_BINARIES}
 	COMMAND mkdir -p ${ADDONS_BINARIES}/plugins
 	COMMAND find -name '*.dll' -exec cp '{}' ${ADDONS_BINARIES}/plugins/ '\;'
-	COMMAND ${STRIP} ${ADDONS_BINARIES}/plugins/*.dll
 	COMMAND mkdir -p ${ADDONS_BINARIES}/translations
 	COMMAND cp translations/*qm ${ADDONS_BINARIES}/translations/
 	COMMAND cp -r ${CMAKE_SOURCE_DIR}/COPYING ${ADDONS_BINARIES}
@@ -25,6 +24,7 @@ add_custom_target(addons-binaries
 	COMMAND cp ${DLLDIR}/libxml2-2.dll ${ADDONS_BINARIES}
 	COMMAND cp ${DLLDIR}/icu*6*.dll ${ADDONS_BINARIES}
 	COMMAND cp ${DLLDIR}/Qt5WebKit.dll ${DLLDIR}/Qt5WebKitWidgets.dll ${ADDONS_BINARIES}
+	COMMAND find ${ADDONS_BINARIES} -name "*.dll" -exec ${STRIP} '{}' ';'
 	DEPENDS
 	addons-translations
 	internetaccesscontrol
