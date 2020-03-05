@@ -134,6 +134,8 @@ Section
 ClearErrors
 ExecWait '"$INSTDIR\veyon-wcli.exe" service stop'
 SetOverwrite on
+SetOutPath "$INSTDIR"
+File "*.dll"
 SetOutPath "$INSTDIR\plugins"
 File "plugins/*.dll"
 SetOutPath "$INSTDIR\translations"
