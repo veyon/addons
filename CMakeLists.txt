@@ -3,6 +3,7 @@ add_subdirectory(internet-access-control)
 add_subdirectory(licensing)
 add_subdirectory(ldap-pro)
 add_subdirectory(network-discovery)
+add_subdirectory(webtabs)
 
 set(NSI "veyon-addons.nsi")
 
@@ -10,6 +11,7 @@ configure_file(nsis/${NSI}.in nsis/${NSI} @ONLY)
 
 set(ADDONS_BINARIES "${CMAKE_BINARY_DIR}/veyon-addons-${MINGW_PLATFORM}-${VERSION_MAJOR}.${VERSION_MINOR}.${VERSION_PATCH}.${VERSION_BUILD}")
 
+set(DLLDIR "${MINGW_PREFIX}/bin")
 add_custom_target(addons-binaries
 	COMMAND rm -rf ${ADDONS_BINARIES}
 	COMMAND mkdir -p ${ADDONS_BINARIES}/plugins
@@ -20,6 +22,9 @@ add_custom_target(addons-binaries
 	COMMAND cp -r ${CMAKE_SOURCE_DIR}/COPYING ${ADDONS_BINARIES}
 	COMMAND cp -r ${CMAKE_SOURCE_DIR}/nsis ${ADDONS_BINARIES}
 	COMMAND cp nsis/${NSI} ${ADDONS_BINARIES}
+	COMMAND cp ${DLLDIR}/libxml2-2.dll ${ADDONS_BINARIES}
+	COMMAND cp ${DLLDIR}/icu*6*.dll ${ADDONS_BINARIES}
+	COMMAND cp ${DLLDIR}/Qt5WebKit.dll ${DLLDIR}/Qt5WebKitWidgets.dll ${ADDONS_BINARIES}
 	DEPENDS
 	addons-translations
 	internetaccesscontrol
@@ -28,6 +33,7 @@ add_custom_target(addons-binaries
 	licensing
 	ldap-pro
 	network-discovery
+	webtabs
 )
 
 add_custom_target(addons-nsi
