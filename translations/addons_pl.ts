@@ -3,7 +3,7 @@
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
-        <translation type="unfinished"/>
+        <translation>Zablokuj cały ruch wychodzący dla portów TCP</translation>
     </message>
     <message>
         <source>e.g. 8080</source>
@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Indywidualny</translation>
     </message>
     <message>
         <source>21 (FTP)</source>
@@ -23,19 +23,15 @@
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>Zablokuj cały ruch wychodzący do nielokalnych podsieci</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"/>
+        <translation>Wyjątki</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation>np. 192.168.1.0/24</translation>
-    </message>
-    <message>
-        <source>Networks &amp; hosts</source>
-        <translation>Sieci i gospodarze</translation>
     </message>
     <message>
         <source>Ports</source>
@@ -53,6 +49,18 @@
         <source>Name</source>
         <translation>Nazwa</translation>
     </message>
+    <message>
+        <source>Networks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. docs.veyon.io</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -69,14 +77,18 @@
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished"/>
+        <translation>Ustawienia główne</translation>
     </message>
     <message>
         <source>Backend:</source>
-        <translation type="unfinished"/>
+        <translation>Zaplecze:</translation>
     </message>
     <message>
         <source>Backend settings</source>
+        <translation>Ustawienia zaplecza</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -96,136 +108,128 @@
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Dostęp do Internetu</translation>
     </message>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Zablokuj dostęp do Internetu</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Zablokuj lub odblokuj dostęp do Internetu.</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Kliknij przycisk, aby zablokować dostęp do Internetu.</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Odblokuj dostęp do Internetu</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Kliknij ten przycisk, aby odblokować dostęp do Internetu.</translation>
     </message>
 </context>
 <context>
     <name>LdapProConfigurationPage</name>
     <message>
         <source>LDAP Pro</source>
-        <translation type="unfinished"/>
+        <translation>LDAP Pro</translation>
     </message>
     <message>
         <source>Instances</source>
-        <translation type="unfinished"/>
+        <translation>Instancje</translation>
     </message>
     <message>
         <source>Enter name</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź nazwę</translation>
     </message>
     <message>
         <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź nazwę instancji (nie można jej później zmienić!):</translation>
     </message>
     <message>
         <source>Remove instance</source>
-        <translation type="unfinished"/>
+        <translation>Usuń instancję</translation>
     </message>
     <message>
         <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Czy napewno chcesz usunąć instancję „% 1”?</translation>
     </message>
     <message>
         <source>Configuration for instance &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Konfiguracja instancji „% 1”</translation>
     </message>
 </context>
 <context>
     <name>LdapProPlugin</name>
     <message>
         <source>Professional LDAP/AD integration for Veyon</source>
-        <translation type="unfinished"/>
+        <translation>Profesjonalna integracja LDAP / AD dla Veyon</translation>
     </message>
     <message>
         <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation>% 1 (wczytywanie komputerów i lokacji z LDAP / AD)</translation>
     </message>
     <message>
         <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation>% 1 (wczytywanie użytkowników i grupy z LDAP / AD)</translation>
     </message>
 </context>
 <context>
     <name>LicensingConfigurationPage</name>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"/>
+        <translation>Licencjonowanie</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informacja</translation>
     </message>
     <message>
         <source>Installation ID</source>
-        <translation type="unfinished"/>
+        <translation>Identyfikator instalacji</translation>
     </message>
     <message>
         <source>Addons available for licensing</source>
-        <translation type="unfinished"/>
+        <translation>Dostępne dodatki do licencjonowania</translation>
     </message>
     <message>
         <source>Installed licenses</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add new network range</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove selected network range</source>
-        <translation type="unfinished"/>
+        <translation>Zainstalowane licencje</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>Identyfikator</translation>
     </message>
     <message>
         <source>Addon</source>
-        <translation type="unfinished"/>
+        <translation>Dodatek</translation>
     </message>
     <message>
         <source>Valid until</source>
-        <translation type="unfinished"/>
+        <translation>Ważne do</translation>
     </message>
     <message>
         <source>Licensee</source>
-        <translation type="unfinished"/>
+        <translation>Właściciel</translation>
     </message>
     <message>
         <source>Browse license file</source>
-        <translation type="unfinished"/>
+        <translation>Przeglądaj plik licencji</translation>
     </message>
     <message>
         <source>Veyon license files (*.vlf)</source>
-        <translation type="unfinished"/>
+        <translation>Pliki licencji Veyon (* .vlf)</translation>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"/>
+        <translation>Usuń licencję</translation>
     </message>
     <message>
         <source>Do you really want to remove the selected license?</source>
-        <translation type="unfinished"/>
+        <translation>Czy na pewno chcesz usunąć wybraną licencję?</translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
@@ -233,34 +237,42 @@
     </message>
     <message>
         <source>Feature</source>
-        <translation type="unfinished"/>
+        <translation>Rozszerzenie</translation>
     </message>
     <message>
         <source>Invalid license file</source>
-        <translation type="unfinished"/>
+        <translation>Nieprawidłowy plik licencji</translation>
     </message>
     <message>
         <source>Could not open the license file for reading!</source>
-        <translation type="unfinished"/>
+        <translation>Nie można otworzyć pliku licencji!</translation>
     </message>
     <message>
         <source>The selected license file does not contain valid data.</source>
-        <translation type="unfinished"/>
+        <translation>Wybrany plik licencji nie zawiera prawidłowych danych.</translation>
     </message>
     <message>
         <source>The selected license file could not be verified.</source>
-        <translation type="unfinished"/>
+        <translation>Nie można zweryfikować wybranego pliku licencji.</translation>
     </message>
     <message>
         <source>The selected license file is not valid for this installation.</source>
-        <translation type="unfinished"/>
+        <translation>Wybrany plik licencji jest nieprawidłowy dla tej instalacji.</translation>
     </message>
     <message>
         <source>The selected license file is expired.</source>
-        <translation type="unfinished"/>
+        <translation>Wybrany plik licencji wygasł.</translation>
     </message>
     <message>
         <source>The license is already installed.</source>
+        <translation>Licencja jest już zainstalowana.</translation>
+    </message>
+    <message>
+        <source>Add license from file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected license</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -272,15 +284,15 @@
     </message>
     <message>
         <source>Show all installed licenses</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż wszystkie zainstalowane licencje</translation>
     </message>
     <message>
         <source>Add license file</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj plik licencji</translation>
     </message>
     <message>
         <source>Remove installed license</source>
-        <translation type="unfinished"/>
+        <translation>Usuń zainstalowaną licencję</translation>
     </message>
     <message>
         <source>
@@ -289,7 +301,12 @@ USAGE
 %1 add &lt;LICENSE FILE&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+UŻYCIE
+
+%1 dodaj &lt;LICENSE FILE&gt;
+
+</translation>
     </message>
     <message>
         <source>
@@ -298,11 +315,16 @@ USAGE
 %1 remove &lt;LICENSE ID&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+UŻYCIE
+
+%1 usuń &lt;LICENSE ID&gt;
+
+</translation>
     </message>
     <message>
         <source>No certificate found with given ID</source>
-        <translation type="unfinished"/>
+        <translation>Nie znaleziono certyfikatu o podanym identyfikatorze</translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
@@ -310,26 +332,26 @@ USAGE
     </message>
     <message>
         <source>Licensing management</source>
-        <translation type="unfinished"/>
+        <translation>Zarządzanie licencjami</translation>
     </message>
     <message>
         <source>Commands for managing license keys</source>
-        <translation type="unfinished"/>
+        <translation>Komendy do zarządzania kluczami licencyjnymi</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryConfigurationPage</name>
     <message>
         <source>Network discovery</source>
-        <translation type="unfinished"/>
+        <translation>Wykrywanie sieci</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"/>
+        <translation>Tryb</translation>
     </message>
     <message>
         <source>Scan network ranges</source>
-        <translation type="unfinished"/>
+        <translation>Skanuj zakresy sieci</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -337,15 +359,15 @@ USAGE
     </message>
     <message>
         <source>Scan all subnets of computer</source>
-        <translation type="unfinished"/>
+        <translation>Przeskanuj wszystkie podsieci</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
-        <translation type="unfinished"/>
+        <translation>Skanuj zdefiniowaną podsieć</translation>
     </message>
     <message>
         <source>Scan sessions on local computer</source>
-        <translation type="unfinished"/>
+        <translation>Skanuj sesje na lokalnym komputerze</translation>
     </message>
     <message>
         <source>Test</source>
@@ -353,35 +375,35 @@ USAGE
     </message>
     <message>
         <source>Network ranges</source>
-        <translation type="unfinished"/>
+        <translation>Zakresy sieci</translation>
     </message>
     <message>
         <source>Add new group</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj nową grupę</translation>
     </message>
     <message>
         <source>Remove selected group</source>
-        <translation type="unfinished"/>
+        <translation>Usuń wybraną grupę</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="unfinished"/>
+        <translation>Grupy</translation>
     </message>
     <message>
         <source>First address</source>
-        <translation type="unfinished"/>
+        <translation>Pierwszy adres</translation>
     </message>
     <message>
         <source>Last address</source>
-        <translation type="unfinished"/>
+        <translation>Ostatni adres</translation>
     </message>
     <message>
         <source>Add new network range</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj nowy zakres sieci</translation>
     </message>
     <message>
         <source>Remove selected network range</source>
-        <translation type="unfinished"/>
+        <translation>Usuń wybrany zakres sieci</translation>
     </message>
     <message>
         <source>Options</source>
@@ -389,11 +411,11 @@ USAGE
     </message>
     <message>
         <source>Parallel scans</source>
-        <translation type="unfinished"/>
+        <translation>Skanowanie równoległe</translation>
     </message>
     <message>
         <source>Scan timeout</source>
-        <translation type="unfinished"/>
+        <translation>Upłynął limit czasu skanowania</translation>
     </message>
     <message>
         <source> ms</source>
@@ -401,26 +423,26 @@ USAGE
     </message>
     <message>
         <source>Session scan limit</source>
-        <translation type="unfinished"/>
+        <translation>Limit skanowania sesji</translation>
     </message>
     <message>
         <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation type="unfinished"/>
+        <translation>Odwrócone wyszukiwanie adresów IP na nazwy hostów</translation>
     </message>
     <message>
         <source>New location</source>
-        <translation type="unfinished"/>
+        <translation>Nowa lokalizacja</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
         <source>Scanning...</source>
-        <translation type="unfinished"/>
+        <translation>Skanowanie...</translation>
     </message>
     <message>
         <source>Discovered computers</source>
-        <translation type="unfinished"/>
+        <translation>Rozpoznane komputery</translation>
     </message>
 </context>
 <context>
@@ -431,7 +453,7 @@ USAGE
     </message>
     <message>
         <source>Scan a subnet</source>
-        <translation type="unfinished"/>
+        <translation>Przeskanuj podsieć</translation>
     </message>
     <message>
         <source>
@@ -440,51 +462,102 @@ USAGE
 %1 scan [&lt;SUBNET&gt;]
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+UŻYCIE
+
+%1 skanuj [&lt;SUBNET&gt;]
+
+</translation>
     </message>
     <message>
         <source>Network object directory which automatically discovers computers in the network</source>
-        <translation type="unfinished"/>
+        <translation>Katalog elementów sieciowych, który automatycznie wykrywa komputery w sieci</translation>
     </message>
     <message>
         <source>Network discovery (scan network for Veyon clients)</source>
-        <translation type="unfinished"/>
+        <translation>Wykrywanie sieci (skanuj sieć w poszukiwaniu klientów Veyon)</translation>
     </message>
     <message>
         <source>Commands for managing the network discovery directory</source>
-        <translation type="unfinished"/>
+        <translation>Komendy do zarządzania katalogiem wykrywania sieci</translation>
     </message>
 </context>
 <context>
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Usuń domyślny routing, aby zablokować dostęp do Internetu</translation>
     </message>
     <message>
         <source>Add custom route to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj niestandardowy routing, aby zablokować internet</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"/>
+        <translation>Miejsce docelowe</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="unfinished"/>
+        <translation>Bramka</translation>
     </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
-        <translation type="unfinished"/>
+        <translation>Zablokuj dostęp do Internetu, modyfikując tabelę routingu</translation>
     </message>
 </context>
 <context>
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
+        <translation>licencjonowane dla</translation>
+    </message>
+</context>
+<context>
+    <name>WebTabsConfigurationPage</name>
+    <message>
+        <source>WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nazwa</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>Adres</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show tabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New tab</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsPlugin</name>
+    <message>
+        <source>Integrate web page tabs into Veyon Master</source>
         <translation type="unfinished"/>
     </message>
 </context>

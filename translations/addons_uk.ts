@@ -34,10 +34,6 @@
         <translation>Приклад: 192.168.1.0/24</translation>
     </message>
     <message>
-        <source>Networks &amp; hosts</source>
-        <translation>Мережі і вузли</translation>
-    </message>
-    <message>
         <source>Ports</source>
         <translation>Порти</translation>
     </message>
@@ -52,6 +48,18 @@
     <message>
         <source>Name</source>
         <translation>Назва</translation>
+    </message>
+    <message>
+        <source>Networks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. docs.veyon.io</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -78,6 +86,10 @@
     <message>
         <source>Backend settings</source>
         <translation>Параметри модулів</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -188,14 +200,6 @@
         <translation>Встановлені ліцензії</translation>
     </message>
     <message>
-        <source>Add new network range</source>
-        <translation>Додати новий діапазон мережі</translation>
-    </message>
-    <message>
-        <source>Remove selected network range</source>
-        <translation>Вилучити позначений діапазон мережі</translation>
-    </message>
-    <message>
         <source>ID</source>
         <translation>Ідентифікатор</translation>
     </message>
@@ -262,6 +266,14 @@
     <message>
         <source>The license is already installed.</source>
         <translation>Цю ліцензію вже встановлено.</translation>
+    </message>
+    <message>
+        <source>Add license from file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -501,6 +513,52 @@ USAGE
     <message>
         <source>licensed for</source>
         <translation>ліцензовано для</translation>
+    </message>
+</context>
+<context>
+    <name>WebTabsConfigurationPage</name>
+    <message>
+        <source>WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Назва</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>Адреса</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show tabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New tab</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsPlugin</name>
+    <message>
+        <source>Integrate web page tabs into Veyon Master</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>

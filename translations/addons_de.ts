@@ -34,10 +34,6 @@
         <translation>z.B. 192.168.1.0/24</translation>
     </message>
     <message>
-        <source>Networks &amp; hosts</source>
-        <translation>Netzwerke &amp; Rechner</translation>
-    </message>
-    <message>
         <source>Ports</source>
         <translation>Ports</translation>
     </message>
@@ -52,6 +48,18 @@
     <message>
         <source>Name</source>
         <translation>Name</translation>
+    </message>
+    <message>
+        <source>Networks</source>
+        <translation>Netzwerke</translation>
+    </message>
+    <message>
+        <source>Hosts</source>
+        <translation>Rechner</translation>
+    </message>
+    <message>
+        <source>e.g. docs.veyon.io</source>
+        <translation>z.B. docs.veyon.io</translation>
     </message>
 </context>
 <context>
@@ -78,6 +86,10 @@
     <message>
         <source>Backend settings</source>
         <translation>Backend-Einstellungen</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
+        <translation>Internetzugriff beim Starten des Dienstes freigeben (z.B. nach Abmeldung oder Neustart)</translation>
     </message>
 </context>
 <context>
@@ -188,14 +200,6 @@
         <translation>Installierte Lizenzen</translation>
     </message>
     <message>
-        <source>Add new network range</source>
-        <translation>Neuen Netzwerkbereich hinzufügen</translation>
-    </message>
-    <message>
-        <source>Remove selected network range</source>
-        <translation>Gewählten Netzwerkbereich entfernen</translation>
-    </message>
-    <message>
         <source>ID</source>
         <translation>ID</translation>
     </message>
@@ -262,6 +266,14 @@
     <message>
         <source>The license is already installed.</source>
         <translation>Die Lizenz ist bereits installiert.</translation>
+    </message>
+    <message>
+        <source>Add license from file</source>
+        <translation>Lizenz aus Datei hinzufügen</translation>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation>Gewählte Lizenz entfernen</translation>
     </message>
 </context>
 <context>
@@ -500,6 +512,52 @@ VERWENDUNG
     <message>
         <source>licensed for</source>
         <translation>lizenziert für</translation>
+    </message>
+</context>
+<context>
+    <name>WebTabsConfigurationPage</name>
+    <message>
+        <source>WebTabs</source>
+        <translation>WebTabs</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation>Tabs</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Name</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>URL</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Breite</translation>
+    </message>
+    <message>
+        <source>Add tab</source>
+        <translation>Tab hinzufügen</translation>
+    </message>
+    <message>
+        <source>Remove selected tab</source>
+        <translation>Ausgewählten Tab entfernen</translation>
+    </message>
+    <message>
+        <source>Show tabs</source>
+        <translation>Tabs anzeigen</translation>
+    </message>
+    <message>
+        <source>New tab</source>
+        <translation>Neuer Tab</translation>
+    </message>
+</context>
+<context>
+    <name>WebTabsPlugin</name>
+    <message>
+        <source>Integrate web page tabs into Veyon Master</source>
+        <translation>Webpage-Tabs in Veyon Master integrieren</translation>
     </message>
 </context>
 </TS>

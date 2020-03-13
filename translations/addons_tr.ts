@@ -3,55 +3,63 @@
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
-        <translation type="unfinished"/>
+        <translation>TCP bağlantı noktaları için tüm giden trafiği engelleme</translation>
     </message>
     <message>
         <source>e.g. 8080</source>
-        <translation type="unfinished"/>
+        <translation>Örnek: 8080</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <source>21 (FTP)</source>
-        <translation type="unfinished"/>
+        <translation>21 (FTP)</translation>
     </message>
     <message>
         <source>80/443 (HTTP/HTTPS)</source>
-        <translation type="unfinished"/>
+        <translation>80/443 (HTTP/HTTPS)</translation>
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>Alt ağlara giden tüm trafiği engelle</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"/>
+        <translation>İstisnalar</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Networks &amp; hosts</source>
-        <translation type="unfinished"/>
+        <translation>Örnek: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
-        <translation type="unfinished"/>
+        <translation>Portlar</translation>
     </message>
     <message>
         <source>e.g. 80 443</source>
-        <translation type="unfinished"/>
+        <translation>Örnek:80 443</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
+        <translation>Önceden yapılandırılmış güvenlik duvarı kurallarını etkinleştir</translation>
     </message>
     <message>
         <source>Name</source>
         <translation>Ad</translation>
+    </message>
+    <message>
+        <source>Networks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. docs.veyon.io</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -65,11 +73,11 @@
     <name>InternetAccessControlConfigurationPage</name>
     <message>
         <source>Internet access control</source>
-        <translation type="unfinished"/>
+        <translation>İnternet Erişim Kontrolü</translation>
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished"/>
+        <translation>Genel Ayarlar</translation>
     </message>
     <message>
         <source>Backend:</source>
@@ -77,6 +85,10 @@
     </message>
     <message>
         <source>Backend settings</source>
+        <translation>Arka uç ayarları</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -88,42 +100,42 @@
     </message>
     <message>
         <source>Control access to the internet</source>
-        <translation type="unfinished"/>
+        <translation>İnternet erişimini kontrol edin</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
-        <translation type="unfinished"/>
+        <translation>İnternet erişimini kontrol etmek için komutlar</translation>
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>İnternet Erişimi</translation>
     </message>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>İnternet Erişimini Engelle</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>İnternet erişimini engelleyin veya engelini kaldırın.</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>İnternet erişimini engellemek için butona tıklayın.</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>İnternet erişim engelini kaldır</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Bu buton ile İnternet erişim engelini kaldır</translation>
     </message>
 </context>
 <context>
     <name>LdapProConfigurationPage</name>
     <message>
         <source>LDAP Pro</source>
-        <translation type="unfinished"/>
+        <translation>LDAP Pro</translation>
     </message>
     <message>
         <source>Instances</source>
@@ -131,7 +143,7 @@
     </message>
     <message>
         <source>Enter name</source>
-        <translation type="unfinished"/>
+        <translation>İsim girin</translation>
     </message>
     <message>
         <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
@@ -169,71 +181,63 @@
     <name>LicensingConfigurationPage</name>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"/>
+        <translation>Lisans</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Bilgi</translation>
     </message>
     <message>
         <source>Installation ID</source>
-        <translation type="unfinished"/>
+        <translation>Kurulum  ID</translation>
     </message>
     <message>
         <source>Addons available for licensing</source>
-        <translation type="unfinished"/>
+        <translation>Bu lisans için kullanılabilir eklentiler</translation>
     </message>
     <message>
         <source>Installed licenses</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add new network range</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove selected network range</source>
-        <translation type="unfinished"/>
+        <translation>Kurulu lisanslar</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Addon</source>
-        <translation type="unfinished"/>
+        <translation>Eklenti</translation>
     </message>
     <message>
         <source>Valid until</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli tarih</translation>
     </message>
     <message>
         <source>Licensee</source>
-        <translation type="unfinished"/>
+        <translation>Lisans</translation>
     </message>
     <message>
         <source>Browse license file</source>
-        <translation type="unfinished"/>
+        <translation>Lisans dosyasına göz at </translation>
     </message>
     <message>
         <source>Veyon license files (*.vlf)</source>
-        <translation type="unfinished"/>
+        <translation>Veyon lisans dosyaları(*.vlf)</translation>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"/>
+        <translation>Lisans sil</translation>
     </message>
     <message>
         <source>Do you really want to remove the selected license?</source>
-        <translation type="unfinished"/>
+        <translation>Seçili lisansı silmek istediğinize emin misiniz?</translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;N/A&gt;</translation>
     </message>
     <message>
         <source>Feature</source>
-        <translation type="unfinished"/>
+        <translation>Özellik</translation>
     </message>
     <message>
         <source>Invalid license file</source>
@@ -261,6 +265,14 @@
     </message>
     <message>
         <source>The license is already installed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add license from file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected license</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -306,7 +318,7 @@ USAGE
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;N/A&gt;</translation>
     </message>
     <message>
         <source>Licensing management</source>
@@ -333,7 +345,7 @@ USAGE
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
+        <translation>Örnek: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Scan all subnets of computer</source>
@@ -377,11 +389,11 @@ USAGE
     </message>
     <message>
         <source>Add new network range</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Ağ aralığı ekle</translation>
     </message>
     <message>
         <source>Remove selected network range</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Ağ aralığını sil</translation>
     </message>
     <message>
         <source>Options</source>
@@ -485,6 +497,52 @@ USAGE
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsConfigurationPage</name>
+    <message>
+        <source>WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Ad</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show tabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New tab</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsPlugin</name>
+    <message>
+        <source>Integrate web page tabs into Veyon Master</source>
         <translation type="unfinished"/>
     </message>
 </context>

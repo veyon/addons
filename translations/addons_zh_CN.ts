@@ -34,10 +34,6 @@
         <translation>例如： 192.168.1.0/24</translation>
     </message>
     <message>
-        <source>Networks &amp; hosts</source>
-        <translation>网络及主机</translation>
-    </message>
-    <message>
         <source>Ports</source>
         <translation>端口</translation>
     </message>
@@ -52,6 +48,18 @@
     <message>
         <source>Name</source>
         <translation>名称</translation>
+    </message>
+    <message>
+        <source>Networks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. docs.veyon.io</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -79,6 +87,10 @@
         <source>Backend settings</source>
         <translation>后台设置</translation>
     </message>
+    <message>
+        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
@@ -96,27 +108,27 @@
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>互联网访问</translation>
     </message>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>阻止互联网访问</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>阻止或恢复互联网访问</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>点击此按钮来阻止互联网访问。</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>恢复互联网访问</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>点击此按钮来恢复互联网访问。</translation>
     </message>
 </context>
 <context>
@@ -188,14 +200,6 @@
         <translation>已安装的许可证</translation>
     </message>
     <message>
-        <source>Add new network range</source>
-        <translation>添加新的网络范围</translation>
-    </message>
-    <message>
-        <source>Remove selected network range</source>
-        <translation>移除选中的网络范围</translation>
-    </message>
-    <message>
         <source>ID</source>
         <translation>ID</translation>
     </message>
@@ -262,6 +266,14 @@
     <message>
         <source>The license is already installed.</source>
         <translation>许可证已安装。</translation>
+    </message>
+    <message>
+        <source>Add license from file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -501,6 +513,52 @@ USAGE
     <message>
         <source>licensed for</source>
         <translation>许可给</translation>
+    </message>
+</context>
+<context>
+    <name>WebTabsConfigurationPage</name>
+    <message>
+        <source>WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名称</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>URL</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show tabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New tab</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsPlugin</name>
+    <message>
+        <source>Integrate web page tabs into Veyon Master</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>

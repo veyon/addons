@@ -34,10 +34,6 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Networks &amp; hosts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Ports</source>
         <translation type="unfinished"/>
     </message>
@@ -52,6 +48,18 @@
     <message>
         <source>Name</source>
         <translation>Nome</translation>
+    </message>
+    <message>
+        <source>Networks</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. docs.veyon.io</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -77,6 +85,10 @@
     </message>
     <message>
         <source>Backend settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -188,14 +200,6 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Add new network range</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove selected network range</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>ID</source>
         <translation type="unfinished"/>
     </message>
@@ -261,6 +265,14 @@
     </message>
     <message>
         <source>The license is already installed.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add license from file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected license</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -485,6 +497,52 @@ USAGE
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsConfigurationPage</name>
+    <message>
+        <source>WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nome</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>URL</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show tabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>New tab</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsPlugin</name>
+    <message>
+        <source>Integrate web page tabs into Veyon Master</source>
         <translation type="unfinished"/>
     </message>
 </context>
