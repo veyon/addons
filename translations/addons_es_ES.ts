@@ -51,15 +51,15 @@
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Redes</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Equipos</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>p.ej. docs.veyon.io</translation>
     </message>
 </context>
 <context>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation type="unfinished"/>
+        <translation>Desbloquear el acceso a Internet al iniciar el servicio (p.ej. después de cerrar sesión o reiniciar)</translation>
     </message>
 </context>
 <context>
@@ -269,11 +269,11 @@
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>Añadir licencia del archivo</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar la licencia seleccionada</translation>
     </message>
 </context>
 <context>
@@ -519,11 +519,11 @@ USO
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Pestañas web</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Pestañas</translation>
     </message>
     <message>
         <source>Name</source>
@@ -535,30 +535,30 @@ USO
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Ancho</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Añadir pestaña</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar la pestaña seleccionada</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar pestañas</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Nueva pestaña</translation>
     </message>
 </context>
 <context>
     <name>WebTabsPlugin</name>
     <message>
         <source>Integrate web page tabs into Veyon Master</source>
-        <translation type="unfinished"/>
+        <translation>Integrar las pestañas de la página web en Veyon Master</translation>
     </message>
 </context>
 </TS>

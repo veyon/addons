@@ -51,15 +51,15 @@
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Сети</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Хосты</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>например, docs.veyon.io</translation>
     </message>
 </context>
 <context>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation type="unfinished"/>
+        <translation>Разблокировать доступ к интернету при запуске службы (например, после разлогинирования или перезагрузки)</translation>
     </message>
 </context>
 <context>
@@ -269,11 +269,11 @@
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>Добавить лицензию из файла</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>Удалить выбранную лицензию</translation>
     </message>
 </context>
 <context>
@@ -519,11 +519,11 @@ USAGE
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Веб-вкладки</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Вкладки</translation>
     </message>
     <message>
         <source>Name</source>
@@ -535,30 +535,30 @@ USAGE
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Ширина</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Добавить вкладку</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Удалить выбранную вкладку</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Показать вкладки</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Новая вкладка</translation>
     </message>
 </context>
 <context>
     <name>WebTabsPlugin</name>
     <message>
         <source>Integrate web page tabs into Veyon Master</source>
-        <translation type="unfinished"/>
+        <translation>Интегрировать вкладки веб-страниц в Veyon Master</translation>
     </message>
 </context>
 </TS>

@@ -51,15 +51,15 @@
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Sieci</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Hosty</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>np. docs.veyon.io</translation>
     </message>
 </context>
 <context>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation type="unfinished"/>
+        <translation>Odblokuj dostęp do Internetu przy uruchomieniu usługi (np. po wylogowaniu lub ponownym uruchomieniu)</translation>
     </message>
 </context>
 <context>
@@ -155,11 +155,11 @@
     </message>
     <message>
         <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Czy napewno chcesz usunąć instancję „% 1”?</translation>
+        <translation>Czy napewno chcesz usunąć instancję „%1”?</translation>
     </message>
     <message>
         <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Konfiguracja instancji „% 1”</translation>
+        <translation>Konfiguracja instancji „%1”</translation>
     </message>
 </context>
 <context>
@@ -170,11 +170,11 @@
     </message>
     <message>
         <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>% 1 (wczytywanie komputerów i lokacji z LDAP / AD)</translation>
+        <translation>%1 (wczytywanie komputerów i lokacji z LDAP / AD)</translation>
     </message>
     <message>
         <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>% 1 (wczytywanie użytkowników i grupy z LDAP / AD)</translation>
+        <translation>%1 (wczytywanie użytkowników i grupy z LDAP / AD)</translation>
     </message>
 </context>
 <context>
@@ -269,11 +269,11 @@
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj licencję z pliku</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>Usuń zaznaczoną licencję</translation>
     </message>
 </context>
 <context>
@@ -519,11 +519,11 @@ UŻYCIE
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Zakładki internetowe</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Zakładki</translation>
     </message>
     <message>
         <source>Name</source>
@@ -535,30 +535,30 @@ UŻYCIE
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Szerokość</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj zakładkę</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Usuń zaznaczoną zakładkę</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż zakładki</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Nowa zakładka</translation>
     </message>
 </context>
 <context>
     <name>WebTabsPlugin</name>
     <message>
         <source>Integrate web page tabs into Veyon Master</source>
-        <translation type="unfinished"/>
+        <translation>Zintegruj zakładki stron internetowych z Veyon Master</translation>
     </message>
 </context>
 </TS>

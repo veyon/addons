@@ -51,15 +51,15 @@
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Réseaux</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Hôtes</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>ex: docs.veyon.io</translation>
     </message>
 </context>
 <context>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation type="unfinished"/>
+        <translation>Débloquer l&apos;accès à Internet au démarrage du service (par exemple après la fermeture d&apos;une session ou un redémarrage)</translation>
     </message>
 </context>
 <context>
@@ -269,11 +269,11 @@
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter une licence depuis un fichier</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>Retirer la licence sélectionnée</translation>
     </message>
 </context>
 <context>
@@ -519,11 +519,11 @@ USAGE
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Onglets Internet</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Onglets</translation>
     </message>
     <message>
         <source>Name</source>
@@ -535,30 +535,30 @@ USAGE
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Largeur</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter un onglet</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Retirer l&apos;onglet sélectionné</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Afficher les onglets</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Nouvel onglet</translation>
     </message>
 </context>
 <context>
     <name>WebTabsPlugin</name>
     <message>
         <source>Integrate web page tabs into Veyon Master</source>
-        <translation type="unfinished"/>
+        <translation>Intégrer les onglets de page Internet dans Veyon Master</translation>
     </message>
 </context>
 </TS>

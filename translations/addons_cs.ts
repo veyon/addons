@@ -51,15 +51,15 @@
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Sítě</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Hostitelé</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>např. docs.veyon.io</translation>
     </message>
 </context>
 <context>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation type="unfinished"/>
+        <translation>Odblokovat přístup k internetu při startu služby (např. po odlogování nebo rebootu)</translation>
     </message>
 </context>
 <context>
@@ -108,27 +108,27 @@
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Dostupnost internetu</translation>
     </message>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Přístup k internetu blokován</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Blokovat nebo odblokovat přístup k internetu.</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klikni na tlačítko k zablokování přístupu k internetu.</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Odblokovat přístup k internetu</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klikni na tlačítko k odblokování přístupu k internetu.</translation>
     </message>
 </context>
 <context>
@@ -269,11 +269,11 @@
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>Vložit licenci ze souboru</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>Odebrat vybranou licenci</translation>
     </message>
 </context>
 <context>
@@ -519,11 +519,11 @@ POUŽITÍ
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Webové záložky</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Záložky</translation>
     </message>
     <message>
         <source>Name</source>
@@ -535,30 +535,30 @@ POUŽITÍ
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>s</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Přidat záložku</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Odebrat vybranou záložku</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Ukázat záložky</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Nová záložka</translation>
     </message>
 </context>
 <context>
     <name>WebTabsPlugin</name>
     <message>
         <source>Integrate web page tabs into Veyon Master</source>
-        <translation type="unfinished"/>
+        <translation>Integrujte záložky webových stránek do Veyon Master</translation>
     </message>
 </context>
 </TS>
