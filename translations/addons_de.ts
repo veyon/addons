@@ -130,6 +130,10 @@
         <source>Click this button to unblock Internet access.</source>
         <translation>Klicken Sie auf diesen Button, um den Zugriff auf das Internet freizugeben.</translation>
     </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
+        <translation>Der Internetzugriff ist jetzt gesperrt. Da Sie eine Demo-Version dieses Addons verwenden, wird der Zugriff in 60 Sekunden automatisch wieder freigegeben.</translation>
+    </message>
 </context>
 <context>
     <name>LdapProConfigurationPage</name>
@@ -274,6 +278,21 @@
     <message>
         <source>Remove selected license</source>
         <translation>Gewählte Lizenz entfernen</translation>
+    </message>
+</context>
+<context>
+    <name>LicensingHelper</name>
+    <message>
+        <source>Thank you for testing the %1 addon.</source>
+        <translation>Vielen Dank für das Testen des %1 Addons.</translation>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
+        <translation>Bitte besuchen Sie %1 für weitere Informationen darüber, wie Sie eine Lizenz für dieses Addon erhalten können.</translation>
+    </message>
+    <message>
+        <source>%1 demo</source>
+        <translation>%1 Demo</translation>
     </message>
 </context>
 <context>

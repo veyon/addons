@@ -130,6 +130,10 @@
         <source>Click this button to unblock Internet access.</source>
         <translation>按一下此按鈕可取消封鎖 internet 存取。</translation>
     </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>LdapProConfigurationPage</name>
@@ -274,6 +278,21 @@
     <message>
         <source>Remove selected license</source>
         <translation>刪除選取的授權</translation>
+    </message>
+</context>
+<context>
+    <name>LicensingHelper</name>
+    <message>
+        <source>Thank you for testing the %1 addon.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 demo</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
