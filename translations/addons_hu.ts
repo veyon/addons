@@ -385,10 +385,6 @@ HASZNÁLAT
         <translation>Egyéni alhálózat átvizsgálása</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>A helyi számítógép munkameneteinek átvizsgálása</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>Tesztelés</translation>
     </message>
@@ -451,6 +447,14 @@ HASZNÁLAT
     <message>
         <source>New location</source>
         <translation>Új helyszín</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

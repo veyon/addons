@@ -385,10 +385,6 @@ USAGE
         <translation>掃描自訂子網路</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>掃描本機電腦上的工作階段</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>測試</translation>
     </message>
@@ -451,6 +447,14 @@ USAGE
     <message>
         <source>New location</source>
         <translation>新位置</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

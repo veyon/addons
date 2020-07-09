@@ -385,10 +385,6 @@ UPORABA
         <translation>Preglej podomrežje po meri</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>Preglej seje na lokalnem računalniku</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>Preizkus</translation>
     </message>
@@ -451,6 +447,14 @@ UPORABA
     <message>
         <source>New location</source>
         <translation>Nova lokacija</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

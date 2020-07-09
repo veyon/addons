@@ -385,10 +385,6 @@ USAGE
         <translation>カスタムサブネットをスキャンする</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>ローカルコンピューターでのセッションのスキャン</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>テスト</translation>
     </message>
@@ -451,6 +447,14 @@ USAGE
     <message>
         <source>New location</source>
         <translation>新しい場所</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

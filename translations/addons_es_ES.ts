@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>El acceso a Internet ahora está bloqueado. Como está utilizando una versión de demostración de este complemento, se desbloqueará automáticamente en 60 segundos.</translation>
     </message>
 </context>
 <context>
@@ -284,15 +284,15 @@
     <name>LicensingHelper</name>
     <message>
         <source>Thank you for testing the %1 addon.</source>
-        <translation type="unfinished"/>
+        <translation>Gracias por probar el complemento %1.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
-        <translation type="unfinished"/>
+        <translation>Visite %1 para obtener más información sobre cómo obtener una licencia para este complemento.</translation>
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation>demo %1</translation>
     </message>
 </context>
 <context>
@@ -385,10 +385,6 @@ Eliminar %1 &lt;LICENSE ID&gt;
         <translation>Analizar subred personalizada</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>Analizar sesiones en un equipo local</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>Comprobar</translation>
     </message>
@@ -451,6 +447,14 @@ Eliminar %1 &lt;LICENSE ID&gt;
     <message>
         <source>New location</source>
         <translation>Nueva ubicación</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation>Sesiones</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation>Escanear sesiones (p.ej., escritorio remoto) en todas las computadoras</translation>
     </message>
 </context>
 <context>

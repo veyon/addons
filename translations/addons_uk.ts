@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично розблоковано за 60 секунд.</translation>
     </message>
 </context>
 <context>
@@ -284,15 +284,15 @@
     <name>LicensingHelper</name>
     <message>
         <source>Thank you for testing the %1 addon.</source>
-        <translation type="unfinished"/>
+        <translation>Дякуємо за тестування додатка %1.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
-        <translation type="unfinished"/>
+        <translation>Будь ласка, відвідайте %1, щоб дізнатися більше про те, як отримати ліцензію на цій додаток.</translation>
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation>Демонстрація %1</translation>
     </message>
 </context>
 <context>
@@ -385,10 +385,6 @@ USAGE
         <translation>Сканувати нетипову підмережу</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>Сканувати сеанси на локальному комп&apos;ютері</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>Перевірити</translation>
     </message>
@@ -451,6 +447,14 @@ USAGE
     <message>
         <source>New location</source>
         <translation>Нове місце</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation>Сеанси</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation>Шукати сеанси (наприклад, віддаленої стільниці) на усіх комп&apos;ютерах</translation>
     </message>
 </context>
 <context>

@@ -385,10 +385,6 @@ POUŽITÍ
         <translation>Skenovat uživatelsky určenou podsíť</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>Skenovací relace na tomto počítači</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>Vyzkoušet funkčnost</translation>
     </message>
@@ -451,6 +447,14 @@ POUŽITÍ
     <message>
         <source>New location</source>
         <translation>Nové umístění</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

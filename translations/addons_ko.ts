@@ -385,10 +385,6 @@ USAGE
         <translation>사용자 서브넷 검색</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>로컬 컴퓨터 스캔 세션</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>테스트</translation>
     </message>
@@ -451,6 +447,14 @@ USAGE
     <message>
         <source>New location</source>
         <translation>새로운 위치</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

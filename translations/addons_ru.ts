@@ -385,10 +385,6 @@ USAGE
         <translation>Сканировать нетипичную подсеть</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>Сканировать сеансы на локальном компьютере</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>Тестировать</translation>
     </message>
@@ -451,6 +447,14 @@ USAGE
     <message>
         <source>New location</source>
         <translation>Новое место</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

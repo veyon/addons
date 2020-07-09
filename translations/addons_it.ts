@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, verrà sbloccato automaticamente in 60 secondi.</translation>
     </message>
 </context>
 <context>
@@ -284,15 +284,15 @@
     <name>LicensingHelper</name>
     <message>
         <source>Thank you for testing the %1 addon.</source>
-        <translation type="unfinished"/>
+        <translation>Grazie per aver testato il componente aggiuntivo %1.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
-        <translation type="unfinished"/>
+        <translation>Visitare %1 per ulteriori informazioni su come ottenere una licenza per questo componente aggiuntivo.</translation>
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation>%1 demo</translation>
     </message>
 </context>
 <context>
@@ -385,10 +385,6 @@ USO
         <translation>Scansione subnet personalizzata</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>Scansione delle sessioni sul computer locale</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>Prova</translation>
     </message>
@@ -451,6 +447,14 @@ USO
     <message>
         <source>New location</source>
         <translation>Nuova posizione</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

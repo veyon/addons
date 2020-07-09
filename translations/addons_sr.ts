@@ -385,10 +385,6 @@ UPOTREBA
         <translation>Skeniranje prilagođjene podmreže</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>Skeniranje sesija na lokalnom računaru</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>Test</translation>
     </message>
@@ -451,6 +447,14 @@ UPOTREBA
     <message>
         <source>New location</source>
         <translation>Nova lokacija</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

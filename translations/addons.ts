@@ -377,10 +377,6 @@ USAGE
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation type="unfinished"></translation>
     </message>
@@ -442,6 +438,14 @@ USAGE
     </message>
     <message>
         <source>New location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

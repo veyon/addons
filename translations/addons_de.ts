@@ -385,10 +385,6 @@ VERWENDUNG
         <translation>Benutzerdefiniertes Subnetz scannen</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>Sitzungen auf lokalem Computer scannen</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>Testen</translation>
     </message>
@@ -451,6 +447,14 @@ VERWENDUNG
     <message>
         <source>New location</source>
         <translation>Neuer Standort</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation>Sitzungen</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation>Sitzungen (z.B. Remote Desktop) auf allen Computern scannen</translation>
     </message>
 </context>
 <context>

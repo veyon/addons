@@ -375,10 +375,6 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Test</source>
         <translation>ทดสอบ</translation>
     </message>
@@ -441,6 +437,14 @@ USAGE
     <message>
         <source>New location</source>
         <translation>สถานที่ใหม่</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

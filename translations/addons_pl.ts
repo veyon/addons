@@ -385,10 +385,6 @@ UŻYCIE
         <translation>Skanuj zdefiniowaną podsieć</translation>
     </message>
     <message>
-        <source>Scan sessions on local computer</source>
-        <translation>Skanuj sesje na lokalnym komputerze</translation>
-    </message>
-    <message>
         <source>Test</source>
         <translation>Test</translation>
     </message>
@@ -451,6 +447,14 @@ UŻYCIE
     <message>
         <source>New location</source>
         <translation>Nowa lokalizacja</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
