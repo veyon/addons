@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Dostęp do Internetu jest teraz zablokowany. Ponieważ używasz wersji demonstracyjnej tego dodatku, zostanie on automatycznie odblokowany w ciągu 60 sekund.</translation>
     </message>
 </context>
 <context>
@@ -284,15 +284,15 @@
     <name>LicensingHelper</name>
     <message>
         <source>Thank you for testing the %1 addon.</source>
-        <translation type="unfinished"/>
+        <translation>Dziękujemy za wypróbowanie dodatku %1.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
-        <translation type="unfinished"/>
+        <translation>Proszę odwiedzić stronę %1 po więcej informacji dotyczących licencji dodatku.</translation>
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation>%1 demo</translation>
     </message>
 </context>
 <context>
@@ -450,11 +450,11 @@ UŻYCIE
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Sesje</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
+        <translation>Skanuj sesje na wszystkich komputerach (np. zdalny pulpit) </translation>
     </message>
 </context>
 <context>

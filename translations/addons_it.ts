@@ -450,11 +450,11 @@ USO
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Sessioni</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
+        <translation>Scansione di sessioni (ad es. Desktop remoto) su tutti i computer</translation>
     </message>
 </context>
 <context>

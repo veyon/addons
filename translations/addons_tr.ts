@@ -3,7 +3,7 @@
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
-        <translation>TCP bağlantı noktaları için tüm giden trafiği engelleme</translation>
+        <translation>TCP bağlantı noktaları için tüm giden trafiği engelle</translation>
     </message>
     <message>
         <source>e.g. 8080</source>
@@ -51,22 +51,22 @@
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Ağlar</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Sunucular</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>örnek: doc.veyon.io</translation>
     </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
     <message>
         <source>Block internet access via system firewall</source>
-        <translation type="unfinished"/>
+        <translation>Sistem güvenlik duvarı ile internet erişimini engelle</translation>
     </message>
 </context>
 <context>
@@ -170,7 +170,7 @@
     <name>LdapProPlugin</name>
     <message>
         <source>Professional LDAP/AD integration for Veyon</source>
-        <translation type="unfinished"/>
+        <translation>Veyon için profesyonel LDAP/AD entegrasyonu</translation>
     </message>
     <message>
         <source>%1 (load computers and locations from LDAP/AD)</source>
@@ -245,11 +245,11 @@
     </message>
     <message>
         <source>Invalid license file</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz lisans dosyası</translation>
     </message>
     <message>
         <source>Could not open the license file for reading!</source>
-        <translation type="unfinished"/>
+        <translation>Lisans dosyasını okumanız için açamadık!</translation>
     </message>
     <message>
         <source>The selected license file does not contain valid data.</source>
@@ -352,15 +352,15 @@ USAGE
     <name>NetworkDiscoveryConfigurationPage</name>
     <message>
         <source>Network discovery</source>
-        <translation type="unfinished"/>
+        <translation>Ağ keşfi</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"/>
+        <translation>Kip</translation>
     </message>
     <message>
         <source>Scan network ranges</source>
-        <translation type="unfinished"/>
+        <translation>Ağ aralıklarını tara</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -368,11 +368,11 @@ USAGE
     </message>
     <message>
         <source>Scan all subnets of computer</source>
-        <translation type="unfinished"/>
+        <translation>Bilgisayarın tüm alt ağlarını tara</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
-        <translation type="unfinished"/>
+        <translation>Özel alt ağ taraması</translation>
     </message>
     <message>
         <source>Test</source>
@@ -380,27 +380,27 @@ USAGE
     </message>
     <message>
         <source>Network ranges</source>
-        <translation type="unfinished"/>
+        <translation>Ağ aralıkları</translation>
     </message>
     <message>
         <source>Add new group</source>
-        <translation type="unfinished"/>
+        <translation>Yeni grup ekle</translation>
     </message>
     <message>
         <source>Remove selected group</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen grubu kaldır</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="unfinished"/>
+        <translation>Gruplar</translation>
     </message>
     <message>
         <source>First address</source>
-        <translation type="unfinished"/>
+        <translation>İlk adres</translation>
     </message>
     <message>
         <source>Last address</source>
-        <translation type="unfinished"/>
+        <translation>Son adres</translation>
     </message>
     <message>
         <source>Add new network range</source>
@@ -412,15 +412,15 @@ USAGE
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <source>Parallel scans</source>
-        <translation type="unfinished"/>
+        <translation>Paralel tarama</translation>
     </message>
     <message>
         <source>Scan timeout</source>
-        <translation type="unfinished"/>
+        <translation>Tarama süre limiti</translation>
     </message>
     <message>
         <source> ms</source>
@@ -428,15 +428,15 @@ USAGE
     </message>
     <message>
         <source>Session scan limit</source>
-        <translation type="unfinished"/>
+        <translation>Oturum tarama limiti</translation>
     </message>
     <message>
         <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation type="unfinished"/>
+        <translation>Keşfedilen IP adreslerinden sunucu adlarına doğru ters arama</translation>
     </message>
     <message>
         <source>New location</source>
-        <translation type="unfinished"/>
+        <translation>Yeni konum</translation>
     </message>
     <message>
         <source>Sessions</source>
@@ -466,7 +466,7 @@ USAGE
     </message>
     <message>
         <source>Scan a subnet</source>
-        <translation type="unfinished"/>
+        <translation>Bir alt ağı tara</translation>
     </message>
     <message>
         <source>
@@ -498,15 +498,15 @@ USAGE
     </message>
     <message>
         <source>Add custom route to block internet</source>
-        <translation type="unfinished"/>
+        <translation>İnterneti engellemek için özel bir yönlendirme ekle</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"/>
+        <translation>Hedef</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="unfinished"/>
+        <translation>Ağ geçidi</translation>
     </message>
 </context>
 <context>
@@ -531,7 +531,7 @@ USAGE
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Sekmeler</translation>
     </message>
     <message>
         <source>Name</source>
@@ -539,27 +539,27 @@ USAGE
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished"/>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Genişlik</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Sekme ekle</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen sekmeyi kaldır</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Sekmeleri göster</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Yeni sekme</translation>
     </message>
 </context>
 <context>

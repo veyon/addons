@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>現在封鎖 internet 存取。 由於您使用的是這個附加元件的展示版本，因此將在 60 秒內自動解除封鎖。</translation>
     </message>
 </context>
 <context>
@@ -284,15 +284,15 @@
     <name>LicensingHelper</name>
     <message>
         <source>Thank you for testing the %1 addon.</source>
-        <translation type="unfinished"/>
+        <translation>感謝您測試 %1 附加元件。</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
-        <translation type="unfinished"/>
+        <translation>有關如何取得這個附加元件授權的詳細資訊，請訪問 %1。</translation>
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation>%1 展示</translation>
     </message>
 </context>
 <context>
@@ -450,11 +450,11 @@ USAGE
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>工作階段</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
+        <translation>掃描 (如遠端桌面) 工作階段在所有電腦</translation>
     </message>
 </context>
 <context>
