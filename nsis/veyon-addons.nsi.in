@@ -39,10 +39,8 @@ RequestExecutionLevel admin
 !include "FileFunc.nsh"
 
 !define MUI_ABORTWARNING
-!define MUI_UNABORTWARNING
 
 !define MUI_WELCOMEFINISHPAGE_BITMAP "nsis/welcome-page.bmp"
-!define MUI_UNWELCOMEFINISHPAGE_BITMAP "nsis/welcome-page.bmp"
 
 !define MUI_ICON "nsis/installer.ico"
 !define MUI_HEADERIMAGE
@@ -55,17 +53,9 @@ RequestExecutionLevel admin
 
 !insertmacro MUI_PAGE_DIRECTORY
 
-# !insertmacro MUI_PAGE_COMPONENTS
-
 !insertmacro MUI_PAGE_INSTFILES
 
 !insertmacro MUI_PAGE_FINISH
-
-!insertmacro MUI_UNPAGE_CONFIRM
-
-!insertmacro MUI_UNPAGE_INSTFILES
-
-!insertmacro MUI_UNPAGE_FINISH
 
 !insertmacro MUI_LANGUAGE "English" ;first language is the default language
 !insertmacro MUI_LANGUAGE "Afrikaans"
