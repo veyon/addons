@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="th" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="et" version="2.1">
 <context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
-        <translation type="unfinished"/>
+        <translation>Blokeerige TCP-portide kogu väljaminev liiklus</translation>
     </message>
     <message>
         <source>e.g. 8080</source>
-        <translation>เช่น 8080</translation>
+        <translation>näiteks 8080</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>กำหนดเอง</translation>
+        <translation>Kasutaja valik</translation>
     </message>
     <message>
         <source>21 (FTP)</source>
@@ -23,43 +23,43 @@
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>Blokeerige kogu väljaminev liiklus välistele alamvõrkudele</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"/>
+        <translation>Erisured</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation>เช่น 192.168.1.0/24</translation>
+        <translation>Näiteks 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
-        <translation type="unfinished"/>
+        <translation>Pordid</translation>
     </message>
     <message>
         <source>e.g. 80 443</source>
-        <translation>เช่น 80 443</translation>
+        <translation>näiteks 80 443</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
+        <translation>Luba eelkonfigureeritud tulemüüri reegel</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>ชื่อ</translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Võrgud</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Hostid</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>näiteks docs.veyon.io</translation>
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
@@ -78,73 +78,73 @@
     <name>FirewallPlugin</name>
     <message>
         <source>Block internet access via system firewall</source>
-        <translation type="unfinished"/>
+        <translation>Interneti blokeerimine süsteemi tulemüüri kaudu</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlConfigurationPage</name>
     <message>
         <source>Internet access control</source>
-        <translation type="unfinished"/>
+        <translation>Interneti juurdepääsu haldamine</translation>
     </message>
     <message>
         <source>General settings</source>
-        <translation>การตั้งค่าทั่วไป</translation>
+        <translation>Üldised seaded</translation>
     </message>
     <message>
         <source>Backend:</source>
-        <translation type="unfinished"/>
+        <translation>Taustaprogramm:</translation>
     </message>
     <message>
         <source>Backend settings</source>
-        <translation type="unfinished"/>
+        <translation>Taustprogrammi seaded</translation>
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation type="unfinished"/>
+        <translation>Interneti ühenduse blokeerimine teenuse käivitamisel (nt pärast väljalogimist või taaskäivitamist)</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Show help about command</source>
-        <translation type="unfinished"/>
+        <translation>Näita abi käsu kohta</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
-        <translation type="unfinished"/>
+        <translation>Internetti pääsu haldamine</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
-        <translation type="unfinished"/>
+        <translation>Internetti pääsu haldamise käsud</translation>
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Interneti pääs</translation>
     </message>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Keela internetti pääs</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Keela või luba pääs internetti</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klõpsa siia interneti keelamiseks</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Luba pääs internetti</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klõpsa siia interneti lubamiseks</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Interneti-ühendus on nüüd blokeeritud. Kuni kasutate selle lisandmooduli demoversiooni, deblokeeritakse see automaatselt 60 sekundi pärast.</translation>
     </message>
 </context>
 <context>
@@ -155,65 +155,65 @@
     </message>
     <message>
         <source>Instances</source>
-        <translation type="unfinished"/>
+        <translation>Näited</translation>
     </message>
     <message>
         <source>Enter name</source>
-        <translation>ใส่ชื่อ</translation>
+        <translation>Sisesta nimi</translation>
     </message>
     <message>
         <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation type="unfinished"/>
+        <translation>Sisestage eksemplari nimi (seda ei saa hiljem muuta!):</translation>
     </message>
     <message>
         <source>Remove instance</source>
-        <translation type="unfinished"/>
+        <translation>Eemaldage eksemplar</translation>
     </message>
     <message>
         <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Kas soovite tõesti eemaldada näite &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Configuration for instance &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Konfiguratsioon näiteks &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
     <name>LdapProPlugin</name>
     <message>
         <source>Professional LDAP/AD integration for Veyon</source>
-        <translation type="unfinished"/>
+        <translation>Professionaalne LDAP / AD integreerimine Veyonile</translation>
     </message>
     <message>
         <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (laadige arvutid ja asukohad LDAP / AD-st)</translation>
     </message>
     <message>
         <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (laadige kasutajad ja grupid LDAP / AD-st)</translation>
     </message>
 </context>
 <context>
     <name>LicensingConfigurationPage</name>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"/>
+        <translation>Litsenseerimine</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Installation ID</source>
-        <translation type="unfinished"/>
+        <translation>Installitud ID</translation>
     </message>
     <message>
         <source>Addons available for licensing</source>
-        <translation type="unfinished"/>
+        <translation>Litsentsimiseks saadaval olevad lisad</translation>
     </message>
     <message>
         <source>Installed licenses</source>
-        <translation>ใบอนุญาตที่ติดตั้งอยู่</translation>
+        <translation>Installitud litsentsid</translation>
     </message>
     <message>
         <source>ID</source>
@@ -221,31 +221,31 @@
     </message>
     <message>
         <source>Addon</source>
-        <translation type="unfinished"/>
+        <translation>Lisa</translation>
     </message>
     <message>
         <source>Valid until</source>
-        <translation>ใช้ได้จนถึง</translation>
+        <translation>Kehtiv kuni</translation>
     </message>
     <message>
         <source>Licensee</source>
-        <translation>ผู้ขอรับใบอนุญาต</translation>
+        <translation>Licensee</translation>
     </message>
     <message>
         <source>Browse license file</source>
-        <translation>เปิดหาไฟล์ใบอนุญาต</translation>
+        <translation>Kuva litsentsi fail</translation>
     </message>
     <message>
         <source>Veyon license files (*.vlf)</source>
-        <translation>ไฟล์ใบอนุญาต Veyon (*.vlf)</translation>
+        <translation>Veyon litsentsi failid (*.vlf)</translation>
     </message>
     <message>
         <source>Remove license</source>
-        <translation>ลบใบอนุญาต</translation>
+        <translation>Eemalda litsents</translation>
     </message>
     <message>
         <source>Do you really want to remove the selected license?</source>
-        <translation type="unfinished"/>
+        <translation>Kas oled kindel, et eemaldada valitud litsents?</translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
@@ -253,77 +253,77 @@
     </message>
     <message>
         <source>Feature</source>
-        <translation>ฟิเจอร์</translation>
+        <translation>Funktsioon</translation>
     </message>
     <message>
         <source>Invalid license file</source>
-        <translation type="unfinished"/>
+        <translation>Kehtetu litsents fail</translation>
     </message>
     <message>
         <source>Could not open the license file for reading!</source>
-        <translation type="unfinished"/>
+        <translation>Ei saa avada litsentsi faili lugemiseks!</translation>
     </message>
     <message>
         <source>The selected license file does not contain valid data.</source>
-        <translation type="unfinished"/>
+        <translation>Valitud litsentsi fail ei sisalda kehtivaid andmeid.</translation>
     </message>
     <message>
         <source>The selected license file could not be verified.</source>
-        <translation type="unfinished"/>
+        <translation>Valitud litsentsi fail ei ole kontrollitud.</translation>
     </message>
     <message>
         <source>The selected license file is not valid for this installation.</source>
-        <translation type="unfinished"/>
+        <translation>Valitud litsentsi fail on kehtetu sellele häälestusele.</translation>
     </message>
     <message>
         <source>The selected license file is expired.</source>
-        <translation type="unfinished"/>
+        <translation>Valitud litsents on aegunud.</translation>
     </message>
     <message>
         <source>The license is already installed.</source>
-        <translation type="unfinished"/>
+        <translation>Litsents on juba installitud.</translation>
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>Lisa litsents failist</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>Eemalda valitud litsents</translation>
     </message>
 </context>
 <context>
     <name>LicensingHelper</name>
     <message>
         <source>Thank you for testing the %1 addon.</source>
-        <translation type="unfinished"/>
+        <translation>Täname lisa %1 testimast</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
-        <translation type="unfinished"/>
+        <translation> Külastage %1 lisainfo saamiseks, et saada litsents sellele lisale.</translation>
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation>%1 demo</translation>
     </message>
 </context>
 <context>
     <name>LicensingPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation type="unfinished"/>
+        <translation>Näita valitud käsu abi</translation>
     </message>
     <message>
         <source>Show all installed licenses</source>
-        <translation type="unfinished"/>
+        <translation>Näita kõiki installitud litsentse</translation>
     </message>
     <message>
         <source>Add license file</source>
-        <translation type="unfinished"/>
+        <translation>Lisa litsentsi fail</translation>
     </message>
     <message>
         <source>Remove installed license</source>
-        <translation type="unfinished"/>
+        <translation>Eemalda installitud litsents</translation>
     </message>
     <message>
         <source>
@@ -332,7 +332,12 @@ USAGE
 %1 add &lt;LICENSE FILE&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+KASUTA
+
+% 1 lisa
+
+</translation>
     </message>
     <message>
         <source>
@@ -341,11 +346,16 @@ USAGE
 %1 remove &lt;LICENSE ID&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+KASUTA
+
+% 1 eemalda
+
+</translation>
     </message>
     <message>
         <source>No certificate found with given ID</source>
-        <translation type="unfinished"/>
+        <translation>Ei leia sertifikaati antud ID-le</translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
@@ -353,86 +363,86 @@ USAGE
     </message>
     <message>
         <source>Licensing management</source>
-        <translation type="unfinished"/>
+        <translation>Litsentside haldus</translation>
     </message>
     <message>
         <source>Commands for managing license keys</source>
-        <translation type="unfinished"/>
+        <translation>Käsud litsentsivõtmete haldamiseks</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryConfigurationPage</name>
     <message>
         <source>Network discovery</source>
-        <translation>การค้นพบเครือข่าย</translation>
+        <translation>Võrgu avastamine</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>โหมด</translation>
+        <translation>Režiim</translation>
     </message>
     <message>
         <source>Scan network ranges</source>
-        <translation>สแกนระยะเครือข่าย</translation>
+        <translation>Skannige võrgu vahemikke</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation>เช่น 192.168.1.0/24</translation>
+        <translation>Näiteks 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Scan all subnets of computer</source>
-        <translation type="unfinished"/>
+        <translation>Skaneeri kõiki arvuti alamvõrke</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
-        <translation type="unfinished"/>
+        <translation>Skaneeri kasutaja alamvõrku</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>ทดสอบ</translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Network ranges</source>
-        <translation>ระยะเครือข่าย</translation>
+        <translation>Võrgu vahemikud</translation>
     </message>
     <message>
         <source>Add new group</source>
-        <translation>เพิ่มกลุ่มใหม่</translation>
+        <translation>Lisa uus grupp</translation>
     </message>
     <message>
         <source>Remove selected group</source>
-        <translation>ลบกลุ่มที่เลือก</translation>
+        <translation>Eemalda valitud grupp</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation>กลุ่ม</translation>
+        <translation>Grupid</translation>
     </message>
     <message>
         <source>First address</source>
-        <translation>ที่อยู่แรก</translation>
+        <translation>Esimene aadress</translation>
     </message>
     <message>
         <source>Last address</source>
-        <translation>ที่อยู่สุดท้าย</translation>
+        <translation>Viimane aadress</translation>
     </message>
     <message>
         <source>Add new network range</source>
-        <translation type="unfinished"/>
+        <translation>Lisa uus võrguvahemik</translation>
     </message>
     <message>
         <source>Remove selected network range</source>
-        <translation type="unfinished"/>
+        <translation>Eemalda valitud võrguvahemik</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>ตัวเลือก</translation>
+        <translation>Valikud</translation>
     </message>
     <message>
         <source>Parallel scans</source>
-        <translation>สแกนคู่ขนาน</translation>
+        <translation>Paralleelsed skaneerimised</translation>
     </message>
     <message>
         <source>Scan timeout</source>
-        <translation>กำหนดการหมดเวลาการสแกน</translation>
+        <translation>Skannimise ajalõpp</translation>
     </message>
     <message>
         <source> ms</source>
@@ -440,45 +450,45 @@ USAGE
     </message>
     <message>
         <source>Session scan limit</source>
-        <translation type="unfinished"/>
+        <translation>Seansi skannimise limiit</translation>
     </message>
     <message>
         <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation type="unfinished"/>
+        <translation>Pöördotsing avastas hostinimedele IP-aadressid</translation>
     </message>
     <message>
         <source>New location</source>
-        <translation>สถานที่ใหม่</translation>
+        <translation>Uus asukoht</translation>
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Sessioonid</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
+        <translation>Skannige (nt kaugtöölaua) seansse kõigis arvutites</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
         <source>Scanning...</source>
-        <translation>กำลังสแกน...</translation>
+        <translation>Skaneering...</translation>
     </message>
     <message>
         <source>Discovered computers</source>
-        <translation>คอมพิวเตอร์ที่พบ</translation>
+        <translation>Avastatud arvutid</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation type="unfinished"/>
+        <translation>Näita valitud käsu abi</translation>
     </message>
     <message>
         <source>Scan a subnet</source>
-        <translation type="unfinished"/>
+        <translation>Sakaneeri alamvõrku</translation>
     </message>
     <message>
         <source>
@@ -487,98 +497,103 @@ USAGE
 %1 scan [&lt;SUBNET&gt;]
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+KASUTA
+
+%1 scan [&lt;SUBNET&gt;]
+
+</translation>
     </message>
     <message>
         <source>Network object directory which automatically discovers computers in the network</source>
-        <translation type="unfinished"/>
+        <translation>Võrguobjektide kataloog, mis tuvastab võrgus olevad arvutid automaatselt</translation>
     </message>
     <message>
         <source>Network discovery (scan network for Veyon clients)</source>
-        <translation type="unfinished"/>
+        <translation>Võrgu avastamine (võrgu skannimine Veyoni klientide jaoks)</translation>
     </message>
     <message>
         <source>Commands for managing the network discovery directory</source>
-        <translation type="unfinished"/>
+        <translation>Käsklused võrgu avastamise kataloogi haldamiseks</translation>
     </message>
 </context>
 <context>
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Interneti ühenduse blokeerimiseks eemaldage vaikemarsruudid</translation>
     </message>
     <message>
         <source>Add custom route to block internet</source>
-        <translation>ตั้งเส้นทางกำหนดเองเพื่อบล็อกอินเทอร์เน็ต</translation>
+        <translation>Interneti blokeerimiseks lisage kohandatud marsruut</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation>ปลายทาง</translation>
+        <translation>Sihtkoht</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation>เกตเวย์</translation>
+        <translation>Pääsutee</translation>
     </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
-        <translation type="unfinished"/>
+        <translation>Internetiühenduse blokeerimine marsruutimistabeli muutmisega</translation>
     </message>
 </context>
 <context>
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
-        <translation>ได้รับอนุญาต สำหรับ</translation>
+        <translation>litsenseeritud</translation>
     </message>
 </context>
 <context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Veebilehed</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Vahekaardid</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>ชื่อ</translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation>URL</translation>
+        <translation>URL aadress</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Laius</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Lisa vahekaart</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Eemalda valitud vaheleht</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Kuva vahelehed</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Uus vahekaart</translation>
     </message>
 </context>
 <context>
     <name>WebTabsPlugin</name>
     <message>
         <source>Integrate web page tabs into Veyon Master</source>
-        <translation type="unfinished"/>
+        <translation>Integreerige veebilehtede vahelehed Veyon Master&apos;is</translation>
     </message>
 </context>
 </TS>

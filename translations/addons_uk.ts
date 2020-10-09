@@ -61,6 +61,18 @@
         <source>e.g. docs.veyon.io</source>
         <translation>наприклад docs.veyon.io</translation>
     </message>
+    <message>
+        <source>Block traffic to (e.g. proxy or DNS) servers</source>
+        <translation>Блокувати обмін даними з серверами (наприклад, проксі або DNS)</translation>
+    </message>
+    <message>
+        <source>Server addresses</source>
+        <translation>Адреси серверів</translation>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.253</source>
+        <translation>наприклад 192.168.1.253</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
