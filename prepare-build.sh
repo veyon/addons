@@ -1,3 +1,3 @@
 #!/bin/sh
 
-ln -s $(pwd) veyon/plugins/addons
+ln -s $(pwd) veyon/addons

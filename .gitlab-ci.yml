@@ -2,6 +2,7 @@ image: $CI_REGISTRY/veyon/ci-mingw-w64:4.5
 
 stages:
   - build
+  - collect
 
 build-win32:
   stage: build
@@ -21,5 +22,37 @@ build-win64:
   artifacts:
     paths: [ "veyon-addons-win64*" ]
 
+build-linux:
+  stage: build
+  image: veyon/ci.linux.$DISTRO:latest
+  script:
+    - ./prepare-build.sh
+    - cd veyon && .ci/linux.$DISTRO/script.sh $CI_PROJECT_DIR/veyon $CI_PROJECT_DIR/build addons && cd ..
+    - mv veyon/veyon-addons* .
+  parallel:
+    matrix:
+      - DISTRO:
+        - centos.7.8
+        - centos.8.2
+        - debian.buster
+        - debian.stretch
+        - fedora.31
+        - opensuse.15.1
+        - opensuse.15.2
+        - ubuntu.bionic
+        - ubuntu.focal
+        - ubuntu.xenial
+  artifacts:
+    paths: [ "veyon-addons*" ]
+
+collect-artifacts:
+  stage: collect
+  dependencies: [ build-linux ]
+  script:
+    - ls -la *.deb *.rpm
+  artifacts:
+    paths: [ "veyon-addons*" ]
+
 variables:
+  CMAKE_FLAGS: "-DWITH_CORE_ONLY=ON -DWITH_ADDONS=ON -DCPACK_PACKAGE_NAME=veyon-addons"
   GIT_SUBMODULE_STRATEGY: recursive
