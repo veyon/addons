@@ -63,15 +63,15 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Blokeeri liiklus (näit puhverserver või DNS) serveritesse</translation>
     </message>
     <message>
         <source>Server addresses</source>
-        <translation type="unfinished"/>
+        <translation>Serveri aadressid</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation type="unfinished"/>
+        <translation>näit. 192.168.1.253</translation>
     </message>
 </context>
 <context>

@@ -63,15 +63,15 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Blocca il traffico ai server (ad esempio proxy o DNS)</translation>
     </message>
     <message>
         <source>Server addresses</source>
-        <translation type="unfinished"/>
+        <translation>Indirizzi del server</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation type="unfinished"/>
+        <translation>es. 192.168.1.253</translation>
     </message>
 </context>
 <context>

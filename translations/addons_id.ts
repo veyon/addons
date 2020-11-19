@@ -3,31 +3,31 @@
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
-        <translation type="unfinished"/>
+        <translation>Blokir semua lalu lintas keliar untuk port TCP</translation>
     </message>
     <message>
         <source>e.g. 8080</source>
-        <translation type="unfinished"/>
+        <translation>contoh: 8080</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Kustom</translation>
     </message>
     <message>
         <source>21 (FTP)</source>
-        <translation type="unfinished"/>
+        <translation>21 (FTP)</translation>
     </message>
     <message>
         <source>80/443 (HTTP/HTTPS)</source>
-        <translation type="unfinished"/>
+        <translation>80/443 (HTTP/HTTPS)</translation>
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>Blokir semua lalu lintas keluar untuk subnet non-local</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"/>
+        <translation>Perkecualian</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -35,15 +35,15 @@
     </message>
     <message>
         <source>Ports</source>
-        <translation type="unfinished"/>
+        <translation>Ports</translation>
     </message>
     <message>
         <source>e.g. 80 443</source>
-        <translation type="unfinished"/>
+        <translation>contoh: 80 443</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
+        <translation>Aktifkan aturan firewall yang telah dikonfigurasi sebelumnya</translation>
     </message>
     <message>
         <source>Name</source>
@@ -51,57 +51,57 @@
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Jaringan</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Hosts</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>contoh docs.veyon.io</translation>
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Blokir lalu lintas ke server (seperti: proxy atau DNS)</translation>
     </message>
     <message>
         <source>Server addresses</source>
-        <translation type="unfinished"/>
+        <translation>Alamat server</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation type="unfinished"/>
+        <translation>contoh: 192.168.1.253</translation>
     </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
     <message>
         <source>Block internet access via system firewall</source>
-        <translation type="unfinished"/>
+        <translation>Blokir akses internet melalui firewall sistem</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlConfigurationPage</name>
     <message>
         <source>Internet access control</source>
-        <translation type="unfinished"/>
+        <translation>Kontrol akses internet</translation>
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan umum</translation>
     </message>
     <message>
         <source>Backend:</source>
-        <translation type="unfinished"/>
+        <translation>Backend:</translation>
     </message>
     <message>
         <source>Backend settings</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan backend</translation>
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation type="unfinished"/>
+        <translation>Buka blokir akses internet saat service dijalankan (seperti setelah logoff atau reboot)</translation>
     </message>
 </context>
 <context>
@@ -112,199 +112,199 @@
     </message>
     <message>
         <source>Control access to the internet</source>
-        <translation type="unfinished"/>
+        <translation>Kontrol akses ke internet</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
-        <translation type="unfinished"/>
+        <translation>Perintah untuk mengontrol akses ke internet</translation>
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Akses internet</translation>
     </message>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Blokir akses internet</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Blokir atau buka blokir akses internet</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klik tombol ini untuk memblokir akses internet</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Buka blokir akses internet</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klik tombol ini untuk membuka blokir akses internet</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Akses internet telah diblokir. Karena anda menggunakan versi demo untuk addon ini, blokir akan dibuka secara otomatis dalam waktu 60 detik.</translation>
     </message>
 </context>
 <context>
     <name>LdapProConfigurationPage</name>
     <message>
         <source>LDAP Pro</source>
-        <translation type="unfinished"/>
+        <translation>LDAP Pro</translation>
     </message>
     <message>
         <source>Instances</source>
-        <translation type="unfinished"/>
+        <translation>Instansi</translation>
     </message>
     <message>
         <source>Enter name</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan nama</translation>
     </message>
     <message>
         <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation type="unfinished"/>
+        <translation>Silahkan memasukkan nama instansi (tidak dapat diubah nanti!):</translation>
     </message>
     <message>
         <source>Remove instance</source>
-        <translation type="unfinished"/>
+        <translation>Hapus instansi</translation>
     </message>
     <message>
         <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Apakah anda yakin ingin menghapus instansi &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Configuration for instance &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Konfigurasi untuk instansi &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
     <name>LdapProPlugin</name>
     <message>
         <source>Professional LDAP/AD integration for Veyon</source>
-        <translation type="unfinished"/>
+        <translation>Integrasi profesional LDAP/AD untuk Veyon</translation>
     </message>
     <message>
         <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (memuat komputer dan lokasi untuk LDAP/AD)</translation>
     </message>
     <message>
         <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (memuat pengguna dan group untuk LDAP/AD)</translation>
     </message>
 </context>
 <context>
     <name>LicensingConfigurationPage</name>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"/>
+        <translation>Lisensi</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informasi</translation>
     </message>
     <message>
         <source>Installation ID</source>
-        <translation type="unfinished"/>
+        <translation>ID instalasi</translation>
     </message>
     <message>
         <source>Addons available for licensing</source>
-        <translation type="unfinished"/>
+        <translation>Addons tersedia untuk di lisensi</translation>
     </message>
     <message>
         <source>Installed licenses</source>
-        <translation type="unfinished"/>
+        <translation>Lisensi ter install</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Addon</source>
-        <translation type="unfinished"/>
+        <translation>Addon</translation>
     </message>
     <message>
         <source>Valid until</source>
-        <translation type="unfinished"/>
+        <translation>Berlaku hingga</translation>
     </message>
     <message>
         <source>Licensee</source>
-        <translation type="unfinished"/>
+        <translation>Penerima lisensi</translation>
     </message>
     <message>
         <source>Browse license file</source>
-        <translation type="unfinished"/>
+        <translation>Telusuri file lisensi</translation>
     </message>
     <message>
         <source>Veyon license files (*.vlf)</source>
-        <translation type="unfinished"/>
+        <translation>File lisensi Veyon (*.vlf)</translation>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"/>
+        <translation>Hapus lisensi</translation>
     </message>
     <message>
         <source>Do you really want to remove the selected license?</source>
-        <translation type="unfinished"/>
+        <translation>Apakah anda yakin ingin menghapus lisensi terpilih?</translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt; Tidak diketahu &gt;</translation>
     </message>
     <message>
         <source>Feature</source>
-        <translation type="unfinished"/>
+        <translation>Fitur</translation>
     </message>
     <message>
         <source>Invalid license file</source>
-        <translation type="unfinished"/>
+        <translation>File lisensi tidak valid</translation>
     </message>
     <message>
         <source>Could not open the license file for reading!</source>
-        <translation type="unfinished"/>
+        <translation>Tidak dapat membuka file lisensi untuk di baca!</translation>
     </message>
     <message>
         <source>The selected license file does not contain valid data.</source>
-        <translation type="unfinished"/>
+        <translation>File lisensi terpilih tidak berisi data yang valid.</translation>
     </message>
     <message>
         <source>The selected license file could not be verified.</source>
-        <translation type="unfinished"/>
+        <translation>File lisensi terpilih tidak dapat di verifikasi.</translation>
     </message>
     <message>
         <source>The selected license file is not valid for this installation.</source>
-        <translation type="unfinished"/>
+        <translation>File lisensi terpilih tidak valid untuk instalasi ini.</translation>
     </message>
     <message>
         <source>The selected license file is expired.</source>
-        <translation type="unfinished"/>
+        <translation>File lisensi terpilih sudah tidak berlaku.</translation>
     </message>
     <message>
         <source>The license is already installed.</source>
-        <translation type="unfinished"/>
+        <translation>Lisensi sudah ter install.</translation>
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan lisensi dari file</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>Hapus lisensi terpilih</translation>
     </message>
 </context>
 <context>
     <name>LicensingHelper</name>
     <message>
         <source>Thank you for testing the %1 addon.</source>
-        <translation type="unfinished"/>
+        <translation>Terima kasih sudah melakukan test pada addon %1 .</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
-        <translation type="unfinished"/>
+        <translation>Silahkan kunjungi %1 untuk informasi lebih lanjut mengenai bagaimana cara mendapatkan lisensi untuk addon ini.</translation>
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation>%1 demo</translation>
     </message>
 </context>
 <context>
@@ -315,15 +315,15 @@
     </message>
     <message>
         <source>Show all installed licenses</source>
-        <translation type="unfinished"/>
+        <translation>Tunjukkan semua lisensi ter install</translation>
     </message>
     <message>
         <source>Add license file</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan file lisensi</translation>
     </message>
     <message>
         <source>Remove installed license</source>
-        <translation type="unfinished"/>
+        <translation>Hapus lisensi ter install</translation>
     </message>
     <message>
         <source>
@@ -332,7 +332,12 @@ USAGE
 %1 add &lt;LICENSE FILE&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+PENGGUNAAN
+
+%1 tambah &lt;LICENSE FILE&gt;
+
+</translation>
     </message>
     <message>
         <source>
@@ -341,30 +346,35 @@ USAGE
 %1 remove &lt;LICENSE ID&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+PENGGUNAAN
+
+%1 hapus&lt;LICENSE ID&gt;
+
+</translation>
     </message>
     <message>
         <source>No certificate found with given ID</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada sertifikat yang ditemukan dengan ID yang diberikan</translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt; Tidak diketahui &gt;</translation>
     </message>
     <message>
         <source>Licensing management</source>
-        <translation type="unfinished"/>
+        <translation>Manajemem lisensi</translation>
     </message>
     <message>
         <source>Commands for managing license keys</source>
-        <translation type="unfinished"/>
+        <translation>Commands untuk mengelola kuci lisensi</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryConfigurationPage</name>
     <message>
         <source>Network discovery</source>
-        <translation>Pendeteksian jaringan</translation>
+        <translation>Penemuan jaringan</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -396,15 +406,15 @@ USAGE
     </message>
     <message>
         <source>Add new group</source>
-        <translation>Tambah grup baru</translation>
+        <translation>Tambah group baru</translation>
     </message>
     <message>
         <source>Remove selected group</source>
-        <translation>Hapus grup terpilih</translation>
+        <translation>Hapus group terpilih</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation>Grup</translation>
+        <translation>Group</translation>
     </message>
     <message>
         <source>First address</source>
@@ -424,15 +434,15 @@ USAGE
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opsi</translation>
     </message>
     <message>
         <source>Parallel scans</source>
-        <translation type="unfinished"/>
+        <translation>Pemindaian paralel</translation>
     </message>
     <message>
         <source>Scan timeout</source>
-        <translation type="unfinished"/>
+        <translation>Waktu pemindaian habis</translation>
     </message>
     <message>
         <source> ms</source>
@@ -440,11 +450,11 @@ USAGE
     </message>
     <message>
         <source>Session scan limit</source>
-        <translation type="unfinished"/>
+        <translation>Batas sesi pemindaian </translation>
     </message>
     <message>
         <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation type="unfinished"/>
+        <translation>Reverse lookup menemukan alamat IP ke nama host</translation>
     </message>
     <message>
         <source>New location</source>
@@ -452,22 +462,22 @@ USAGE
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Sesi</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
+        <translation>Pindai sesi(seperti remote desktop) pada semua komputer</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
         <source>Scanning...</source>
-        <translation type="unfinished"/>
+        <translation>Memindai...</translation>
     </message>
     <message>
         <source>Discovered computers</source>
-        <translation type="unfinished"/>
+        <translation>Komputer yang ditemukan</translation>
     </message>
 </context>
 <context>
@@ -478,7 +488,7 @@ USAGE
     </message>
     <message>
         <source>Scan a subnet</source>
-        <translation type="unfinished"/>
+        <translation>Pindai subnet</translation>
     </message>
     <message>
         <source>
@@ -487,7 +497,12 @@ USAGE
 %1 scan [&lt;SUBNET&gt;]
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+PENGGUNAAN
+
+%1 pindai[&lt;SUBNET&gt;]
+
+</translation>
     </message>
     <message>
         <source>Network object directory which automatically discovers computers in the network</source>
@@ -506,44 +521,44 @@ USAGE
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Hapus route default untuk memblokir internet</translation>
     </message>
     <message>
         <source>Add custom route to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan kustom route untuk memblokir internet</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"/>
+        <translation>Destinasi</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="unfinished"/>
+        <translation>Gerbang</translation>
     </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
-        <translation type="unfinished"/>
+        <translation>Blokir akses internet dengan memodifikasi routing table</translation>
     </message>
 </context>
 <context>
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
-        <translation type="unfinished"/>
+        <translation>ter lisensi untuk</translation>
     </message>
 </context>
 <context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>WebTabs</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Tab</translation>
     </message>
     <message>
         <source>Name</source>
@@ -551,34 +566,34 @@ USAGE
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished"/>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Lebar</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan tab</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Hapus tab terpilih</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Tampilkan tab</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Tab baru</translation>
     </message>
 </context>
 <context>
     <name>WebTabsPlugin</name>
     <message>
         <source>Integrate web page tabs into Veyon Master</source>
-        <translation type="unfinished"/>
+        <translation>Integrasi halaman tab web ke dalam Veyon Master</translation>
     </message>
 </context>
 </TS>

@@ -448,7 +448,7 @@ USAGE
     </message>
     <message>
         <source>New location</source>
-        <translation type="unfinished"/>
+        <translation>Nieuwe locatie</translation>
     </message>
     <message>
         <source>Sessions</source>

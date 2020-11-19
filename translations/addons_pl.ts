@@ -63,15 +63,15 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Zablokuj ruch do serwerów (np. proxy lub DNS)</translation>
     </message>
     <message>
         <source>Server addresses</source>
-        <translation type="unfinished"/>
+        <translation>Adresy serwera</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation type="unfinished"/>
+        <translation>np. 192.168.1.253</translation>
     </message>
 </context>
 <context>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>General settings</source>
-        <translation>Ustawienia główne</translation>
+        <translation>Ogólne ustawienia</translation>
     </message>
     <message>
         <source>Backend:</source>
