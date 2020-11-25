@@ -45,6 +45,7 @@ collect-artifacts:
     - ls -la *.deb *.rpm
   artifacts:
     paths: [ "veyon-addons*" ]
+  image: veyon/ci.linux.debian.buster:latest
 
 variables:
   CMAKE_FLAGS: "-DWITH_CORE_ONLY=ON -DWITH_ADDONS=ON -DCPACK_PACKAGE_NAME=veyon-addons"
