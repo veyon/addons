@@ -1,26 +1,19 @@
-image: $CI_REGISTRY/veyon/ci-mingw-w64:4.5
-
 stages:
   - build
   - collect
 
-build-win32:
+build-windows:
   stage: build
+  image: $CI_REGISTRY/veyon/ci-mingw-w64:4.5
   script:
     - ./prepare-build.sh
-    - cd veyon && .ci/windows/build.sh 32 addons-binaries && cd ..
-    - mv veyon/veyon-addons-win32* .
+    - cd veyon && .ci/windows/build.sh $BITS addons-binaries && cd ..
+    - mv veyon/veyon-addons-* .
+  parallel:
+    matrix:
+      - BITS: [32, 64]
   artifacts:
-    paths: [ "veyon-addons-win32*" ]
-
-build-win64:
-  stage: build
-  script:
-    - ./prepare-build.sh
-    - cd veyon && .ci/windows/build.sh 64 addons-binaries && cd ..
-    - mv veyon/veyon-addons-win64* .
-  artifacts:
-    paths: [ "veyon-addons-win64*" ]
+    paths: [ "veyon-addons*" ]
 
 build-linux:
   stage: build
