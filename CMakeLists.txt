@@ -51,6 +51,7 @@ add_custom_target(addons-binaries
 	COMMAND cp nsis/${NSI} ${ADDONS_BINARIES}
 	COMMAND cp ${DLLDIR}/libxml2-2.dll ${ADDONS_BINARIES}
 	COMMAND cp ${DLLDIR}/icu*6*.dll ${ADDONS_BINARIES}
+	COMMAND cp ${DLLDIR}/libsqlite3-0.dll ${ADDONS_BINARIES}
 	COMMAND cp ${DLLDIR}/Qt5WebKit.dll ${DLLDIR}/Qt5WebKitWidgets.dll ${ADDONS_BINARIES}
 	COMMAND find ${ADDONS_BINARIES} -name "*.dll" -exec ${STRIP} '{}' '\;'
 	DEPENDS
