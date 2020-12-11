@@ -1,5 +1,118 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_TW" version="2.1">
 <context>
+    <name>DesktopMatrixConfigurationPage</name>
+    <message>
+        <source>DesktopMatrix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>一般</translation>
+    </message>
+    <message>
+        <source>Show usernames instead of session names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide local sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add hierarchy level for desktop group types</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>後端</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coordinator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>主機位址</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>連接埠</translation>
+    </message>
+    <message>
+        <source>Register sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run coordinator on this host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Desktop groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixGroupManager</name>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>位置</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixPlugin</name>
+    <message>
+        <source>VDI integration for Veyon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 (use VDI hosts)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
@@ -30,24 +143,16 @@
         <translation>例外</translation>
     </message>
     <message>
+        <source>e.g. 80 443</source>
+        <translation>例如: 80 443</translation>
+    </message>
+    <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation>例如: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
         <translation>連接埠</translation>
-    </message>
-    <message>
-        <source>e.g. 80 443</source>
-        <translation>例如: 80 443</translation>
-    </message>
-    <message>
-        <source>Enable preconfigured firewall rule</source>
-        <translation>啟用預組態的防火牆規則</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>名稱</translation>
     </message>
     <message>
         <source>Networks</source>
@@ -73,6 +178,14 @@
         <source>e.g. 192.168.1.253</source>
         <translation>例如: 192.168.1.253</translation>
     </message>
+    <message>
+        <source>Enable preconfigured firewall rule</source>
+        <translation>啟用預組態的防火牆規則</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名稱</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -96,35 +209,31 @@
         <translation>後端:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>後端設定</translation>
-    </message>
-    <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation>在服務啟動時取消封鎖 Internet 存取 (例如登出或重新開機後)</translation>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>後端設定</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
+        <source>Block Internet access</source>
+        <translation>封鎖 internet 存取</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>取消封鎖 internet 存取</translation>
+    </message>
+    <message>
         <source>Show help about command</source>
         <translation>顯示命令的說明</translation>
     </message>
     <message>
-        <source>Control access to the internet</source>
-        <translation>控制存取 internet</translation>
-    </message>
-    <message>
-        <source>Commands for controlling access to the internet</source>
-        <translation>控制存取 internet 的命令</translation>
-    </message>
-    <message>
         <source>Internet access</source>
         <translation>Internet 存取</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>封鎖 internet 存取</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
@@ -135,16 +244,20 @@
         <translation>按一下此按鈕可封鎖 internet 存取。</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>取消封鎖 internet 存取</translation>
-    </message>
-    <message>
         <source>Click this button to unblock Internet access.</source>
         <translation>按一下此按鈕可取消封鎖 internet 存取。</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
         <translation>現在封鎖 internet 存取。 由於您使用的是這個附加元件的展示版本，因此將在 60 秒內自動解除封鎖。</translation>
+    </message>
+    <message>
+        <source>Control access to the internet</source>
+        <translation>控制存取 internet</translation>
+    </message>
+    <message>
+        <source>Commands for controlling access to the internet</source>
+        <translation>控制存取 internet 的命令</translation>
     </message>
 </context>
 <context>
@@ -216,6 +329,14 @@
         <translation>已安裝的授權</translation>
     </message>
     <message>
+        <source>Add license from file</source>
+        <translation>從檔案加入授權</translation>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation>刪除選取的授權</translation>
+    </message>
+    <message>
         <source>ID</source>
         <translation>ID</translation>
     </message>
@@ -252,10 +373,6 @@
         <translation>&lt;不適用&gt;</translation>
     </message>
     <message>
-        <source>Feature</source>
-        <translation>功能</translation>
-    </message>
-    <message>
         <source>Invalid license file</source>
         <translation>授權檔無效</translation>
     </message>
@@ -284,12 +401,8 @@
         <translation>授權已經安裝。</translation>
     </message>
     <message>
-        <source>Add license from file</source>
-        <translation>從檔案加入授權</translation>
-    </message>
-    <message>
-        <source>Remove selected license</source>
-        <translation>刪除選取的授權</translation>
+        <source>Feature</source>
+        <translation>功能</translation>
     </message>
 </context>
 <context>
@@ -381,24 +494,24 @@ USAGE
         <translation>模式</translation>
     </message>
     <message>
-        <source>Scan network ranges</source>
-        <translation>掃描網路範圍</translation>
-    </message>
-    <message>
-        <source>e.g. 192.168.1.0/24</source>
-        <translation>例如: 192.168.1.0/24</translation>
-    </message>
-    <message>
         <source>Scan all subnets of computer</source>
         <translation>掃描電腦的所有子網路</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>測試</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
         <translation>掃描自訂子網路</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation>測試</translation>
+        <source>Scan network ranges</source>
+        <translation>掃描網路範圍</translation>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.0/24</source>
+        <translation>例如: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -433,8 +546,32 @@ USAGE
         <translation>移除選取的網路範圍</translation>
     </message>
     <message>
+        <source>Sessions</source>
+        <translation>工作階段</translation>
+    </message>
+    <message>
+        <source>Session scan limit</source>
+        <translation>工作階段掃描限制</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation>掃描 (如遠端桌面) 工作階段在所有電腦</translation>
+    </message>
+    <message>
+        <source>Exclude first (e.g. console) session</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>選項</translation>
+    </message>
+    <message>
+        <source> ms</source>
+        <translation> 毫秒</translation>
+    </message>
+    <message>
+        <source>Reverse lookup discovered IP addresses to host names</source>
+        <translation>反向對應發現的主機名稱的 IP 位址</translation>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -445,39 +582,19 @@ USAGE
         <translation>掃描逾時</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation> 毫秒</translation>
-    </message>
-    <message>
-        <source>Session scan limit</source>
-        <translation>工作階段掃描限制</translation>
-    </message>
-    <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>反向對應發現的主機名稱的 IP 位址</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>新位置</translation>
-    </message>
-    <message>
-        <source>Sessions</source>
-        <translation>工作階段</translation>
-    </message>
-    <message>
-        <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation>掃描 (如遠端桌面) 工作階段在所有電腦</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
-        <source>Scanning...</source>
-        <translation>正在掃描...</translation>
-    </message>
-    <message>
         <source>Discovered computers</source>
         <translation>發現的電腦</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>正在掃描...</translation>
     </message>
 </context>
 <context>

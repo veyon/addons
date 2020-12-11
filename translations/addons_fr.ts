@@ -1,5 +1,118 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="fr" version="2.1">
 <context>
+    <name>DesktopMatrixConfigurationPage</name>
+    <message>
+        <source>DesktopMatrix</source>
+        <translation>DesktopMatrix</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Général</translation>
+    </message>
+    <message>
+        <source>Show usernames instead of session names</source>
+        <translation>Afficher les noms d&apos;utilisateur au lieu des noms de session</translation>
+    </message>
+    <message>
+        <source>Hide local sessions</source>
+        <translation>Masquer les sessions locales</translation>
+    </message>
+    <message>
+        <source>Add hierarchy level for desktop group types</source>
+        <translation>Ajouter un niveau hiérarchique pour les types de groupes de postes de travail</translation>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation>Groupes d&apos;utilisateurs</translation>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation>Taille du tampon mémoire</translation>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation>Filtre de nom</translation>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Arrière plan</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Emplacements</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>Annuaire</translation>
+    </message>
+    <message>
+        <source>Coordinator</source>
+        <translation>Coordinateur</translation>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Adresse hôte</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Port</translation>
+    </message>
+    <message>
+        <source>Register sessions</source>
+        <translation>Inscrire des sessions</translation>
+    </message>
+    <message>
+        <source>Run coordinator on this host</source>
+        <translation>Lancer le coordinateur sur cet hôte</translation>
+    </message>
+    <message>
+        <source>Desktop groups</source>
+        <translation>Groupes de bureau</translation>
+    </message>
+    <message>
+        <source>Session hosts</source>
+        <translation>Hôtes de session</translation>
+    </message>
+    <message>
+        <source>Common groups only</source>
+        <translation>Les groupes communs uniquement</translation>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation>Les emplacements communs uniquement</translation>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation>Leçons immédiates</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixGroupManager</name>
+    <message>
+        <source>Session hosts</source>
+        <translation>Hôtes de session</translation>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation>Groupes d&apos;utilisateurs</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Emplacements</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixPlugin</name>
+    <message>
+        <source>VDI integration for Veyon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 (use VDI hosts)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
@@ -30,24 +143,16 @@
         <translation>Exceptions</translation>
     </message>
     <message>
+        <source>e.g. 80 443</source>
+        <translation>ex: 80 443</translation>
+    </message>
+    <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation>ex: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
         <translation>Ports</translation>
-    </message>
-    <message>
-        <source>e.g. 80 443</source>
-        <translation>ex: 80 443</translation>
-    </message>
-    <message>
-        <source>Enable preconfigured firewall rule</source>
-        <translation>Activer la règle préconfigurée de pare-feu</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Nom</translation>
     </message>
     <message>
         <source>Networks</source>
@@ -73,6 +178,14 @@
         <source>e.g. 192.168.1.253</source>
         <translation>ex : 192.168.1.253</translation>
     </message>
+    <message>
+        <source>Enable preconfigured firewall rule</source>
+        <translation>Activer la règle préconfigurée de pare-feu</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nom</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -96,35 +209,31 @@
         <translation>Méthode de fonctionnement:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Paramètres internes</translation>
-    </message>
-    <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation>Débloquer l&apos;accès à Internet au démarrage du service (par exemple après la fermeture d&apos;une session ou un redémarrage)</translation>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Paramètres internes</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
+        <source>Block Internet access</source>
+        <translation>Bloquer l&apos;accès à Internet</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Débloquer l&apos;accès à Internet</translation>
+    </message>
+    <message>
         <source>Show help about command</source>
         <translation>Afficher la commande aide et à propos</translation>
     </message>
     <message>
-        <source>Control access to the internet</source>
-        <translation>Contrôle l&apos;accès à internet</translation>
-    </message>
-    <message>
-        <source>Commands for controlling access to the internet</source>
-        <translation>Commandes pour contrôler l&apos;accès à Internet</translation>
-    </message>
-    <message>
         <source>Internet access</source>
         <translation>Accès à Internet</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Bloquer l&apos;accès à Internet</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
@@ -135,16 +244,20 @@
         <translation>Cliquez sur ce bouton pour bloquer l&apos;accès à Internet.</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Débloquer l&apos;accès à Internet</translation>
-    </message>
-    <message>
         <source>Click this button to unblock Internet access.</source>
         <translation>Cliquez sur ce bouton pour débloquer l&apos;accès à Internet.</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
         <translation>L&apos;accès Internet est maintenant bloqué. Comme vous utilisez une version de démonstration de cette extension, il sera automatiquement débloqué après un délai de 60 secondes.</translation>
+    </message>
+    <message>
+        <source>Control access to the internet</source>
+        <translation>Contrôle l&apos;accès à internet</translation>
+    </message>
+    <message>
+        <source>Commands for controlling access to the internet</source>
+        <translation>Commandes pour contrôler l&apos;accès à Internet</translation>
     </message>
 </context>
 <context>
@@ -216,6 +329,14 @@
         <translation>Licences installées</translation>
     </message>
     <message>
+        <source>Add license from file</source>
+        <translation>Ajouter une licence depuis un fichier</translation>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation>Retirer la licence sélectionnée</translation>
+    </message>
+    <message>
         <source>ID</source>
         <translation>ID</translation>
     </message>
@@ -252,10 +373,6 @@
         <translation>&lt; Sans Objet &gt;</translation>
     </message>
     <message>
-        <source>Feature</source>
-        <translation>Fonctionnalité</translation>
-    </message>
-    <message>
         <source>Invalid license file</source>
         <translation>Fichier licence invalide</translation>
     </message>
@@ -284,12 +401,8 @@
         <translation>La licence est déjà installée.</translation>
     </message>
     <message>
-        <source>Add license from file</source>
-        <translation>Ajouter une licence depuis un fichier</translation>
-    </message>
-    <message>
-        <source>Remove selected license</source>
-        <translation>Retirer la licence sélectionnée</translation>
+        <source>Feature</source>
+        <translation>Fonctionnalité</translation>
     </message>
 </context>
 <context>
@@ -381,24 +494,24 @@ USAGE
         <translation>Mode</translation>
     </message>
     <message>
-        <source>Scan network ranges</source>
-        <translation>Scanner des plages réseau</translation>
-    </message>
-    <message>
-        <source>e.g. 192.168.1.0/24</source>
-        <translation>ex: 192.168.1.0/24</translation>
-    </message>
-    <message>
         <source>Scan all subnets of computer</source>
         <translation>Scanner tous les sous-réseaux de l&apos;ordinateur</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
         <translation>Scanner un sous-réseau personnalisé</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation>Test</translation>
+        <source>Scan network ranges</source>
+        <translation>Scanner des plages réseau</translation>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.0/24</source>
+        <translation>ex: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -433,8 +546,32 @@ USAGE
         <translation>Supprimer la plage réseau sélectionnée</translation>
     </message>
     <message>
+        <source>Sessions</source>
+        <translation>Sessions</translation>
+    </message>
+    <message>
+        <source>Session scan limit</source>
+        <translation>Limite d&apos;analyse de session</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation>Analyser (ex: un bureau distant) les sessions sur tous les ordinateurs</translation>
+    </message>
+    <message>
+        <source>Exclude first (e.g. console) session</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>Options</translation>
+    </message>
+    <message>
+        <source> ms</source>
+        <translation>ms</translation>
+    </message>
+    <message>
+        <source>Reverse lookup discovered IP addresses to host names</source>
+        <translation>Recherche inversée des adresses IP découvertes en noms d&apos;hôte</translation>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -445,39 +582,19 @@ USAGE
         <translation>Analyse temps mort</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation>ms</translation>
-    </message>
-    <message>
-        <source>Session scan limit</source>
-        <translation>Limite d&apos;analyse de session</translation>
-    </message>
-    <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Recherche inversée des adresses IP découvertes en noms d&apos;hôte</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Nouvel emplacement</translation>
-    </message>
-    <message>
-        <source>Sessions</source>
-        <translation>Sessions</translation>
-    </message>
-    <message>
-        <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation>Analyser (ex: un bureau distant) les sessions sur tous les ordinateurs</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
-        <source>Scanning...</source>
-        <translation>Scan...</translation>
-    </message>
-    <message>
         <source>Discovered computers</source>
         <translation>Ordinateurs découverts</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>Scan...</translation>
     </message>
 </context>
 <context>

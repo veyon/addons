@@ -1,5 +1,118 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="uk" version="2.1">
 <context>
+    <name>DesktopMatrixConfigurationPage</name>
+    <message>
+        <source>DesktopMatrix</source>
+        <translation>DesktopMatrix</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Загальні</translation>
+    </message>
+    <message>
+        <source>Show usernames instead of session names</source>
+        <translation>Показувати імена користувачів замість назв сеансів</translation>
+    </message>
+    <message>
+        <source>Hide local sessions</source>
+        <translation>Приховати локальні сеанси</translation>
+    </message>
+    <message>
+        <source>Add hierarchy level for desktop group types</source>
+        <translation>Додати рівень ієрархії для типів стільничних груп</translation>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation>Групи користувачів</translation>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation>Розмір кешу</translation>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation>Фільтр назв</translation>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Сервер</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Місця</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>Каталог</translation>
+    </message>
+    <message>
+        <source>Coordinator</source>
+        <translation>Координатор</translation>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Адреса вузла</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Порт</translation>
+    </message>
+    <message>
+        <source>Register sessions</source>
+        <translation>Зареєструвати сеанси</translation>
+    </message>
+    <message>
+        <source>Run coordinator on this host</source>
+        <translation>Запустити координатора на цьому вузлі</translation>
+    </message>
+    <message>
+        <source>Desktop groups</source>
+        <translation>Стільничні групи</translation>
+    </message>
+    <message>
+        <source>Session hosts</source>
+        <translation>Вузли сеансів</translation>
+    </message>
+    <message>
+        <source>Common groups only</source>
+        <translation>Лише загальні групи</translation>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation>Лише загальні місця</translation>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation>Негайні уроки</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixGroupManager</name>
+    <message>
+        <source>Session hosts</source>
+        <translation>Вузли сеансів</translation>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation>Групи користувачів</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Місця</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixPlugin</name>
+    <message>
+        <source>VDI integration for Veyon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 (use VDI hosts)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
@@ -30,24 +143,16 @@
         <translation>Виключення</translation>
     </message>
     <message>
+        <source>e.g. 80 443</source>
+        <translation>Приклад: 80 443</translation>
+    </message>
+    <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation>Приклад: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
         <translation>Порти</translation>
-    </message>
-    <message>
-        <source>e.g. 80 443</source>
-        <translation>Приклад: 80 443</translation>
-    </message>
-    <message>
-        <source>Enable preconfigured firewall rule</source>
-        <translation>Увімкнути попередньо налаштоване правило брандмауера</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Назва</translation>
     </message>
     <message>
         <source>Networks</source>
@@ -73,6 +178,14 @@
         <source>e.g. 192.168.1.253</source>
         <translation>наприклад 192.168.1.253</translation>
     </message>
+    <message>
+        <source>Enable preconfigured firewall rule</source>
+        <translation>Увімкнути попередньо налаштоване правило брандмауера</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Назва</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -96,35 +209,31 @@
         <translation>Модуль:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Параметри модулів</translation>
-    </message>
-    <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation>Розблокувати доступ до інтернету під час запуску служби (наприклад, після виходу або перезавантаження)</translation>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Параметри модулів</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
+        <source>Block Internet access</source>
+        <translation>Блокувати доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Розблокувати доступ до інтернету</translation>
+    </message>
+    <message>
         <source>Show help about command</source>
         <translation>Показати довідку щодо команди</translation>
     </message>
     <message>
-        <source>Control access to the internet</source>
-        <translation>Керування доступом до інтернету</translation>
-    </message>
-    <message>
-        <source>Commands for controlling access to the internet</source>
-        <translation>Команди для керування доступом до інтернету</translation>
-    </message>
-    <message>
         <source>Internet access</source>
         <translation>Доступ до інтернету</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Блокувати доступ до інтернету</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
@@ -135,16 +244,20 @@
         <translation>Натисніть цю кнопку, щоб заблокувати доступ до інтернету.</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Розблокувати доступ до інтернету</translation>
-    </message>
-    <message>
         <source>Click this button to unblock Internet access.</source>
         <translation>Натисніть цю кнопку, щоб розблокувати доступ до інтернету.</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
         <translation>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично розблоковано за 60 секунд.</translation>
+    </message>
+    <message>
+        <source>Control access to the internet</source>
+        <translation>Керування доступом до інтернету</translation>
+    </message>
+    <message>
+        <source>Commands for controlling access to the internet</source>
+        <translation>Команди для керування доступом до інтернету</translation>
     </message>
 </context>
 <context>
@@ -216,6 +329,14 @@
         <translation>Встановлені ліцензії</translation>
     </message>
     <message>
+        <source>Add license from file</source>
+        <translation>Додати ліцензію з файла</translation>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation>Вилучити позначену ліцензію</translation>
+    </message>
+    <message>
         <source>ID</source>
         <translation>Ідентифікатор</translation>
     </message>
@@ -252,10 +373,6 @@
         <translation>&lt;н/д&gt;</translation>
     </message>
     <message>
-        <source>Feature</source>
-        <translation>Можливість</translation>
-    </message>
-    <message>
         <source>Invalid license file</source>
         <translation>Некоректний файл ліцензії</translation>
     </message>
@@ -284,12 +401,8 @@
         <translation>Цю ліцензію вже встановлено.</translation>
     </message>
     <message>
-        <source>Add license from file</source>
-        <translation>Додати ліцензію з файла</translation>
-    </message>
-    <message>
-        <source>Remove selected license</source>
-        <translation>Вилучити позначену ліцензію</translation>
+        <source>Feature</source>
+        <translation>Можливість</translation>
     </message>
 </context>
 <context>
@@ -381,24 +494,24 @@ USAGE
         <translation>Режим</translation>
     </message>
     <message>
-        <source>Scan network ranges</source>
-        <translation>Сканувати діапазони мережі</translation>
-    </message>
-    <message>
-        <source>e.g. 192.168.1.0/24</source>
-        <translation>Приклад: 192.168.1.0/24</translation>
-    </message>
-    <message>
         <source>Scan all subnets of computer</source>
         <translation>Сканувати усі підмережі комп&apos;ютера</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Перевірити</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
         <translation>Сканувати нетипову підмережу</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation>Перевірити</translation>
+        <source>Scan network ranges</source>
+        <translation>Сканувати діапазони мережі</translation>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.0/24</source>
+        <translation>Приклад: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -433,8 +546,32 @@ USAGE
         <translation>Вилучити позначений діапазон мережі</translation>
     </message>
     <message>
+        <source>Sessions</source>
+        <translation>Сеанси</translation>
+    </message>
+    <message>
+        <source>Session scan limit</source>
+        <translation>Обмеження сканування сеансів</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation>Шукати сеанси (наприклад, віддаленої стільниці) на усіх комп&apos;ютерах</translation>
+    </message>
+    <message>
+        <source>Exclude first (e.g. console) session</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>Параметри</translation>
+    </message>
+    <message>
+        <source> ms</source>
+        <translation>мс</translation>
+    </message>
+    <message>
+        <source>Reverse lookup discovered IP addresses to host names</source>
+        <translation>Зворотним пошуком визначено IP-адреси для назв вузлів</translation>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -445,39 +582,19 @@ USAGE
         <translation>Час очікування на сканування</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation>мс</translation>
-    </message>
-    <message>
-        <source>Session scan limit</source>
-        <translation>Обмеження сканування сеансів</translation>
-    </message>
-    <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Зворотним пошуком визначено IP-адреси для назв вузлів</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Нове місце</translation>
-    </message>
-    <message>
-        <source>Sessions</source>
-        <translation>Сеанси</translation>
-    </message>
-    <message>
-        <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation>Шукати сеанси (наприклад, віддаленої стільниці) на усіх комп&apos;ютерах</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
-        <source>Scanning...</source>
-        <translation>Сканування…</translation>
-    </message>
-    <message>
         <source>Discovered computers</source>
         <translation>Виявлені комп&apos;ютери</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>Сканування…</translation>
     </message>
 </context>
 <context>

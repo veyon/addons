@@ -1,5 +1,118 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="et" version="2.1">
 <context>
+    <name>DesktopMatrixConfigurationPage</name>
+    <message>
+        <source>DesktopMatrix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Üldine</translation>
+    </message>
+    <message>
+        <source>Show usernames instead of session names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide local sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add hierarchy level for desktop group types</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Taustaprogramm</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Asukohad</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coordinator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Seadme aadress</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Port</translation>
+    </message>
+    <message>
+        <source>Register sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run coordinator on this host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Desktop groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixGroupManager</name>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Asukohad</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixPlugin</name>
+    <message>
+        <source>VDI integration for Veyon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 (use VDI hosts)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
@@ -30,24 +143,16 @@
         <translation>Erisured</translation>
     </message>
     <message>
+        <source>e.g. 80 443</source>
+        <translation>näiteks 80 443</translation>
+    </message>
+    <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation>Näiteks 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
         <translation>Pordid</translation>
-    </message>
-    <message>
-        <source>e.g. 80 443</source>
-        <translation>näiteks 80 443</translation>
-    </message>
-    <message>
-        <source>Enable preconfigured firewall rule</source>
-        <translation>Luba eelkonfigureeritud tulemüüri reegel</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Nimi</translation>
     </message>
     <message>
         <source>Networks</source>
@@ -73,6 +178,14 @@
         <source>e.g. 192.168.1.253</source>
         <translation>näit. 192.168.1.253</translation>
     </message>
+    <message>
+        <source>Enable preconfigured firewall rule</source>
+        <translation>Luba eelkonfigureeritud tulemüüri reegel</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nimi</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -96,35 +209,31 @@
         <translation>Taustaprogramm:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Taustprogrammi seaded</translation>
-    </message>
-    <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation>Interneti ühenduse blokeerimine teenuse käivitamisel (nt pärast väljalogimist või taaskäivitamist)</translation>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Taustprogrammi seaded</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
+        <source>Block Internet access</source>
+        <translation>Keela internetti pääs</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Luba pääs internetti</translation>
+    </message>
+    <message>
         <source>Show help about command</source>
         <translation>Näita abi käsu kohta</translation>
     </message>
     <message>
-        <source>Control access to the internet</source>
-        <translation>Internetti pääsu haldamine</translation>
-    </message>
-    <message>
-        <source>Commands for controlling access to the internet</source>
-        <translation>Internetti pääsu haldamise käsud</translation>
-    </message>
-    <message>
         <source>Internet access</source>
         <translation>Interneti pääs</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Keela internetti pääs</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
@@ -135,16 +244,20 @@
         <translation>Klõpsa siia interneti keelamiseks</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Luba pääs internetti</translation>
-    </message>
-    <message>
         <source>Click this button to unblock Internet access.</source>
         <translation>Klõpsa siia interneti lubamiseks</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
         <translation>Interneti-ühendus on nüüd blokeeritud. Kuni kasutate selle lisandmooduli demoversiooni, deblokeeritakse see automaatselt 60 sekundi pärast.</translation>
+    </message>
+    <message>
+        <source>Control access to the internet</source>
+        <translation>Internetti pääsu haldamine</translation>
+    </message>
+    <message>
+        <source>Commands for controlling access to the internet</source>
+        <translation>Internetti pääsu haldamise käsud</translation>
     </message>
 </context>
 <context>
@@ -216,6 +329,14 @@
         <translation>Installitud litsentsid</translation>
     </message>
     <message>
+        <source>Add license from file</source>
+        <translation>Lisa litsents failist</translation>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation>Eemalda valitud litsents</translation>
+    </message>
+    <message>
         <source>ID</source>
         <translation>ID</translation>
     </message>
@@ -252,10 +373,6 @@
         <translation>&lt;N/A&gt;</translation>
     </message>
     <message>
-        <source>Feature</source>
-        <translation>Funktsioon</translation>
-    </message>
-    <message>
         <source>Invalid license file</source>
         <translation>Kehtetu litsents fail</translation>
     </message>
@@ -284,12 +401,8 @@
         <translation>Litsents on juba installitud.</translation>
     </message>
     <message>
-        <source>Add license from file</source>
-        <translation>Lisa litsents failist</translation>
-    </message>
-    <message>
-        <source>Remove selected license</source>
-        <translation>Eemalda valitud litsents</translation>
+        <source>Feature</source>
+        <translation>Funktsioon</translation>
     </message>
 </context>
 <context>
@@ -381,24 +494,24 @@ KASUTA
         <translation>Režiim</translation>
     </message>
     <message>
-        <source>Scan network ranges</source>
-        <translation>Skannige võrgu vahemikke</translation>
-    </message>
-    <message>
-        <source>e.g. 192.168.1.0/24</source>
-        <translation>Näiteks 192.168.1.0/24</translation>
-    </message>
-    <message>
         <source>Scan all subnets of computer</source>
         <translation>Skaneeri kõiki arvuti alamvõrke</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
         <translation>Skaneeri kasutaja alamvõrku</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation>Test</translation>
+        <source>Scan network ranges</source>
+        <translation>Skannige võrgu vahemikke</translation>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.0/24</source>
+        <translation>Näiteks 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -433,8 +546,32 @@ KASUTA
         <translation>Eemalda valitud võrguvahemik</translation>
     </message>
     <message>
+        <source>Sessions</source>
+        <translation>Sessioonid</translation>
+    </message>
+    <message>
+        <source>Session scan limit</source>
+        <translation>Seansi skannimise limiit</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation>Skannige (nt kaugtöölaua) seansse kõigis arvutites</translation>
+    </message>
+    <message>
+        <source>Exclude first (e.g. console) session</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>Valikud</translation>
+    </message>
+    <message>
+        <source> ms</source>
+        <translation> ms</translation>
+    </message>
+    <message>
+        <source>Reverse lookup discovered IP addresses to host names</source>
+        <translation>Pöördotsing avastas hostinimedele IP-aadressid</translation>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -445,39 +582,19 @@ KASUTA
         <translation>Skannimise ajalõpp</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation> ms</translation>
-    </message>
-    <message>
-        <source>Session scan limit</source>
-        <translation>Seansi skannimise limiit</translation>
-    </message>
-    <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Pöördotsing avastas hostinimedele IP-aadressid</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Uus asukoht</translation>
-    </message>
-    <message>
-        <source>Sessions</source>
-        <translation>Sessioonid</translation>
-    </message>
-    <message>
-        <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation>Skannige (nt kaugtöölaua) seansse kõigis arvutites</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
-        <source>Scanning...</source>
-        <translation>Skaneering...</translation>
-    </message>
-    <message>
         <source>Discovered computers</source>
         <translation>Avastatud arvutid</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>Skaneering...</translation>
     </message>
 </context>
 <context>

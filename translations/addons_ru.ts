@@ -1,5 +1,118 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="ru" version="2.1">
 <context>
+    <name>DesktopMatrixConfigurationPage</name>
+    <message>
+        <source>DesktopMatrix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Главное</translation>
+    </message>
+    <message>
+        <source>Show usernames instead of session names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide local sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add hierarchy level for desktop group types</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Внутренний интерфейс</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Места</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coordinator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Адрес хоста</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Register sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run coordinator on this host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Desktop groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixGroupManager</name>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Места</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixPlugin</name>
+    <message>
+        <source>VDI integration for Veyon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 (use VDI hosts)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
@@ -30,24 +143,16 @@
         <translation>Исключения</translation>
     </message>
     <message>
+        <source>e.g. 80 443</source>
+        <translation>Например: 80 443</translation>
+    </message>
+    <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation>Например: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
         <translation>Порты</translation>
-    </message>
-    <message>
-        <source>e.g. 80 443</source>
-        <translation>Например: 80 443</translation>
-    </message>
-    <message>
-        <source>Enable preconfigured firewall rule</source>
-        <translation>Включить предварительно настроенное правило брандмауэра</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Имя</translation>
     </message>
     <message>
         <source>Networks</source>
@@ -73,6 +178,14 @@
         <source>e.g. 192.168.1.253</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Enable preconfigured firewall rule</source>
+        <translation>Включить предварительно настроенное правило брандмауэра</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Имя</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -96,35 +209,31 @@
         <translation>Бэкэнд:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Параметры модулей</translation>
-    </message>
-    <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation>Разблокировать доступ к интернету при запуске службы (например, после разлогинирования или перезагрузки)</translation>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Параметры модулей</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
+        <source>Block Internet access</source>
+        <translation>Блокировать доступ к интернету</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Разблокировать доступ к интернету</translation>
+    </message>
+    <message>
         <source>Show help about command</source>
         <translation>Показать помощь по команде</translation>
     </message>
     <message>
-        <source>Control access to the internet</source>
-        <translation>Управление доступом к интернету</translation>
-    </message>
-    <message>
-        <source>Commands for controlling access to the internet</source>
-        <translation>Команды для управления доступом к интернету</translation>
-    </message>
-    <message>
         <source>Internet access</source>
         <translation>Доступ к интернету</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Блокировать доступ к интернету</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
@@ -135,16 +244,20 @@
         <translation>Нажмите эту кнопку, чтобы заблокировать доступ к интернету.</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Разблокировать доступ к интернету</translation>
-    </message>
-    <message>
         <source>Click this button to unblock Internet access.</source>
         <translation>Нажмите эту кнопку, чтобы разблокировать доступ к интернету.</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
         <translation>Доступ в интернет теперь заблокирован. Поскольку вы используете демо-версию этого дополнения, оно автоматически разблокируется через 60 секунд.</translation>
+    </message>
+    <message>
+        <source>Control access to the internet</source>
+        <translation>Управление доступом к интернету</translation>
+    </message>
+    <message>
+        <source>Commands for controlling access to the internet</source>
+        <translation>Команды для управления доступом к интернету</translation>
     </message>
 </context>
 <context>
@@ -216,6 +329,14 @@
         <translation>Установленные лицензии</translation>
     </message>
     <message>
+        <source>Add license from file</source>
+        <translation>Добавить лицензию из файла</translation>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation>Удалить выбранную лицензию</translation>
+    </message>
+    <message>
         <source>ID</source>
         <translation>Идентификатор</translation>
     </message>
@@ -252,10 +373,6 @@
         <translation>&lt;н/д&gt;</translation>
     </message>
     <message>
-        <source>Feature</source>
-        <translation>Функция</translation>
-    </message>
-    <message>
         <source>Invalid license file</source>
         <translation>Некорректный файл лицензии</translation>
     </message>
@@ -284,12 +401,8 @@
         <translation>Эта лицензия уже установлена.</translation>
     </message>
     <message>
-        <source>Add license from file</source>
-        <translation>Добавить лицензию из файла</translation>
-    </message>
-    <message>
-        <source>Remove selected license</source>
-        <translation>Удалить выбранную лицензию</translation>
+        <source>Feature</source>
+        <translation>Функция</translation>
     </message>
 </context>
 <context>
@@ -381,24 +494,24 @@ USAGE
         <translation>Режим</translation>
     </message>
     <message>
-        <source>Scan network ranges</source>
-        <translation>Сканировать диапазоны сети</translation>
-    </message>
-    <message>
-        <source>e.g. 192.168.1.0/24</source>
-        <translation>Например: 192.168.1.0/24</translation>
-    </message>
-    <message>
         <source>Scan all subnets of computer</source>
         <translation>Сканировать все подсети компьютера</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Тестировать</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
         <translation>Сканировать нетипичную подсеть</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation>Тестировать</translation>
+        <source>Scan network ranges</source>
+        <translation>Сканировать диапазоны сети</translation>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.0/24</source>
+        <translation>Например: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -433,8 +546,32 @@ USAGE
         <translation>Удалить выделенный диапазон сети</translation>
     </message>
     <message>
+        <source>Sessions</source>
+        <translation>Сессии</translation>
+    </message>
+    <message>
+        <source>Session scan limit</source>
+        <translation>Ограничение сканирования сеансов</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation>Сканирование (например, удаленного рабочего стола) сеансов на всех компьютерах</translation>
+    </message>
+    <message>
+        <source>Exclude first (e.g. console) session</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>Параметры</translation>
+    </message>
+    <message>
+        <source> ms</source>
+        <translation>мс</translation>
+    </message>
+    <message>
+        <source>Reverse lookup discovered IP addresses to host names</source>
+        <translation>Обратным поиском определены IP-адреса для названий узлов</translation>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -445,39 +582,19 @@ USAGE
         <translation>Время ожидания сканирования</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation>мс</translation>
-    </message>
-    <message>
-        <source>Session scan limit</source>
-        <translation>Ограничение сканирования сеансов</translation>
-    </message>
-    <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Обратным поиском определены IP-адреса для названий узлов</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Новое место</translation>
-    </message>
-    <message>
-        <source>Sessions</source>
-        <translation>Сессии</translation>
-    </message>
-    <message>
-        <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation>Сканирование (например, удаленного рабочего стола) сеансов на всех компьютерах</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
-        <source>Scanning...</source>
-        <translation>Сканирование...</translation>
-    </message>
-    <message>
         <source>Discovered computers</source>
         <translation>Обнаруженные компьютеры</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>Сканирование...</translation>
     </message>
 </context>
 <context>

@@ -1,5 +1,118 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="id" version="2.1">
 <context>
+    <name>DesktopMatrixConfigurationPage</name>
+    <message>
+        <source>DesktopMatrix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Umum</translation>
+    </message>
+    <message>
+        <source>Show usernames instead of session names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide local sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add hierarchy level for desktop group types</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Lokasi</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coordinator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Alamat host</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Register sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run coordinator on this host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Desktop groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixGroupManager</name>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Lokasi</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixPlugin</name>
+    <message>
+        <source>VDI integration for Veyon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 (use VDI hosts)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
@@ -30,24 +143,16 @@
         <translation>Perkecualian</translation>
     </message>
     <message>
+        <source>e.g. 80 443</source>
+        <translation>contoh: 80 443</translation>
+    </message>
+    <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation>contoh: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
         <translation>Ports</translation>
-    </message>
-    <message>
-        <source>e.g. 80 443</source>
-        <translation>contoh: 80 443</translation>
-    </message>
-    <message>
-        <source>Enable preconfigured firewall rule</source>
-        <translation>Aktifkan aturan firewall yang telah dikonfigurasi sebelumnya</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Nama</translation>
     </message>
     <message>
         <source>Networks</source>
@@ -73,6 +178,14 @@
         <source>e.g. 192.168.1.253</source>
         <translation>contoh: 192.168.1.253</translation>
     </message>
+    <message>
+        <source>Enable preconfigured firewall rule</source>
+        <translation>Aktifkan aturan firewall yang telah dikonfigurasi sebelumnya</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nama</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -96,35 +209,31 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Pengaturan backend</translation>
-    </message>
-    <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation>Buka blokir akses internet saat service dijalankan (seperti setelah logoff atau reboot)</translation>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Pengaturan backend</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
+        <source>Block Internet access</source>
+        <translation>Blokir akses internet</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Buka blokir akses internet</translation>
+    </message>
+    <message>
         <source>Show help about command</source>
         <translation>Tunjukkan bantuan tentang perintah</translation>
     </message>
     <message>
-        <source>Control access to the internet</source>
-        <translation>Kontrol akses ke internet</translation>
-    </message>
-    <message>
-        <source>Commands for controlling access to the internet</source>
-        <translation>Perintah untuk mengontrol akses ke internet</translation>
-    </message>
-    <message>
         <source>Internet access</source>
         <translation>Akses internet</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Blokir akses internet</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
@@ -135,16 +244,20 @@
         <translation>Klik tombol ini untuk memblokir akses internet</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Buka blokir akses internet</translation>
-    </message>
-    <message>
         <source>Click this button to unblock Internet access.</source>
         <translation>Klik tombol ini untuk membuka blokir akses internet</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
         <translation>Akses internet telah diblokir. Karena anda menggunakan versi demo untuk addon ini, blokir akan dibuka secara otomatis dalam waktu 60 detik.</translation>
+    </message>
+    <message>
+        <source>Control access to the internet</source>
+        <translation>Kontrol akses ke internet</translation>
+    </message>
+    <message>
+        <source>Commands for controlling access to the internet</source>
+        <translation>Perintah untuk mengontrol akses ke internet</translation>
     </message>
 </context>
 <context>
@@ -216,6 +329,14 @@
         <translation>Lisensi ter install</translation>
     </message>
     <message>
+        <source>Add license from file</source>
+        <translation>Tambahkan lisensi dari file</translation>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation>Hapus lisensi terpilih</translation>
+    </message>
+    <message>
         <source>ID</source>
         <translation>ID</translation>
     </message>
@@ -252,10 +373,6 @@
         <translation>&lt; Tidak diketahu &gt;</translation>
     </message>
     <message>
-        <source>Feature</source>
-        <translation>Fitur</translation>
-    </message>
-    <message>
         <source>Invalid license file</source>
         <translation>File lisensi tidak valid</translation>
     </message>
@@ -284,12 +401,8 @@
         <translation>Lisensi sudah ter install.</translation>
     </message>
     <message>
-        <source>Add license from file</source>
-        <translation>Tambahkan lisensi dari file</translation>
-    </message>
-    <message>
-        <source>Remove selected license</source>
-        <translation>Hapus lisensi terpilih</translation>
+        <source>Feature</source>
+        <translation>Fitur</translation>
     </message>
 </context>
 <context>
@@ -381,24 +494,24 @@ PENGGUNAAN
         <translation>Mode</translation>
     </message>
     <message>
-        <source>Scan network ranges</source>
-        <translation>Pindai rentang jaringan</translation>
-    </message>
-    <message>
-        <source>e.g. 192.168.1.0/24</source>
-        <translation>contoh: 192.168.1.0/24</translation>
-    </message>
-    <message>
         <source>Scan all subnets of computer</source>
         <translation>Pindai semua subnet komputer</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Tes</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
         <translation>Pindai subnet tertentu</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation>Tes</translation>
+        <source>Scan network ranges</source>
+        <translation>Pindai rentang jaringan</translation>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.0/24</source>
+        <translation>contoh: 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -433,8 +546,32 @@ PENGGUNAAN
         <translation>Hapus rentang jaringan terpilih</translation>
     </message>
     <message>
+        <source>Sessions</source>
+        <translation>Sesi</translation>
+    </message>
+    <message>
+        <source>Session scan limit</source>
+        <translation>Batas sesi pemindaian </translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation>Pindai sesi(seperti remote desktop) pada semua komputer</translation>
+    </message>
+    <message>
+        <source>Exclude first (e.g. console) session</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>Opsi</translation>
+    </message>
+    <message>
+        <source> ms</source>
+        <translation>ms</translation>
+    </message>
+    <message>
+        <source>Reverse lookup discovered IP addresses to host names</source>
+        <translation>Reverse lookup menemukan alamat IP ke nama host</translation>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -445,39 +582,19 @@ PENGGUNAAN
         <translation>Waktu pemindaian habis</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation>ms</translation>
-    </message>
-    <message>
-        <source>Session scan limit</source>
-        <translation>Batas sesi pemindaian </translation>
-    </message>
-    <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Reverse lookup menemukan alamat IP ke nama host</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Lokasi baru</translation>
-    </message>
-    <message>
-        <source>Sessions</source>
-        <translation>Sesi</translation>
-    </message>
-    <message>
-        <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation>Pindai sesi(seperti remote desktop) pada semua komputer</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
-        <source>Scanning...</source>
-        <translation>Memindai...</translation>
-    </message>
-    <message>
         <source>Discovered computers</source>
         <translation>Komputer yang ditemukan</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>Memindai...</translation>
     </message>
 </context>
 <context>

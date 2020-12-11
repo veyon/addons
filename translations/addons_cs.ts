@@ -1,5 +1,118 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="cs" version="2.1">
 <context>
+    <name>DesktopMatrixConfigurationPage</name>
+    <message>
+        <source>DesktopMatrix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Obecné</translation>
+    </message>
+    <message>
+        <source>Show usernames instead of session names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide local sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add hierarchy level for desktop group types</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Podpůrná vrstva</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Umístění</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coordinator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Adresa stroje</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Register sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run coordinator on this host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Desktop groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixGroupManager</name>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Umístění</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixPlugin</name>
+    <message>
+        <source>VDI integration for Veyon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 (use VDI hosts)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
@@ -30,24 +143,16 @@
         <translation>Výjimky</translation>
     </message>
     <message>
+        <source>e.g. 80 443</source>
+        <translation>např. 80 443</translation>
+    </message>
+    <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation>např. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
         <translation>Porty</translation>
-    </message>
-    <message>
-        <source>e.g. 80 443</source>
-        <translation>např. 80 443</translation>
-    </message>
-    <message>
-        <source>Enable preconfigured firewall rule</source>
-        <translation>Zapnout přednastavené pravidlo brány firewall</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Název</translation>
     </message>
     <message>
         <source>Networks</source>
@@ -73,6 +178,14 @@
         <source>e.g. 192.168.1.253</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Enable preconfigured firewall rule</source>
+        <translation>Zapnout přednastavené pravidlo brány firewall</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Název</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -96,35 +209,31 @@
         <translation>Podpůrná vrstva (backend):</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Nastavení podpůrné vrstvy</translation>
-    </message>
-    <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation>Odblokovat přístup k internetu při startu služby (např. po odlogování nebo rebootu)</translation>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Nastavení podpůrné vrstvy</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
+        <source>Block Internet access</source>
+        <translation>Přístup k internetu blokován</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Odblokovat přístup k internetu</translation>
+    </message>
+    <message>
         <source>Show help about command</source>
         <translation>Zobrazit nápovědu k příkazu</translation>
     </message>
     <message>
-        <source>Control access to the internet</source>
-        <translation>Ovládat přístup k Internetu</translation>
-    </message>
-    <message>
-        <source>Commands for controlling access to the internet</source>
-        <translation>Příkazy pro ovládání přístup k Internetu</translation>
-    </message>
-    <message>
         <source>Internet access</source>
         <translation>Dostupnost internetu</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Přístup k internetu blokován</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
@@ -135,16 +244,20 @@
         <translation>Klikni na tlačítko k zablokování přístupu k internetu.</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Odblokovat přístup k internetu</translation>
-    </message>
-    <message>
         <source>Click this button to unblock Internet access.</source>
         <translation>Klikni na tlačítko k odblokování přístupu k internetu.</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Control access to the internet</source>
+        <translation>Ovládat přístup k Internetu</translation>
+    </message>
+    <message>
+        <source>Commands for controlling access to the internet</source>
+        <translation>Příkazy pro ovládání přístup k Internetu</translation>
     </message>
 </context>
 <context>
@@ -216,6 +329,14 @@
         <translation>Nainstalované licence</translation>
     </message>
     <message>
+        <source>Add license from file</source>
+        <translation>Vložit licenci ze souboru</translation>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation>Odebrat vybranou licenci</translation>
+    </message>
+    <message>
         <source>ID</source>
         <translation>Identif.</translation>
     </message>
@@ -252,10 +373,6 @@
         <translation>&lt;N/A&gt;</translation>
     </message>
     <message>
-        <source>Feature</source>
-        <translation>Funkce</translation>
-    </message>
-    <message>
         <source>Invalid license file</source>
         <translation>Neplatný soubor s licencí</translation>
     </message>
@@ -284,12 +401,8 @@
         <translation>Tato licence už je nainstalována.</translation>
     </message>
     <message>
-        <source>Add license from file</source>
-        <translation>Vložit licenci ze souboru</translation>
-    </message>
-    <message>
-        <source>Remove selected license</source>
-        <translation>Odebrat vybranou licenci</translation>
+        <source>Feature</source>
+        <translation>Funkce</translation>
     </message>
 </context>
 <context>
@@ -381,24 +494,24 @@ POUŽITÍ
         <translation>Režim</translation>
     </message>
     <message>
-        <source>Scan network ranges</source>
-        <translation>Skenovat síťové rozsahy</translation>
-    </message>
-    <message>
-        <source>e.g. 192.168.1.0/24</source>
-        <translation>např. 192.168.1.0/24</translation>
-    </message>
-    <message>
         <source>Scan all subnets of computer</source>
         <translation>Skenovat všechny podsítě počítače</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Vyzkoušet funkčnost</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
         <translation>Skenovat uživatelsky určenou podsíť</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation>Vyzkoušet funkčnost</translation>
+        <source>Scan network ranges</source>
+        <translation>Skenovat síťové rozsahy</translation>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.0/24</source>
+        <translation>např. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -433,8 +546,32 @@ POUŽITÍ
         <translation>Odebrat označený síťový rozsah</translation>
     </message>
     <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session scan limit</source>
+        <translation>Limit skenu relace</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude first (e.g. console) session</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>Volby</translation>
+    </message>
+    <message>
+        <source> ms</source>
+        <translation> ms</translation>
+    </message>
+    <message>
+        <source>Reverse lookup discovered IP addresses to host names</source>
+        <translation>Překládat objevené IP adresy na názvy strojů</translation>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -445,39 +582,19 @@ POUŽITÍ
         <translation>Časový limit skenování</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation> ms</translation>
-    </message>
-    <message>
-        <source>Session scan limit</source>
-        <translation>Limit skenu relace</translation>
-    </message>
-    <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Překládat objevené IP adresy na názvy strojů</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Nové umístění</translation>
-    </message>
-    <message>
-        <source>Sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
-        <source>Scanning...</source>
-        <translation>Skenování…</translation>
-    </message>
-    <message>
         <source>Discovered computers</source>
         <translation>Objevené počítače</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>Skenování…</translation>
     </message>
 </context>
 <context>

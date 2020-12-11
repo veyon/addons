@@ -1,5 +1,118 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="lv" version="2.1">
 <context>
+    <name>DesktopMatrixConfigurationPage</name>
+    <message>
+        <source>DesktopMatrix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Vispārīgi</translation>
+    </message>
+    <message>
+        <source>Show usernames instead of session names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide local sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add hierarchy level for desktop group types</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coordinator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Dalībnieku adreses</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Register sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run coordinator on this host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Desktop groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixGroupManager</name>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixPlugin</name>
+    <message>
+        <source>VDI integration for Veyon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 (use VDI hosts)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
@@ -30,24 +143,16 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>e.g. 80 443</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Ports</source>
         <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>e.g. 80 443</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Vārds</translation>
     </message>
     <message>
         <source>Networks</source>
@@ -73,6 +178,14 @@
         <source>e.g. 192.168.1.253</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Enable preconfigured firewall rule</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Vārds</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -96,34 +209,30 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Backend settings</source>
+        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
+        <source>Backend settings</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
+        <source>Block Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Show help about command</source>
         <translation>Parādīt palīdzību par komandu</translation>
     </message>
     <message>
-        <source>Control access to the internet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Commands for controlling access to the internet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Block Internet access</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -135,15 +244,19 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Click this button to unblock Internet access.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Control access to the internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Commands for controlling access to the internet</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -216,6 +329,14 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Add license from file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ID</source>
         <translation type="unfinished"/>
     </message>
@@ -252,10 +373,6 @@
         <translation>&lt;N/A&gt;</translation>
     </message>
     <message>
-        <source>Feature</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Invalid license file</source>
         <translation type="unfinished"/>
     </message>
@@ -284,11 +401,7 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Add license from file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove selected license</source>
+        <source>Feature</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -371,24 +484,24 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Scan network ranges</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Scan all subnets of computer</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Tests</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Test</source>
-        <translation>Tests</translation>
+        <source>Scan network ranges</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.0/24</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Network ranges</source>
@@ -423,8 +536,32 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session scan limit</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude first (e.g. console) session</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>Iespējas</translation>
+    </message>
+    <message>
+        <source> ms</source>
+        <translation>ms</translation>
+    </message>
+    <message>
+        <source>Reverse lookup discovered IP addresses to host names</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -435,39 +572,19 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source> ms</source>
-        <translation>ms</translation>
-    </message>
-    <message>
-        <source>Session scan limit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>New location</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Scan (e.g. remote desktop) sessions on all computers</source>
         <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
-        <source>Scanning...</source>
-        <translation>Skenējas...</translation>
-    </message>
-    <message>
         <source>Discovered computers</source>
         <translation>Atklātie datori</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>Skenējas...</translation>
     </message>
 </context>
 <context>

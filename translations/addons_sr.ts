@@ -1,5 +1,118 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="sr" version="2.1">
 <context>
+    <name>DesktopMatrixConfigurationPage</name>
+    <message>
+        <source>DesktopMatrix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Opšte</translation>
+    </message>
+    <message>
+        <source>Show usernames instead of session names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide local sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add hierarchy level for desktop group types</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Backend</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Lokacije</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coordinator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Domaćin adresa</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Port</translation>
+    </message>
+    <message>
+        <source>Register sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run coordinator on this host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Desktop groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixGroupManager</name>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Lokacije</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixPlugin</name>
+    <message>
+        <source>VDI integration for Veyon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 (use VDI hosts)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
@@ -30,24 +143,16 @@
         <translation>Izuzetci</translation>
     </message>
     <message>
+        <source>e.g. 80 443</source>
+        <translation>npr. 80 443</translation>
+    </message>
+    <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation>npr. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
         <translation>Portovi</translation>
-    </message>
-    <message>
-        <source>e.g. 80 443</source>
-        <translation>npr. 80 443</translation>
-    </message>
-    <message>
-        <source>Enable preconfigured firewall rule</source>
-        <translation>Omogući prekonfigurisano firewall pravilo</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Ime</translation>
     </message>
     <message>
         <source>Networks</source>
@@ -73,6 +178,14 @@
         <source>e.g. 192.168.1.253</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Enable preconfigured firewall rule</source>
+        <translation>Omogući prekonfigurisano firewall pravilo</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Ime</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -96,35 +209,31 @@
         <translation>Pozadina:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Pozadinska podešavanja</translation>
-    </message>
-    <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Pozadinska podešavanja</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
+        <source>Block Internet access</source>
+        <translation>Blokiraj internet pristup</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Dozvoli internet pristup</translation>
+    </message>
+    <message>
         <source>Show help about command</source>
         <translation>Pokažite pomoć o naredbi</translation>
     </message>
     <message>
-        <source>Control access to the internet</source>
-        <translation>Kontrolišite pristup internetu</translation>
-    </message>
-    <message>
-        <source>Commands for controlling access to the internet</source>
-        <translation>Naredbe za kontrolu pristupa internetu</translation>
-    </message>
-    <message>
         <source>Internet access</source>
         <translation>Internet pristup</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Blokiraj internet pristup</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
@@ -135,16 +244,20 @@
         <translation>Klik na taster za blokiranje internet pristupa.</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Dozvoli internet pristup</translation>
-    </message>
-    <message>
         <source>Click this button to unblock Internet access.</source>
         <translation>Klik na taster za dozvolu internet pristupa.</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Control access to the internet</source>
+        <translation>Kontrolišite pristup internetu</translation>
+    </message>
+    <message>
+        <source>Commands for controlling access to the internet</source>
+        <translation>Naredbe za kontrolu pristupa internetu</translation>
     </message>
 </context>
 <context>
@@ -216,6 +329,14 @@
         <translation>Instalirane licence</translation>
     </message>
     <message>
+        <source>Add license from file</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>ID</source>
         <translation>ID</translation>
     </message>
@@ -252,10 +373,6 @@
         <translation>&lt;N/A&gt;</translation>
     </message>
     <message>
-        <source>Feature</source>
-        <translation>Odlike</translation>
-    </message>
-    <message>
         <source>Invalid license file</source>
         <translation>Nevažeća datoteka licence</translation>
     </message>
@@ -284,12 +401,8 @@
         <translation>Licenca je već instalirana.</translation>
     </message>
     <message>
-        <source>Add license from file</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <source>Feature</source>
+        <translation>Odlike</translation>
     </message>
 </context>
 <context>
@@ -381,24 +494,24 @@ UPOTREBA
         <translation>Mod</translation>
     </message>
     <message>
-        <source>Scan network ranges</source>
-        <translation>Skeniranje mrežnih opsega</translation>
-    </message>
-    <message>
-        <source>e.g. 192.168.1.0/24</source>
-        <translation>npr. 192.168.1.0/24</translation>
-    </message>
-    <message>
         <source>Scan all subnets of computer</source>
         <translation>Skeniranje svih podmreža računara</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
         <translation>Skeniranje prilagođjene podmreže</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation>Test</translation>
+        <source>Scan network ranges</source>
+        <translation>Skeniranje mrežnih opsega</translation>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.0/24</source>
+        <translation>npr. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -433,8 +546,32 @@ UPOTREBA
         <translation>Uklonite odabrani mrežni raspon</translation>
     </message>
     <message>
+        <source>Sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session scan limit</source>
+        <translation>Granica sesija skeniranja</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude first (e.g. console) session</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>Opcije</translation>
+    </message>
+    <message>
+        <source> ms</source>
+        <translation>ms</translation>
+    </message>
+    <message>
+        <source>Reverse lookup discovered IP addresses to host names</source>
+        <translation>Obrnutim pretraživanjem otkrivene IP adrese za imena hosta</translation>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -445,39 +582,19 @@ UPOTREBA
         <translation>Istek vremena skeniranja</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation>ms</translation>
-    </message>
-    <message>
-        <source>Session scan limit</source>
-        <translation>Granica sesija skeniranja</translation>
-    </message>
-    <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Obrnutim pretraživanjem otkrivene IP adrese za imena hosta</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Nova lokacija</translation>
-    </message>
-    <message>
-        <source>Sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
-        <source>Scanning...</source>
-        <translation>Skeniranje ...</translation>
-    </message>
-    <message>
         <source>Discovered computers</source>
         <translation>Otkriveni računari</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>Skeniranje ...</translation>
     </message>
 </context>
 <context>

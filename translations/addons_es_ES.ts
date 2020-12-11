@@ -1,5 +1,118 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="es_ES" version="2.1">
 <context>
+    <name>DesktopMatrixConfigurationPage</name>
+    <message>
+        <source>DesktopMatrix</source>
+        <translation>DesktopMatrix</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>General</translation>
+    </message>
+    <message>
+        <source>Show usernames instead of session names</source>
+        <translation>Mostrar nombres de usuario en lugar de nombres de sesión</translation>
+    </message>
+    <message>
+        <source>Hide local sessions</source>
+        <translation>Ocultar sesiones locales</translation>
+    </message>
+    <message>
+        <source>Add hierarchy level for desktop group types</source>
+        <translation>Añadir nivel de jerarquía para los tipos de grupos de escritorio</translation>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation>Grupos de usuarios</translation>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation>Tamaño del caché</translation>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation>Filtro de nombre</translation>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Backend</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Ubicaciones</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>Directorio</translation>
+    </message>
+    <message>
+        <source>Coordinator</source>
+        <translation>Coordinador</translation>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Dirección del equipo</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Puerto</translation>
+    </message>
+    <message>
+        <source>Register sessions</source>
+        <translation>Registrar sesiones</translation>
+    </message>
+    <message>
+        <source>Run coordinator on this host</source>
+        <translation>Ejecutar coordinador en este host</translation>
+    </message>
+    <message>
+        <source>Desktop groups</source>
+        <translation>Grupos de escritorio</translation>
+    </message>
+    <message>
+        <source>Session hosts</source>
+        <translation>Sesiones de equipos</translation>
+    </message>
+    <message>
+        <source>Common groups only</source>
+        <translation>Solo grupos comunes</translation>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation>Solo ubicaciones comunes</translation>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation>Lecciones instantáneas</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixGroupManager</name>
+    <message>
+        <source>Session hosts</source>
+        <translation>Sesiones de equipos</translation>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation>Grupos de usuarios</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Ubicaciones</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixPlugin</name>
+    <message>
+        <source>VDI integration for Veyon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 (use VDI hosts)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
@@ -30,24 +143,16 @@
         <translation>Excepciones</translation>
     </message>
     <message>
+        <source>e.g. 80 443</source>
+        <translation>p.ej. 80 443</translation>
+    </message>
+    <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation>ej. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
         <translation>Puertos</translation>
-    </message>
-    <message>
-        <source>e.g. 80 443</source>
-        <translation>p.ej. 80 443</translation>
-    </message>
-    <message>
-        <source>Enable preconfigured firewall rule</source>
-        <translation>Habilitar la regla de firewall preconfigurada</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Nombre</translation>
     </message>
     <message>
         <source>Networks</source>
@@ -73,6 +178,14 @@
         <source>e.g. 192.168.1.253</source>
         <translation>p.ej. 192.168.1.253</translation>
     </message>
+    <message>
+        <source>Enable preconfigured firewall rule</source>
+        <translation>Habilitar la regla de firewall preconfigurada</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nombre</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -96,35 +209,31 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Configuración de backend</translation>
-    </message>
-    <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation>Desbloquear el acceso a Internet al iniciar el servicio (p.ej. después de cerrar sesión o reiniciar)</translation>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Configuración de backend</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
+        <source>Block Internet access</source>
+        <translation>Bloquear el acceso a Internet</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Desbloquear el acceso a Internet</translation>
+    </message>
+    <message>
         <source>Show help about command</source>
         <translation>Mostrar ayuda sobre el comando</translation>
     </message>
     <message>
-        <source>Control access to the internet</source>
-        <translation>Control de acceso a internet</translation>
-    </message>
-    <message>
-        <source>Commands for controlling access to the internet</source>
-        <translation>Comandos para controlar el acceso a internet</translation>
-    </message>
-    <message>
         <source>Internet access</source>
         <translation>Acceso a Internet</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Bloquear el acceso a Internet</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
@@ -135,16 +244,20 @@
         <translation>Haga clic en este botón para bloquear el acceso a Internet.</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Desbloquear el acceso a Internet</translation>
-    </message>
-    <message>
         <source>Click this button to unblock Internet access.</source>
         <translation>Haga clic en este botón para desbloquear el acceso a Internet.</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
         <translation>El acceso a Internet ahora está bloqueado. Como está utilizando una versión de demostración de este complemento, se desbloqueará automáticamente en 60 segundos.</translation>
+    </message>
+    <message>
+        <source>Control access to the internet</source>
+        <translation>Control de acceso a internet</translation>
+    </message>
+    <message>
+        <source>Commands for controlling access to the internet</source>
+        <translation>Comandos para controlar el acceso a internet</translation>
     </message>
 </context>
 <context>
@@ -216,6 +329,14 @@
         <translation>Licencias instaladas</translation>
     </message>
     <message>
+        <source>Add license from file</source>
+        <translation>Añadir licencia del archivo</translation>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation>Eliminar la licencia seleccionada</translation>
+    </message>
+    <message>
         <source>ID</source>
         <translation>ID</translation>
     </message>
@@ -252,10 +373,6 @@
         <translation>&lt;N/A&gt;</translation>
     </message>
     <message>
-        <source>Feature</source>
-        <translation>Característica</translation>
-    </message>
-    <message>
         <source>Invalid license file</source>
         <translation>Archivo de licencia no válido</translation>
     </message>
@@ -284,12 +401,8 @@
         <translation>La licencia ya está instalada.</translation>
     </message>
     <message>
-        <source>Add license from file</source>
-        <translation>Añadir licencia del archivo</translation>
-    </message>
-    <message>
-        <source>Remove selected license</source>
-        <translation>Eliminar la licencia seleccionada</translation>
+        <source>Feature</source>
+        <translation>Característica</translation>
     </message>
 </context>
 <context>
@@ -381,24 +494,24 @@ Eliminar %1 &lt;LICENSE ID&gt;
         <translation>Modo</translation>
     </message>
     <message>
-        <source>Scan network ranges</source>
-        <translation>Analizar rangos de red</translation>
-    </message>
-    <message>
-        <source>e.g. 192.168.1.0/24</source>
-        <translation>ej. 192.168.1.0/24</translation>
-    </message>
-    <message>
         <source>Scan all subnets of computer</source>
         <translation>Analizar todas las subredes del equipo</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Comprobar</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
         <translation>Analizar subred personalizada</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation>Comprobar</translation>
+        <source>Scan network ranges</source>
+        <translation>Analizar rangos de red</translation>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.0/24</source>
+        <translation>ej. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -433,8 +546,32 @@ Eliminar %1 &lt;LICENSE ID&gt;
         <translation>Eliminar el rango de red seleccionado</translation>
     </message>
     <message>
+        <source>Sessions</source>
+        <translation>Sesiones</translation>
+    </message>
+    <message>
+        <source>Session scan limit</source>
+        <translation>Límite de análisis de sesión</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation>Escanear sesiones (p.ej., escritorio remoto) en todas las computadoras</translation>
+    </message>
+    <message>
+        <source>Exclude first (e.g. console) session</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>Opciones</translation>
+    </message>
+    <message>
+        <source> ms</source>
+        <translation> ms</translation>
+    </message>
+    <message>
+        <source>Reverse lookup discovered IP addresses to host names</source>
+        <translation>Búsqueda inversa de direcciones IP descubiertas a nombres de host</translation>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -445,39 +582,19 @@ Eliminar %1 &lt;LICENSE ID&gt;
         <translation>Tiempo de espera de análisis</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation> ms</translation>
-    </message>
-    <message>
-        <source>Session scan limit</source>
-        <translation>Límite de análisis de sesión</translation>
-    </message>
-    <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Búsqueda inversa de direcciones IP descubiertas a nombres de host</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Nueva ubicación</translation>
-    </message>
-    <message>
-        <source>Sessions</source>
-        <translation>Sesiones</translation>
-    </message>
-    <message>
-        <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation>Escanear sesiones (p.ej., escritorio remoto) en todas las computadoras</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
-        <source>Scanning...</source>
-        <translation>Analizando...</translation>
-    </message>
-    <message>
         <source>Discovered computers</source>
         <translation>Equipos detectados</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>Analizando...</translation>
     </message>
 </context>
 <context>

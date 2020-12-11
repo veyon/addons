@@ -1,5 +1,118 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="pl" version="2.1">
 <context>
+    <name>DesktopMatrixConfigurationPage</name>
+    <message>
+        <source>DesktopMatrix</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Ogólne</translation>
+    </message>
+    <message>
+        <source>Show usernames instead of session names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hide local sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add hierarchy level for desktop group types</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Zaplecze</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Sale</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Coordinator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Adres hosta</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Port</translation>
+    </message>
+    <message>
+        <source>Register sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run coordinator on this host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Desktop groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixGroupManager</name>
+    <message>
+        <source>Session hosts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Sale</translation>
+    </message>
+</context>
+<context>
+    <name>DesktopMatrixPlugin</name>
+    <message>
+        <source>VDI integration for Veyon</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 (use VDI hosts)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
@@ -30,24 +143,16 @@
         <translation>Wyjątki</translation>
     </message>
     <message>
+        <source>e.g. 80 443</source>
+        <translation>np. 80 443</translation>
+    </message>
+    <message>
         <source>e.g. 192.168.1.0/24</source>
         <translation>np. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
         <translation>Porty</translation>
-    </message>
-    <message>
-        <source>e.g. 80 443</source>
-        <translation>np. 80 443</translation>
-    </message>
-    <message>
-        <source>Enable preconfigured firewall rule</source>
-        <translation>Włącz wstępnie skonfigurowane reguły zapory sieciowej</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Networks</source>
@@ -73,6 +178,14 @@
         <source>e.g. 192.168.1.253</source>
         <translation>np. 192.168.1.253</translation>
     </message>
+    <message>
+        <source>Enable preconfigured firewall rule</source>
+        <translation>Włącz wstępnie skonfigurowane reguły zapory sieciowej</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nazwa</translation>
+    </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
@@ -96,35 +209,31 @@
         <translation>Zaplecze:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Ustawienia zaplecza</translation>
-    </message>
-    <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
         <translation>Odblokuj dostęp do Internetu przy uruchomieniu usługi (np. po wylogowaniu lub ponownym uruchomieniu)</translation>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Ustawienia zaplecza</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
+        <source>Block Internet access</source>
+        <translation>Zablokuj dostęp do Internetu</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Odblokuj dostęp do Internetu</translation>
+    </message>
+    <message>
         <source>Show help about command</source>
         <translation>Pokaż pomoc dotyczącą komendy</translation>
     </message>
     <message>
-        <source>Control access to the internet</source>
-        <translation>Kontroluj dostęp do internetu</translation>
-    </message>
-    <message>
-        <source>Commands for controlling access to the internet</source>
-        <translation>Komendy do zarządzania dostępem do internetu</translation>
-    </message>
-    <message>
         <source>Internet access</source>
         <translation>Dostęp do Internetu</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Zablokuj dostęp do Internetu</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
@@ -135,16 +244,20 @@
         <translation>Kliknij przycisk, aby zablokować dostęp do Internetu.</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Odblokuj dostęp do Internetu</translation>
-    </message>
-    <message>
         <source>Click this button to unblock Internet access.</source>
         <translation>Kliknij ten przycisk, aby odblokować dostęp do Internetu.</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
         <translation>Dostęp do Internetu jest teraz zablokowany. Ponieważ używasz wersji demonstracyjnej tego dodatku, zostanie on automatycznie odblokowany w ciągu 60 sekund.</translation>
+    </message>
+    <message>
+        <source>Control access to the internet</source>
+        <translation>Kontroluj dostęp do internetu</translation>
+    </message>
+    <message>
+        <source>Commands for controlling access to the internet</source>
+        <translation>Komendy do zarządzania dostępem do internetu</translation>
     </message>
 </context>
 <context>
@@ -216,6 +329,14 @@
         <translation>Zainstalowane licencje</translation>
     </message>
     <message>
+        <source>Add license from file</source>
+        <translation>Dodaj licencję z pliku</translation>
+    </message>
+    <message>
+        <source>Remove selected license</source>
+        <translation>Usuń zaznaczoną licencję</translation>
+    </message>
+    <message>
         <source>ID</source>
         <translation>Identyfikator</translation>
     </message>
@@ -252,10 +373,6 @@
         <translation>Brak danych</translation>
     </message>
     <message>
-        <source>Feature</source>
-        <translation>Rozszerzenie</translation>
-    </message>
-    <message>
         <source>Invalid license file</source>
         <translation>Nieprawidłowy plik licencji</translation>
     </message>
@@ -284,12 +401,8 @@
         <translation>Licencja jest już zainstalowana.</translation>
     </message>
     <message>
-        <source>Add license from file</source>
-        <translation>Dodaj licencję z pliku</translation>
-    </message>
-    <message>
-        <source>Remove selected license</source>
-        <translation>Usuń zaznaczoną licencję</translation>
+        <source>Feature</source>
+        <translation>Rozszerzenie</translation>
     </message>
 </context>
 <context>
@@ -381,24 +494,24 @@ UŻYCIE
         <translation>Tryb</translation>
     </message>
     <message>
-        <source>Scan network ranges</source>
-        <translation>Skanuj zakresy sieci</translation>
-    </message>
-    <message>
-        <source>e.g. 192.168.1.0/24</source>
-        <translation>np. 192.168.1.0/24</translation>
-    </message>
-    <message>
         <source>Scan all subnets of computer</source>
         <translation>Przeskanuj wszystkie podsieci</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
         <translation>Skanuj zdefiniowaną podsieć</translation>
     </message>
     <message>
-        <source>Test</source>
-        <translation>Test</translation>
+        <source>Scan network ranges</source>
+        <translation>Skanuj zakresy sieci</translation>
+    </message>
+    <message>
+        <source>e.g. 192.168.1.0/24</source>
+        <translation>np. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -433,8 +546,32 @@ UŻYCIE
         <translation>Usuń wybrany zakres sieci</translation>
     </message>
     <message>
+        <source>Sessions</source>
+        <translation>Sesje</translation>
+    </message>
+    <message>
+        <source>Session scan limit</source>
+        <translation>Limit skanowania sesji</translation>
+    </message>
+    <message>
+        <source>Scan (e.g. remote desktop) sessions on all computers</source>
+        <translation>Skanuj sesje na wszystkich komputerach (np. zdalny pulpit) </translation>
+    </message>
+    <message>
+        <source>Exclude first (e.g. console) session</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Options</source>
         <translation>Opcje</translation>
+    </message>
+    <message>
+        <source> ms</source>
+        <translation>ms</translation>
+    </message>
+    <message>
+        <source>Reverse lookup discovered IP addresses to host names</source>
+        <translation>Odwrócone wyszukiwanie adresów IP na nazwy hostów</translation>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -445,39 +582,19 @@ UŻYCIE
         <translation>Upłynął limit czasu skanowania</translation>
     </message>
     <message>
-        <source> ms</source>
-        <translation>ms</translation>
-    </message>
-    <message>
-        <source>Session scan limit</source>
-        <translation>Limit skanowania sesji</translation>
-    </message>
-    <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Odwrócone wyszukiwanie adresów IP na nazwy hostów</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Nowa lokalizacja</translation>
-    </message>
-    <message>
-        <source>Sessions</source>
-        <translation>Sesje</translation>
-    </message>
-    <message>
-        <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation>Skanuj sesje na wszystkich komputerach (np. zdalny pulpit) </translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
-        <source>Scanning...</source>
-        <translation>Skanowanie...</translation>
-    </message>
-    <message>
         <source>Discovered computers</source>
         <translation>Rozpoznane komputery</translation>
+    </message>
+    <message>
+        <source>Scanning...</source>
+        <translation>Skanowanie...</translation>
     </message>
 </context>
 <context>
