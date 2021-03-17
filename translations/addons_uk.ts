@@ -14,10 +14,6 @@
         <translation>Показувати імена користувачів замість назв сеансів</translation>
     </message>
     <message>
-        <source>Hide local sessions</source>
-        <translation>Приховати локальні сеанси</translation>
-    </message>
-    <message>
         <source>Add hierarchy level for desktop group types</source>
         <translation>Додати рівень ієрархії для типів стільничних груп</translation>
     </message>
@@ -74,16 +70,32 @@
         <translation>Вузли сеансів</translation>
     </message>
     <message>
-        <source>Common groups only</source>
-        <translation>Лише загальні групи</translation>
-    </message>
-    <message>
         <source>Common locations only</source>
         <translation>Лише загальні місця</translation>
     </message>
     <message>
         <source>Instant lessons</source>
         <translation>Негайні уроки</translation>
+    </message>
+    <message>
+        <source>Hide own sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common hostname groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common user groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host name separator</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -100,16 +112,20 @@
         <source>Locations</source>
         <translation>Місця</translation>
     </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>DesktopMatrixPlugin</name>
     <message>
-        <source>VDI integration for Veyon</source>
-        <translation type="unfinished"/>
+        <source>VDI support for Veyon</source>
+        <translation>Підтримка VDI у Veyon</translation>
     </message>
     <message>
-        <source>%1 (use VDI hosts)</source>
-        <translation type="unfinished"/>
+        <source>%1 (use VDI desktops)</source>
+        <translation>%1 (використати стільниці VDI)</translation>
     </message>
 </context>
 <context>
@@ -559,7 +575,7 @@ USAGE
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation type="unfinished"/>
+        <translation>Виключити перший сеанс (наприклад консоль)</translation>
     </message>
     <message>
         <source>Options</source>

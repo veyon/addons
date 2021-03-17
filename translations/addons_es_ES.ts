@@ -14,10 +14,6 @@
         <translation>Mostrar nombres de usuario en lugar de nombres de sesión</translation>
     </message>
     <message>
-        <source>Hide local sessions</source>
-        <translation>Ocultar sesiones locales</translation>
-    </message>
-    <message>
         <source>Add hierarchy level for desktop group types</source>
         <translation>Añadir nivel de jerarquía para los tipos de grupos de escritorio</translation>
     </message>
@@ -74,16 +70,32 @@
         <translation>Sesiones de equipos</translation>
     </message>
     <message>
-        <source>Common groups only</source>
-        <translation>Solo grupos comunes</translation>
-    </message>
-    <message>
         <source>Common locations only</source>
         <translation>Solo ubicaciones comunes</translation>
     </message>
     <message>
         <source>Instant lessons</source>
         <translation>Lecciones instantáneas</translation>
+    </message>
+    <message>
+        <source>Hide own sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common hostname groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common user groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host name separator</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -100,16 +112,20 @@
         <source>Locations</source>
         <translation>Ubicaciones</translation>
     </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>DesktopMatrixPlugin</name>
     <message>
-        <source>VDI integration for Veyon</source>
-        <translation type="unfinished"/>
+        <source>VDI support for Veyon</source>
+        <translation>Soporte VDI para Veyon</translation>
     </message>
     <message>
-        <source>%1 (use VDI hosts)</source>
-        <translation type="unfinished"/>
+        <source>%1 (use VDI desktops)</source>
+        <translation>%1 (usar escritorios VDI)</translation>
     </message>
 </context>
 <context>
@@ -559,7 +575,7 @@ Eliminar %1 &lt;LICENSE ID&gt;
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation type="unfinished"/>
+        <translation>Excluir la primera sesión (p. ej, consola)</translation>
     </message>
     <message>
         <source>Options</source>

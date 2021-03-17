@@ -16,10 +16,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide local sessions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add hierarchy level for desktop group types</source>
         <translation type="unfinished"></translation>
     </message>
@@ -76,15 +72,31 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Common groups only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Common locations only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Instant lessons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide own sessions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common hostname groups only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common user groups only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Host name separator</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -102,15 +114,19 @@
         <source>Locations</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DesktopMatrixPlugin</name>
     <message>
-        <source>VDI integration for Veyon</source>
+        <source>VDI support for Veyon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 (use VDI hosts)</source>
+        <source>%1 (use VDI desktops)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

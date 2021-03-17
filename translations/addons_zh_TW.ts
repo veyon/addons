@@ -3,7 +3,7 @@
     <name>DesktopMatrixConfigurationPage</name>
     <message>
         <source>DesktopMatrix</source>
-        <translation type="unfinished"/>
+        <translation>DesktopMatrix</translation>
     </message>
     <message>
         <source>General</source>
@@ -11,27 +11,23 @@
     </message>
     <message>
         <source>Show usernames instead of session names</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide local sessions</source>
-        <translation type="unfinished"/>
+        <translation>顯示使用者名稱而不是工作階段名稱</translation>
     </message>
     <message>
         <source>Add hierarchy level for desktop group types</source>
-        <translation type="unfinished"/>
+        <translation>為桌面群組類型加上層次結構級別</translation>
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>使用者群組</translation>
     </message>
     <message>
         <source>Cache size</source>
-        <translation type="unfinished"/>
+        <translation>快取大小</translation>
     </message>
     <message>
         <source>Name filter</source>
-        <translation type="unfinished"/>
+        <translation>名稱篩選器</translation>
     </message>
     <message>
         <source>Backend</source>
@@ -43,11 +39,11 @@
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"/>
+        <translation>目錄</translation>
     </message>
     <message>
         <source>Coordinator</source>
-        <translation type="unfinished"/>
+        <translation>協調員</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -59,30 +55,46 @@
     </message>
     <message>
         <source>Register sessions</source>
-        <translation type="unfinished"/>
+        <translation>註冊工作階段</translation>
     </message>
     <message>
         <source>Run coordinator on this host</source>
-        <translation type="unfinished"/>
+        <translation>執行這個主機上的協調員</translation>
     </message>
     <message>
         <source>Desktop groups</source>
-        <translation type="unfinished"/>
+        <translation>桌面群組</translation>
     </message>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common groups only</source>
-        <translation type="unfinished"/>
+        <translation>工作階段主機</translation>
     </message>
     <message>
         <source>Common locations only</source>
-        <translation type="unfinished"/>
+        <translation>僅公共位置</translation>
     </message>
     <message>
         <source>Instant lessons</source>
+        <translation>即時課程</translation>
+    </message>
+    <message>
+        <source>Hide own sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common hostname groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common user groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host name separator</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -90,25 +102,29 @@
     <name>DesktopMatrixGroupManager</name>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
+        <translation>工作階段主機</translation>
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>使用者群組</translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>位置</translation>
     </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>DesktopMatrixPlugin</name>
     <message>
-        <source>VDI integration for Veyon</source>
+        <source>VDI support for Veyon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>%1 (use VDI hosts)</source>
+        <source>%1 (use VDI desktops)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -168,7 +184,7 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation>封鎖流量到 (例如: Proxy 或 DNS) 伺服器</translation>
+        <translation>阻止到（例如代理或 DNS）伺服器的流量</translation>
     </message>
     <message>
         <source>Server addresses</source>
@@ -176,7 +192,7 @@
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation>例如: 192.168.1.253</translation>
+        <translation>例如 192.168.1.253</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
@@ -559,7 +575,7 @@ USAGE
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation type="unfinished"/>
+        <translation>排除第一個 (例如，主控台) 工作階段</translation>
     </message>
     <message>
         <source>Options</source>
