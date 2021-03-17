@@ -21,3 +21,6 @@
 [submodule "webtabs"]
 	path = webtabs
 	url = ../webtabs
+[submodule "desktopmatrix"]
+	path = desktopmatrix
+	url = ../desktopmatrix
