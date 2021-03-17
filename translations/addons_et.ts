@@ -3,7 +3,7 @@
     <name>DesktopMatrixConfigurationPage</name>
     <message>
         <source>DesktopMatrix</source>
-        <translation type="unfinished"/>
+        <translation>Töölaua maatriks</translation>
     </message>
     <message>
         <source>General</source>
@@ -11,27 +11,23 @@
     </message>
     <message>
         <source>Show usernames instead of session names</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide local sessions</source>
-        <translation type="unfinished"/>
+        <translation>Kuva seansi nimede asemel kasutajanimed</translation>
     </message>
     <message>
         <source>Add hierarchy level for desktop group types</source>
-        <translation type="unfinished"/>
+        <translation>Lisage hierarhiatase töölauagruppide tüüpide jaoks</translation>
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>Kasutajagrupid</translation>
     </message>
     <message>
         <source>Cache size</source>
-        <translation type="unfinished"/>
+        <translation>Vahemälu suurus</translation>
     </message>
     <message>
         <source>Name filter</source>
-        <translation type="unfinished"/>
+        <translation>Nimefilter</translation>
     </message>
     <message>
         <source>Backend</source>
@@ -43,11 +39,11 @@
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"/>
+        <translation>Kataloog</translation>
     </message>
     <message>
         <source>Coordinator</source>
-        <translation type="unfinished"/>
+        <translation>Koordinaator</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -59,30 +55,46 @@
     </message>
     <message>
         <source>Register sessions</source>
-        <translation type="unfinished"/>
+        <translation>Registreerige seansid</translation>
     </message>
     <message>
         <source>Run coordinator on this host</source>
-        <translation type="unfinished"/>
+        <translation>Käivita selle hostiga koordinaator</translation>
     </message>
     <message>
         <source>Desktop groups</source>
-        <translation type="unfinished"/>
+        <translation>Töölauagrupid</translation>
     </message>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common groups only</source>
-        <translation type="unfinished"/>
+        <translation>Sessiooni hostid</translation>
     </message>
     <message>
         <source>Common locations only</source>
-        <translation type="unfinished"/>
+        <translation>Ainult tavalised asukohad</translation>
     </message>
     <message>
         <source>Instant lessons</source>
+        <translation>Kohesed õppetunnid</translation>
+    </message>
+    <message>
+        <source>Hide own sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common hostname groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common user groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host name separator</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -90,25 +102,29 @@
     <name>DesktopMatrixGroupManager</name>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
+        <translation>Sessiooni hostid</translation>
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>Kasutajagrupid</translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>Asukohad</translation>
     </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>DesktopMatrixPlugin</name>
     <message>
-        <source>VDI integration for Veyon</source>
+        <source>VDI support for Veyon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>%1 (use VDI hosts)</source>
+        <source>%1 (use VDI desktops)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -299,11 +315,11 @@
     </message>
     <message>
         <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (laadige arvutid ja asukohad LDAP / AD-st)</translation>
+        <translation>%1 (laadige arvutid ja asukohad LDAP/AD-st)</translation>
     </message>
     <message>
         <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (laadige kasutajad ja grupid LDAP / AD-st)</translation>
+        <translation>%1 (laadige kasutajad ja grupid LDAP/AD-st)</translation>
     </message>
 </context>
 <context>
@@ -448,7 +464,7 @@ USAGE
         <translation>
 KASUTA
 
-% 1 lisa
+%1 lisa &lt;LICENSE FILE&gt;
 
 </translation>
     </message>
@@ -559,7 +575,7 @@ KASUTA
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation type="unfinished"/>
+        <translation>Esimese (nt konsooli) seansi välistamine</translation>
     </message>
     <message>
         <source>Options</source>
@@ -650,7 +666,7 @@ KASUTA
     </message>
     <message>
         <source>Gateway</source>
-        <translation>Pääsutee</translation>
+        <translation>Värav</translation>
     </message>
 </context>
 <context>

@@ -3,7 +3,7 @@
     <name>DesktopMatrixConfigurationPage</name>
     <message>
         <source>DesktopMatrix</source>
-        <translation type="unfinished"/>
+        <translation>DesktopMatrix</translation>
     </message>
     <message>
         <source>General</source>
@@ -12,10 +12,6 @@
     <message>
         <source>Show usernames instead of session names</source>
         <translation>Mostra i nomi utente anziché i nomi delle sessioni</translation>
-    </message>
-    <message>
-        <source>Hide local sessions</source>
-        <translation>Nascondi sessioni locali</translation>
     </message>
     <message>
         <source>Add hierarchy level for desktop group types</source>
@@ -31,7 +27,7 @@
     </message>
     <message>
         <source>Name filter</source>
-        <translation type="unfinished"/>
+        <translation>Nome filtro</translation>
     </message>
     <message>
         <source>Backend</source>
@@ -43,11 +39,11 @@
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"/>
+        <translation>Directory</translation>
     </message>
     <message>
         <source>Coordinator</source>
-        <translation type="unfinished"/>
+        <translation>Coordinatore</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -59,30 +55,46 @@
     </message>
     <message>
         <source>Register sessions</source>
-        <translation type="unfinished"/>
+        <translation>Registra sessioni</translation>
     </message>
     <message>
         <source>Run coordinator on this host</source>
-        <translation type="unfinished"/>
+        <translation>Esegui coordinatore su questo host</translation>
     </message>
     <message>
         <source>Desktop groups</source>
-        <translation type="unfinished"/>
+        <translation>Gruppi desktop</translation>
     </message>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common groups only</source>
-        <translation type="unfinished"/>
+        <translation>Sessione host</translation>
     </message>
     <message>
         <source>Common locations only</source>
-        <translation type="unfinished"/>
+        <translation>Solo luoghi comuni</translation>
     </message>
     <message>
         <source>Instant lessons</source>
+        <translation>Lezioni istantanee</translation>
+    </message>
+    <message>
+        <source>Hide own sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common hostname groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common user groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host name separator</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -90,7 +102,7 @@
     <name>DesktopMatrixGroupManager</name>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
+        <translation>Sessione host</translation>
     </message>
     <message>
         <source>User groups</source>
@@ -100,15 +112,19 @@
         <source>Locations</source>
         <translation>Posizioni</translation>
     </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>DesktopMatrixPlugin</name>
     <message>
-        <source>VDI integration for Veyon</source>
+        <source>VDI support for Veyon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>%1 (use VDI hosts)</source>
+        <source>%1 (use VDI desktops)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -559,7 +575,7 @@ USO
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation type="unfinished"/>
+        <translation>Esclude la prima sessione (ad es. Console)</translation>
     </message>
     <message>
         <source>Options</source>

@@ -3,7 +3,7 @@
     <name>DesktopMatrixConfigurationPage</name>
     <message>
         <source>DesktopMatrix</source>
-        <translation type="unfinished"/>
+        <translation>DesktopMatrix</translation>
     </message>
     <message>
         <source>General</source>
@@ -11,27 +11,23 @@
     </message>
     <message>
         <source>Show usernames instead of session names</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide local sessions</source>
-        <translation type="unfinished"/>
+        <translation>Показывать имена пользователей вместо названия сессий</translation>
     </message>
     <message>
         <source>Add hierarchy level for desktop group types</source>
-        <translation type="unfinished"/>
+        <translation>Добавить уровень иерархии для групп рабочего стола</translation>
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>Группы пользователей</translation>
     </message>
     <message>
         <source>Cache size</source>
-        <translation type="unfinished"/>
+        <translation>Размер кэша</translation>
     </message>
     <message>
         <source>Name filter</source>
-        <translation type="unfinished"/>
+        <translation>Фильтр имен</translation>
     </message>
     <message>
         <source>Backend</source>
@@ -43,11 +39,11 @@
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"/>
+        <translation>Каталог</translation>
     </message>
     <message>
         <source>Coordinator</source>
-        <translation type="unfinished"/>
+        <translation>Координатор</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -55,34 +51,50 @@
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Порт</translation>
     </message>
     <message>
         <source>Register sessions</source>
-        <translation type="unfinished"/>
+        <translation>Зарегистрировать сессию</translation>
     </message>
     <message>
         <source>Run coordinator on this host</source>
-        <translation type="unfinished"/>
+        <translation>Запустить координатор на этом хосте</translation>
     </message>
     <message>
         <source>Desktop groups</source>
-        <translation type="unfinished"/>
+        <translation>Группы рабочих столов</translation>
     </message>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common groups only</source>
-        <translation type="unfinished"/>
+        <translation>Хосты сессий</translation>
     </message>
     <message>
         <source>Common locations only</source>
-        <translation type="unfinished"/>
+        <translation>Только локальные компьютеры</translation>
     </message>
     <message>
         <source>Instant lessons</source>
+        <translation>Быстрый урок</translation>
+    </message>
+    <message>
+        <source>Hide own sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common hostname groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common user groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host name separator</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -90,25 +102,29 @@
     <name>DesktopMatrixGroupManager</name>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
+        <translation>Хосты сессий</translation>
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>Группы пользователей</translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>Места</translation>
     </message>
+    <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>DesktopMatrixPlugin</name>
     <message>
-        <source>VDI integration for Veyon</source>
+        <source>VDI support for Veyon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>%1 (use VDI hosts)</source>
+        <source>%1 (use VDI desktops)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -168,15 +184,15 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Блокировать трафик к Proxy/DNS серверам</translation>
     </message>
     <message>
         <source>Server addresses</source>
-        <translation type="unfinished"/>
+        <translation>Адреса серверов</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation type="unfinished"/>
+        <translation>например 192.168.1.253</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
@@ -559,7 +575,7 @@ USAGE
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation type="unfinished"/>
+        <translation>Исключить первую (консольную) сессию</translation>
     </message>
     <message>
         <source>Options</source>
