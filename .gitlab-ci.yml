@@ -25,12 +25,12 @@ build-linux:
   parallel:
     matrix:
       - DISTRO:
-        - centos.7.8
-        - centos.8.2
+        - centos.7.9
+        - centos.8.3
         - debian.buster
         - debian.stretch
-        - fedora.31
-        - opensuse.15.1
+        - fedora.32
+        - fedora.33
         - opensuse.15.2
         - ubuntu.bionic
         - ubuntu.focal
