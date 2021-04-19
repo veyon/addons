@@ -9,5 +9,6 @@ file(GLOB_RECURSE addon_sources
 )
 
 string(REGEX REPLACE "${CMAKE_CURRENT_SOURCE_DIR}/../veyon[^;]+;?" "" addon_sources "${addon_sources}")
+string(REGEX REPLACE "${CMAKE_CURRENT_SOURCE_DIR}/../internet-access-control/3rdparty[^;]+;?" "" addon_sources "${addon_sources}")
 
 create_translations(addons "${addon_translations}" "${addon_sources}")
