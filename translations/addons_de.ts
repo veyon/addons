@@ -14,32 +14,12 @@
         <translation>Benutzernamen anstatt Sitzungsnamen anzeigen</translation>
     </message>
     <message>
+        <source>Hide own sessions</source>
+        <translation>Eigene Sitzungen ausblenden</translation>
+    </message>
+    <message>
         <source>Add hierarchy level for desktop group types</source>
         <translation>Hierarchieebene für Desktopgruppentypen hinzufügen</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Benutzergruppen</translation>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation>Cachegröße</translation>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation>Namensfilter</translation>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>Backend</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Standorte</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>Verzeichnis</translation>
     </message>
     <message>
         <source>Coordinator</source>
@@ -70,18 +50,6 @@
         <translation>Sitzungshosts</translation>
     </message>
     <message>
-        <source>Common locations only</source>
-        <translation>Nur gemeinsame Standorte</translation>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation>Instant-Lessons</translation>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation>Eigene Sitzungen ausblenden</translation>
-    </message>
-    <message>
         <source>Hostname groups</source>
         <translation>Rechnernamen-Gruppen</translation>
     </message>
@@ -90,12 +58,44 @@
         <translation>Nur gemeinsame Rechnernamen-Gruppen</translation>
     </message>
     <message>
+        <source>User groups</source>
+        <translation>Benutzergruppen</translation>
+    </message>
+    <message>
         <source>Common user groups only</source>
         <translation>Nur gemeinsame Benutzergruppen</translation>
     </message>
     <message>
+        <source>Locations</source>
+        <translation>Standorte</translation>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation>Nur gemeinsame Standorte</translation>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation>Instant-Lessons</translation>
+    </message>
+    <message>
         <source>Host name separator</source>
         <translation>Rechnernamen-Trennzeichen</translation>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation>Cachegröße</translation>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Backend</translation>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation>Namensfilter</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>Verzeichnis</translation>
     </message>
 </context>
 <context>
@@ -105,16 +105,16 @@
         <translation>Sitzungshosts</translation>
     </message>
     <message>
+        <source>Hostname groups</source>
+        <translation>Rechnernamen-Gruppen</translation>
+    </message>
+    <message>
         <source>User groups</source>
         <translation>Benutzergruppen</translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>Standorte</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation>Rechnernamen-Gruppen</translation>
     </message>
 </context>
 <context>
@@ -683,26 +683,55 @@ VERWENDUNG
     </message>
 </context>
 <context>
+    <name>WebTabsBackendQtWebEngine</name>
+    <message>
+        <source>Qt WebEngine backend for WebTabs</source>
+        <translation>Qt WebEngine Backend für WebTabs</translation>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendQtWebKit</name>
+    <message>
+        <source>Legacy Qt WebKit backend for WebTabs</source>
+        <translation>Veraltetes Qt WebKit Backend für WebTabs</translation>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendWebView2</name>
+    <message>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation>Microsoft Edge WebView2 Backend für WebTabs</translation>
+    </message>
+    <message>
+        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
+        <translation>Wenn dieser Text sichtbar bleibt, installieren Sie bitte die &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Laufzeit&lt;/a&gt; oder konfigurieren Veyon so, dass es ein anderes WebTabs-Backend nutzt.</translation>
+    </message>
+</context>
+<context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
         <translation>WebTabs</translation>
     </message>
     <message>
+        <source>General settings</source>
+        <translation>Allgemeine Einstellungen</translation>
+    </message>
+    <message>
+        <source>Backend:</source>
+        <translation>Backend:</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the camera</source>
+        <translation>Webseiten den Zugriff auf die Kamera erlauben</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the microphone</source>
+        <translation>Webseiten den Zugriff auf das Mikrofon erlauben</translation>
+    </message>
+    <message>
         <source>Tabs</source>
         <translation>Tabs</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Name</translation>
-    </message>
-    <message>
-        <source>URL</source>
-        <translation>URL</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation>Breite</translation>
     </message>
     <message>
         <source>Add tab</source>
@@ -717,8 +746,24 @@ VERWENDUNG
         <translation>Tabs anzeigen</translation>
     </message>
     <message>
+        <source>Name</source>
+        <translation>Name</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>URL</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Breite</translation>
+    </message>
+    <message>
         <source>New tab</source>
         <translation>Neuer Tab</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the geographical location</source>
+        <translation>Webseiten den Zugriff auf den geografischen Standort erlauben</translation>
     </message>
 </context>
 <context>

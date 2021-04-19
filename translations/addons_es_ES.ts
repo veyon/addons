@@ -14,32 +14,12 @@
         <translation>Mostrar nombres de usuario en lugar de nombres de sesión</translation>
     </message>
     <message>
+        <source>Hide own sessions</source>
+        <translation>Ocultar sesiones propias</translation>
+    </message>
+    <message>
         <source>Add hierarchy level for desktop group types</source>
         <translation>Añadir nivel de jerarquía para los tipos de grupos de escritorio</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Grupos de usuarios</translation>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation>Tamaño del caché</translation>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation>Filtro de nombre</translation>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>Backend</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Ubicaciones</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>Directorio</translation>
     </message>
     <message>
         <source>Coordinator</source>
@@ -70,6 +50,26 @@
         <translation>Sesiones de equipos</translation>
     </message>
     <message>
+        <source>Hostname groups</source>
+        <translation>Grupos de nombres de host</translation>
+    </message>
+    <message>
+        <source>Common hostname groups only</source>
+        <translation>Solo grupos de nombres de host comunes</translation>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation>Grupos de usuarios</translation>
+    </message>
+    <message>
+        <source>Common user groups only</source>
+        <translation>Solo grupos de usuarios comunes</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Ubicaciones</translation>
+    </message>
+    <message>
         <source>Common locations only</source>
         <translation>Solo ubicaciones comunes</translation>
     </message>
@@ -78,24 +78,24 @@
         <translation>Lecciones instantáneas</translation>
     </message>
     <message>
-        <source>Hide own sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common hostname groups only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common user groups only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Host name separator</source>
-        <translation type="unfinished"/>
+        <translation>Separador de nombre de host</translation>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation>Tamaño del caché</translation>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Backend</translation>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation>Filtro de nombre</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>Directorio</translation>
     </message>
 </context>
 <context>
@@ -105,16 +105,16 @@
         <translation>Sesiones de equipos</translation>
     </message>
     <message>
+        <source>Hostname groups</source>
+        <translation>Grupos de nombres de host</translation>
+    </message>
+    <message>
         <source>User groups</source>
         <translation>Grupos de usuarios</translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>Ubicaciones</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -684,26 +684,55 @@ USO
     </message>
 </context>
 <context>
+    <name>WebTabsBackendQtWebEngine</name>
+    <message>
+        <source>Qt WebEngine backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendQtWebKit</name>
+    <message>
+        <source>Legacy Qt WebKit backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendWebView2</name>
+    <message>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
         <translation>Pestañas web</translation>
     </message>
     <message>
+        <source>General settings</source>
+        <translation>Configuración general</translation>
+    </message>
+    <message>
+        <source>Backend:</source>
+        <translation>Backend:</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the camera</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow websites to access the microphone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Tabs</source>
         <translation>Pestañas</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Nombre</translation>
-    </message>
-    <message>
-        <source>URL</source>
-        <translation>URL</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation>Ancho</translation>
     </message>
     <message>
         <source>Add tab</source>
@@ -718,8 +747,24 @@ USO
         <translation>Mostrar pestañas</translation>
     </message>
     <message>
+        <source>Name</source>
+        <translation>Nombre</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>URL</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Ancho</translation>
+    </message>
+    <message>
         <source>New tab</source>
         <translation>Nueva pestaña</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the geographical location</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

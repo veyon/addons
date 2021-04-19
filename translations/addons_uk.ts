@@ -14,32 +14,12 @@
         <translation>Показувати імена користувачів замість назв сеансів</translation>
     </message>
     <message>
+        <source>Hide own sessions</source>
+        <translation>Приховати власні сеанси</translation>
+    </message>
+    <message>
         <source>Add hierarchy level for desktop group types</source>
         <translation>Додати рівень ієрархії для типів стільничних груп</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Групи користувачів</translation>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation>Розмір кешу</translation>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation>Фільтр назв</translation>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>Сервер</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Місця</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>Каталог</translation>
     </message>
     <message>
         <source>Coordinator</source>
@@ -70,18 +50,6 @@
         <translation>Вузли сеансів</translation>
     </message>
     <message>
-        <source>Common locations only</source>
-        <translation>Лише загальні місця</translation>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation>Негайні уроки</translation>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation>Приховати власні сеанси</translation>
-    </message>
-    <message>
         <source>Hostname groups</source>
         <translation>Групи вузла</translation>
     </message>
@@ -90,12 +58,44 @@
         <translation>Лише загальні групи вузла</translation>
     </message>
     <message>
+        <source>User groups</source>
+        <translation>Групи користувачів</translation>
+    </message>
+    <message>
         <source>Common user groups only</source>
         <translation>Лише загальні групи користувачів</translation>
     </message>
     <message>
+        <source>Locations</source>
+        <translation>Місця</translation>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation>Лише загальні місця</translation>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation>Негайні уроки</translation>
+    </message>
+    <message>
         <source>Host name separator</source>
         <translation>Роздільник назви вузла</translation>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation>Розмір кешу</translation>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Сервер</translation>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation>Фільтр назв</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>Каталог</translation>
     </message>
 </context>
 <context>
@@ -105,16 +105,16 @@
         <translation>Вузли сеансів</translation>
     </message>
     <message>
+        <source>Hostname groups</source>
+        <translation>Групи вузла</translation>
+    </message>
+    <message>
         <source>User groups</source>
         <translation>Групи користувачів</translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>Місця</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation>Групи вузла</translation>
     </message>
 </context>
 <context>
@@ -684,26 +684,55 @@ USAGE
     </message>
 </context>
 <context>
+    <name>WebTabsBackendQtWebEngine</name>
+    <message>
+        <source>Qt WebEngine backend for WebTabs</source>
+        <translation>Модуль обробки Qt WebEngine для WebTabs</translation>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendQtWebKit</name>
+    <message>
+        <source>Legacy Qt WebKit backend for WebTabs</source>
+        <translation>Застарілий модуль обробки Qt WebKit для WebTabs</translation>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendWebView2</name>
+    <message>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation>Модуль обробки Microsoft Edge WebView2 для WebTabs</translation>
+    </message>
+    <message>
+        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
+        <translation>Якщо цей текст не зникає, будь ласка, встановіть &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;середовище виконання WebView Microsoft Edge&lt;/a&gt; або налаштуйте Veyon на використання іншого модуля обробки WebTabs.</translation>
+    </message>
+</context>
+<context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
         <translation>Вебвкладки</translation>
     </message>
     <message>
+        <source>General settings</source>
+        <translation>Загальні параметри</translation>
+    </message>
+    <message>
+        <source>Backend:</source>
+        <translation>Модуль:</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the camera</source>
+        <translation>Дозволити сайтам отримувати доступ до камери</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the microphone</source>
+        <translation>Дозволити сайтам отримувати доступ до мікрофона</translation>
+    </message>
+    <message>
         <source>Tabs</source>
         <translation>Вкладки</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Назва</translation>
-    </message>
-    <message>
-        <source>URL</source>
-        <translation>Адреса</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation>Ширина</translation>
     </message>
     <message>
         <source>Add tab</source>
@@ -718,8 +747,24 @@ USAGE
         <translation>Показати вкладки</translation>
     </message>
     <message>
+        <source>Name</source>
+        <translation>Назва</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>Адреса</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Ширина</translation>
+    </message>
+    <message>
         <source>New tab</source>
         <translation>Нова вкладка</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the geographical location</source>
+        <translation>Дозволити сайтам отримувати доступ до даних географічного розташування</translation>
     </message>
 </context>
 <context>

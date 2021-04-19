@@ -14,32 +14,12 @@
         <translation>顯示使用者名稱而不是工作階段名稱</translation>
     </message>
     <message>
+        <source>Hide own sessions</source>
+        <translation>隱藏自己工作階段</translation>
+    </message>
+    <message>
         <source>Add hierarchy level for desktop group types</source>
         <translation>為桌面群組類型加上層次結構級別</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>使用者群組</translation>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation>快取大小</translation>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation>名稱篩選器</translation>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>後端</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>位置</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>目錄</translation>
     </message>
     <message>
         <source>Coordinator</source>
@@ -70,18 +50,6 @@
         <translation>工作階段主機</translation>
     </message>
     <message>
-        <source>Common locations only</source>
-        <translation>僅公共位置</translation>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation>即時課程</translation>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation>隱藏自己工作階段</translation>
-    </message>
-    <message>
         <source>Hostname groups</source>
         <translation>主機名稱群組</translation>
     </message>
@@ -90,12 +58,44 @@
         <translation>僅公共主機名稱群組</translation>
     </message>
     <message>
+        <source>User groups</source>
+        <translation>使用者群組</translation>
+    </message>
+    <message>
         <source>Common user groups only</source>
         <translation>僅公共使用者群組</translation>
     </message>
     <message>
+        <source>Locations</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation>僅公共位置</translation>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation>即時課程</translation>
+    </message>
+    <message>
         <source>Host name separator</source>
         <translation>主機名稱分隔符號</translation>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation>快取大小</translation>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>後端</translation>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation>名稱篩選器</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>目錄</translation>
     </message>
 </context>
 <context>
@@ -105,16 +105,16 @@
         <translation>工作階段主機</translation>
     </message>
     <message>
+        <source>Hostname groups</source>
+        <translation>主機名稱群組</translation>
+    </message>
+    <message>
         <source>User groups</source>
         <translation>使用者群組</translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>位置</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation>主機名稱群組</translation>
     </message>
 </context>
 <context>
@@ -684,26 +684,55 @@ USAGE
     </message>
 </context>
 <context>
+    <name>WebTabsBackendQtWebEngine</name>
+    <message>
+        <source>Qt WebEngine backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendQtWebKit</name>
+    <message>
+        <source>Legacy Qt WebKit backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendWebView2</name>
+    <message>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
         <translation>WebTabs</translation>
     </message>
     <message>
+        <source>General settings</source>
+        <translation>一般設定</translation>
+    </message>
+    <message>
+        <source>Backend:</source>
+        <translation>後端:</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the camera</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow websites to access the microphone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Tabs</source>
         <translation>索引標籤</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>名稱</translation>
-    </message>
-    <message>
-        <source>URL</source>
-        <translation>URL</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation>寬度</translation>
     </message>
     <message>
         <source>Add tab</source>
@@ -718,8 +747,24 @@ USAGE
         <translation>顯示索引標籤</translation>
     </message>
     <message>
+        <source>Name</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>URL</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>寬度</translation>
+    </message>
+    <message>
         <source>New tab</source>
         <translation>新增索引標籤</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the geographical location</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

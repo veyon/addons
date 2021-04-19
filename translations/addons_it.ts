@@ -14,32 +14,12 @@
         <translation>Mostra i nomi utente anziché i nomi delle sessioni</translation>
     </message>
     <message>
+        <source>Hide own sessions</source>
+        <translation>Nascondi le proprie sessioni</translation>
+    </message>
+    <message>
         <source>Add hierarchy level for desktop group types</source>
         <translation>Aggiungi il livello gerarchico per i tipi di gruppi desktop</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Gruppi utenti</translation>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation>Dimensione della cache</translation>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation>Nome filtro</translation>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>Backend</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Posizioni</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>Directory</translation>
     </message>
     <message>
         <source>Coordinator</source>
@@ -70,6 +50,26 @@
         <translation>Sessione host</translation>
     </message>
     <message>
+        <source>Hostname groups</source>
+        <translation>Gruppi nomi host</translation>
+    </message>
+    <message>
+        <source>Common hostname groups only</source>
+        <translation>Solo gruppi di nomi host comuni</translation>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation>Gruppi utenti</translation>
+    </message>
+    <message>
+        <source>Common user groups only</source>
+        <translation>Solo gruppi di utenti comuni</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Posizioni</translation>
+    </message>
+    <message>
         <source>Common locations only</source>
         <translation>Solo luoghi comuni</translation>
     </message>
@@ -78,24 +78,24 @@
         <translation>Lezioni istantanee</translation>
     </message>
     <message>
-        <source>Hide own sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common hostname groups only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common user groups only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Host name separator</source>
-        <translation type="unfinished"/>
+        <translation>Separatore del nome host</translation>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation>Dimensione della cache</translation>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Backend</translation>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation>Nome filtro</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>Directory</translation>
     </message>
 </context>
 <context>
@@ -105,6 +105,10 @@
         <translation>Sessione host</translation>
     </message>
     <message>
+        <source>Hostname groups</source>
+        <translation>Gruppi nomi host</translation>
+    </message>
+    <message>
         <source>User groups</source>
         <translation>Gruppi utenti</translation>
     </message>
@@ -112,20 +116,16 @@
         <source>Locations</source>
         <translation>Posizioni</translation>
     </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>DesktopMatrixPlugin</name>
     <message>
         <source>VDI support for Veyon</source>
-        <translation type="unfinished"/>
+        <translation>Supporto VDI per Veyon</translation>
     </message>
     <message>
         <source>%1 (use VDI desktops)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (usa desktop VDI)</translation>
     </message>
 </context>
 <context>
@@ -684,26 +684,55 @@ USO
     </message>
 </context>
 <context>
+    <name>WebTabsBackendQtWebEngine</name>
+    <message>
+        <source>Qt WebEngine backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendQtWebKit</name>
+    <message>
+        <source>Legacy Qt WebKit backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendWebView2</name>
+    <message>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
         <translation>Schede Web</translation>
     </message>
     <message>
+        <source>General settings</source>
+        <translation>Impostazioni generali</translation>
+    </message>
+    <message>
+        <source>Backend:</source>
+        <translation>Backend:</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the camera</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow websites to access the microphone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Tabs</source>
         <translation>Schede</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Nome</translation>
-    </message>
-    <message>
-        <source>URL</source>
-        <translation>URL</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation>Larghezza</translation>
     </message>
     <message>
         <source>Add tab</source>
@@ -718,8 +747,24 @@ USO
         <translation>Mostra schede</translation>
     </message>
     <message>
+        <source>Name</source>
+        <translation>Nome</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>URL</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Larghezza</translation>
+    </message>
+    <message>
         <source>New tab</source>
         <translation>Nuova scheda</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the geographical location</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

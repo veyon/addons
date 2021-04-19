@@ -14,32 +14,12 @@
         <translation>Показывать имена пользователей вместо названия сессий</translation>
     </message>
     <message>
+        <source>Hide own sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Add hierarchy level for desktop group types</source>
         <translation>Добавить уровень иерархии для групп рабочего стола</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Группы пользователей</translation>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation>Размер кэша</translation>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation>Фильтр имен</translation>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>Внутренний интерфейс</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Места</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>Каталог</translation>
     </message>
     <message>
         <source>Coordinator</source>
@@ -70,18 +50,6 @@
         <translation>Хосты сессий</translation>
     </message>
     <message>
-        <source>Common locations only</source>
-        <translation>Только локальные компьютеры</translation>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation>Быстрый урок</translation>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Hostname groups</source>
         <translation type="unfinished"/>
     </message>
@@ -90,12 +58,44 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>User groups</source>
+        <translation>Группы пользователей</translation>
+    </message>
+    <message>
         <source>Common user groups only</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Locations</source>
+        <translation>Места</translation>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation>Только локальные компьютеры</translation>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation>Быстрый урок</translation>
+    </message>
+    <message>
         <source>Host name separator</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation>Размер кэша</translation>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Внутренний интерфейс</translation>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation>Фильтр имен</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>Каталог</translation>
     </message>
 </context>
 <context>
@@ -105,16 +105,16 @@
         <translation>Хосты сессий</translation>
     </message>
     <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>User groups</source>
         <translation>Группы пользователей</translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>Места</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -684,26 +684,55 @@ USAGE
     </message>
 </context>
 <context>
+    <name>WebTabsBackendQtWebEngine</name>
+    <message>
+        <source>Qt WebEngine backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendQtWebKit</name>
+    <message>
+        <source>Legacy Qt WebKit backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendWebView2</name>
+    <message>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
         <translation>Веб-вкладки</translation>
     </message>
     <message>
+        <source>General settings</source>
+        <translation>Общие параметры</translation>
+    </message>
+    <message>
+        <source>Backend:</source>
+        <translation>Бэкэнд:</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the camera</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow websites to access the microphone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Tabs</source>
         <translation>Вкладки</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Имя</translation>
-    </message>
-    <message>
-        <source>URL</source>
-        <translation>Адрес</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation>Ширина</translation>
     </message>
     <message>
         <source>Add tab</source>
@@ -718,8 +747,24 @@ USAGE
         <translation>Показать вкладки</translation>
     </message>
     <message>
+        <source>Name</source>
+        <translation>Имя</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>Адрес</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Ширина</translation>
+    </message>
+    <message>
         <source>New tab</source>
         <translation>Новая вкладка</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the geographical location</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

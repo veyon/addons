@@ -11,6 +11,10 @@
     </message>
     <message>
         <source>Show usernames instead of session names</source>
+        <translation>Oturum isimleri yerine kullanıcı adlarını göster</translation>
+    </message>
+    <message>
+        <source>Hide own sessions</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -18,32 +22,8 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>User groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Konumlar</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Coordinator</source>
-        <translation type="unfinished"/>
+        <translation>Koordinatör</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -51,7 +31,7 @@
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Port</translation>
     </message>
     <message>
         <source>Register sessions</source>
@@ -70,18 +50,6 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Common locations only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Hostname groups</source>
         <translation type="unfinished"/>
     </message>
@@ -90,12 +58,44 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>User groups</source>
+        <translation>Kullanıcı grupları</translation>
+    </message>
+    <message>
         <source>Common user groups only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Konumlar</translation>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instant lessons</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Host name separator</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation>Önbellek miktarı</translation>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation>İsim filtresi</translation>
+    </message>
+    <message>
+        <source>Directory</source>
+        <translation>Dizin</translation>
     </message>
 </context>
 <context>
@@ -105,16 +105,16 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>User groups</source>
+        <source>Hostname groups</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups</source>
+        <translation>Kullanıcı grupları</translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>Konumlar</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -226,7 +226,7 @@
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation type="unfinished"/>
+        <translation>Servis başlangıcında internet erişimine izin ver (oturum kapatıldığında ya da yeniden başlatıldığında)</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -265,7 +265,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>İnternet erişimi engellendi. Bu eklentinin demo versiyonunu kullandığınızdan 60 saniye sonra otomatik olarak engel kaldırılacak.</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -346,11 +346,11 @@
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>Lisansı dosyadan ekle</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>Seçili lisansı kaldır</translation>
     </message>
     <message>
         <source>ID</source>
@@ -398,19 +398,19 @@
     </message>
     <message>
         <source>The selected license file does not contain valid data.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili lisans dosyası geçerli veri içermemektedir.</translation>
     </message>
     <message>
         <source>The selected license file could not be verified.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili lisans dosyası doğrulanamadı.</translation>
     </message>
     <message>
         <source>The selected license file is not valid for this installation.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili lisans dosyası bu kurulum için geçerli değildir.</translation>
     </message>
     <message>
         <source>The selected license file is expired.</source>
-        <translation type="unfinished"/>
+        <translation>Seçili lisans dosyasının süresi dolmuştur.</translation>
     </message>
     <message>
         <source>The license is already installed.</source>
@@ -425,7 +425,7 @@
     <name>LicensingHelper</name>
     <message>
         <source>Thank you for testing the %1 addon.</source>
-        <translation type="unfinished"/>
+        <translation>%1 eklentisini test ettiğiniz için teşekkürler.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
@@ -444,15 +444,15 @@
     </message>
     <message>
         <source>Show all installed licenses</source>
-        <translation type="unfinished"/>
+        <translation>Yüklenmiş tüm lisansları göster</translation>
     </message>
     <message>
         <source>Add license file</source>
-        <translation type="unfinished"/>
+        <translation>Lisans dosyası ekle</translation>
     </message>
     <message>
         <source>Remove installed license</source>
-        <translation type="unfinished"/>
+        <translation>Yüklenmiş lisansı kaldır</translation>
     </message>
     <message>
         <source>
@@ -482,7 +482,7 @@ USAGE
     </message>
     <message>
         <source>Licensing management</source>
-        <translation type="unfinished"/>
+        <translation>Lisanslama yönetimi</translation>
     </message>
     <message>
         <source>Commands for managing license keys</source>
@@ -600,7 +600,7 @@ USAGE
     </message>
     <message>
         <source>Scanning...</source>
-        <translation type="unfinished"/>
+        <translation>Taranıyor...</translation>
     </message>
 </context>
 <context>
@@ -669,26 +669,55 @@ USAGE
     </message>
 </context>
 <context>
+    <name>WebTabsBackendQtWebEngine</name>
+    <message>
+        <source>Qt WebEngine backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendQtWebKit</name>
+    <message>
+        <source>Legacy Qt WebKit backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendWebView2</name>
+    <message>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>General settings</source>
+        <translation>Genel Ayarlar</translation>
+    </message>
+    <message>
+        <source>Backend:</source>
+        <translation>Arka uç:</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the camera</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow websites to access the microphone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Tabs</source>
         <translation>Sekmeler</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Ad</translation>
-    </message>
-    <message>
-        <source>URL</source>
-        <translation>URL</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation>Genişlik</translation>
     </message>
     <message>
         <source>Add tab</source>
@@ -703,8 +732,24 @@ USAGE
         <translation>Sekmeleri göster</translation>
     </message>
     <message>
+        <source>Name</source>
+        <translation>Ad</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>URL</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Genişlik</translation>
+    </message>
+    <message>
         <source>New tab</source>
         <translation>Yeni sekme</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the geographical location</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

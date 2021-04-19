@@ -14,31 +14,11 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Hide own sessions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Add hierarchy level for desktop group types</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>Back-end</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Directory</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -70,18 +50,6 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Common locations only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Hostname groups</source>
         <translation type="unfinished"/>
     </message>
@@ -90,11 +58,43 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>User groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Common user groups only</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Locations</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Common locations only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Instant lessons</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Host name separator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cache size</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backend</source>
+        <translation>Back-end</translation>
+    </message>
+    <message>
+        <source>Name filter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Directory</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -105,15 +105,15 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Hostname groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>User groups</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hostname groups</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -669,25 +669,54 @@ USAGE
     </message>
 </context>
 <context>
+    <name>WebTabsBackendQtWebEngine</name>
+    <message>
+        <source>Qt WebEngine backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendQtWebKit</name>
+    <message>
+        <source>Legacy Qt WebKit backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>WebTabsBackendWebView2</name>
+    <message>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Tabs</source>
+        <source>General settings</source>
+        <translation>Algemene instellingen</translation>
+    </message>
+    <message>
+        <source>Backend:</source>
+        <translation>Backend:</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the camera</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Name</source>
-        <translation>Naam</translation>
+        <source>Allow websites to access the microphone</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>URL</source>
-        <translation>URL</translation>
-    </message>
-    <message>
-        <source>Width</source>
+        <source>Tabs</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -703,7 +732,23 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Name</source>
+        <translation>Naam</translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation>URL</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>New tab</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow websites to access the geographical location</source>
         <translation type="unfinished"/>
     </message>
 </context>
