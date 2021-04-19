@@ -28,6 +28,8 @@ endif()
 set(ADDONS_BINARIES "${CMAKE_BINARY_DIR}/veyon-addons-${MINGW_PLATFORM}-${VERSION_MAJOR}.${VERSION_MINOR}.${VERSION_PATCH}.${VERSION_BUILD}")
 
 set(DLLDIR "${MINGW_PREFIX}/bin")
+set(LIBDIR "${MINGW_PREFIX}/lib")
+
 add_custom_target(addons
 	DEPENDS
 	addons-translations
@@ -53,6 +55,7 @@ add_custom_target(addons-binaries
 	COMMAND cp ${DLLDIR}/icu*6*.dll ${ADDONS_BINARIES}
 	COMMAND cp ${DLLDIR}/libsqlite3-0.dll ${ADDONS_BINARIES}
 	COMMAND cp ${DLLDIR}/Qt5WebKit.dll ${DLLDIR}/Qt5WebKitWidgets.dll ${ADDONS_BINARIES}
+	COMMAND cp ${LIBDIR}/WebView2Loader.dll ${ADDONS_BINARIES}
 	COMMAND find ${ADDONS_BINARIES} -name "*.dll" -exec ${STRIP} '{}' '\;'
 	DEPENDS
 	addons
