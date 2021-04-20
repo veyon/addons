@@ -1,3 +1,5 @@
+add_custom_target(addons)
+
 add_subdirectory(translations)
 add_subdirectory(internet-access-control)
 add_subdirectory(licensing)
@@ -30,22 +32,11 @@ set(ADDONS_BINARIES "${CMAKE_BINARY_DIR}/veyon-addons-${MINGW_PLATFORM}-${VERSIO
 set(DLLDIR "${MINGW_PREFIX}/bin")
 set(LIBDIR "${MINGW_PREFIX}/lib")
 
-add_custom_target(addons
-	DEPENDS
-	addons-translations
-	internetaccesscontrol
-	internetaccesscontrol-routing
-	internetaccesscontrol-firewall
-	licensing
-	ldap-pro
-	network-discovery
-	webtabs
-)
-
 add_custom_target(addons-binaries
 	COMMAND rm -rf ${ADDONS_BINARIES}
 	COMMAND mkdir -p ${ADDONS_BINARIES}/plugins
 	COMMAND find -name '*.dll' -exec cp '{}' ${ADDONS_BINARIES}/plugins/ '\;'
+	COMMAND rm ${ADDONS_BINARIES}/plugins/lib*.dll
 	COMMAND mkdir -p ${ADDONS_BINARIES}/translations
 	COMMAND cp translations/*qm ${ADDONS_BINARIES}/translations/
 	COMMAND cp -r ${CMAKE_SOURCE_DIR}/COPYING ${ADDONS_BINARIES}

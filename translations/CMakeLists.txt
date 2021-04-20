@@ -12,3 +12,5 @@ string(REGEX REPLACE "${CMAKE_CURRENT_SOURCE_DIR}/../veyon[^;]+;?" "" addon_sour
 string(REGEX REPLACE "${CMAKE_CURRENT_SOURCE_DIR}/../internet-access-control/3rdparty[^;]+;?" "" addon_sources "${addon_sources}")
 
 create_translations(addons "${addon_translations}" "${addon_sources}")
+
+add_dependencies(addons addons-translations)
