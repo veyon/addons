@@ -29,12 +29,11 @@ build-linux:
         - centos.8.3
         - debian.buster
         - debian.stretch
-        - fedora.32
         - fedora.33
+        - fedora.34
         - opensuse.15.2
         - ubuntu.bionic
         - ubuntu.focal
-        - ubuntu.xenial
   artifacts:
     paths: [ "veyon-addons*" ]
 
