@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Hide own sessions</source>
-        <translation type="unfinished"/>
+        <translation>Masquer ses propres sessions</translation>
     </message>
     <message>
         <source>Add hierarchy level for desktop group types</source>
@@ -51,11 +51,11 @@
     </message>
     <message>
         <source>Hostname groups</source>
-        <translation type="unfinished"/>
+        <translation>Groupes de noms d&apos;hôte</translation>
     </message>
     <message>
         <source>Common hostname groups only</source>
-        <translation type="unfinished"/>
+        <translation>Groupes de noms d&apos;hôte courants uniquement</translation>
     </message>
     <message>
         <source>User groups</source>
@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>Common user groups only</source>
-        <translation type="unfinished"/>
+        <translation>Groupes d&apos;utilisateurs courants uniquement</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>Host name separator</source>
-        <translation type="unfinished"/>
+        <translation>Séparateur de nom d&apos;hôte</translation>
     </message>
     <message>
         <source>Cache size</source>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Hostname groups</source>
-        <translation type="unfinished"/>
+        <translation>Groupes de noms d&apos;hôte</translation>
     </message>
     <message>
         <source>User groups</source>
@@ -389,6 +389,10 @@
         <translation>&lt; Sans Objet &gt;</translation>
     </message>
     <message>
+        <source>invalid license</source>
+        <translation>licence non valide</translation>
+    </message>
+    <message>
         <source>Invalid license file</source>
         <translation>Fichier licence invalide</translation>
     </message>
@@ -489,6 +493,10 @@ USAGE
     <message>
         <source>&lt;N/A&gt;</source>
         <translation>&lt; Sans Objet &gt;</translation>
+    </message>
+    <message>
+        <source>invalid license</source>
+        <translation>licence non valide</translation>
     </message>
     <message>
         <source>Licensing management</source>
@@ -687,25 +695,25 @@ USAGE
     <name>WebTabsBackendQtWebEngine</name>
     <message>
         <source>Qt WebEngine backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Backend Qt WebEngine pour WebTabs</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendQtWebKit</name>
     <message>
         <source>Legacy Qt WebKit backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Backend Legacy Qt WebKit pour WebTabs</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendWebView2</name>
     <message>
-        <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
+        <translation>Si ce texte reste visible, veuillez installer &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; ou configurer Veyon pour utiliser un autre backend WebTabs.</translation>
     </message>
     <message>
-        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
-        <translation type="unfinished"/>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation>Backend Microsoft Edge WebView2 pour WebTabs</translation>
     </message>
 </context>
 <context>
@@ -723,12 +731,24 @@ USAGE
         <translation>Méthode de fonctionnement:</translation>
     </message>
     <message>
-        <source>Allow websites to access the camera</source>
-        <translation type="unfinished"/>
+        <source>Allow websites to access the microphone</source>
+        <translation>Autoriser les sites Web à accéder au microphone</translation>
     </message>
     <message>
-        <source>Allow websites to access the microphone</source>
-        <translation type="unfinished"/>
+        <source>Allow websites to access the camera</source>
+        <translation>Autoriser les sites Web à accéder à la caméra</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the geographical location</source>
+        <translation>Autoriser les sites Web à accéder à l&apos;emplacement géographique</translation>
+    </message>
+    <message>
+        <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
+        <translation>Ignorez les erreurs SSL pour les hôtes / domaines avec des certificats auto-signés:</translation>
+    </message>
+    <message>
+        <source>e.g. www.example.org lan.example.org</source>
+        <translation>ex: www.example.org lan.example.org</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -761,10 +781,6 @@ USAGE
     <message>
         <source>New tab</source>
         <translation>Nouvel onglet</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the geographical location</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>

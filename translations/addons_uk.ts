@@ -389,6 +389,10 @@
         <translation>&lt;н/д&gt;</translation>
     </message>
     <message>
+        <source>invalid license</source>
+        <translation>некоректні умови ліцензування</translation>
+    </message>
+    <message>
         <source>Invalid license file</source>
         <translation>Некоректний файл ліцензії</translation>
     </message>
@@ -489,6 +493,10 @@ USAGE
     <message>
         <source>&lt;N/A&gt;</source>
         <translation>&lt;н/д&gt;</translation>
+    </message>
+    <message>
+        <source>invalid license</source>
+        <translation>некоректні умови ліцензування</translation>
     </message>
     <message>
         <source>Licensing management</source>
@@ -700,12 +708,12 @@ USAGE
 <context>
     <name>WebTabsBackendWebView2</name>
     <message>
-        <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation>Модуль обробки Microsoft Edge WebView2 для WebTabs</translation>
-    </message>
-    <message>
         <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
         <translation>Якщо цей текст не зникає, будь ласка, встановіть &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;середовище виконання WebView Microsoft Edge&lt;/a&gt; або налаштуйте Veyon на використання іншого модуля обробки WebTabs.</translation>
+    </message>
+    <message>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation>Модуль обробки Microsoft Edge WebView2 для WebTabs</translation>
     </message>
 </context>
 <context>
@@ -723,12 +731,24 @@ USAGE
         <translation>Модуль:</translation>
     </message>
     <message>
+        <source>Allow websites to access the microphone</source>
+        <translation>Дозволити сайтам отримувати доступ до мікрофона</translation>
+    </message>
+    <message>
         <source>Allow websites to access the camera</source>
         <translation>Дозволити сайтам отримувати доступ до камери</translation>
     </message>
     <message>
-        <source>Allow websites to access the microphone</source>
-        <translation>Дозволити сайтам отримувати доступ до мікрофона</translation>
+        <source>Allow websites to access the geographical location</source>
+        <translation>Дозволити сайтам отримувати доступ до даних географічного розташування</translation>
+    </message>
+    <message>
+        <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
+        <translation>Ігнорувати помилки SSL для вузлів і доменів із самопідписаними сертифікатами:</translation>
+    </message>
+    <message>
+        <source>e.g. www.example.org lan.example.org</source>
+        <translation>Приклади: www.example.org lan.example.org</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -761,10 +781,6 @@ USAGE
     <message>
         <source>New tab</source>
         <translation>Нова вкладка</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the geographical location</source>
-        <translation>Дозволити сайтам отримувати доступ до даних географічного розташування</translation>
     </message>
 </context>
 <context>

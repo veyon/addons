@@ -389,6 +389,10 @@
         <translation>&lt;N/V&gt;</translation>
     </message>
     <message>
+        <source>invalid license</source>
+        <translation>ungültige Lizenz</translation>
+    </message>
+    <message>
         <source>Invalid license file</source>
         <translation>Ungültige Lizenzdatei</translation>
     </message>
@@ -489,6 +493,10 @@ VERWENDUNG
     <message>
         <source>&lt;N/A&gt;</source>
         <translation>&lt;N/V&gt;</translation>
+    </message>
+    <message>
+        <source>invalid license</source>
+        <translation>ungültige Lizenz</translation>
     </message>
     <message>
         <source>Licensing management</source>
@@ -699,12 +707,12 @@ VERWENDUNG
 <context>
     <name>WebTabsBackendWebView2</name>
     <message>
-        <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation>Microsoft Edge WebView2 Backend für WebTabs</translation>
-    </message>
-    <message>
         <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
         <translation>Wenn dieser Text sichtbar bleibt, installieren Sie bitte die &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Laufzeit&lt;/a&gt; oder konfigurieren Veyon so, dass es ein anderes WebTabs-Backend nutzt.</translation>
+    </message>
+    <message>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation>Microsoft Edge WebView2 Backend für WebTabs</translation>
     </message>
 </context>
 <context>
@@ -722,12 +730,24 @@ VERWENDUNG
         <translation>Backend:</translation>
     </message>
     <message>
+        <source>Allow websites to access the microphone</source>
+        <translation>Webseiten den Zugriff auf das Mikrofon erlauben</translation>
+    </message>
+    <message>
         <source>Allow websites to access the camera</source>
         <translation>Webseiten den Zugriff auf die Kamera erlauben</translation>
     </message>
     <message>
-        <source>Allow websites to access the microphone</source>
-        <translation>Webseiten den Zugriff auf das Mikrofon erlauben</translation>
+        <source>Allow websites to access the geographical location</source>
+        <translation>Webseiten den Zugriff auf den geografischen Standort erlauben</translation>
+    </message>
+    <message>
+        <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
+        <translation>SSL-Fehler für Rechner/Domänen mit selbstsignierten Zertifikaten ignorieren:</translation>
+    </message>
+    <message>
+        <source>e.g. www.example.org lan.example.org</source>
+        <translation>z.B. www.example.org lan.example.org</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -760,10 +780,6 @@ VERWENDUNG
     <message>
         <source>New tab</source>
         <translation>Neuer Tab</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the geographical location</source>
-        <translation>Webseiten den Zugriff auf den geografischen Standort erlauben</translation>
     </message>
 </context>
 <context>

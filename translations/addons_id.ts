@@ -389,6 +389,10 @@
         <translation>&lt; Tidak diketahui &gt;</translation>
     </message>
     <message>
+        <source>invalid license</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Invalid license file</source>
         <translation>File lisensi tidak valid</translation>
     </message>
@@ -489,6 +493,10 @@ PENGGUNAAN
     <message>
         <source>&lt;N/A&gt;</source>
         <translation>&lt; Tidak diketahui &gt;</translation>
+    </message>
+    <message>
+        <source>invalid license</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Licensing management</source>
@@ -700,11 +708,11 @@ PENGGUNAAN
 <context>
     <name>WebTabsBackendWebView2</name>
     <message>
-        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -723,11 +731,23 @@ PENGGUNAAN
         <translation>Backend:</translation>
     </message>
     <message>
+        <source>Allow websites to access the microphone</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Allow websites to access the camera</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Allow websites to access the microphone</source>
+        <source>Allow websites to access the geographical location</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. www.example.org lan.example.org</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -761,10 +781,6 @@ PENGGUNAAN
     <message>
         <source>New tab</source>
         <translation>Tab baru</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the geographical location</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>

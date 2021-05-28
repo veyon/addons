@@ -389,6 +389,10 @@
         <translation>&lt;N/A&gt;</translation>
     </message>
     <message>
+        <source>invalid license</source>
+        <translation>licenza non valida</translation>
+    </message>
+    <message>
         <source>Invalid license file</source>
         <translation>File di licenza non valido</translation>
     </message>
@@ -489,6 +493,10 @@ USO
     <message>
         <source>&lt;N/A&gt;</source>
         <translation>&lt;N/A&gt;</translation>
+    </message>
+    <message>
+        <source>invalid license</source>
+        <translation>licenza non valida</translation>
     </message>
     <message>
         <source>Licensing management</source>
@@ -687,25 +695,25 @@ USO
     <name>WebTabsBackendQtWebEngine</name>
     <message>
         <source>Qt WebEngine backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Backend Qt WebEngine per WebTabs</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendQtWebKit</name>
     <message>
         <source>Legacy Qt WebKit backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Backend Qt WebKit legacy per WebTabs</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendWebView2</name>
     <message>
-        <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
+        <translation>Se questo testo rimane visibile, installa &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt;o configurare Veyon per utilizzare un diverso backend WebTabs.</translation>
     </message>
     <message>
-        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
-        <translation type="unfinished"/>
+        <source>Microsoft Edge WebView2 backend for WebTabs</source>
+        <translation>Backend Microsoft Edge WebView2 per WebTabs</translation>
     </message>
 </context>
 <context>
@@ -723,12 +731,24 @@ USO
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Allow websites to access the camera</source>
-        <translation type="unfinished"/>
+        <source>Allow websites to access the microphone</source>
+        <translation>Consenti ai siti web di accedere al microfono</translation>
     </message>
     <message>
-        <source>Allow websites to access the microphone</source>
-        <translation type="unfinished"/>
+        <source>Allow websites to access the camera</source>
+        <translation>Consenti ai siti web di accedere alla fotocamera</translation>
+    </message>
+    <message>
+        <source>Allow websites to access the geographical location</source>
+        <translation>Consenti ai siti web di accedere alla posizione geografica</translation>
+    </message>
+    <message>
+        <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
+        <translation>Ignora gli errori SSL per host/domini con certificati autofirmati:</translation>
+    </message>
+    <message>
+        <source>e.g. www.example.org lan.example.org</source>
+        <translation>per esempio. www.example.org lan.example.org</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -761,10 +781,6 @@ USO
     <message>
         <source>New tab</source>
         <translation>Nuova scheda</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the geographical location</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
