@@ -184,7 +184,7 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation>阻止到（例如代理或 DNS）伺服器的流量</translation>
+        <translation>封鎖流量到 (例如 Proxy 或 DNS) 伺服器</translation>
     </message>
     <message>
         <source>Server addresses</source>
@@ -192,7 +192,7 @@
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation>例如 192.168.1.253</translation>
+        <translation>例如: 192.168.1.253</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
@@ -292,7 +292,7 @@
     </message>
     <message>
         <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>請輸入實例的名稱 (之後無法變更!):</translation>
+        <translation>請輸入實例的名稱 (以後不能變更!):</translation>
     </message>
     <message>
         <source>Remove instance</source>
@@ -300,11 +300,11 @@
     </message>
     <message>
         <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>您真的要移除實例 &quot;%1&quot;?</translation>
+        <translation>您確定要移除實體「%1」?</translation>
     </message>
     <message>
         <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>實例 &quot;%1&quot; 的組態</translation>
+        <translation>實例「%1」的組態</translation>
     </message>
 </context>
 <context>
@@ -390,7 +390,7 @@
     </message>
     <message>
         <source>invalid license</source>
-        <translation type="unfinished"/>
+        <translation>授權無效</translation>
     </message>
     <message>
         <source>Invalid license file</source>
@@ -468,7 +468,7 @@ USAGE
         <translation>
 用法
 
-%1 add &lt;LICENSE FILE&gt;
+%1 加入 &lt;授權檔&gt;
 
 </translation>
     </message>
@@ -482,7 +482,7 @@ USAGE
         <translation>
 用法
 
-%1 remove &lt;LICENSE ID&gt;
+%1 移除 &lt;授權檔&gt;
 
 </translation>
     </message>
@@ -496,7 +496,7 @@ USAGE
     </message>
     <message>
         <source>invalid license</source>
-        <translation type="unfinished"/>
+        <translation>授權無效</translation>
     </message>
     <message>
         <source>Licensing management</source>
@@ -641,7 +641,7 @@ USAGE
         <translation>
 用法
 
-%1 scan [&lt;子網路&gt;]
+%1 掃描 [&lt;子網路&gt;]
 
 </translation>
     </message>
@@ -695,25 +695,25 @@ USAGE
     <name>WebTabsBackendQtWebEngine</name>
     <message>
         <source>Qt WebEngine backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Qt WebEngine 後端用於 WebTabs</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendQtWebKit</name>
     <message>
         <source>Legacy Qt WebKit backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Legacy Qt WebKit 後端用於 WebTabs</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendWebView2</name>
     <message>
         <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
-        <translation type="unfinished"/>
+        <translation>如果這個文字仍然可見，請安裝 &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; 或組態 Veyon 以使用不同的 WebTabs 後端。</translation>
     </message>
     <message>
         <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Edge WebView2 後端用於 WebTabs</translation>
     </message>
 </context>
 <context>
@@ -732,23 +732,23 @@ USAGE
     </message>
     <message>
         <source>Allow websites to access the microphone</source>
-        <translation type="unfinished"/>
+        <translation>允許網站存取麥克風</translation>
     </message>
     <message>
         <source>Allow websites to access the camera</source>
-        <translation type="unfinished"/>
+        <translation>允許網站存取攝影機</translation>
     </message>
     <message>
         <source>Allow websites to access the geographical location</source>
-        <translation type="unfinished"/>
+        <translation>允許網站存取地理位置</translation>
     </message>
     <message>
         <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
-        <translation type="unfinished"/>
+        <translation>忽略含有自我簽章憑證的主機/網域的 SSL 錯誤:</translation>
     </message>
     <message>
         <source>e.g. www.example.org lan.example.org</source>
-        <translation type="unfinished"/>
+        <translation>例如: www.example.org lan.example.org</translation>
     </message>
     <message>
         <source>Tabs</source>

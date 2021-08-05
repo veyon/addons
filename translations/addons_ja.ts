@@ -571,7 +571,7 @@ USAGE
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>セッション</translation>
     </message>
     <message>
         <source>Session scan limit</source>
