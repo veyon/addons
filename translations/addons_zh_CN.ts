@@ -3,7 +3,7 @@
     <name>DesktopMatrixConfigurationPage</name>
     <message>
         <source>DesktopMatrix</source>
-        <translation type="unfinished"/>
+        <translation>屏幕矩阵</translation>
     </message>
     <message>
         <source>General</source>
@@ -11,19 +11,19 @@
     </message>
     <message>
         <source>Show usernames instead of session names</source>
-        <translation type="unfinished"/>
+        <translation>显示用户名而不是会话名称</translation>
     </message>
     <message>
         <source>Hide own sessions</source>
-        <translation type="unfinished"/>
+        <translation>隐藏自己的会话</translation>
     </message>
     <message>
         <source>Add hierarchy level for desktop group types</source>
-        <translation type="unfinished"/>
+        <translation>为桌面组类型添加层次结构级别</translation>
     </message>
     <message>
         <source>Coordinator</source>
-        <translation type="unfinished"/>
+        <translation>协调员</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -31,27 +31,27 @@
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>端口</translation>
     </message>
     <message>
         <source>Register sessions</source>
-        <translation type="unfinished"/>
+        <translation>注册会话</translation>
     </message>
     <message>
         <source>Run coordinator on this host</source>
-        <translation type="unfinished"/>
+        <translation>在此主机上运行协调员</translation>
     </message>
     <message>
         <source>Desktop groups</source>
-        <translation type="unfinished"/>
+        <translation>桌面组</translation>
     </message>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
+        <translation>会话主机</translation>
     </message>
     <message>
         <source>Hostname groups</source>
-        <translation type="unfinished"/>
+        <translation>主机名组</translation>
     </message>
     <message>
         <source>Common hostname groups only</source>
@@ -59,7 +59,7 @@
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>用户组</translation>
     </message>
     <message>
         <source>Common user groups only</source>
@@ -71,11 +71,11 @@
     </message>
     <message>
         <source>Common locations only</source>
-        <translation type="unfinished"/>
+        <translation>仅公共位置</translation>
     </message>
     <message>
         <source>Instant lessons</source>
-        <translation type="unfinished"/>
+        <translation>即时课程</translation>
     </message>
     <message>
         <source>Host name separator</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Cache size</source>
-        <translation type="unfinished"/>
+        <translation>缓存大小</translation>
     </message>
     <message>
         <source>Backend</source>
@@ -91,26 +91,26 @@
     </message>
     <message>
         <source>Name filter</source>
-        <translation type="unfinished"/>
+        <translation>名称过滤器</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"/>
+        <translation>目录</translation>
     </message>
 </context>
 <context>
     <name>DesktopMatrixGroupManager</name>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
+        <translation>会话主机</translation>
     </message>
     <message>
         <source>Hostname groups</source>
-        <translation type="unfinished"/>
+        <translation>主机名组</translation>
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>用户组</translation>
     </message>
     <message>
         <source>Locations</source>

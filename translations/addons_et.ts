@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Hide own sessions</source>
-        <translation type="unfinished"/>
+        <translation>Peida oma seansid</translation>
     </message>
     <message>
         <source>Add hierarchy level for desktop group types</source>
@@ -51,11 +51,11 @@
     </message>
     <message>
         <source>Hostname groups</source>
-        <translation type="unfinished"/>
+        <translation>Hostinime rühmad</translation>
     </message>
     <message>
         <source>Common hostname groups only</source>
-        <translation type="unfinished"/>
+        <translation>Ainult tavalised hostinime rühmad</translation>
     </message>
     <message>
         <source>User groups</source>
@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>Common user groups only</source>
-        <translation type="unfinished"/>
+        <translation>Ainult tavalised kasutajarühmad</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>Host name separator</source>
-        <translation type="unfinished"/>
+        <translation>Hostinime eraldaja</translation>
     </message>
     <message>
         <source>Cache size</source>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Hostname groups</source>
-        <translation type="unfinished"/>
+        <translation>Hostinime rühmad</translation>
     </message>
     <message>
         <source>User groups</source>
@@ -121,11 +121,11 @@
     <name>DesktopMatrixPlugin</name>
     <message>
         <source>VDI support for Veyon</source>
-        <translation type="unfinished"/>
+        <translation>VDI tugi Veyonile</translation>
     </message>
     <message>
         <source>%1 (use VDI desktops)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (kasutage VDI lauaarvuteid)</translation>
     </message>
 </context>
 <context>
@@ -390,7 +390,7 @@
     </message>
     <message>
         <source>invalid license</source>
-        <translation type="unfinished"/>
+        <translation>kehtetu litsents</translation>
     </message>
     <message>
         <source>Invalid license file</source>
@@ -496,7 +496,7 @@ KASUTA
     </message>
     <message>
         <source>invalid license</source>
-        <translation type="unfinished"/>
+        <translation>kehtetu litsents</translation>
     </message>
     <message>
         <source>Licensing management</source>
@@ -695,25 +695,25 @@ KASUTA
     <name>WebTabsBackendQtWebEngine</name>
     <message>
         <source>Qt WebEngine backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Qt WebEngine&apos;i taustaprogramm WebTabside jaoks</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendQtWebKit</name>
     <message>
         <source>Legacy Qt WebKit backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Pärandvara Qt WebKit taustaprogramm WebTabside jaoks</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendWebView2</name>
     <message>
         <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
-        <translation type="unfinished"/>
+        <translation>Kui see tekst jääb nähtavaks, installige &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; või konfigureerige Veyon kasutama teist WebTabsi taustaprogrammi.</translation>
     </message>
     <message>
         <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Edge WebView2 taustaprogramm veebikaartidele</translation>
     </message>
 </context>
 <context>
@@ -732,23 +732,23 @@ KASUTA
     </message>
     <message>
         <source>Allow websites to access the microphone</source>
-        <translation type="unfinished"/>
+        <translation>Luba veebisaitidel mikrofonile juurde pääseda</translation>
     </message>
     <message>
         <source>Allow websites to access the camera</source>
-        <translation type="unfinished"/>
+        <translation>Luba veebisaitidel kaamerale juurde pääseda</translation>
     </message>
     <message>
         <source>Allow websites to access the geographical location</source>
-        <translation type="unfinished"/>
+        <translation>Lubage veebisaitidel juurdepääs geograafilisele asukohale</translation>
     </message>
     <message>
         <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
-        <translation type="unfinished"/>
+        <translation>Ignoreeri SSL-vigu ise allkirjastatud sertifikaatidega hostidel/domeenidel:</translation>
     </message>
     <message>
         <source>e.g. www.example.org lan.example.org</source>
-        <translation type="unfinished"/>
+        <translation>näiteks www.example.org lan.example.org</translation>
     </message>
     <message>
         <source>Tabs</source>
