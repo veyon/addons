@@ -4,7 +4,7 @@ stages:
 
 build-windows:
   stage: build
-  image: $CI_REGISTRY/veyon/ci-mingw-w64:4.5
+  image: $CI_REGISTRY/veyon/ci-mingw-w64:4.7
   script:
     - ./prepare-build.sh
     - cd veyon && .ci/windows/build.sh $BITS addons-binaries && cd ..
@@ -26,12 +26,12 @@ build-linux:
     matrix:
       - DISTRO:
         - centos.7.9
-        - centos.8.3
+        - centos.8.4
         - debian.stretch
         - debian.buster
         - debian.bullseye
-        - fedora.33
         - fedora.34
+        - fedora.35
         - opensuse.15.2
         - opensuse.15.3
         - ubuntu.bionic

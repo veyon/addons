@@ -18,6 +18,9 @@
 	path = veyon
 	url = ../veyon
 	branch = master
+[submodule "chat"]
+	path = chat
+	url = ../chat.git
 [submodule "webtabs"]
 	path = webtabs
 	url = ../webtabs

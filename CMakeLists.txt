@@ -1,6 +1,7 @@
 add_custom_target(addons)
 
 add_subdirectory(translations)
+add_subdirectory(chat)
 add_subdirectory(internet-access-control)
 add_subdirectory(licensing)
 add_subdirectory(ldap-pro)
