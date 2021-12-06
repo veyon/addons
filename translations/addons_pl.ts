@@ -1,5 +1,94 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="pl" version="2.1">
 <context>
+    <name>ChatConfigurationPage</name>
+    <message>
+        <source>General settings</source>
+        <translation>Ogólne ustawienia</translation>
+    </message>
+    <message>
+        <source>Allow plain text messages only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Nicknames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login names of users</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow users to change their nicknames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Full names of users</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ChatPlugin</name>
+    <message>
+        <source>Chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Interactive chat with logged on users</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%2 Chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ChatWindow</name>
+    <message>
+        <source>Type a new message</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Veyon Chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chat title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change nickname</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter a new nickname:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change chat title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter a new title for the chat:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close chat</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>DesktopMatrixConfigurationPage</name>
     <message>
         <source>DesktopMatrix</source>
@@ -11,19 +100,19 @@
     </message>
     <message>
         <source>Show usernames instead of session names</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż nazwy użytkowników zamiast nazw sesji</translation>
     </message>
     <message>
         <source>Hide own sessions</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj własne sesje</translation>
     </message>
     <message>
         <source>Add hierarchy level for desktop group types</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj poziom hierarchii dla typów grup pulpitów</translation>
     </message>
     <message>
         <source>Coordinator</source>
-        <translation type="unfinished"/>
+        <translation>Koordynator</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -35,19 +124,19 @@
     </message>
     <message>
         <source>Register sessions</source>
-        <translation type="unfinished"/>
+        <translation>Rejestracja sesji</translation>
     </message>
     <message>
         <source>Run coordinator on this host</source>
-        <translation type="unfinished"/>
+        <translation>Uruchom koordynatora na tym hoście</translation>
     </message>
     <message>
         <source>Desktop groups</source>
-        <translation type="unfinished"/>
+        <translation>Grupy pulpitu</translation>
     </message>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
+        <translation>Hosty sesji</translation>
     </message>
     <message>
         <source>Hostname groups</source>
@@ -95,14 +184,14 @@
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"/>
+        <translation>Katalog</translation>
     </message>
 </context>
 <context>
     <name>DesktopMatrixGroupManager</name>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
+        <translation>Hosty sesji</translation>
     </message>
     <message>
         <source>Hostname groups</source>
@@ -264,16 +353,16 @@
         <translation>Kliknij ten przycisk, aby odblokować dostęp do Internetu.</translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Dostęp do Internetu jest teraz zablokowany. Ponieważ używasz wersji demonstracyjnej tego dodatku, zostanie on automatycznie odblokowany w ciągu 60 sekund.</translation>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>Kontroluj dostęp do internetu</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Komendy do zarządzania dostępem do internetu</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -428,16 +517,16 @@
 <context>
     <name>LicensingHelper</name>
     <message>
-        <source>Thank you for testing the %1 addon.</source>
-        <translation>Dziękujemy za wypróbowanie dodatku %1.</translation>
-    </message>
-    <message>
-        <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
-        <translation>Proszę odwiedzić stronę %1 po więcej informacji dotyczących licencji dodatku.</translation>
-    </message>
-    <message>
         <source>%1 demo</source>
         <translation>%1 demo</translation>
+    </message>
+    <message>
+        <source>Thank you for testing the %1 add-on.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -594,10 +683,6 @@ UŻYCIE
         <translation>ms</translation>
     </message>
     <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Odwrócone wyszukiwanie adresów IP na nazwy hostów</translation>
-    </message>
-    <message>
         <source>Parallel scans</source>
         <translation>Skanowanie równoległe</translation>
     </message>
@@ -608,6 +693,30 @@ UŻYCIE
     <message>
         <source>New location</source>
         <translation>Nowa lokalizacja</translation>
+    </message>
+    <message>
+        <source>Computer and location names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverse lookup hostnames from discovered IP addresses</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract location names from hostnames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract computer names from hostnames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format string or regular expression</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

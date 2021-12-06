@@ -1,5 +1,94 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="sl" version="2.1">
 <context>
+    <name>ChatConfigurationPage</name>
+    <message>
+        <source>General settings</source>
+        <translation>Splošne nastavitve</translation>
+    </message>
+    <message>
+        <source>Allow plain text messages only</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Nicknames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Login names of users</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allow users to change their nicknames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Full names of users</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ChatPlugin</name>
+    <message>
+        <source>Chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Interactive chat with logged on users</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%2 Chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ChatWindow</name>
+    <message>
+        <source>Type a new message</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Veyon Chat</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Chat title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change nickname</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter a new nickname:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change chat title</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please enter a new title for the chat:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close chat</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>DesktopMatrixConfigurationPage</name>
     <message>
         <source>DesktopMatrix</source>
@@ -264,16 +353,16 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>Nadzor dostopa do interneta</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Ukazi za nadzor dostopa do interneta</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -428,15 +517,15 @@
 <context>
     <name>LicensingHelper</name>
     <message>
-        <source>Thank you for testing the %1 addon.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>%1 demo</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Thank you for testing the %1 add-on.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -594,10 +683,6 @@ UPORABA
         <translation> ms</translation>
     </message>
     <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Povratno iskanje je odkrilo naslove IP za imena gostiteljev</translation>
-    </message>
-    <message>
         <source>Parallel scans</source>
         <translation>Vzporedno skeniranje</translation>
     </message>
@@ -608,6 +693,30 @@ UPORABA
     <message>
         <source>New location</source>
         <translation>Nova lokacija</translation>
+    </message>
+    <message>
+        <source>Computer and location names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverse lookup hostnames from discovered IP addresses</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract location names from hostnames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract computer names from hostnames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format string or regular expression</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

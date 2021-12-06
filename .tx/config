@@ -2,7 +2,7 @@
 host = https://www.transifex.com
 minimum_perc = 5
 
-[veyon.addons_45]
+[veyon.addons_47]
 file_filter = translations/addons_<lang>.ts
 source_file = translations/addons.ts
 source_lang = en

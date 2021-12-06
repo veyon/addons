@@ -1,5 +1,94 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_TW" version="2.1">
 <context>
+    <name>ChatConfigurationPage</name>
+    <message>
+        <source>General settings</source>
+        <translation>一般設定</translation>
+    </message>
+    <message>
+        <source>Allow plain text messages only</source>
+        <translation>只允許純文字訊息</translation>
+    </message>
+    <message>
+        <source>Nicknames</source>
+        <translation>膩稱</translation>
+    </message>
+    <message>
+        <source>Login names of users</source>
+        <translation>使用者的登入名稱</translation>
+    </message>
+    <message>
+        <source>Allow users to change their nicknames</source>
+        <translation>允許使用者變更其名稱</translation>
+    </message>
+    <message>
+        <source>Full names of users</source>
+        <translation>使用者的全名</translation>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation>交談</translation>
+    </message>
+</context>
+<context>
+    <name>ChatPlugin</name>
+    <message>
+        <source>Chat</source>
+        <translation>交談</translation>
+    </message>
+    <message>
+        <source>Interactive chat with logged on users</source>
+        <translation>與登入使用者互動交談</translation>
+    </message>
+    <message>
+        <source>%2 Chat</source>
+        <translation>%2 交談</translation>
+    </message>
+    <message>
+        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
+        <translation>按一下這個按鈕可與所有使用者開始交談。 然後所有使用者都可以在公共交談中編寫文字訊息。</translation>
+    </message>
+</context>
+<context>
+    <name>ChatWindow</name>
+    <message>
+        <source>Type a new message</source>
+        <translation>輸入新訊息</translation>
+    </message>
+    <message>
+        <source>Veyon Chat</source>
+        <translation>Veyon 交談</translation>
+    </message>
+    <message>
+        <source>Chat title</source>
+        <translation>交談標題</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>暱稱</translation>
+    </message>
+    <message>
+        <source>Change nickname</source>
+        <translation>變更暱稱</translation>
+    </message>
+    <message>
+        <source>Please enter a new nickname:</source>
+        <translation>請輸入新暱稱:</translation>
+    </message>
+    <message>
+        <source>Change chat title</source>
+        <translation>變更交談標題</translation>
+    </message>
+    <message>
+        <source>Please enter a new title for the chat:</source>
+        <translation>請輸入新的交談標題:</translation>
+    </message>
+    <message>
+        <source>Close chat</source>
+        <translation>關閉交談</translation>
+    </message>
+</context>
+<context>
     <name>DesktopMatrixConfigurationPage</name>
     <message>
         <source>DesktopMatrix</source>
@@ -264,16 +353,16 @@
         <translation>按一下此按鈕可取消封鎖 internet 存取。</translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation>現在封鎖 internet 存取。 由於您使用的是這個附加元件的展示版本，因此將在 60 秒內自動解除封鎖。</translation>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>控制存取 internet</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>控制存取 internet 的命令</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>Internet 存取現在已封鎖。 由於您使用的是這個附加元件的展示版本，它將在 60 秒內自動取消封鎖。</translation>
     </message>
 </context>
 <context>
@@ -428,16 +517,16 @@
 <context>
     <name>LicensingHelper</name>
     <message>
-        <source>Thank you for testing the %1 addon.</source>
+        <source>%1 demo</source>
+        <translation>%1 展示</translation>
+    </message>
+    <message>
+        <source>Thank you for testing the %1 add-on.</source>
         <translation>感謝您測試 %1 附加元件。</translation>
     </message>
     <message>
-        <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
-        <translation>有關如何取得這個附加元件授權的詳細資訊，請訪問 %1。</translation>
-    </message>
-    <message>
-        <source>%1 demo</source>
-        <translation>%1 展示</translation>
+        <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
+        <translation>請訪問 %1 以取得如得獲取這個附加元件授權的更多資訊。</translation>
     </message>
 </context>
 <context>
@@ -594,10 +683,6 @@ USAGE
         <translation> 毫秒</translation>
     </message>
     <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>反向對應發現的主機名稱的 IP 位址</translation>
-    </message>
-    <message>
         <source>Parallel scans</source>
         <translation>並行掃描</translation>
     </message>
@@ -608,6 +693,30 @@ USAGE
     <message>
         <source>New location</source>
         <translation>新位置</translation>
+    </message>
+    <message>
+        <source>Computer and location names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverse lookup hostnames from discovered IP addresses</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract location names from hostnames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract computer names from hostnames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format string or regular expression</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

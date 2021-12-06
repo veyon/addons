@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="lv" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ca_ES" version="2.1">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -96,7 +96,7 @@
     </message>
     <message>
         <source>General</source>
-        <translation>Vispārīgi</translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Show usernames instead of session names</source>
@@ -112,15 +112,15 @@
     </message>
     <message>
         <source>Coordinator</source>
-        <translation type="unfinished"/>
+        <translation>Coordinador</translation>
     </message>
     <message>
         <source>Host address</source>
-        <translation>Dalībnieku adreses</translation>
+        <translation>Adreça de l&apos;amfitrió</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Port</translation>
     </message>
     <message>
         <source>Register sessions</source>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"/>
+        <translation>Ubicacions</translation>
     </message>
     <message>
         <source>Common locations only</source>
@@ -176,7 +176,7 @@
     </message>
     <message>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <source>Name filter</source>
@@ -184,7 +184,7 @@
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"/>
+        <translation>Directori</translation>
     </message>
 </context>
 <context>
@@ -203,7 +203,7 @@
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"/>
+        <translation>Ubicacions</translation>
     </message>
 </context>
 <context>
@@ -289,7 +289,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation>Vārds</translation>
+        <translation>Nom</translation>
     </message>
 </context>
 <context>
@@ -311,7 +311,7 @@
     </message>
     <message>
         <source>Backend:</source>
-        <translation type="unfinished"/>
+        <translation>Dorsal:</translation>
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
@@ -334,7 +334,7 @@
     </message>
     <message>
         <source>Show help about command</source>
-        <translation>Parādīt palīdzību par komandu</translation>
+        <translation>Mostra l&apos;ajuda sobre l&apos;ordre</translation>
     </message>
     <message>
         <source>Internet access</source>
@@ -404,11 +404,11 @@
     </message>
     <message>
         <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (carrega els ordinadors i les ubicacions des de LDAP/AD)</translation>
     </message>
     <message>
         <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (carrega usuaris i grups des de LDAP/AD)</translation>
     </message>
 </context>
 <context>
@@ -475,7 +475,7 @@
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
-        <translation>&lt;N/A&gt;</translation>
+        <translation>&lt;N/D&gt;</translation>
     </message>
     <message>
         <source>invalid license</source>
@@ -533,7 +533,7 @@
     <name>LicensingPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation>Parādīt palīdzību izvēlētajai komandai</translation>
+        <translation>Mostra l&apos;ajuda per a una ordre específica</translation>
     </message>
     <message>
         <source>Show all installed licenses</source>
@@ -571,7 +571,7 @@ USAGE
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
-        <translation>&lt;N/A&gt;</translation>
+        <translation>&lt;N/D&gt;</translation>
     </message>
     <message>
         <source>invalid license</source>
@@ -602,7 +602,7 @@ USAGE
     </message>
     <message>
         <source>Test</source>
-        <translation>Tests</translation>
+        <translation>Prova</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
@@ -666,11 +666,11 @@ USAGE
     </message>
     <message>
         <source>Options</source>
-        <translation>Iespējas</translation>
+        <translation>Opcions</translation>
     </message>
     <message>
         <source> ms</source>
-        <translation>ms</translation>
+        <translation> ms</translation>
     </message>
     <message>
         <source>Parallel scans</source>
@@ -682,7 +682,7 @@ USAGE
     </message>
     <message>
         <source>New location</source>
-        <translation type="unfinished"/>
+        <translation>Ubicació nova</translation>
     </message>
     <message>
         <source>Computer and location names</source>
@@ -713,22 +713,22 @@ USAGE
     <name>NetworkDiscoveryDirectory</name>
     <message>
         <source>Discovered computers</source>
-        <translation>Atklātie datori</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scanning...</source>
-        <translation>Skenējas...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation>Parādīt palīdzību izvēlētajai komandai</translation>
+        <translation>Mostra l&apos;ajuda per a una ordre específica</translation>
     </message>
     <message>
         <source>Scan a subnet</source>
-        <translation>Skenēt apakštīklu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>
@@ -760,15 +760,15 @@ USAGE
     </message>
     <message>
         <source>Add custom route to block internet</source>
-        <translation>Pievienot papildus ceļu lai bloķētu internetu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Destination</source>
-        <translation>Mērķis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gateway</source>
-        <translation>Vārteja</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -782,7 +782,7 @@ USAGE
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
-        <translation>licenzēts uz</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -822,7 +822,7 @@ USAGE
     </message>
     <message>
         <source>Backend:</source>
-        <translation type="unfinished"/>
+        <translation>Dorsal:</translation>
     </message>
     <message>
         <source>Allow websites to access the microphone</source>
@@ -862,7 +862,7 @@ USAGE
     </message>
     <message>
         <source>Name</source>
-        <translation>Vārds</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>URL</source>

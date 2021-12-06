@@ -1,5 +1,94 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS language="fr" version="2.1">
 <context>
+    <name>ChatConfigurationPage</name>
+    <message>
+        <source>General settings</source>
+        <translation>Paramètres généraux</translation>
+    </message>
+    <message>
+        <source>Allow plain text messages only</source>
+        <translation>Autoriser uniquement les messages en texte brut</translation>
+    </message>
+    <message>
+        <source>Nicknames</source>
+        <translation>Pseudos</translation>
+    </message>
+    <message>
+        <source>Login names of users</source>
+        <translation>Noms de connexion des utilisateurs</translation>
+    </message>
+    <message>
+        <source>Allow users to change their nicknames</source>
+        <translation>Autoriser les utilisateurs à changer leurs pseudos</translation>
+    </message>
+    <message>
+        <source>Full names of users</source>
+        <translation>Noms complets des utilisateurs</translation>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation>Tchat</translation>
+    </message>
+</context>
+<context>
+    <name>ChatPlugin</name>
+    <message>
+        <source>Chat</source>
+        <translation>Tchat</translation>
+    </message>
+    <message>
+        <source>Interactive chat with logged on users</source>
+        <translation>Tchat interactif avec les utilisateurs connectés</translation>
+    </message>
+    <message>
+        <source>%2 Chat</source>
+        <translation>%2 Tchat</translation>
+    </message>
+    <message>
+        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
+        <translation>Cliquez sur ce bouton pour démarrer une discussion avec tous les utilisateurs. Ensuite, tous les utilisateurs peuvent écrire des messages texte dans un tchat commun.</translation>
+    </message>
+</context>
+<context>
+    <name>ChatWindow</name>
+    <message>
+        <source>Type a new message</source>
+        <translation>Tapez un nouveau message</translation>
+    </message>
+    <message>
+        <source>Veyon Chat</source>
+        <translation>Tchat Veyon</translation>
+    </message>
+    <message>
+        <source>Chat title</source>
+        <translation>Titre du tchat</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Pseudo</translation>
+    </message>
+    <message>
+        <source>Change nickname</source>
+        <translation>Changer de pseudo</translation>
+    </message>
+    <message>
+        <source>Please enter a new nickname:</source>
+        <translation>Veuillez saisir un nouveau pseudonyme :</translation>
+    </message>
+    <message>
+        <source>Change chat title</source>
+        <translation>Changer le titre du tchat</translation>
+    </message>
+    <message>
+        <source>Please enter a new title for the chat:</source>
+        <translation>Veuillez saisir un nouveau titre pour le tchat :</translation>
+    </message>
+    <message>
+        <source>Close chat</source>
+        <translation>Fermer le tchat</translation>
+    </message>
+</context>
+<context>
     <name>DesktopMatrixConfigurationPage</name>
     <message>
         <source>DesktopMatrix</source>
@@ -264,16 +353,16 @@
         <translation>Cliquez sur ce bouton pour débloquer l&apos;accès à Internet.</translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation>L&apos;accès Internet est maintenant bloqué. Comme vous utilisez une version de démonstration de cette extension, il sera automatiquement débloqué après un délai de 60 secondes.</translation>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>Contrôle l&apos;accès à internet</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Commandes pour contrôler l&apos;accès à Internet</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>L&apos;accès Internet est maintenant bloqué. Comme vous utilisez une version de démonstration de cette extension, il sera automatiquement débloqué après un délai de 60 secondes.</translation>
     </message>
 </context>
 <context>
@@ -428,16 +517,16 @@
 <context>
     <name>LicensingHelper</name>
     <message>
-        <source>Thank you for testing the %1 addon.</source>
+        <source>%1 demo</source>
+        <translation>Démo %1</translation>
+    </message>
+    <message>
+        <source>Thank you for testing the %1 add-on.</source>
         <translation>Merci d&apos;avoir testé l&apos;extension %1.</translation>
     </message>
     <message>
-        <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
+        <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
         <translation>Veuillez visiter %1 pour plus d&apos;informations sur la façon d&apos;obtenir une licence pour cette extension.</translation>
-    </message>
-    <message>
-        <source>%1 demo</source>
-        <translation>Démo %1</translation>
     </message>
 </context>
 <context>
@@ -594,10 +683,6 @@ USAGE
         <translation>ms</translation>
     </message>
     <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Recherche inversée des adresses IP découvertes en noms d&apos;hôte</translation>
-    </message>
-    <message>
         <source>Parallel scans</source>
         <translation>Scans parallèles</translation>
     </message>
@@ -608,6 +693,30 @@ USAGE
     <message>
         <source>New location</source>
         <translation>Nouvel emplacement</translation>
+    </message>
+    <message>
+        <source>Computer and location names</source>
+        <translation>Noms des ordinateurs et des emplacements</translation>
+    </message>
+    <message>
+        <source>Reverse lookup hostnames from discovered IP addresses</source>
+        <translation>Recherche inversée de noms d&apos;hôtes à partir d&apos;adresses IP découvertes</translation>
+    </message>
+    <message>
+        <source>Extract location names from hostnames</source>
+        <translation>Extraire les noms d&apos;emplacement des noms d&apos;hôte</translation>
+    </message>
+    <message>
+        <source>Extract computer names from hostnames</source>
+        <translation>Extraire les noms d&apos;ordinateurs des noms d&apos;hôtes</translation>
+    </message>
+    <message>
+        <source>Format string or regular expression</source>
+        <translation>Chaîne de format ou expression régulière</translation>
+    </message>
+    <message>
+        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

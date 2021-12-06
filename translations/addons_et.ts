@@ -1,4 +1,93 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="et" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="et">
+<context>
+    <name>ChatConfigurationPage</name>
+    <message>
+        <source>General settings</source>
+        <translation>Üldised seaded</translation>
+    </message>
+    <message>
+        <source>Allow plain text messages only</source>
+        <translation>Luba ainult lihttekstsõnumid</translation>
+    </message>
+    <message>
+        <source>Nicknames</source>
+        <translation>Hüüdnimed</translation>
+    </message>
+    <message>
+        <source>Login names of users</source>
+        <translation>Kasutajate sisselogimisnimed</translation>
+    </message>
+    <message>
+        <source>Allow users to change their nicknames</source>
+        <translation>Luba kasutajatel oma hüüdnimesid muuta</translation>
+    </message>
+    <message>
+        <source>Full names of users</source>
+        <translation>Kasutajate täisnimed</translation>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation>Vestlus</translation>
+    </message>
+</context>
+<context>
+    <name>ChatPlugin</name>
+    <message>
+        <source>Chat</source>
+        <translation>Vestlus</translation>
+    </message>
+    <message>
+        <source>Interactive chat with logged on users</source>
+        <translation>Interaktiivne vestlus sisselogitud kasutajatega</translation>
+    </message>
+    <message>
+        <source>%2 Chat</source>
+        <translation>%2 Vestlus</translation>
+    </message>
+    <message>
+        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
+        <translation>Kõigi kasutajatega vestluse alustamiseks klõpsake seda nuppu. Seejärel saavad kõik kasutajad ühises vestluses tekstisõnumeid kirjutada.</translation>
+    </message>
+</context>
+<context>
+    <name>ChatWindow</name>
+    <message>
+        <source>Type a new message</source>
+        <translation>Sisestage uus sõnum</translation>
+    </message>
+    <message>
+        <source>Veyon Chat</source>
+        <translation>Veyoni vestlus</translation>
+    </message>
+    <message>
+        <source>Chat title</source>
+        <translation>Vestluse pealkiri</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Hüüdnimi</translation>
+    </message>
+    <message>
+        <source>Change nickname</source>
+        <translation>Vaheta hüüdnimi</translation>
+    </message>
+    <message>
+        <source>Please enter a new nickname:</source>
+        <translation>Palun sisestage uus hüüdnimi:</translation>
+    </message>
+    <message>
+        <source>Change chat title</source>
+        <translation>Muutke vestluse pealkirja</translation>
+    </message>
+    <message>
+        <source>Please enter a new title for the chat:</source>
+        <translation>Palun sisestage vestlusele uus pealkiri:</translation>
+    </message>
+    <message>
+        <source>Close chat</source>
+        <translation>Sule vestlus</translation>
+    </message>
+</context>
 <context>
     <name>DesktopMatrixConfigurationPage</name>
     <message>
@@ -264,16 +353,16 @@
         <translation>Klõpsa siia interneti lubamiseks</translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Interneti-ühendus on nüüd blokeeritud. Kuni kasutate selle lisandmooduli demoversiooni, deblokeeritakse see automaatselt 60 sekundi pärast.</translation>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>Internetti pääsu haldamine</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Internetti pääsu haldamise käsud</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>Interneti-ühendus on nüüd blokeeritud. Kuni kasutate selle lisandmooduli demoversiooni, deblokeeritakse see automaatselt 60 sekundi pärast.</translation>
     </message>
 </context>
 <context>
@@ -428,16 +517,16 @@
 <context>
     <name>LicensingHelper</name>
     <message>
-        <source>Thank you for testing the %1 addon.</source>
+        <source>%1 demo</source>
+        <translation>%1 demo</translation>
+    </message>
+    <message>
+        <source>Thank you for testing the %1 add-on.</source>
         <translation>Täname lisa %1 testimast</translation>
     </message>
     <message>
-        <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
+        <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
         <translation> Külastage %1 lisainfo saamiseks, et saada litsents sellele lisale.</translation>
-    </message>
-    <message>
-        <source>%1 demo</source>
-        <translation>%1 demo</translation>
     </message>
 </context>
 <context>
@@ -594,10 +683,6 @@ KASUTA
         <translation> ms</translation>
     </message>
     <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Pöördotsing avastas hostinimedele IP-aadressid</translation>
-    </message>
-    <message>
         <source>Parallel scans</source>
         <translation>Paralleelsed skaneerimised</translation>
     </message>
@@ -608,6 +693,30 @@ KASUTA
     <message>
         <source>New location</source>
         <translation>Uus asukoht</translation>
+    </message>
+    <message>
+        <source>Computer and location names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Reverse lookup hostnames from discovered IP addresses</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract location names from hostnames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract computer names from hostnames</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Format string or regular expression</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

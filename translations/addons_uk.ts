@@ -1,4 +1,93 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="uk" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="uk">
+<context>
+    <name>ChatConfigurationPage</name>
+    <message>
+        <source>General settings</source>
+        <translation>Загальні параметри</translation>
+    </message>
+    <message>
+        <source>Allow plain text messages only</source>
+        <translation>Дозволити лише прості текстові повідомлення</translation>
+    </message>
+    <message>
+        <source>Nicknames</source>
+        <translation>Псевдоніми</translation>
+    </message>
+    <message>
+        <source>Login names of users</source>
+        <translation>Назви облікових записів користувачів</translation>
+    </message>
+    <message>
+        <source>Allow users to change their nicknames</source>
+        <translation>Дозволити користувачам змінювати власні псевдоніми</translation>
+    </message>
+    <message>
+        <source>Full names of users</source>
+        <translation>Повні імена користувачів</translation>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation>Спілкування</translation>
+    </message>
+</context>
+<context>
+    <name>ChatPlugin</name>
+    <message>
+        <source>Chat</source>
+        <translation>Спілкування</translation>
+    </message>
+    <message>
+        <source>Interactive chat with logged on users</source>
+        <translation>Інтерактивне спілкування з користувачами системи</translation>
+    </message>
+    <message>
+        <source>%2 Chat</source>
+        <translation>%2, спілкування</translation>
+    </message>
+    <message>
+        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
+        <translation>Натисніть цю кнопку, щоб розпочати спілкування із усіма користувачами. Усі користувачі зможуть писати текстові повідомлення у загальному спілкуванні.</translation>
+    </message>
+</context>
+<context>
+    <name>ChatWindow</name>
+    <message>
+        <source>Type a new message</source>
+        <translation>Введіть нове повідомлення</translation>
+    </message>
+    <message>
+        <source>Veyon Chat</source>
+        <translation>Спілкування Veyon</translation>
+    </message>
+    <message>
+        <source>Chat title</source>
+        <translation>Заголовок спілкування</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Псевдонім</translation>
+    </message>
+    <message>
+        <source>Change nickname</source>
+        <translation>Змінити псевдонім</translation>
+    </message>
+    <message>
+        <source>Please enter a new nickname:</source>
+        <translation>Будь ласка, введіть новий псевдонім:</translation>
+    </message>
+    <message>
+        <source>Change chat title</source>
+        <translation>Змінити заголовок спілкування</translation>
+    </message>
+    <message>
+        <source>Please enter a new title for the chat:</source>
+        <translation>Будь ласка, введіть новий заголовок спілкування:</translation>
+    </message>
+    <message>
+        <source>Close chat</source>
+        <translation>Завершити спілкування</translation>
+    </message>
+</context>
 <context>
     <name>DesktopMatrixConfigurationPage</name>
     <message>
@@ -264,16 +353,16 @@
         <translation>Натисніть цю кнопку, щоб розблокувати доступ до інтернету.</translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this addon, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично розблоковано за 60 секунд.</translation>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>Керування доступом до інтернету</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Команди для керування доступом до інтернету</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично розблоковано за 60 секунд.</translation>
     </message>
 </context>
 <context>
@@ -428,16 +517,16 @@
 <context>
     <name>LicensingHelper</name>
     <message>
-        <source>Thank you for testing the %1 addon.</source>
+        <source>%1 demo</source>
+        <translation>Демонстрація %1</translation>
+    </message>
+    <message>
+        <source>Thank you for testing the %1 add-on.</source>
         <translation>Дякуємо за тестування додатка %1.</translation>
     </message>
     <message>
-        <source>Please visit %1 for more information on how to obtain a license for this addon.</source>
+        <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
         <translation>Будь ласка, відвідайте %1, щоб дізнатися більше про те, як отримати ліцензію на цій додаток.</translation>
-    </message>
-    <message>
-        <source>%1 demo</source>
-        <translation>Демонстрація %1</translation>
     </message>
 </context>
 <context>
@@ -594,10 +683,6 @@ USAGE
         <translation>мс</translation>
     </message>
     <message>
-        <source>Reverse lookup discovered IP addresses to host names</source>
-        <translation>Зворотним пошуком визначено IP-адреси для назв вузлів</translation>
-    </message>
-    <message>
         <source>Parallel scans</source>
         <translation>Паралельне сканування</translation>
     </message>
@@ -608,6 +693,30 @@ USAGE
     <message>
         <source>New location</source>
         <translation>Нове місце</translation>
+    </message>
+    <message>
+        <source>Computer and location names</source>
+        <translation>Назви комп&apos;ютера і місця</translation>
+    </message>
+    <message>
+        <source>Reverse lookup hostnames from discovered IP addresses</source>
+        <translation>Зворотний пошук назв вузлів за визначеними IP-адресами</translation>
+    </message>
+    <message>
+        <source>Extract location names from hostnames</source>
+        <translation>Видобути назви місць з назву вузлів</translation>
+    </message>
+    <message>
+        <source>Extract computer names from hostnames</source>
+        <translation>Видобути назви комп&apos;ютерів з назв вузлів</translation>
+    </message>
+    <message>
+        <source>Format string or regular expression</source>
+        <translation>Рядок форматування або формальний вираз</translation>
+    </message>
+    <message>
+        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
+        <translation>Приклад: (%location%:[a-z]+\d+)-(%name%:.*)</translation>
     </message>
 </context>
 <context>
