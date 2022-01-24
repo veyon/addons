@@ -6,6 +6,7 @@ add_subdirectory(internet-access-control)
 add_subdirectory(licensing)
 add_subdirectory(ldap-pro)
 add_subdirectory(network-discovery)
+add_subdirectory(screenrecorder)
 add_subdirectory(webtabs)
 
 set(NSI "veyon-addons.nsi")
@@ -27,6 +28,7 @@ add_custom_target(addons-binaries
 	COMMAND cp -r ${CMAKE_SOURCE_DIR}/COPYING ${ADDONS_BINARIES}
 	COMMAND cp -r ${CMAKE_SOURCE_DIR}/nsis ${ADDONS_BINARIES}
 	COMMAND cp nsis/${NSI} ${ADDONS_BINARIES}
+	COMMAND cp ${DLLDIR}/avcodec*.dll ${DLLDIR}/avformat*.dll ${DLLDIR}/avutil*.dll ${DLLDIR}/swscale*.dll ${DLLDIR}/libx264*.dll ${ADDONS_BINARIES}
 	COMMAND cp ${DLLDIR}/libxml2-2.dll ${ADDONS_BINARIES}
 	COMMAND cp ${DLLDIR}/icu*6*.dll ${ADDONS_BINARIES}
 	COMMAND cp ${DLLDIR}/libsqlite3-0.dll ${ADDONS_BINARIES}

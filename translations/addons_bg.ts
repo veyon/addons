@@ -701,11 +701,11 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Format string or regular expression</source>
+        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
+        <source>Regular expression for hostname parsing:</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -775,6 +775,146 @@ USAGE
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderConfigurationPage</name>
+    <message>
+        <source>Output directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Encoding settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>frames per second</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>x</source>
+        <translation>x</translation>
+    </message>
+    <message>
+        <source>Keep aspect ratio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screen recorder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>kbps</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bitrate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use fixed framerate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use fixed resolution</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>H.264 profile</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Encoder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>x264 preset</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save to computer-specific subdirectories</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Other settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notify users when their screen is recorded</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderControlWidget</name>
+    <message>
+        <source>Screen recorder</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start recording</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recording duration:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open folder with recordings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stop recording</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screen recording</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderEncodingWorker</name>
+    <message>
+        <source>auto</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderPlugin</name>
+    <message>
+        <source>Click this button to record the screens of all users into video files.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Record screens to video files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Stop recording</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Screen recording</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
         <translation type="unfinished"/>
     </message>
 </context>

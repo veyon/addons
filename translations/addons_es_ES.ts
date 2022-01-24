@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="es_ES" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="es_ES">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -711,12 +711,12 @@ Eliminar %1 &lt;LICENSE ID&gt;
         <translation>Extraer los nombres de las computadoras de los nombres de host</translation>
     </message>
     <message>
-        <source>Format string or regular expression</source>
-        <translation>Formatear cadena o expresión regular</translation>
+        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
+        <translation>p.ej. (%location%:[a-z]+\d+)-(%name%:.*)</translation>
     </message>
     <message>
-        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
-        <translation type="unfinished"/>
+        <source>Regular expression for hostname parsing:</source>
+        <translation>Expresión regular para el análisis de nombres de host:</translation>
     </message>
 </context>
 <context>
@@ -791,6 +791,146 @@ USO
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Bloquear el acceso a Internet modificando la tabla de enrutamiento</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderConfigurationPage</name>
+    <message>
+        <source>Output directory</source>
+        <translation>Directorio de salida</translation>
+    </message>
+    <message>
+        <source>Encoding settings</source>
+        <translation>Configuración de codificación</translation>
+    </message>
+    <message>
+        <source>frames per second</source>
+        <translation>cuadros por segundo</translation>
+    </message>
+    <message>
+        <source>x</source>
+        <translation>x</translation>
+    </message>
+    <message>
+        <source>Keep aspect ratio</source>
+        <translation>Mantener la relación de aspecto</translation>
+    </message>
+    <message>
+        <source>Screen recorder</source>
+        <translation>Grabador de pantalla</translation>
+    </message>
+    <message>
+        <source>kbps</source>
+        <translation>kbps</translation>
+    </message>
+    <message>
+        <source>Bitrate</source>
+        <translation>Bitrate</translation>
+    </message>
+    <message>
+        <source>Output settings</source>
+        <translation>Ajustes de salida</translation>
+    </message>
+    <message>
+        <source>Use fixed framerate</source>
+        <translation>Usar velocidad de fotogramas fija</translation>
+    </message>
+    <message>
+        <source>Use fixed resolution</source>
+        <translation>Usar resolución fija</translation>
+    </message>
+    <message>
+        <source>H.264 profile</source>
+        <translation>Perfil H.264</translation>
+    </message>
+    <message>
+        <source>Encoder</source>
+        <translation>Codificador</translation>
+    </message>
+    <message>
+        <source>x264 preset</source>
+        <translation>preajuste x264</translation>
+    </message>
+    <message>
+        <source>Save to computer-specific subdirectories</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Other settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notify users when their screen is recorded</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderControlWidget</name>
+    <message>
+        <source>Screen recorder</source>
+        <translation>Grabador de pantalla</translation>
+    </message>
+    <message>
+        <source>Start recording</source>
+        <translation>Iniciar la grabación</translation>
+    </message>
+    <message>
+        <source>Recording duration:</source>
+        <translation>Duración de la grabación:</translation>
+    </message>
+    <message>
+        <source>Open folder with recordings</source>
+        <translation>Abrir carpeta con grabaciones</translation>
+    </message>
+    <message>
+        <source>Stop recording</source>
+        <translation>Detener grabación</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Cerrar</translation>
+    </message>
+    <message>
+        <source>Screen recording</source>
+        <translation>Grabación de pantalla</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderEncodingWorker</name>
+    <message>
+        <source>auto</source>
+        <translation>auto</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderPlugin</name>
+    <message>
+        <source>Click this button to record the screens of all users into video files.</source>
+        <translation>Haga clic en este botón para grabar las pantallas de todos los usuarios en archivos de video.</translation>
+    </message>
+    <message>
+        <source>Record screens to video files</source>
+        <translation>Grabar pantallas en archivos de video</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation>Registro</translation>
+    </message>
+    <message>
+        <source>Stop recording</source>
+        <translation>Detener grabación</translation>
+    </message>
+    <message>
+        <source>Screen recording</source>
+        <translation>Grabación de pantalla</translation>
+    </message>
+    <message>
+        <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

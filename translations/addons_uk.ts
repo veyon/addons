@@ -711,12 +711,12 @@ USAGE
         <translation>Видобути назви комп&apos;ютерів з назв вузлів</translation>
     </message>
     <message>
-        <source>Format string or regular expression</source>
-        <translation>Рядок форматування або формальний вираз</translation>
-    </message>
-    <message>
         <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
         <translation>Приклад: (%location%:[a-z]+\d+)-(%name%:.*)</translation>
+    </message>
+    <message>
+        <source>Regular expression for hostname parsing:</source>
+        <translation>Формальний вираз для обробки назви вузла:</translation>
     </message>
 </context>
 <context>
@@ -791,6 +791,146 @@ USAGE
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Блокувати доступ до інтернету зміною таблиці маршрутизації</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderConfigurationPage</name>
+    <message>
+        <source>Output directory</source>
+        <translation>Каталог виведення</translation>
+    </message>
+    <message>
+        <source>Encoding settings</source>
+        <translation>Параметри кодування</translation>
+    </message>
+    <message>
+        <source>frames per second</source>
+        <translation>кадрів за секунду</translation>
+    </message>
+    <message>
+        <source>x</source>
+        <translation>x</translation>
+    </message>
+    <message>
+        <source>Keep aspect ratio</source>
+        <translation>Зберегти співвідношення розмірів</translation>
+    </message>
+    <message>
+        <source>Screen recorder</source>
+        <translation>Записувач з екрана</translation>
+    </message>
+    <message>
+        <source>kbps</source>
+        <translation>кбіт/с</translation>
+    </message>
+    <message>
+        <source>Bitrate</source>
+        <translation>Бітова швидкість</translation>
+    </message>
+    <message>
+        <source>Output settings</source>
+        <translation>Параметри виведення</translation>
+    </message>
+    <message>
+        <source>Use fixed framerate</source>
+        <translation>Фіксована частота кадрів</translation>
+    </message>
+    <message>
+        <source>Use fixed resolution</source>
+        <translation>Фіксована роздільна здатність</translation>
+    </message>
+    <message>
+        <source>H.264 profile</source>
+        <translation>Профіль H.264</translation>
+    </message>
+    <message>
+        <source>Encoder</source>
+        <translation>Кодувальник</translation>
+    </message>
+    <message>
+        <source>x264 preset</source>
+        <translation>Шаблон x264</translation>
+    </message>
+    <message>
+        <source>Save to computer-specific subdirectories</source>
+        <translation>Зберігати до специфічних для комп&apos;ютера підкаталогів</translation>
+    </message>
+    <message>
+        <source>Other settings</source>
+        <translation>Інші параметри</translation>
+    </message>
+    <message>
+        <source>Notify users when their screen is recorded</source>
+        <translation>Сповіщати користувачів про запис з їхнього екрана</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderControlWidget</name>
+    <message>
+        <source>Screen recorder</source>
+        <translation>Записувач з екрана</translation>
+    </message>
+    <message>
+        <source>Start recording</source>
+        <translation>Почати запис</translation>
+    </message>
+    <message>
+        <source>Recording duration:</source>
+        <translation>Тривалість запису:</translation>
+    </message>
+    <message>
+        <source>Open folder with recordings</source>
+        <translation>Відкрити теку із записами</translation>
+    </message>
+    <message>
+        <source>Stop recording</source>
+        <translation>Зупинити запис</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Закрити</translation>
+    </message>
+    <message>
+        <source>Screen recording</source>
+        <translation>Запис з екрана</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderEncodingWorker</name>
+    <message>
+        <source>auto</source>
+        <translation>авто</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderPlugin</name>
+    <message>
+        <source>Click this button to record the screens of all users into video files.</source>
+        <translation>Натисніть цю кнопку, щоб записати зображення з екранів усіх користувачів до відеофайлів.</translation>
+    </message>
+    <message>
+        <source>Record screens to video files</source>
+        <translation>Записати екрани до відеофайлів</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation>Запис</translation>
+    </message>
+    <message>
+        <source>Stop recording</source>
+        <translation>Зупинити запис</translation>
+    </message>
+    <message>
+        <source>Screen recording</source>
+        <translation>Запис з екрана</translation>
+    </message>
+    <message>
+        <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
+        <translation>Ведеться запис зображення на екрані до відеофайла на комп&apos;ютерів викладача.</translation>
+    </message>
+    <message>
+        <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
+        <translation>Запис зображення на екрані на комп&apos;ютер викладача припинено.</translation>
     </message>
 </context>
 <context>

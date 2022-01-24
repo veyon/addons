@@ -696,27 +696,27 @@ KASUTA
     </message>
     <message>
         <source>Computer and location names</source>
-        <translation type="unfinished"/>
+        <translation>Arvutite ja asukohtade nimed</translation>
     </message>
     <message>
         <source>Reverse lookup hostnames from discovered IP addresses</source>
-        <translation type="unfinished"/>
+        <translation>Avastatud IP-aadresside hostinimede pöördotsing</translation>
     </message>
     <message>
         <source>Extract location names from hostnames</source>
-        <translation type="unfinished"/>
+        <translation>Asukohanimede eraldamine hostinimedest</translation>
     </message>
     <message>
         <source>Extract computer names from hostnames</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Format string or regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Arvutinimede eraldamine hostinimedest</translation>
     </message>
     <message>
         <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
-        <translation type="unfinished"/>
+        <translation>e.g. (%asukoht%:[a-z]+\d+)-(%nimi%:.*)</translation>
+    </message>
+    <message>
+        <source>Regular expression for hostname parsing:</source>
+        <translation>Regulaaravaldis hostinime sõelumiseks:</translation>
     </message>
 </context>
 <context>
@@ -791,6 +791,146 @@ KASUTA
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Internetiühenduse blokeerimine marsruutimistabeli muutmisega</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderConfigurationPage</name>
+    <message>
+        <source>Output directory</source>
+        <translation>Väljundkataloog</translation>
+    </message>
+    <message>
+        <source>Encoding settings</source>
+        <translation>Kodeerimise seaded</translation>
+    </message>
+    <message>
+        <source>frames per second</source>
+        <translation>kaadrit sekundis</translation>
+    </message>
+    <message>
+        <source>x</source>
+        <translation>x</translation>
+    </message>
+    <message>
+        <source>Keep aspect ratio</source>
+        <translation>Hoidke kuvasuhet</translation>
+    </message>
+    <message>
+        <source>Screen recorder</source>
+        <translation>Ekraanisalvesti</translation>
+    </message>
+    <message>
+        <source>kbps</source>
+        <translation>kbps</translation>
+    </message>
+    <message>
+        <source>Bitrate</source>
+        <translation>Bitikiirus</translation>
+    </message>
+    <message>
+        <source>Output settings</source>
+        <translation>Väljundi seaded</translation>
+    </message>
+    <message>
+        <source>Use fixed framerate</source>
+        <translation>Kasutage fikseeritud kaadrisagedust</translation>
+    </message>
+    <message>
+        <source>Use fixed resolution</source>
+        <translation>Kasutage fikseeritud eraldusvõimet</translation>
+    </message>
+    <message>
+        <source>H.264 profile</source>
+        <translation>H.264 profiil</translation>
+    </message>
+    <message>
+        <source>Encoder</source>
+        <translation>Kodeerija</translation>
+    </message>
+    <message>
+        <source>x264 preset</source>
+        <translation>x264 eelseadistatud</translation>
+    </message>
+    <message>
+        <source>Save to computer-specific subdirectories</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Other settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notify users when their screen is recorded</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderControlWidget</name>
+    <message>
+        <source>Screen recorder</source>
+        <translation>Ekraanisalvesti</translation>
+    </message>
+    <message>
+        <source>Start recording</source>
+        <translation>Alustage salvestamist</translation>
+    </message>
+    <message>
+        <source>Recording duration:</source>
+        <translation>Salvestamise kestus:</translation>
+    </message>
+    <message>
+        <source>Open folder with recordings</source>
+        <translation>Avage salvestiste kaust</translation>
+    </message>
+    <message>
+        <source>Stop recording</source>
+        <translation>Lõpetage salvestamine</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Sulge</translation>
+    </message>
+    <message>
+        <source>Screen recording</source>
+        <translation>Ekraani salvestamine</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderEncodingWorker</name>
+    <message>
+        <source>auto</source>
+        <translation>auto</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorderPlugin</name>
+    <message>
+        <source>Click this button to record the screens of all users into video files.</source>
+        <translation>Klõpsake seda nuppu, et salvestada kõigi kasutajate ekraanid videofailidesse.</translation>
+    </message>
+    <message>
+        <source>Record screens to video files</source>
+        <translation>Salvestage ekraanid videofailidesse</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation>Salvestus</translation>
+    </message>
+    <message>
+        <source>Stop recording</source>
+        <translation>Lõpeta salvestus</translation>
+    </message>
+    <message>
+        <source>Screen recording</source>
+        <translation>Ekraani salvestamine</translation>
+    </message>
+    <message>
+        <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
