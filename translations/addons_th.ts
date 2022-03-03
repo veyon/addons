@@ -446,10 +446,6 @@
         <translation>ID</translation>
     </message>
     <message>
-        <source>Addon</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Valid until</source>
         <translation>ใช้ได้จนถึง</translation>
     </message>
@@ -513,6 +509,26 @@
         <source>Feature</source>
         <translation>ฟิเจอร์</translation>
     </message>
+    <message>
+        <source>Add-on</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computers</source>
+        <translation>คอมพิวเตอร์</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>unlimited</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
@@ -526,6 +542,14 @@
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -567,14 +591,6 @@ USAGE
     </message>
     <message>
         <source>No certificate found with given ID</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;N/A&gt;</source>
-        <translation>&lt;N/A&gt;</translation>
-    </message>
-    <message>
-        <source>invalid license</source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -446,10 +446,6 @@
         <translation>ID</translation>
     </message>
     <message>
-        <source>Addon</source>
-        <translation>Erweiterung</translation>
-    </message>
-    <message>
         <source>Valid until</source>
         <translation>Gültig bis</translation>
     </message>
@@ -513,6 +509,26 @@
         <source>Feature</source>
         <translation>Funktion</translation>
     </message>
+    <message>
+        <source>Add-on</source>
+        <translation>Add-on</translation>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation>Standorte</translation>
+    </message>
+    <message>
+        <source>Computers</source>
+        <translation>Computer</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation>Beliebig</translation>
+    </message>
+    <message>
+        <source>unlimited</source>
+        <translation>unbegrenzt</translation>
+    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
@@ -527,6 +543,14 @@
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
         <translation>Bitte besuchen Sie %1 für weitere Informationen darüber, wie Sie eine Lizenz für dieses Add-on erhalten können.</translation>
+    </message>
+    <message>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation>Das %1-Add-on ist nur für die Verwendung mit bis zu %2 Computern lizenziert. Bitte reduzieren Sie die Anzahl der angezeigten Computer oder erweitern Sie Ihre Lizenz.</translation>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
+        <translation>Bitte besuchen Sie %1 für weitere Informationen darüber, wie Sie Ihre Lizenz für dieses Add-on erweitern können.</translation>
     </message>
 </context>
 <context>
@@ -578,14 +602,6 @@ VERWENDUNG
     <message>
         <source>No certificate found with given ID</source>
         <translation>Kein Zertifikat mit angegebener ID gefunden</translation>
-    </message>
-    <message>
-        <source>&lt;N/A&gt;</source>
-        <translation>&lt;N/V&gt;</translation>
-    </message>
-    <message>
-        <source>invalid license</source>
-        <translation>ungültige Lizenz</translation>
     </message>
     <message>
         <source>Licensing management</source>

@@ -446,10 +446,6 @@
         <translation>Идентификатор</translation>
     </message>
     <message>
-        <source>Addon</source>
-        <translation>Дополнение</translation>
-    </message>
-    <message>
         <source>Valid until</source>
         <translation>В силе до</translation>
     </message>
@@ -513,6 +509,26 @@
         <source>Feature</source>
         <translation>Функция</translation>
     </message>
+    <message>
+        <source>Add-on</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computers</source>
+        <translation>Компьютеры</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>unlimited</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
@@ -526,6 +542,14 @@
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -578,14 +602,6 @@ USAGE
     <message>
         <source>No certificate found with given ID</source>
         <translation>Не найдено сертификата с указанным идентификатором</translation>
-    </message>
-    <message>
-        <source>&lt;N/A&gt;</source>
-        <translation>&lt;н/д&gt;</translation>
-    </message>
-    <message>
-        <source>invalid license</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Licensing management</source>

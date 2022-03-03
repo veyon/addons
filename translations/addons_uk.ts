@@ -446,10 +446,6 @@
         <translation>Ідентифікатор</translation>
     </message>
     <message>
-        <source>Addon</source>
-        <translation>Додаток</translation>
-    </message>
-    <message>
         <source>Valid until</source>
         <translation>Чинний до</translation>
     </message>
@@ -513,6 +509,26 @@
         <source>Feature</source>
         <translation>Можливість</translation>
     </message>
+    <message>
+        <source>Add-on</source>
+        <translation>Додаток</translation>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation>Сайти</translation>
+    </message>
+    <message>
+        <source>Computers</source>
+        <translation>Комп&apos;ютери</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation>Будь-який</translation>
+    </message>
+    <message>
+        <source>unlimited</source>
+        <translation>без обмежень</translation>
+    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
@@ -527,6 +543,14 @@
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
         <translation>Будь ласка, відвідайте %1, щоб дізнатися більше про те, як отримати ліцензію на цій додаток.</translation>
+    </message>
+    <message>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -578,14 +602,6 @@ USAGE
     <message>
         <source>No certificate found with given ID</source>
         <translation>Не знайдено сертифіката із вказаним ідентифікатором</translation>
-    </message>
-    <message>
-        <source>&lt;N/A&gt;</source>
-        <translation>&lt;н/д&gt;</translation>
-    </message>
-    <message>
-        <source>invalid license</source>
-        <translation>некоректні умови ліцензування</translation>
     </message>
     <message>
         <source>Licensing management</source>

@@ -446,10 +446,6 @@
         <translation>ID</translation>
     </message>
     <message>
-        <source>Addon</source>
-        <translation>Extension</translation>
-    </message>
-    <message>
         <source>Valid until</source>
         <translation>Valable jusqu&apos;à</translation>
     </message>
@@ -513,6 +509,26 @@
         <source>Feature</source>
         <translation>Fonctionnalité</translation>
     </message>
+    <message>
+        <source>Add-on</source>
+        <translation>Add-on</translation>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation>Sites</translation>
+    </message>
+    <message>
+        <source>Computers</source>
+        <translation>Ordinateurs</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation>Tout</translation>
+    </message>
+    <message>
+        <source>unlimited</source>
+        <translation>illimité</translation>
+    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
@@ -527,6 +543,14 @@
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
         <translation>Veuillez visiter %1 pour plus d&apos;informations sur la façon d&apos;obtenir une licence pour cette extension.</translation>
+    </message>
+    <message>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -578,14 +602,6 @@ USAGE
     <message>
         <source>No certificate found with given ID</source>
         <translation>Aucun certificat trouvé avec l&apos;ID donné</translation>
-    </message>
-    <message>
-        <source>&lt;N/A&gt;</source>
-        <translation>&lt; Sans Objet &gt;</translation>
-    </message>
-    <message>
-        <source>invalid license</source>
-        <translation>licence non valide</translation>
     </message>
     <message>
         <source>Licensing management</source>
@@ -712,11 +728,11 @@ USAGE
     </message>
     <message>
         <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
-        <translation type="unfinished"/>
+        <translation>ex: (%location%:[a-z]+\d+)-(%name%:.*)</translation>
     </message>
     <message>
         <source>Regular expression for hostname parsing:</source>
-        <translation type="unfinished"/>
+        <translation>Expression régulière pour l&apos;analyse du nom d&apos;hôte :</translation>
     </message>
 </context>
 <context>
@@ -797,15 +813,15 @@ USAGE
     <name>ScreenRecorderConfigurationPage</name>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>Répertoire de sortie</translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation>Paramètres d&apos;encodage</translation>
     </message>
     <message>
         <source>frames per second</source>
-        <translation type="unfinished"/>
+        <translation>images par seconde</translation>
     </message>
     <message>
         <source>x</source>
@@ -813,124 +829,124 @@ USAGE
     </message>
     <message>
         <source>Keep aspect ratio</source>
-        <translation type="unfinished"/>
+        <translation>Conserver l&apos;aspect ratio</translation>
     </message>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>Enregistreur d&apos;écran</translation>
     </message>
     <message>
         <source>kbps</source>
-        <translation type="unfinished"/>
+        <translation>kbps</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation>Débit</translation>
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation>Paramètres de sortie</translation>
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation>Utiliser un framerate fixe</translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation>Utiliser une résolution fixe</translation>
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation>Profil H.264</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation>Encodeur</translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation>Préréglage x264</translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer dans des sous-répertoires spécifiques à l&apos;ordinateur</translation>
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>Autres réglages</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>Avertir les utilisateurs lorsque leur écran est enregistré</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderControlWidget</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>Enregistreur d&apos;écran</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation type="unfinished"/>
+        <translation>Démarrer l&apos;enregistrement</translation>
     </message>
     <message>
         <source>Recording duration:</source>
-        <translation type="unfinished"/>
+        <translation>Durée d&apos;enregistrement :</translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir le dossier des enregistrements</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation>Arrêter l&apos;enregistrement</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrement d&apos;écran</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>auto</source>
-        <translation type="unfinished"/>
+        <translation>auto</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderPlugin</name>
     <message>
         <source>Click this button to record the screens of all users into video files.</source>
-        <translation type="unfinished"/>
+        <translation>Cliquez sur ce bouton pour enregistrer les écrans de tous les utilisateurs dans des fichiers vidéo.</translation>
     </message>
     <message>
         <source>Record screens to video files</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer des écrans dans des fichiers vidéo</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrement</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation>Arrêter l&apos;enregistrement</translation>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrement d&apos;écran</translation>
     </message>
     <message>
         <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
-        <translation type="unfinished"/>
+        <translation>L&apos;écran est maintenant enregistré dans un fichier vidéo sur l&apos;ordinateur de l&apos;enseignant.</translation>
     </message>
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
-        <translation type="unfinished"/>
+        <translation>L&apos;enregistrement d&apos;écran sur l&apos;ordinateur de l&apos;enseignant a été arrêté.</translation>
     </message>
 </context>
 <context>

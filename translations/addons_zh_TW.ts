@@ -446,10 +446,6 @@
         <translation>ID</translation>
     </message>
     <message>
-        <source>Addon</source>
-        <translation>附加元件</translation>
-    </message>
-    <message>
         <source>Valid until</source>
         <translation>有效期至</translation>
     </message>
@@ -513,6 +509,26 @@
         <source>Feature</source>
         <translation>功能</translation>
     </message>
+    <message>
+        <source>Add-on</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computers</source>
+        <translation>電腦</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>unlimited</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
@@ -527,6 +543,14 @@
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
         <translation>請訪問 %1 以取得如得獲取這個附加元件授權的更多資訊。</translation>
+    </message>
+    <message>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -578,14 +602,6 @@ USAGE
     <message>
         <source>No certificate found with given ID</source>
         <translation>找不到具有給予 ID 的憑證</translation>
-    </message>
-    <message>
-        <source>&lt;N/A&gt;</source>
-        <translation>&lt;不適用&gt;</translation>
-    </message>
-    <message>
-        <source>invalid license</source>
-        <translation>授權無效</translation>
     </message>
     <message>
         <source>Licensing management</source>
@@ -853,15 +869,15 @@ USAGE
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>儲存到電腦指定子目錄</translation>
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>其它設定</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>錄製其螢幕時通知使用者</translation>
     </message>
 </context>
 <context>

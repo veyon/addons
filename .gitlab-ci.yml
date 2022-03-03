@@ -26,13 +26,11 @@ build-linux:
     matrix:
       - DISTRO:
         - centos.7.9
-        - centos.8.4
         - debian.stretch
         - debian.buster
         - debian.bullseye
         - fedora.34
         - fedora.35
-        - opensuse.15.2
         - opensuse.15.3
         - ubuntu.bionic
         - ubuntu.focal

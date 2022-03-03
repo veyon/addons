@@ -446,10 +446,6 @@
         <translation>ID</translation>
     </message>
     <message>
-        <source>Addon</source>
-        <translation>Complemento</translation>
-    </message>
-    <message>
         <source>Valid until</source>
         <translation>Válido hasta</translation>
     </message>
@@ -513,6 +509,26 @@
         <source>Feature</source>
         <translation>Característica</translation>
     </message>
+    <message>
+        <source>Add-on</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computers</source>
+        <translation>Equipos</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>unlimited</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
@@ -527,6 +543,14 @@
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
         <translation>Visite %1 para obtener más información sobre cómo obtener una licencia para este complemento.</translation>
+    </message>
+    <message>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -578,14 +602,6 @@ Eliminar %1 &lt;LICENSE ID&gt;
     <message>
         <source>No certificate found with given ID</source>
         <translation>No se ha encontrado ningún certificado con un ID proporcionado</translation>
-    </message>
-    <message>
-        <source>&lt;N/A&gt;</source>
-        <translation>&lt;N/A&gt;</translation>
-    </message>
-    <message>
-        <source>invalid license</source>
-        <translation>licencia invalida</translation>
     </message>
     <message>
         <source>Licensing management</source>
