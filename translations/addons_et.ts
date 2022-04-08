@@ -511,11 +511,11 @@
     </message>
     <message>
         <source>Add-on</source>
-        <translation type="unfinished"/>
+        <translation>Lisandmoodul</translation>
     </message>
     <message>
         <source>Sites</source>
-        <translation type="unfinished"/>
+        <translation>Saidid</translation>
     </message>
     <message>
         <source>Computers</source>
@@ -523,11 +523,11 @@
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation>Mingi</translation>
     </message>
     <message>
         <source>unlimited</source>
-        <translation type="unfinished"/>
+        <translation>piiramatu</translation>
     </message>
 </context>
 <context>
@@ -546,11 +546,11 @@
     </message>
     <message>
         <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation type="unfinished"/>
+        <translation>%1  lisandmoodul on litsentseeritud kasutamiseks ainult %2 arvutites. Palun vähendage kuvatavate arvutite arvu või täiendage oma litsentsi.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Lisateabe saamiseks selle lisandmooduli litsentsi täiendamise kohta külastage aadressi %1.</translation>
     </message>
 </context>
 <context>
@@ -869,15 +869,15 @@ KASUTA
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>Salvestamine arvutipõhistesse alamkataloogidesse</translation>
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>Muud seadistused</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>Teavita kasutajaid kui nende ekraan on salvestatud</translation>
     </message>
 </context>
 <context>
@@ -942,11 +942,11 @@ KASUTA
     </message>
     <message>
         <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
-        <translation type="unfinished"/>
+        <translation>Ekraan salvestatakse nüüd videofaili õpetaja arvutisse.</translation>
     </message>
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
-        <translation type="unfinished"/>
+        <translation>Ekraani salvestamine õpetaja arvutis on peatatud.</translation>
     </message>
 </context>
 <context>

@@ -546,11 +546,11 @@
     </message>
     <message>
         <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation type="unfinished"/>
+        <translation>Le module complémentaire %1 est autorisé à être utilisé avec un maximum de %2 ordinateurs uniquement. Veuillez réduire le nombre d&apos;ordinateurs affichés ou mettre à niveau votre licence.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Veuillez visiter %1 pour plus d&apos;informations sur la mise à niveau de votre licence pour ce module complémentaire.</translation>
     </message>
 </context>
 <context>

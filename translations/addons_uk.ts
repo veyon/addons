@@ -546,11 +546,11 @@
     </message>
     <message>
         <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation type="unfinished"/>
+        <translation>Умови ліцензування додатка %1 передбачають його використання, лише якщо кількість комп&apos;ютерів не перевищує %2. Будь ласка, зменште кількість показаних комп&apos;ютерів або розширте умови ліцензування.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Будь ласка, відвідайте %1, щоб дізнатися більше про те, як розширити умови ліцензування на цей додаток.</translation>
     </message>
 </context>
 <context>

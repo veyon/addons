@@ -511,11 +511,11 @@
     </message>
     <message>
         <source>Add-on</source>
-        <translation type="unfinished"/>
+        <translation>Componente aggiuntivo</translation>
     </message>
     <message>
         <source>Sites</source>
-        <translation type="unfinished"/>
+        <translation>Siti</translation>
     </message>
     <message>
         <source>Computers</source>
@@ -523,11 +523,11 @@
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation>Qualsiasi</translation>
     </message>
     <message>
         <source>unlimited</source>
-        <translation type="unfinished"/>
+        <translation>Illimitata</translation>
     </message>
 </context>
 <context>
@@ -546,11 +546,11 @@
     </message>
     <message>
         <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation type="unfinished"/>
+        <translation>Il componente aggiuntivo %1 è concesso in licenza per l&apos;uso solo con un massimo di %2 computer. Riduci il numero di computer visualizzati o aggiorna la tua licenza.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Visita %1 per ulteriori informazioni su come aggiornare la tua licenza per questo componente aggiuntivo.</translation>
     </message>
 </context>
 <context>

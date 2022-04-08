@@ -511,11 +511,11 @@
     </message>
     <message>
         <source>Add-on</source>
-        <translation type="unfinished"/>
+        <translation>Complemento</translation>
     </message>
     <message>
         <source>Sites</source>
-        <translation type="unfinished"/>
+        <translation>Sitios</translation>
     </message>
     <message>
         <source>Computers</source>
@@ -523,11 +523,11 @@
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation>Cualquiera</translation>
     </message>
     <message>
         <source>unlimited</source>
-        <translation type="unfinished"/>
+        <translation>ilimitado</translation>
     </message>
 </context>
 <context>
@@ -546,11 +546,11 @@
     </message>
     <message>
         <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation type="unfinished"/>
+        <translation>El complemento %1 tiene licencia para usarse solo con hasta %2 computadoras. Reduzca la cantidad de computadoras que se muestran o actualice su licencia.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Visite %1 para obtener más información sobre cómo actualizar su licencia para este complemento.</translation>
     </message>
 </context>
 <context>
@@ -869,15 +869,15 @@ USO
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>Guardar en subdirectorios específicos de la computadora</translation>
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>Otros ajustes</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>Notificar a los usuarios cuando se graba su pantalla</translation>
     </message>
 </context>
 <context>
@@ -942,11 +942,11 @@ USO
     </message>
     <message>
         <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
-        <translation type="unfinished"/>
+        <translation>La pantalla ahora está grabada en un archivo de video en la computadora del profesor.</translation>
     </message>
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
-        <translation type="unfinished"/>
+        <translation>La grabación de pantalla en la computadora del profesor se ha detenido.</translation>
     </message>
 </context>
 <context>
