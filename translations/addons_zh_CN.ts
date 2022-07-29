@@ -261,11 +261,11 @@
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>网络</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>主机</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
@@ -281,7 +281,7 @@
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation type="unfinished"/>
+        <translation>例如：192.168.1.253</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
@@ -435,11 +435,11 @@
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>从文件添加许可证</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>移除选中的许可证</translation>
     </message>
     <message>
         <source>ID</source>
@@ -676,7 +676,7 @@ USAGE
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>会话</translation>
     </message>
     <message>
         <source>Session scan limit</source>
@@ -1025,11 +1025,11 @@ USAGE
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>移除选中的标签页</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>显示标签页</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1045,7 +1045,7 @@ USAGE
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>新建标签页</translation>
     </message>
 </context>
 <context>
