@@ -879,6 +879,14 @@ USAGE
         <source>Notify users when their screen is recorded</source>
         <translation>錄製其螢幕時通知使用者</translation>
     </message>
+    <message>
+        <source>Keyframe interval</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>seconds</source>
+        <translation>秒</translation>
+    </message>
 </context>
 <context>
     <name>ScreenRecorderControlWidget</name>
@@ -889,10 +897,6 @@ USAGE
     <message>
         <source>Start recording</source>
         <translation>開始錄製</translation>
-    </message>
-    <message>
-        <source>Recording duration:</source>
-        <translation>錄製持續時間:</translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
@@ -909,6 +913,26 @@ USAGE
     <message>
         <source>Screen recording</source>
         <translation>螢幕正在錄製</translation>
+    </message>
+    <message>
+        <source>Processing…</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Starting recordings…</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Finishing recordings…</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recording finished (duration: %1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recording duration: %1</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

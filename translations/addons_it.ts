@@ -879,6 +879,14 @@ USO
         <source>Notify users when their screen is recorded</source>
         <translation>Avvisa gli utenti quando il loro schermo viene registrato</translation>
     </message>
+    <message>
+        <source>Keyframe interval</source>
+        <translation>Intervallo di Keyframe</translation>
+    </message>
+    <message>
+        <source>seconds</source>
+        <translation>secondi</translation>
+    </message>
 </context>
 <context>
     <name>ScreenRecorderControlWidget</name>
@@ -889,10 +897,6 @@ USO
     <message>
         <source>Start recording</source>
         <translation>Avvia registrazione</translation>
-    </message>
-    <message>
-        <source>Recording duration:</source>
-        <translation>Durata della registrazione:</translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
@@ -909,6 +913,26 @@ USO
     <message>
         <source>Screen recording</source>
         <translation>Registrazione dello schermo</translation>
+    </message>
+    <message>
+        <source>Processing…</source>
+        <translation>Elaborazione in corso…</translation>
+    </message>
+    <message>
+        <source>Starting recordings…</source>
+        <translation>Avvio registrazioni…</translation>
+    </message>
+    <message>
+        <source>Finishing recordings…</source>
+        <translation>Termine registrazioni...</translation>
+    </message>
+    <message>
+        <source>Recording finished (duration: %1)</source>
+        <translation>Registrazione terminata (durata: %1)</translation>
+    </message>
+    <message>
+        <source>Recording duration: %1</source>
+        <translation>Durata registrazione: %1</translation>
     </message>
 </context>
 <context>

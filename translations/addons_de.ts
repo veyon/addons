@@ -878,6 +878,14 @@ VERWENDUNG
         <source>Notify users when their screen is recorded</source>
         <translation>Benutzer benachrichtigen, wenn ihr Bildschirm aufgezeichnet wird</translation>
     </message>
+    <message>
+        <source>Keyframe interval</source>
+        <translation>Keyframe-Intervall</translation>
+    </message>
+    <message>
+        <source>seconds</source>
+        <translation>Sekunden</translation>
+    </message>
 </context>
 <context>
     <name>ScreenRecorderControlWidget</name>
@@ -888,10 +896,6 @@ VERWENDUNG
     <message>
         <source>Start recording</source>
         <translation>Aufnahme starten</translation>
-    </message>
-    <message>
-        <source>Recording duration:</source>
-        <translation>Aufnahmedauer:</translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
@@ -908,6 +912,26 @@ VERWENDUNG
     <message>
         <source>Screen recording</source>
         <translation>Bildschirmaufnahme</translation>
+    </message>
+    <message>
+        <source>Processing…</source>
+        <translation>Verarbeite…</translation>
+    </message>
+    <message>
+        <source>Starting recordings…</source>
+        <translation>Starte Aufnahmen…</translation>
+    </message>
+    <message>
+        <source>Finishing recordings…</source>
+        <translation>Beende Aufnahmen…</translation>
+    </message>
+    <message>
+        <source>Recording finished (duration: %1)</source>
+        <translation>Aufnahme abgeschlossen (Dauer: %1)</translation>
+    </message>
+    <message>
+        <source>Recording duration: %1</source>
+        <translation>Aufnahmedauer: %1</translation>
     </message>
 </context>
 <context>

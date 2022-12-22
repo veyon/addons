@@ -879,6 +879,14 @@ USAGE
         <source>Notify users when their screen is recorded</source>
         <translation>Сповіщати користувачів про запис з їхнього екрана</translation>
     </message>
+    <message>
+        <source>Keyframe interval</source>
+        <translation>Інтервал між ключовими кадрами</translation>
+    </message>
+    <message>
+        <source>seconds</source>
+        <translation>секунд</translation>
+    </message>
 </context>
 <context>
     <name>ScreenRecorderControlWidget</name>
@@ -889,10 +897,6 @@ USAGE
     <message>
         <source>Start recording</source>
         <translation>Почати запис</translation>
-    </message>
-    <message>
-        <source>Recording duration:</source>
-        <translation>Тривалість запису:</translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
@@ -909,6 +913,26 @@ USAGE
     <message>
         <source>Screen recording</source>
         <translation>Запис з екрана</translation>
+    </message>
+    <message>
+        <source>Processing…</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Starting recordings…</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Finishing recordings…</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recording finished (duration: %1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recording duration: %1</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

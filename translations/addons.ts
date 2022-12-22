@@ -866,6 +866,14 @@ USAGE
         <source>Notify users when their screen is recorded</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Keyframe interval</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ScreenRecorderControlWidget</name>
@@ -875,10 +883,6 @@ USAGE
     </message>
     <message>
         <source>Start recording</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recording duration:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -895,6 +899,26 @@ USAGE
     </message>
     <message>
         <source>Screen recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Processing…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starting recordings…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finishing recordings…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recording finished (duration: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recording duration: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

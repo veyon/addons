@@ -879,6 +879,14 @@ KASUTA
         <source>Notify users when their screen is recorded</source>
         <translation>Teavita kasutajaid kui nende ekraan on salvestatud</translation>
     </message>
+    <message>
+        <source>Keyframe interval</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>seconds</source>
+        <translation>sekundit</translation>
+    </message>
 </context>
 <context>
     <name>ScreenRecorderControlWidget</name>
@@ -889,10 +897,6 @@ KASUTA
     <message>
         <source>Start recording</source>
         <translation>Alustage salvestamist</translation>
-    </message>
-    <message>
-        <source>Recording duration:</source>
-        <translation>Salvestamise kestus:</translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
@@ -909,6 +913,26 @@ KASUTA
     <message>
         <source>Screen recording</source>
         <translation>Ekraani salvestamine</translation>
+    </message>
+    <message>
+        <source>Processing…</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Starting recordings…</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Finishing recordings…</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recording finished (duration: %1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Recording duration: %1</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
