@@ -28,9 +28,9 @@ build-linux:
         - centos.7.9
         - debian.buster
         - debian.bullseye
-        - fedora.35
         - fedora.36
-        - opensuse.15.3
+        - fedora.37
+        - opensuse.15.4
         - opensuse.tumbleweed
         - ubuntu.bionic
         - ubuntu.focal

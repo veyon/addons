@@ -92,7 +92,7 @@
     <name>DesktopMatrixConfigurationPage</name>
     <message>
         <source>DesktopMatrix</source>
-        <translation type="unfinished"/>
+        <translation>DesktopMatrix</translation>
     </message>
     <message>
         <source>General</source>
@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Coordinator</source>
-        <translation type="unfinished"/>
+        <translation>Συντονιστής</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -148,7 +148,7 @@
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>Ομάδες χρηστών</translation>
     </message>
     <message>
         <source>Common user groups only</source>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Common locations only</source>
-        <translation type="unfinished"/>
+        <translation>Μόνο κοινές τοποθεσίες</translation>
     </message>
     <message>
         <source>Instant lessons</source>
@@ -172,11 +172,11 @@
     </message>
     <message>
         <source>Cache size</source>
-        <translation type="unfinished"/>
+        <translation>Μέγεθος cache</translation>
     </message>
     <message>
         <source>Backend</source>
-        <translation type="unfinished"/>
+        <translation>Backend</translation>
     </message>
     <message>
         <source>Name filter</source>
@@ -184,7 +184,7 @@
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"/>
+        <translation>Κατάλογος</translation>
     </message>
 </context>
 <context>
@@ -199,7 +199,7 @@
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>Ομάδες χρηστών</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -210,7 +210,7 @@
     <name>DesktopMatrixPlugin</name>
     <message>
         <source>VDI support for Veyon</source>
-        <translation type="unfinished"/>
+        <translation>Υποστήριξη VDI για Veyon</translation>
     </message>
     <message>
         <source>%1 (use VDI desktops)</source>
@@ -225,7 +225,7 @@
     </message>
     <message>
         <source>e.g. 8080</source>
-        <translation type="unfinished"/>
+        <translation>π.χ. 8080</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -233,11 +233,11 @@
     </message>
     <message>
         <source>21 (FTP)</source>
-        <translation type="unfinished"/>
+        <translation>21 (FTP)</translation>
     </message>
     <message>
         <source>80/443 (HTTP/HTTPS)</source>
-        <translation type="unfinished"/>
+        <translation>80/443 (HTTP/HTTPS)</translation>
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
@@ -245,23 +245,23 @@
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"/>
+        <translation>Εξαιρέσεις</translation>
     </message>
     <message>
         <source>e.g. 80 443</source>
-        <translation type="unfinished"/>
+        <translation>π.χ. 80 443</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
+        <translation>π.χ. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
-        <translation type="unfinished"/>
+        <translation>Θύρες</translation>
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Δίκτυα</translation>
     </message>
     <message>
         <source>Hosts</source>
@@ -269,7 +269,7 @@
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>π.χ. docs.veyon.io</translation>
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
@@ -281,7 +281,7 @@
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation type="unfinished"/>
+        <translation>π.χ. 192.168.1.253</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
@@ -303,7 +303,7 @@
     <name>InternetAccessControlConfigurationPage</name>
     <message>
         <source>Internet access control</source>
-        <translation type="unfinished"/>
+        <translation>Έλεγχος πρόσβασης στο διαδίκτυο</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -326,11 +326,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Αποκλεισμός πρόσβασης στο διαδίκτυο</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Άρση αποκλεισμού πρόσβασης στο διαδίκτυο</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -338,7 +338,7 @@
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Πρόσβαση στο διαδίκτυο</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
@@ -377,7 +377,7 @@
     </message>
     <message>
         <source>Enter name</source>
-        <translation type="unfinished"/>
+        <translation>Εισαγωγή ονόματος</translation>
     </message>
     <message>
         <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
@@ -419,11 +419,11 @@
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Πληροφορίες</translation>
     </message>
     <message>
         <source>Installation ID</source>
-        <translation type="unfinished"/>
+        <translation>Αναγνωριστικό εγκατάστασης</translation>
     </message>
     <message>
         <source>Addons available for licensing</source>
@@ -431,39 +431,39 @@
     </message>
     <message>
         <source>Installed licenses</source>
-        <translation type="unfinished"/>
+        <translation>Εγκατεστημένες άδειες χρήσης</translation>
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη άδειας χρήσης από αρχείο</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>Αφαίρεση επιλεγμένης άδειας χρήσης</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>Αναγνωριστικό</translation>
     </message>
     <message>
         <source>Valid until</source>
-        <translation type="unfinished"/>
+        <translation>Έγκυρο έως</translation>
     </message>
     <message>
         <source>Licensee</source>
-        <translation type="unfinished"/>
+        <translation>Άδεια χρήσης</translation>
     </message>
     <message>
         <source>Browse license file</source>
-        <translation type="unfinished"/>
+        <translation>Αναζήτηση αρχείου άδειας χρήσης</translation>
     </message>
     <message>
         <source>Veyon license files (*.vlf)</source>
-        <translation type="unfinished"/>
+        <translation>Αρχεία άδειας χρήσης Veyon (*.vlf)</translation>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"/>
+        <translation>Αφαίρεση άδειας χρήσης</translation>
     </message>
     <message>
         <source>Do you really want to remove the selected license?</source>
@@ -479,7 +479,7 @@
     </message>
     <message>
         <source>Invalid license file</source>
-        <translation type="unfinished"/>
+        <translation>Μη έγκυρο αρχείο άδειας χρήσης</translation>
     </message>
     <message>
         <source>Could not open the license file for reading!</source>
@@ -507,7 +507,7 @@
     </message>
     <message>
         <source>Feature</source>
-        <translation type="unfinished"/>
+        <translation>Δυνατότητα</translation>
     </message>
     <message>
         <source>Add-on</source>
@@ -565,11 +565,11 @@
     </message>
     <message>
         <source>Add license file</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη αρχείου άδειας χρήσης</translation>
     </message>
     <message>
         <source>Remove installed license</source>
-        <translation type="unfinished"/>
+        <translation>Αφαίρεση εγκατεστημένης άδειας χρήσης</translation>
     </message>
     <message>
         <source>
@@ -610,7 +610,7 @@ USAGE
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"/>
+        <translation>Λειτουργία</translation>
     </message>
     <message>
         <source>Scan all subnets of computer</source>
@@ -630,7 +630,7 @@ USAGE
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
+        <translation>π.χ. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -638,7 +638,7 @@ USAGE
     </message>
     <message>
         <source>Add new group</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη νέας ομάδας</translation>
     </message>
     <message>
         <source>Remove selected group</source>
@@ -646,15 +646,15 @@ USAGE
     </message>
     <message>
         <source>Groups</source>
-        <translation type="unfinished"/>
+        <translation>Ομάδες</translation>
     </message>
     <message>
         <source>First address</source>
-        <translation type="unfinished"/>
+        <translation>Πρώτη διεύθυνση</translation>
     </message>
     <message>
         <source>Last address</source>
-        <translation type="unfinished"/>
+        <translation>Τελευταία διεύθυνση</translation>
     </message>
     <message>
         <source>Add new network range</source>
@@ -682,7 +682,7 @@ USAGE
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Επιλογές</translation>
     </message>
     <message>
         <source> ms</source>
@@ -694,11 +694,11 @@ USAGE
     </message>
     <message>
         <source>Scan timeout</source>
-        <translation type="unfinished"/>
+        <translation>Λήξη χρονικού ορίου σάρωσης</translation>
     </message>
     <message>
         <source>New location</source>
-        <translation type="unfinished"/>
+        <translation>Νέα τοποθεσία</translation>
     </message>
     <message>
         <source>Computer and location names</source>
@@ -729,11 +729,11 @@ USAGE
     <name>NetworkDiscoveryDirectory</name>
     <message>
         <source>Discovered computers</source>
-        <translation type="unfinished"/>
+        <translation>Εντοπισμένοι υπολογιστές</translation>
     </message>
     <message>
         <source>Scanning...</source>
-        <translation type="unfinished"/>
+        <translation>Σάρωση...</translation>
     </message>
 </context>
 <context>
@@ -780,11 +780,11 @@ USAGE
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"/>
+        <translation>Προορισμός</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="unfinished"/>
+        <translation>Πύλη</translation>
     </message>
 </context>
 <context>
@@ -870,7 +870,7 @@ USAGE
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>δευτερόλεπτα</translation>
     </message>
 </context>
 <context>
@@ -1026,19 +1026,19 @@ USAGE
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Καρτέλες</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Προσθήκη καρτέλας</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Αφαίρεση επιλεγμένης καρτέλας</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Εμφάνιση καρτελών</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1046,15 +1046,15 @@ USAGE
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished"/>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Πλάτος</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Νέα καρτέλα</translation>
     </message>
 </context>
 <context>
