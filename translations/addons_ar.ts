@@ -2,6 +2,10 @@
 <context>
     <name>ChatConfigurationPage</name>
     <message>
+        <source>Chat</source>
+        <translation>محادثة</translation>
+    </message>
+    <message>
         <source>General settings</source>
         <translation>إعدادات عامة</translation>
     </message>
@@ -18,16 +22,12 @@
         <translation>تسجيل اسماء المستخدمين</translation>
     </message>
     <message>
-        <source>Allow users to change their nicknames</source>
-        <translation>السماء للمستخدمين بتغيير اسمائهم المستعارة</translation>
-    </message>
-    <message>
         <source>Full names of users</source>
         <translation>اسامي المستخدمين الكاملة</translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation>محادثة</translation>
+        <source>Allow users to change their nicknames</source>
+        <translation>السماء للمستخدمين بتغيير اسمائهم المستعارة</translation>
     </message>
 </context>
 <context>
@@ -37,24 +37,20 @@
         <translation>محادثة</translation>
     </message>
     <message>
-        <source>Interactive chat with logged on users</source>
-        <translation>محادثة تفاعلية مع المستخدمين المتصلين</translation>
+        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
+        <translation>أضغط الزر لبدء محادثة مع كافة المستخدمين. ومن ثم كافة المستخدمين بإمكانهم كتابة رسائل في المحادثة العادية.</translation>
     </message>
     <message>
         <source>%2 Chat</source>
         <translation>%2 محادثة</translation>
     </message>
     <message>
-        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
-        <translation>أضغط الزر لبدء محادثة مع كافة المستخدمين. ومن ثم كافة المستخدمين بإمكانهم كتابة رسائل في المحادثة العادية.</translation>
+        <source>Interactive chat with logged on users</source>
+        <translation>محادثة تفاعلية مع المستخدمين المتصلين</translation>
     </message>
 </context>
 <context>
     <name>ChatWindow</name>
-    <message>
-        <source>Type a new message</source>
-        <translation>أكتب رسالة جديدة</translation>
-    </message>
     <message>
         <source>Veyon Chat</source>
         <translation>محادثة فيون</translation>
@@ -68,12 +64,12 @@
         <translation>الاسم المستعار</translation>
     </message>
     <message>
-        <source>Change nickname</source>
-        <translation>تغيير الاسم المستعار</translation>
+        <source>Type a new message</source>
+        <translation>أكتب رسالة جديدة</translation>
     </message>
     <message>
-        <source>Please enter a new nickname:</source>
-        <translation>الرجاء ادخال اسم مستعار جديد:</translation>
+        <source>Close chat</source>
+        <translation>إغلاق المحادثة</translation>
     </message>
     <message>
         <source>Change chat title</source>
@@ -84,8 +80,12 @@
         <translation>الرجاء ادخال عنوان جديد لهذه المحادثة:</translation>
     </message>
     <message>
-        <source>Close chat</source>
-        <translation>إغلاق المحادثة</translation>
+        <source>Change nickname</source>
+        <translation>تغيير الاسم المستعار</translation>
+    </message>
+    <message>
+        <source>Please enter a new nickname:</source>
+        <translation>الرجاء ادخال اسم مستعار جديد:</translation>
     </message>
 </context>
 <context>
@@ -215,6 +215,49 @@
     <message>
         <source>%1 (use VDI desktops)</source>
         <translation>%1 (يستخدم سطح المكتب VDI)</translation>
+    </message>
+</context>
+<context>
+    <name>DeviceLockPlugin</name>
+    <message>
+        <source>Block Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show help about command</source>
+        <translation>عرض المساعدة حول الأمر</translation>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Lock peripheral devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Commands for locking/unlocking peripheral devices</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -353,15 +396,15 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Control access to the internet</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -446,7 +489,19 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Add-on</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Valid until</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -470,11 +525,19 @@
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Any</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>&lt;N/A&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>invalid license</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>unlimited</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -509,31 +572,15 @@
         <source>Feature</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Add-on</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Sites</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Computers</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Any</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>unlimited</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
     <message>
-        <source>%1 demo</source>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -545,11 +592,7 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
+        <source>%1 demo</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -669,10 +712,6 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Session scan limit</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
         <translation type="unfinished"/>
     </message>
@@ -689,31 +728,7 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Parallel scans</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Scan timeout</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>New location</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Computer and location names</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reverse lookup hostnames from discovered IP addresses</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extract location names from hostnames</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extract computer names from hostnames</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -721,7 +736,71 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Regular expression for hostname parsing:</source>
+        <source>New location</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session scan limit:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computer name source:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract computer name using regular expression</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Regular expression for computer name parsing:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract location name using regular expression</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>IP address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DNS name (reverse lookup)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User login name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session client address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session client name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name resolve timeout:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Parallel scans:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan timeout:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Retain time:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname of session host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Full name of user</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -797,35 +876,7 @@ USAGE
 <context>
     <name>ScreenRecorderConfigurationPage</name>
     <message>
-        <source>Output directory</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Encoding settings</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>frames per second</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>x</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keep aspect ratio</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>kbps</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Bitrate</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -833,15 +884,35 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Use fixed resolution</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>H.264 profile</source>
+        <source>Keep aspect ratio</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>frames per second</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>x</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use fixed framerate</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save to computer-specific subdirectories</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Encoding settings</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -853,15 +924,15 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Save to computer-specific subdirectories</source>
+        <source>kbps</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Other settings</source>
+        <source>H.264 profile</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Notify users when their screen is recorded</source>
+        <source>Bitrate</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -870,6 +941,14 @@ USAGE
     </message>
     <message>
         <source>seconds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Other settings</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Notify users when their screen is recorded</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -884,11 +963,11 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Open folder with recordings</source>
+        <source>Processing…</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Stop recording</source>
+        <source>Open folder with recordings</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -900,11 +979,11 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Processing…</source>
+        <source>Starting recordings…</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Starting recordings…</source>
+        <source>Stop recording</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -930,19 +1009,15 @@ USAGE
 <context>
     <name>ScreenRecorderPlugin</name>
     <message>
-        <source>Click this button to record the screens of all users into video files.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Record screens to video files</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Record</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop recording</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click this button to record the screens of all users into video files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -955,6 +1030,10 @@ USAGE
     </message>
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Record screens to video files</source>
         <translation type="unfinished"/>
     </message>
 </context>

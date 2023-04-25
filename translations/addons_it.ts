@@ -2,6 +2,10 @@
 <context>
     <name>ChatConfigurationPage</name>
     <message>
+        <source>Chat</source>
+        <translation>Chat</translation>
+    </message>
+    <message>
         <source>General settings</source>
         <translation>Impostazioni generali</translation>
     </message>
@@ -18,16 +22,12 @@
         <translation>Nomi di login degli utenti</translation>
     </message>
     <message>
-        <source>Allow users to change their nicknames</source>
-        <translation>Consenti agli utenti di cambiare i loro nickname</translation>
-    </message>
-    <message>
         <source>Full names of users</source>
         <translation>Nomi completi degli utenti</translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation>Chat</translation>
+        <source>Allow users to change their nicknames</source>
+        <translation>Consenti agli utenti di cambiare i loro nickname</translation>
     </message>
 </context>
 <context>
@@ -37,24 +37,20 @@
         <translation>Chat</translation>
     </message>
     <message>
-        <source>Interactive chat with logged on users</source>
-        <translation>Chat interattiva con utenti registrati</translation>
+        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
+        <translation>Fare clic su questo pulsante per avviare una chat con tutti gli utenti. Quindi tutti gli utenti possono scrivere messaggi di testo in una chat comune.</translation>
     </message>
     <message>
         <source>%2 Chat</source>
         <translation>%2 Chat</translation>
     </message>
     <message>
-        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
-        <translation>Fare clic su questo pulsante per avviare una chat con tutti gli utenti. Quindi tutti gli utenti possono scrivere messaggi di testo in una chat comune.</translation>
+        <source>Interactive chat with logged on users</source>
+        <translation>Chat interattiva con utenti registrati</translation>
     </message>
 </context>
 <context>
     <name>ChatWindow</name>
-    <message>
-        <source>Type a new message</source>
-        <translation>Scrivi un nuovo messaggio</translation>
-    </message>
     <message>
         <source>Veyon Chat</source>
         <translation>Chat Veyon</translation>
@@ -68,12 +64,12 @@
         <translation>Nickname</translation>
     </message>
     <message>
-        <source>Change nickname</source>
-        <translation>Cambia nickname</translation>
+        <source>Type a new message</source>
+        <translation>Scrivi un nuovo messaggio</translation>
     </message>
     <message>
-        <source>Please enter a new nickname:</source>
-        <translation>Inserisci un nuovo nickname:</translation>
+        <source>Close chat</source>
+        <translation>Chiudi chat</translation>
     </message>
     <message>
         <source>Change chat title</source>
@@ -84,8 +80,12 @@
         <translation>Inserisci un nuovo titolo per la chat:</translation>
     </message>
     <message>
-        <source>Close chat</source>
-        <translation>Chiudi chat</translation>
+        <source>Change nickname</source>
+        <translation>Cambia nickname</translation>
+    </message>
+    <message>
+        <source>Please enter a new nickname:</source>
+        <translation>Inserisci un nuovo nickname:</translation>
     </message>
 </context>
 <context>
@@ -215,6 +215,49 @@
     <message>
         <source>%1 (use VDI desktops)</source>
         <translation>%1 (usa desktop VDI)</translation>
+    </message>
+</context>
+<context>
+    <name>DeviceLockPlugin</name>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Blocca l&apos;accesso a Internet</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Sblocca l&apos;accesso a Internet</translation>
+    </message>
+    <message>
+        <source>Show help about command</source>
+        <translation>Mostra aiuto per i comandi</translation>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation>Accesso ad Internet </translation>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation>Blocca o sblocca l&apos;accesso a Internet.</translation>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation>Fare clic su questo pulsante per bloccare l&apos;accesso a Internet.</translation>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
+        <translation>Fare clic su questo pulsante per sbloccare l&apos;accesso a Internet.</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, verrà sbloccato automaticamente in 60 secondi.</translation>
+    </message>
+    <message>
+        <source>Lock peripheral devices</source>
+        <translation>Blocca i dispositivi periferici</translation>
+    </message>
+    <message>
+        <source>Commands for locking/unlocking peripheral devices</source>
+        <translation>Comandi per il blocco/sblocco delle periferiche</translation>
     </message>
 </context>
 <context>
@@ -353,16 +396,16 @@
         <translation>Fare clic su questo pulsante per sbloccare l&apos;accesso a Internet.</translation>
     </message>
     <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, verrà sbloccato automaticamente in 60 secondi.</translation>
+    </message>
+    <message>
         <source>Control access to the internet</source>
         <translation>Controlla l&apos;accesso a Internet</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Comandi per il controllo dell&apos;accesso a Internet</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, verrà sbloccato automaticamente in 60 secondi.</translation>
     </message>
 </context>
 <context>
@@ -446,8 +489,20 @@
         <translation>ID</translation>
     </message>
     <message>
+        <source>Add-on</source>
+        <translation>Componente aggiuntivo</translation>
+    </message>
+    <message>
         <source>Valid until</source>
         <translation>Valido fino a</translation>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation>Siti</translation>
+    </message>
+    <message>
+        <source>Computers</source>
+        <translation>Computer</translation>
     </message>
     <message>
         <source>Licensee</source>
@@ -470,12 +525,20 @@
         <translation>Vuoi veramente rimuovere la licenza selezionata?</translation>
     </message>
     <message>
+        <source>Any</source>
+        <translation>Qualsiasi</translation>
+    </message>
+    <message>
         <source>&lt;N/A&gt;</source>
         <translation>&lt;N/A&gt;</translation>
     </message>
     <message>
         <source>invalid license</source>
         <translation>licenza non valida</translation>
+    </message>
+    <message>
+        <source>unlimited</source>
+        <translation>Illimitata</translation>
     </message>
     <message>
         <source>Invalid license file</source>
@@ -509,32 +572,16 @@
         <source>Feature</source>
         <translation>Funzionalità</translation>
     </message>
-    <message>
-        <source>Add-on</source>
-        <translation>Componente aggiuntivo</translation>
-    </message>
-    <message>
-        <source>Sites</source>
-        <translation>Siti</translation>
-    </message>
-    <message>
-        <source>Computers</source>
-        <translation>Computer</translation>
-    </message>
-    <message>
-        <source>Any</source>
-        <translation>Qualsiasi</translation>
-    </message>
-    <message>
-        <source>unlimited</source>
-        <translation>Illimitata</translation>
-    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
     <message>
-        <source>%1 demo</source>
-        <translation>%1 demo</translation>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation>Il componente aggiuntivo %1 è concesso in licenza per l&apos;uso solo con un massimo di %2 computer. Riduci il numero di computer visualizzati o aggiorna la tua licenza.</translation>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
+        <translation>Visita %1 per ulteriori informazioni su come aggiornare la tua licenza per questo componente aggiuntivo.</translation>
     </message>
     <message>
         <source>Thank you for testing the %1 add-on.</source>
@@ -545,12 +592,8 @@
         <translation>Visitare %1 per ulteriori informazioni su come ottenere una licenza per questo componente aggiuntivo.</translation>
     </message>
     <message>
-        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation>Il componente aggiuntivo %1 è concesso in licenza per l&apos;uso solo con un massimo di %2 computer. Riduci il numero di computer visualizzati o aggiorna la tua licenza.</translation>
-    </message>
-    <message>
-        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation>Visita %1 per ulteriori informazioni su come aggiornare la tua licenza per questo componente aggiuntivo.</translation>
+        <source>%1 demo</source>
+        <translation>%1 demo</translation>
     </message>
 </context>
 <context>
@@ -679,10 +722,6 @@ USO
         <translation>Sessioni</translation>
     </message>
     <message>
-        <source>Session scan limit</source>
-        <translation>Limite di scansione di sessione</translation>
-    </message>
-    <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
         <translation>Scansione di sessioni (ad es. Desktop remoto) su tutti i computer</translation>
     </message>
@@ -699,40 +738,80 @@ USO
         <translation>ms</translation>
     </message>
     <message>
-        <source>Parallel scans</source>
-        <translation>Scansioni parallele</translation>
-    </message>
-    <message>
-        <source>Scan timeout</source>
-        <translation>Scansione terminata</translation>
-    </message>
-    <message>
-        <source>New location</source>
-        <translation>Nuova posizione</translation>
-    </message>
-    <message>
         <source>Computer and location names</source>
         <translation>Nomi dei computer e posizioni</translation>
-    </message>
-    <message>
-        <source>Reverse lookup hostnames from discovered IP addresses</source>
-        <translation>Ricerca inversa di nomi host da indirizzi IP rilevati</translation>
-    </message>
-    <message>
-        <source>Extract location names from hostnames</source>
-        <translation>Estrai i nomi delle posizioni dai nomi degli host</translation>
-    </message>
-    <message>
-        <source>Extract computer names from hostnames</source>
-        <translation>Estrai i nomi dei computer dai nomi degli host</translation>
     </message>
     <message>
         <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
         <translation>es. (%location%:[a-z]+\d+)-(%name%:.*)</translation>
     </message>
     <message>
-        <source>Regular expression for hostname parsing:</source>
-        <translation>Espressione regolare per l&apos;analisi del nome host:</translation>
+        <source>New location</source>
+        <translation>Nuova posizione</translation>
+    </message>
+    <message>
+        <source>Session scan limit:</source>
+        <translation>Limite di scansione di sessione:</translation>
+    </message>
+    <message>
+        <source>Computer name source:</source>
+        <translation>Fonte nome computer:</translation>
+    </message>
+    <message>
+        <source>Extract computer name using regular expression</source>
+        <translation>Estrarre il nome del computer utilizzando l&apos;espressione regolare</translation>
+    </message>
+    <message>
+        <source>Regular expression for computer name parsing:</source>
+        <translation>Espressione regolare per l&apos;analisi del nome del computer:</translation>
+    </message>
+    <message>
+        <source>Extract location name using regular expression</source>
+        <translation>Estrai il nome della posizione utilizzando un&apos;espressione regolare</translation>
+    </message>
+    <message>
+        <source>IP address</source>
+        <translation>Indirizzo IP</translation>
+    </message>
+    <message>
+        <source>DNS name (reverse lookup)</source>
+        <translation>Nome DNS (ricerca inversa)</translation>
+    </message>
+    <message>
+        <source>User login name</source>
+        <translation>Nome completo dell&apos;utente</translation>
+    </message>
+    <message>
+        <source>Session client address</source>
+        <translation>Indirizzo del client di sessione</translation>
+    </message>
+    <message>
+        <source>Session client name</source>
+        <translation>Nome del cliente di sessione</translation>
+    </message>
+    <message>
+        <source>Name resolve timeout:</source>
+        <translation>Timeout di risoluzione del nome:</translation>
+    </message>
+    <message>
+        <source>Parallel scans:</source>
+        <translation>Scansioni parallele:</translation>
+    </message>
+    <message>
+        <source>Scan timeout:</source>
+        <translation>Scansione terminata:</translation>
+    </message>
+    <message>
+        <source>Retain time:</source>
+        <translation>Tempo di conservazione:</translation>
+    </message>
+    <message>
+        <source>Hostname of session host</source>
+        <translation>Nome dell&apos;host della sessione</translation>
+    </message>
+    <message>
+        <source>Full name of user</source>
+        <translation>Nome completo dell&apos;utente</translation>
     </message>
 </context>
 <context>
@@ -812,52 +891,44 @@ USO
 <context>
     <name>ScreenRecorderConfigurationPage</name>
     <message>
-        <source>Output directory</source>
-        <translation>Directory di output</translation>
-    </message>
-    <message>
-        <source>Encoding settings</source>
-        <translation>Impostazioni di codifica</translation>
-    </message>
-    <message>
-        <source>frames per second</source>
-        <translation>frame al secondo</translation>
-    </message>
-    <message>
-        <source>x</source>
-        <translation>x</translation>
-    </message>
-    <message>
-        <source>Keep aspect ratio</source>
-        <translation>Mantenere proporzioni</translation>
-    </message>
-    <message>
         <source>Screen recorder</source>
         <translation>Registratore dello schermo</translation>
-    </message>
-    <message>
-        <source>kbps</source>
-        <translation>kbps</translation>
-    </message>
-    <message>
-        <source>Bitrate</source>
-        <translation>Bitrate</translation>
     </message>
     <message>
         <source>Output settings</source>
         <translation>Impostazioni di output</translation>
     </message>
     <message>
-        <source>Use fixed framerate</source>
-        <translation>Usa frame rate fisso</translation>
-    </message>
-    <message>
         <source>Use fixed resolution</source>
         <translation>Usa risoluzione fissa</translation>
     </message>
     <message>
-        <source>H.264 profile</source>
-        <translation>Profilo H.264</translation>
+        <source>Keep aspect ratio</source>
+        <translation>Mantenere proporzioni</translation>
+    </message>
+    <message>
+        <source>frames per second</source>
+        <translation>frame al secondo</translation>
+    </message>
+    <message>
+        <source>Output directory</source>
+        <translation>Directory di output</translation>
+    </message>
+    <message>
+        <source>x</source>
+        <translation>x</translation>
+    </message>
+    <message>
+        <source>Use fixed framerate</source>
+        <translation>Usa frame rate fisso</translation>
+    </message>
+    <message>
+        <source>Save to computer-specific subdirectories</source>
+        <translation>Salva in sottodirectory specifiche del computer</translation>
+    </message>
+    <message>
+        <source>Encoding settings</source>
+        <translation>Impostazioni di codifica</translation>
     </message>
     <message>
         <source>Encoder</source>
@@ -868,16 +939,16 @@ USO
         <translation>x264 preimpostato</translation>
     </message>
     <message>
-        <source>Save to computer-specific subdirectories</source>
-        <translation>Salva in sottodirectory specifiche del computer</translation>
+        <source>kbps</source>
+        <translation>kbps</translation>
     </message>
     <message>
-        <source>Other settings</source>
-        <translation>Altre impostazioni</translation>
+        <source>H.264 profile</source>
+        <translation>Profilo H.264</translation>
     </message>
     <message>
-        <source>Notify users when their screen is recorded</source>
-        <translation>Avvisa gli utenti quando il loro schermo viene registrato</translation>
+        <source>Bitrate</source>
+        <translation>Bitrate</translation>
     </message>
     <message>
         <source>Keyframe interval</source>
@@ -886,6 +957,14 @@ USO
     <message>
         <source>seconds</source>
         <translation>secondi</translation>
+    </message>
+    <message>
+        <source>Other settings</source>
+        <translation>Altre impostazioni</translation>
+    </message>
+    <message>
+        <source>Notify users when their screen is recorded</source>
+        <translation>Avvisa gli utenti quando il loro schermo viene registrato</translation>
     </message>
 </context>
 <context>
@@ -899,12 +978,12 @@ USO
         <translation>Avvia registrazione</translation>
     </message>
     <message>
-        <source>Open folder with recordings</source>
-        <translation>Apri cartella con registrazioni</translation>
+        <source>Processing…</source>
+        <translation>Elaborazione in corso…</translation>
     </message>
     <message>
-        <source>Stop recording</source>
-        <translation>Interrompi registrazione</translation>
+        <source>Open folder with recordings</source>
+        <translation>Apri cartella con registrazioni</translation>
     </message>
     <message>
         <source>Close</source>
@@ -915,12 +994,12 @@ USO
         <translation>Registrazione dello schermo</translation>
     </message>
     <message>
-        <source>Processing…</source>
-        <translation>Elaborazione in corso…</translation>
-    </message>
-    <message>
         <source>Starting recordings…</source>
         <translation>Avvio registrazioni…</translation>
+    </message>
+    <message>
+        <source>Stop recording</source>
+        <translation>Interrompi registrazione</translation>
     </message>
     <message>
         <source>Finishing recordings…</source>
@@ -945,20 +1024,16 @@ USO
 <context>
     <name>ScreenRecorderPlugin</name>
     <message>
-        <source>Click this button to record the screens of all users into video files.</source>
-        <translation>Fare clic su questo pulsante per registrare le schermate di tutti gli utenti in file video.</translation>
-    </message>
-    <message>
-        <source>Record screens to video files</source>
-        <translation>Registra schermate su file video</translation>
-    </message>
-    <message>
         <source>Record</source>
         <translation>Registra</translation>
     </message>
     <message>
         <source>Stop recording</source>
         <translation>Interrompi registrazione</translation>
+    </message>
+    <message>
+        <source>Click this button to record the screens of all users into video files.</source>
+        <translation>Fare clic su questo pulsante per registrare le schermate di tutti gli utenti in file video.</translation>
     </message>
     <message>
         <source>Screen recording</source>
@@ -971,6 +1046,10 @@ USO
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
         <translation>La registrazione dello schermo sul computer dell&apos;insegnante è stata interrotta.</translation>
+    </message>
+    <message>
+        <source>Record screens to video files</source>
+        <translation>Registra schermate su file video</translation>
     </message>
 </context>
 <context>

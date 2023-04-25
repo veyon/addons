@@ -40,7 +40,7 @@ set(NSI "veyon-addons.nsi")
 
 configure_file(nsis/${NSI}.in nsis/${NSI} @ONLY)
 
-set(ADDONS_BINARIES "${CMAKE_BINARY_DIR}/veyon-addons-${MINGW_PLATFORM}-${VERSION_MAJOR}.${VERSION_MINOR}.${VERSION_PATCH}.${VERSION_BUILD}")
+set(ADDONS_BINARIES "${CMAKE_BINARY_DIR}/veyon-addons-${VEYON_WINDOWS_ARCH}-${VERSION_MAJOR}.${VERSION_MINOR}.${VERSION_PATCH}.${VERSION_BUILD}")
 
 set(DLLDIR "${MINGW_PREFIX}/bin")
 set(LIBDIR "${MINGW_PREFIX}/lib")
@@ -55,13 +55,11 @@ add_custom_target(addons-binaries
 	COMMAND cp -r ${CMAKE_SOURCE_DIR}/COPYING ${ADDONS_BINARIES}
 	COMMAND cp -r ${CMAKE_SOURCE_DIR}/nsis ${ADDONS_BINARIES}
 	COMMAND cp nsis/${NSI} ${ADDONS_BINARIES}
+	COMMAND mkdir -p ${ADDONS_BINARIES}/tls
+	COMMAND cp ${MINGW_PREFIX}/plugins/tls/qopensslbackend.dll ${ADDONS_BINARIES}/tls
 	COMMAND cp ${DLLDIR}/avcodec*.dll ${DLLDIR}/avformat*.dll ${DLLDIR}/avutil*.dll ${DLLDIR}/swscale*.dll ${DLLDIR}/libx264*.dll ${ADDONS_BINARIES}
-	COMMAND cp ${DLLDIR}/libxml2-2.dll ${ADDONS_BINARIES}
-	COMMAND cp ${DLLDIR}/icu*6*.dll ${ADDONS_BINARIES}
-	COMMAND cp ${DLLDIR}/libsqlite3-0.dll ${ADDONS_BINARIES}
-	COMMAND cp ${DLLDIR}/Qt5WebKit.dll ${DLLDIR}/Qt5WebKitWidgets.dll ${ADDONS_BINARIES}
 	COMMAND cp ${LIBDIR}/WebView2Loader.dll ${ADDONS_BINARIES}
-	COMMAND find ${ADDONS_BINARIES} -name "*.dll" -exec ${STRIP} '{}' '\;'
+	COMMAND find ${ADDONS_BINARIES} -name "*.dll" -exec ${MINGW_TOOL_PREFIX}strip '{}' '\;'
 	DEPENDS
 	addons
 )

@@ -4,14 +4,14 @@ stages:
 
 build-windows:
   stage: build
-  image: $CI_REGISTRY/veyon/ci-mingw-w64:4.7
+  image: $CI_REGISTRY/veyon/ci-mingw-w64:4.8
   script:
     - ./prepare-build.sh
-    - cd veyon && .ci/windows/build.sh $BITS addons-binaries && cd ..
+    - cd veyon && .ci/windows/build.sh $ARCH addons-binaries && cd ..
     - mv veyon/veyon-addons-* .
   parallel:
     matrix:
-      - BITS: [32, 64]
+      - ARCH: [i686, x86_64]
   artifacts:
     paths: [ "veyon-addons*" ]
 
@@ -34,6 +34,7 @@ build-linux:
         - opensuse.tumbleweed
         - ubuntu.bionic
         - ubuntu.focal
+        - ubuntu.jammy
   artifacts:
     paths: [ "veyon-addons*" ]
 

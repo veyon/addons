@@ -2,6 +2,10 @@
 <context>
     <name>ChatConfigurationPage</name>
     <message>
+        <source>Chat</source>
+        <translation>Спілкування</translation>
+    </message>
+    <message>
         <source>General settings</source>
         <translation>Загальні параметри</translation>
     </message>
@@ -18,16 +22,12 @@
         <translation>Назви облікових записів користувачів</translation>
     </message>
     <message>
-        <source>Allow users to change their nicknames</source>
-        <translation>Дозволити користувачам змінювати власні псевдоніми</translation>
-    </message>
-    <message>
         <source>Full names of users</source>
         <translation>Повні імена користувачів</translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation>Спілкування</translation>
+        <source>Allow users to change their nicknames</source>
+        <translation>Дозволити користувачам змінювати власні псевдоніми</translation>
     </message>
 </context>
 <context>
@@ -37,24 +37,20 @@
         <translation>Спілкування</translation>
     </message>
     <message>
-        <source>Interactive chat with logged on users</source>
-        <translation>Інтерактивне спілкування з користувачами системи</translation>
+        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
+        <translation>Натисніть цю кнопку, щоб розпочати спілкування із усіма користувачами. Усі користувачі зможуть писати текстові повідомлення у загальному спілкуванні.</translation>
     </message>
     <message>
         <source>%2 Chat</source>
         <translation>%2, спілкування</translation>
     </message>
     <message>
-        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
-        <translation>Натисніть цю кнопку, щоб розпочати спілкування із усіма користувачами. Усі користувачі зможуть писати текстові повідомлення у загальному спілкуванні.</translation>
+        <source>Interactive chat with logged on users</source>
+        <translation>Інтерактивне спілкування з користувачами системи</translation>
     </message>
 </context>
 <context>
     <name>ChatWindow</name>
-    <message>
-        <source>Type a new message</source>
-        <translation>Введіть нове повідомлення</translation>
-    </message>
     <message>
         <source>Veyon Chat</source>
         <translation>Спілкування Veyon</translation>
@@ -68,12 +64,12 @@
         <translation>Псевдонім</translation>
     </message>
     <message>
-        <source>Change nickname</source>
-        <translation>Змінити псевдонім</translation>
+        <source>Type a new message</source>
+        <translation>Введіть нове повідомлення</translation>
     </message>
     <message>
-        <source>Please enter a new nickname:</source>
-        <translation>Будь ласка, введіть новий псевдонім:</translation>
+        <source>Close chat</source>
+        <translation>Завершити спілкування</translation>
     </message>
     <message>
         <source>Change chat title</source>
@@ -84,8 +80,12 @@
         <translation>Будь ласка, введіть новий заголовок спілкування:</translation>
     </message>
     <message>
-        <source>Close chat</source>
-        <translation>Завершити спілкування</translation>
+        <source>Change nickname</source>
+        <translation>Змінити псевдонім</translation>
+    </message>
+    <message>
+        <source>Please enter a new nickname:</source>
+        <translation>Будь ласка, введіть новий псевдонім:</translation>
     </message>
 </context>
 <context>
@@ -215,6 +215,49 @@
     <message>
         <source>%1 (use VDI desktops)</source>
         <translation>%1 (використати стільниці VDI)</translation>
+    </message>
+</context>
+<context>
+    <name>DeviceLockPlugin</name>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Блокувати доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Розблокувати доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Show help about command</source>
+        <translation>Показати довідку щодо команди</translation>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation>Доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation>Блокувати або розблокувати доступ до інтернету.</translation>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation>Натисніть цю кнопку, щоб заблокувати доступ до інтернету.</translation>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
+        <translation>Натисніть цю кнопку, щоб розблокувати доступ до інтернету.</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично розблоковано за 60 секунд.</translation>
+    </message>
+    <message>
+        <source>Lock peripheral devices</source>
+        <translation>Блокування периферійних пристроїв</translation>
+    </message>
+    <message>
+        <source>Commands for locking/unlocking peripheral devices</source>
+        <translation>Команди для блокування і розблокування периферійних пристроїв</translation>
     </message>
 </context>
 <context>
@@ -353,16 +396,16 @@
         <translation>Натисніть цю кнопку, щоб розблокувати доступ до інтернету.</translation>
     </message>
     <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично розблоковано за 60 секунд.</translation>
+    </message>
+    <message>
         <source>Control access to the internet</source>
         <translation>Керування доступом до інтернету</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Команди для керування доступом до інтернету</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично розблоковано за 60 секунд.</translation>
     </message>
 </context>
 <context>
@@ -446,8 +489,20 @@
         <translation>Ідентифікатор</translation>
     </message>
     <message>
+        <source>Add-on</source>
+        <translation>Додаток</translation>
+    </message>
+    <message>
         <source>Valid until</source>
         <translation>Чинний до</translation>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation>Сайти</translation>
+    </message>
+    <message>
+        <source>Computers</source>
+        <translation>Комп&apos;ютери</translation>
     </message>
     <message>
         <source>Licensee</source>
@@ -470,12 +525,20 @@
         <translation>Ви справді хочете вилучити позначену ліцензію?</translation>
     </message>
     <message>
+        <source>Any</source>
+        <translation>Будь-який</translation>
+    </message>
+    <message>
         <source>&lt;N/A&gt;</source>
         <translation>&lt;н/д&gt;</translation>
     </message>
     <message>
         <source>invalid license</source>
         <translation>некоректні умови ліцензування</translation>
+    </message>
+    <message>
+        <source>unlimited</source>
+        <translation>без обмежень</translation>
     </message>
     <message>
         <source>Invalid license file</source>
@@ -509,32 +572,16 @@
         <source>Feature</source>
         <translation>Можливість</translation>
     </message>
-    <message>
-        <source>Add-on</source>
-        <translation>Додаток</translation>
-    </message>
-    <message>
-        <source>Sites</source>
-        <translation>Сайти</translation>
-    </message>
-    <message>
-        <source>Computers</source>
-        <translation>Комп&apos;ютери</translation>
-    </message>
-    <message>
-        <source>Any</source>
-        <translation>Будь-який</translation>
-    </message>
-    <message>
-        <source>unlimited</source>
-        <translation>без обмежень</translation>
-    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
     <message>
-        <source>%1 demo</source>
-        <translation>Демонстрація %1</translation>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation>Умови ліцензування додатка %1 передбачають його використання, лише якщо кількість комп&apos;ютерів не перевищує %2. Будь ласка, зменште кількість показаних комп&apos;ютерів або розширте умови ліцензування.</translation>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
+        <translation>Будь ласка, відвідайте %1, щоб дізнатися більше про те, як розширити умови ліцензування на цей додаток.</translation>
     </message>
     <message>
         <source>Thank you for testing the %1 add-on.</source>
@@ -545,12 +592,8 @@
         <translation>Будь ласка, відвідайте %1, щоб дізнатися більше про те, як отримати ліцензію на цій додаток.</translation>
     </message>
     <message>
-        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation>Умови ліцензування додатка %1 передбачають його використання, лише якщо кількість комп&apos;ютерів не перевищує %2. Будь ласка, зменште кількість показаних комп&apos;ютерів або розширте умови ліцензування.</translation>
-    </message>
-    <message>
-        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation>Будь ласка, відвідайте %1, щоб дізнатися більше про те, як розширити умови ліцензування на цей додаток.</translation>
+        <source>%1 demo</source>
+        <translation>Демонстрація %1</translation>
     </message>
 </context>
 <context>
@@ -679,10 +722,6 @@ USAGE
         <translation>Сеанси</translation>
     </message>
     <message>
-        <source>Session scan limit</source>
-        <translation>Обмеження сканування сеансів</translation>
-    </message>
-    <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
         <translation>Шукати сеанси (наприклад, віддаленої стільниці) на усіх комп&apos;ютерах</translation>
     </message>
@@ -699,40 +738,80 @@ USAGE
         <translation>мс</translation>
     </message>
     <message>
-        <source>Parallel scans</source>
-        <translation>Паралельне сканування</translation>
-    </message>
-    <message>
-        <source>Scan timeout</source>
-        <translation>Час очікування на сканування</translation>
-    </message>
-    <message>
-        <source>New location</source>
-        <translation>Нове місце</translation>
-    </message>
-    <message>
         <source>Computer and location names</source>
         <translation>Назви комп&apos;ютера і місця</translation>
-    </message>
-    <message>
-        <source>Reverse lookup hostnames from discovered IP addresses</source>
-        <translation>Зворотний пошук назв вузлів за визначеними IP-адресами</translation>
-    </message>
-    <message>
-        <source>Extract location names from hostnames</source>
-        <translation>Видобути назви місць з назву вузлів</translation>
-    </message>
-    <message>
-        <source>Extract computer names from hostnames</source>
-        <translation>Видобути назви комп&apos;ютерів з назв вузлів</translation>
     </message>
     <message>
         <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
         <translation>Приклад: (%location%:[a-z]+\d+)-(%name%:.*)</translation>
     </message>
     <message>
-        <source>Regular expression for hostname parsing:</source>
-        <translation>Формальний вираз для обробки назви вузла:</translation>
+        <source>New location</source>
+        <translation>Нове місце</translation>
+    </message>
+    <message>
+        <source>Session scan limit:</source>
+        <translation>Обмеження сканування сеансів:</translation>
+    </message>
+    <message>
+        <source>Computer name source:</source>
+        <translation>Джерело назви комп&apos;ютера:</translation>
+    </message>
+    <message>
+        <source>Extract computer name using regular expression</source>
+        <translation>Видобути назву комп&apos;ютера за допомогою формального виразу</translation>
+    </message>
+    <message>
+        <source>Regular expression for computer name parsing:</source>
+        <translation>Формальний вираз для визначення назви комп&apos;ютера:</translation>
+    </message>
+    <message>
+        <source>Extract location name using regular expression</source>
+        <translation>Видобути назву місця за допомогою формального виразу</translation>
+    </message>
+    <message>
+        <source>IP address</source>
+        <translation>IP-адреса</translation>
+    </message>
+    <message>
+        <source>DNS name (reverse lookup)</source>
+        <translation>Назва DNS (зворотний пошук)</translation>
+    </message>
+    <message>
+        <source>User login name</source>
+        <translation>Назва запису користувача</translation>
+    </message>
+    <message>
+        <source>Session client address</source>
+        <translation>Адреса клієнта сеансу</translation>
+    </message>
+    <message>
+        <source>Session client name</source>
+        <translation>Назва клієнта сеансу</translation>
+    </message>
+    <message>
+        <source>Name resolve timeout:</source>
+        <translation>Час очікування на визначення назви:</translation>
+    </message>
+    <message>
+        <source>Parallel scans:</source>
+        <translation>Кількість паралельних сканувань:</translation>
+    </message>
+    <message>
+        <source>Scan timeout:</source>
+        <translation>Час очікування на сканування:</translation>
+    </message>
+    <message>
+        <source>Retain time:</source>
+        <translation>Час збереження:</translation>
+    </message>
+    <message>
+        <source>Hostname of session host</source>
+        <translation>Назва вузла основної системи сеансу</translation>
+    </message>
+    <message>
+        <source>Full name of user</source>
+        <translation>Повне ім&apos;я користувача</translation>
     </message>
 </context>
 <context>
@@ -812,52 +891,44 @@ USAGE
 <context>
     <name>ScreenRecorderConfigurationPage</name>
     <message>
-        <source>Output directory</source>
-        <translation>Каталог виведення</translation>
-    </message>
-    <message>
-        <source>Encoding settings</source>
-        <translation>Параметри кодування</translation>
-    </message>
-    <message>
-        <source>frames per second</source>
-        <translation>кадрів за секунду</translation>
-    </message>
-    <message>
-        <source>x</source>
-        <translation>x</translation>
-    </message>
-    <message>
-        <source>Keep aspect ratio</source>
-        <translation>Зберегти співвідношення розмірів</translation>
-    </message>
-    <message>
         <source>Screen recorder</source>
         <translation>Записувач з екрана</translation>
-    </message>
-    <message>
-        <source>kbps</source>
-        <translation>кбіт/с</translation>
-    </message>
-    <message>
-        <source>Bitrate</source>
-        <translation>Бітова швидкість</translation>
     </message>
     <message>
         <source>Output settings</source>
         <translation>Параметри виведення</translation>
     </message>
     <message>
-        <source>Use fixed framerate</source>
-        <translation>Фіксована частота кадрів</translation>
-    </message>
-    <message>
         <source>Use fixed resolution</source>
         <translation>Фіксована роздільна здатність</translation>
     </message>
     <message>
-        <source>H.264 profile</source>
-        <translation>Профіль H.264</translation>
+        <source>Keep aspect ratio</source>
+        <translation>Зберегти співвідношення розмірів</translation>
+    </message>
+    <message>
+        <source>frames per second</source>
+        <translation>кадрів за секунду</translation>
+    </message>
+    <message>
+        <source>Output directory</source>
+        <translation>Каталог виведення</translation>
+    </message>
+    <message>
+        <source>x</source>
+        <translation>x</translation>
+    </message>
+    <message>
+        <source>Use fixed framerate</source>
+        <translation>Фіксована частота кадрів</translation>
+    </message>
+    <message>
+        <source>Save to computer-specific subdirectories</source>
+        <translation>Зберігати до специфічних для комп&apos;ютера підкаталогів</translation>
+    </message>
+    <message>
+        <source>Encoding settings</source>
+        <translation>Параметри кодування</translation>
     </message>
     <message>
         <source>Encoder</source>
@@ -868,16 +939,16 @@ USAGE
         <translation>Шаблон x264</translation>
     </message>
     <message>
-        <source>Save to computer-specific subdirectories</source>
-        <translation>Зберігати до специфічних для комп&apos;ютера підкаталогів</translation>
+        <source>kbps</source>
+        <translation>кбіт/с</translation>
     </message>
     <message>
-        <source>Other settings</source>
-        <translation>Інші параметри</translation>
+        <source>H.264 profile</source>
+        <translation>Профіль H.264</translation>
     </message>
     <message>
-        <source>Notify users when their screen is recorded</source>
-        <translation>Сповіщати користувачів про запис з їхнього екрана</translation>
+        <source>Bitrate</source>
+        <translation>Бітова швидкість</translation>
     </message>
     <message>
         <source>Keyframe interval</source>
@@ -886,6 +957,14 @@ USAGE
     <message>
         <source>seconds</source>
         <translation>секунд</translation>
+    </message>
+    <message>
+        <source>Other settings</source>
+        <translation>Інші параметри</translation>
+    </message>
+    <message>
+        <source>Notify users when their screen is recorded</source>
+        <translation>Сповіщати користувачів про запис з їхнього екрана</translation>
     </message>
 </context>
 <context>
@@ -899,12 +978,12 @@ USAGE
         <translation>Почати запис</translation>
     </message>
     <message>
-        <source>Open folder with recordings</source>
-        <translation>Відкрити теку із записами</translation>
+        <source>Processing…</source>
+        <translation>Обробка…</translation>
     </message>
     <message>
-        <source>Stop recording</source>
-        <translation>Зупинити запис</translation>
+        <source>Open folder with recordings</source>
+        <translation>Відкрити теку із записами</translation>
     </message>
     <message>
         <source>Close</source>
@@ -915,24 +994,24 @@ USAGE
         <translation>Запис з екрана</translation>
     </message>
     <message>
-        <source>Processing…</source>
-        <translation type="unfinished"/>
+        <source>Starting recordings…</source>
+        <translation>Починаємо запис…</translation>
     </message>
     <message>
-        <source>Starting recordings…</source>
-        <translation type="unfinished"/>
+        <source>Stop recording</source>
+        <translation>Зупинити запис</translation>
     </message>
     <message>
         <source>Finishing recordings…</source>
-        <translation type="unfinished"/>
+        <translation>Завершуємо запис…</translation>
     </message>
     <message>
         <source>Recording finished (duration: %1)</source>
-        <translation type="unfinished"/>
+        <translation>Записування завершено (тривалість: %1)</translation>
     </message>
     <message>
         <source>Recording duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Тривалість запису: %1</translation>
     </message>
 </context>
 <context>
@@ -945,20 +1024,16 @@ USAGE
 <context>
     <name>ScreenRecorderPlugin</name>
     <message>
-        <source>Click this button to record the screens of all users into video files.</source>
-        <translation>Натисніть цю кнопку, щоб записати зображення з екранів усіх користувачів до відеофайлів.</translation>
-    </message>
-    <message>
-        <source>Record screens to video files</source>
-        <translation>Записати екрани до відеофайлів</translation>
-    </message>
-    <message>
         <source>Record</source>
         <translation>Запис</translation>
     </message>
     <message>
         <source>Stop recording</source>
         <translation>Зупинити запис</translation>
+    </message>
+    <message>
+        <source>Click this button to record the screens of all users into video files.</source>
+        <translation>Натисніть цю кнопку, щоб записати зображення з екранів усіх користувачів до відеофайлів.</translation>
     </message>
     <message>
         <source>Screen recording</source>
@@ -971,6 +1046,10 @@ USAGE
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
         <translation>Запис зображення на екрані на комп&apos;ютер викладача припинено.</translation>
+    </message>
+    <message>
+        <source>Record screens to video files</source>
+        <translation>Записати екрани до відеофайлів</translation>
     </message>
 </context>
 <context>

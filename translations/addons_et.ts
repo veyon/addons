@@ -2,6 +2,10 @@
 <context>
     <name>ChatConfigurationPage</name>
     <message>
+        <source>Chat</source>
+        <translation>Vestlus</translation>
+    </message>
+    <message>
         <source>General settings</source>
         <translation>Üldised seaded</translation>
     </message>
@@ -18,16 +22,12 @@
         <translation>Kasutajate sisselogimisnimed</translation>
     </message>
     <message>
-        <source>Allow users to change their nicknames</source>
-        <translation>Luba kasutajatel oma hüüdnimesid muuta</translation>
-    </message>
-    <message>
         <source>Full names of users</source>
         <translation>Kasutajate täisnimed</translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation>Vestlus</translation>
+        <source>Allow users to change their nicknames</source>
+        <translation>Luba kasutajatel oma hüüdnimesid muuta</translation>
     </message>
 </context>
 <context>
@@ -37,24 +37,20 @@
         <translation>Vestlus</translation>
     </message>
     <message>
-        <source>Interactive chat with logged on users</source>
-        <translation>Interaktiivne vestlus sisselogitud kasutajatega</translation>
+        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
+        <translation>Kõigi kasutajatega vestluse alustamiseks klõpsake seda nuppu. Seejärel saavad kõik kasutajad ühises vestluses tekstisõnumeid kirjutada.</translation>
     </message>
     <message>
         <source>%2 Chat</source>
         <translation>%2 Vestlus</translation>
     </message>
     <message>
-        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
-        <translation>Kõigi kasutajatega vestluse alustamiseks klõpsake seda nuppu. Seejärel saavad kõik kasutajad ühises vestluses tekstisõnumeid kirjutada.</translation>
+        <source>Interactive chat with logged on users</source>
+        <translation>Interaktiivne vestlus sisselogitud kasutajatega</translation>
     </message>
 </context>
 <context>
     <name>ChatWindow</name>
-    <message>
-        <source>Type a new message</source>
-        <translation>Sisestage uus sõnum</translation>
-    </message>
     <message>
         <source>Veyon Chat</source>
         <translation>Veyoni vestlus</translation>
@@ -68,12 +64,12 @@
         <translation>Hüüdnimi</translation>
     </message>
     <message>
-        <source>Change nickname</source>
-        <translation>Vaheta hüüdnimi</translation>
+        <source>Type a new message</source>
+        <translation>Sisestage uus sõnum</translation>
     </message>
     <message>
-        <source>Please enter a new nickname:</source>
-        <translation>Palun sisestage uus hüüdnimi:</translation>
+        <source>Close chat</source>
+        <translation>Sule vestlus</translation>
     </message>
     <message>
         <source>Change chat title</source>
@@ -84,8 +80,12 @@
         <translation>Palun sisestage vestlusele uus pealkiri:</translation>
     </message>
     <message>
-        <source>Close chat</source>
-        <translation>Sule vestlus</translation>
+        <source>Change nickname</source>
+        <translation>Vaheta hüüdnimi</translation>
+    </message>
+    <message>
+        <source>Please enter a new nickname:</source>
+        <translation>Palun sisestage uus hüüdnimi:</translation>
     </message>
 </context>
 <context>
@@ -215,6 +215,49 @@
     <message>
         <source>%1 (use VDI desktops)</source>
         <translation>%1 (kasutage VDI lauaarvuteid)</translation>
+    </message>
+</context>
+<context>
+    <name>DeviceLockPlugin</name>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Keela internetti pääs</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Luba pääs internetti</translation>
+    </message>
+    <message>
+        <source>Show help about command</source>
+        <translation>Näita abi käsu kohta</translation>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation>Interneti pääs</translation>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation>Keela või luba pääs internetti</translation>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation>Klõpsa siia interneti keelamiseks</translation>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
+        <translation>Klõpsa siia interneti lubamiseks</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>Interneti-ühendus on nüüd blokeeritud. Kuni kasutate selle lisandmooduli demoversiooni, deblokeeritakse see automaatselt 60 sekundi pärast.</translation>
+    </message>
+    <message>
+        <source>Lock peripheral devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Commands for locking/unlocking peripheral devices</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -353,16 +396,16 @@
         <translation>Klõpsa siia interneti lubamiseks</translation>
     </message>
     <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>Interneti-ühendus on nüüd blokeeritud. Kuni kasutate selle lisandmooduli demoversiooni, deblokeeritakse see automaatselt 60 sekundi pärast.</translation>
+    </message>
+    <message>
         <source>Control access to the internet</source>
         <translation>Internetti pääsu haldamine</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Internetti pääsu haldamise käsud</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Interneti-ühendus on nüüd blokeeritud. Kuni kasutate selle lisandmooduli demoversiooni, deblokeeritakse see automaatselt 60 sekundi pärast.</translation>
     </message>
 </context>
 <context>
@@ -446,8 +489,20 @@
         <translation>ID</translation>
     </message>
     <message>
+        <source>Add-on</source>
+        <translation>Lisandmoodul</translation>
+    </message>
+    <message>
         <source>Valid until</source>
         <translation>Kehtiv kuni</translation>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation>Saidid</translation>
+    </message>
+    <message>
+        <source>Computers</source>
+        <translation>Arvutid</translation>
     </message>
     <message>
         <source>Licensee</source>
@@ -470,12 +525,20 @@
         <translation>Kas oled kindel, et eemaldada valitud litsents?</translation>
     </message>
     <message>
+        <source>Any</source>
+        <translation>Mingi</translation>
+    </message>
+    <message>
         <source>&lt;N/A&gt;</source>
         <translation>&lt;N/A&gt;</translation>
     </message>
     <message>
         <source>invalid license</source>
         <translation>kehtetu litsents</translation>
+    </message>
+    <message>
+        <source>unlimited</source>
+        <translation>piiramatu</translation>
     </message>
     <message>
         <source>Invalid license file</source>
@@ -509,32 +572,16 @@
         <source>Feature</source>
         <translation>Funktsioon</translation>
     </message>
-    <message>
-        <source>Add-on</source>
-        <translation>Lisandmoodul</translation>
-    </message>
-    <message>
-        <source>Sites</source>
-        <translation>Saidid</translation>
-    </message>
-    <message>
-        <source>Computers</source>
-        <translation>Arvutid</translation>
-    </message>
-    <message>
-        <source>Any</source>
-        <translation>Mingi</translation>
-    </message>
-    <message>
-        <source>unlimited</source>
-        <translation>piiramatu</translation>
-    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
     <message>
-        <source>%1 demo</source>
-        <translation>%1 demo</translation>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation>%1  lisandmoodul on litsentseeritud kasutamiseks ainult %2 arvutites. Palun vähendage kuvatavate arvutite arvu või täiendage oma litsentsi.</translation>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
+        <translation>Lisateabe saamiseks selle lisandmooduli litsentsi täiendamise kohta külastage aadressi %1.</translation>
     </message>
     <message>
         <source>Thank you for testing the %1 add-on.</source>
@@ -545,12 +592,8 @@
         <translation> Külastage %1 lisainfo saamiseks, et saada litsents sellele lisale.</translation>
     </message>
     <message>
-        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation>%1  lisandmoodul on litsentseeritud kasutamiseks ainult %2 arvutites. Palun vähendage kuvatavate arvutite arvu või täiendage oma litsentsi.</translation>
-    </message>
-    <message>
-        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation>Lisateabe saamiseks selle lisandmooduli litsentsi täiendamise kohta külastage aadressi %1.</translation>
+        <source>%1 demo</source>
+        <translation>%1 demo</translation>
     </message>
 </context>
 <context>
@@ -679,10 +722,6 @@ KASUTA
         <translation>Sessioonid</translation>
     </message>
     <message>
-        <source>Session scan limit</source>
-        <translation>Seansi skannimise limiit</translation>
-    </message>
-    <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
         <translation>Skannige (nt kaugtöölaua) seansse kõigis arvutites</translation>
     </message>
@@ -699,40 +738,80 @@ KASUTA
         <translation> ms</translation>
     </message>
     <message>
-        <source>Parallel scans</source>
-        <translation>Paralleelsed skaneerimised</translation>
-    </message>
-    <message>
-        <source>Scan timeout</source>
-        <translation>Skannimise ajalõpp</translation>
-    </message>
-    <message>
-        <source>New location</source>
-        <translation>Uus asukoht</translation>
-    </message>
-    <message>
         <source>Computer and location names</source>
         <translation>Arvutite ja asukohtade nimed</translation>
-    </message>
-    <message>
-        <source>Reverse lookup hostnames from discovered IP addresses</source>
-        <translation>Avastatud IP-aadresside hostinimede pöördotsing</translation>
-    </message>
-    <message>
-        <source>Extract location names from hostnames</source>
-        <translation>Asukohanimede eraldamine hostinimedest</translation>
-    </message>
-    <message>
-        <source>Extract computer names from hostnames</source>
-        <translation>Arvutinimede eraldamine hostinimedest</translation>
     </message>
     <message>
         <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
         <translation>e.g. (%asukoht%:[a-z]+\d+)-(%nimi%:.*)</translation>
     </message>
     <message>
-        <source>Regular expression for hostname parsing:</source>
-        <translation>Regulaaravaldis hostinime sõelumiseks:</translation>
+        <source>New location</source>
+        <translation>Uus asukoht</translation>
+    </message>
+    <message>
+        <source>Session scan limit:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computer name source:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract computer name using regular expression</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Regular expression for computer name parsing:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract location name using regular expression</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>IP address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>DNS name (reverse lookup)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User login name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session client address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Session client name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name resolve timeout:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Parallel scans:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Scan timeout:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Retain time:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname of session host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Full name of user</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -812,52 +891,44 @@ KASUTA
 <context>
     <name>ScreenRecorderConfigurationPage</name>
     <message>
-        <source>Output directory</source>
-        <translation>Väljundkataloog</translation>
-    </message>
-    <message>
-        <source>Encoding settings</source>
-        <translation>Kodeerimise seaded</translation>
-    </message>
-    <message>
-        <source>frames per second</source>
-        <translation>kaadrit sekundis</translation>
-    </message>
-    <message>
-        <source>x</source>
-        <translation>x</translation>
-    </message>
-    <message>
-        <source>Keep aspect ratio</source>
-        <translation>Hoidke kuvasuhet</translation>
-    </message>
-    <message>
         <source>Screen recorder</source>
         <translation>Ekraanisalvesti</translation>
-    </message>
-    <message>
-        <source>kbps</source>
-        <translation>kbps</translation>
-    </message>
-    <message>
-        <source>Bitrate</source>
-        <translation>Bitikiirus</translation>
     </message>
     <message>
         <source>Output settings</source>
         <translation>Väljundi seaded</translation>
     </message>
     <message>
-        <source>Use fixed framerate</source>
-        <translation>Kasutage fikseeritud kaadrisagedust</translation>
-    </message>
-    <message>
         <source>Use fixed resolution</source>
         <translation>Kasutage fikseeritud eraldusvõimet</translation>
     </message>
     <message>
-        <source>H.264 profile</source>
-        <translation>H.264 profiil</translation>
+        <source>Keep aspect ratio</source>
+        <translation>Hoidke kuvasuhet</translation>
+    </message>
+    <message>
+        <source>frames per second</source>
+        <translation>kaadrit sekundis</translation>
+    </message>
+    <message>
+        <source>Output directory</source>
+        <translation>Väljundkataloog</translation>
+    </message>
+    <message>
+        <source>x</source>
+        <translation>x</translation>
+    </message>
+    <message>
+        <source>Use fixed framerate</source>
+        <translation>Kasutage fikseeritud kaadrisagedust</translation>
+    </message>
+    <message>
+        <source>Save to computer-specific subdirectories</source>
+        <translation>Salvestamine arvutipõhistesse alamkataloogidesse</translation>
+    </message>
+    <message>
+        <source>Encoding settings</source>
+        <translation>Kodeerimise seaded</translation>
     </message>
     <message>
         <source>Encoder</source>
@@ -868,8 +939,24 @@ KASUTA
         <translation>x264 eelseadistatud</translation>
     </message>
     <message>
-        <source>Save to computer-specific subdirectories</source>
-        <translation>Salvestamine arvutipõhistesse alamkataloogidesse</translation>
+        <source>kbps</source>
+        <translation>kbps</translation>
+    </message>
+    <message>
+        <source>H.264 profile</source>
+        <translation>H.264 profiil</translation>
+    </message>
+    <message>
+        <source>Bitrate</source>
+        <translation>Bitikiirus</translation>
+    </message>
+    <message>
+        <source>Keyframe interval</source>
+        <translation>Võtmekaadri intervall</translation>
+    </message>
+    <message>
+        <source>seconds</source>
+        <translation>sekundit</translation>
     </message>
     <message>
         <source>Other settings</source>
@@ -878,14 +965,6 @@ KASUTA
     <message>
         <source>Notify users when their screen is recorded</source>
         <translation>Teavita kasutajaid kui nende ekraan on salvestatud</translation>
-    </message>
-    <message>
-        <source>Keyframe interval</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation>sekundit</translation>
     </message>
 </context>
 <context>
@@ -899,12 +978,12 @@ KASUTA
         <translation>Alustage salvestamist</translation>
     </message>
     <message>
-        <source>Open folder with recordings</source>
-        <translation>Avage salvestiste kaust</translation>
+        <source>Processing…</source>
+        <translation>Töötlemine…</translation>
     </message>
     <message>
-        <source>Stop recording</source>
-        <translation>Lõpetage salvestamine</translation>
+        <source>Open folder with recordings</source>
+        <translation>Avage salvestiste kaust</translation>
     </message>
     <message>
         <source>Close</source>
@@ -915,24 +994,24 @@ KASUTA
         <translation>Ekraani salvestamine</translation>
     </message>
     <message>
-        <source>Processing…</source>
-        <translation type="unfinished"/>
+        <source>Starting recordings…</source>
+        <translation>Salvestiste alustamine…</translation>
     </message>
     <message>
-        <source>Starting recordings…</source>
-        <translation type="unfinished"/>
+        <source>Stop recording</source>
+        <translation>Lõpetage salvestamine</translation>
     </message>
     <message>
         <source>Finishing recordings…</source>
-        <translation type="unfinished"/>
+        <translation>Salvestiste lõpetamine…</translation>
     </message>
     <message>
         <source>Recording finished (duration: %1)</source>
-        <translation type="unfinished"/>
+        <translation>Salvestamine on lõppenud (kestus: %1)</translation>
     </message>
     <message>
         <source>Recording duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Salvestamise kestus: %1</translation>
     </message>
 </context>
 <context>
@@ -945,20 +1024,16 @@ KASUTA
 <context>
     <name>ScreenRecorderPlugin</name>
     <message>
-        <source>Click this button to record the screens of all users into video files.</source>
-        <translation>Klõpsake seda nuppu, et salvestada kõigi kasutajate ekraanid videofailidesse.</translation>
-    </message>
-    <message>
-        <source>Record screens to video files</source>
-        <translation>Salvestage ekraanid videofailidesse</translation>
-    </message>
-    <message>
         <source>Record</source>
         <translation>Salvestus</translation>
     </message>
     <message>
         <source>Stop recording</source>
         <translation>Lõpeta salvestus</translation>
+    </message>
+    <message>
+        <source>Click this button to record the screens of all users into video files.</source>
+        <translation>Klõpsake seda nuppu, et salvestada kõigi kasutajate ekraanid videofailidesse.</translation>
     </message>
     <message>
         <source>Screen recording</source>
@@ -971,6 +1046,10 @@ KASUTA
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
         <translation>Ekraani salvestamine õpetaja arvutis on peatatud.</translation>
+    </message>
+    <message>
+        <source>Record screens to video files</source>
+        <translation>Salvestage ekraanid videofailidesse</translation>
     </message>
 </context>
 <context>

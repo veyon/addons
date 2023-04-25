@@ -2,6 +2,10 @@
 <context>
     <name>ChatConfigurationPage</name>
     <message>
+        <source>Chat</source>
+        <translation>交談</translation>
+    </message>
+    <message>
         <source>General settings</source>
         <translation>一般設定</translation>
     </message>
@@ -18,16 +22,12 @@
         <translation>使用者的登入名稱</translation>
     </message>
     <message>
-        <source>Allow users to change their nicknames</source>
-        <translation>允許使用者變更其名稱</translation>
-    </message>
-    <message>
         <source>Full names of users</source>
         <translation>使用者的全名</translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation>交談</translation>
+        <source>Allow users to change their nicknames</source>
+        <translation>允許使用者變更其名稱</translation>
     </message>
 </context>
 <context>
@@ -37,24 +37,20 @@
         <translation>交談</translation>
     </message>
     <message>
-        <source>Interactive chat with logged on users</source>
-        <translation>與登入使用者互動交談</translation>
+        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
+        <translation>按一下這個按鈕可與所有使用者開始交談。 然後所有使用者都可以在公共交談中編寫文字訊息。</translation>
     </message>
     <message>
         <source>%2 Chat</source>
         <translation>%2 交談</translation>
     </message>
     <message>
-        <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
-        <translation>按一下這個按鈕可與所有使用者開始交談。 然後所有使用者都可以在公共交談中編寫文字訊息。</translation>
+        <source>Interactive chat with logged on users</source>
+        <translation>與登入使用者互動交談</translation>
     </message>
 </context>
 <context>
     <name>ChatWindow</name>
-    <message>
-        <source>Type a new message</source>
-        <translation>輸入新訊息</translation>
-    </message>
     <message>
         <source>Veyon Chat</source>
         <translation>Veyon 交談</translation>
@@ -68,12 +64,12 @@
         <translation>暱稱</translation>
     </message>
     <message>
-        <source>Change nickname</source>
-        <translation>變更暱稱</translation>
+        <source>Type a new message</source>
+        <translation>輸入新訊息</translation>
     </message>
     <message>
-        <source>Please enter a new nickname:</source>
-        <translation>請輸入新暱稱:</translation>
+        <source>Close chat</source>
+        <translation>關閉交談</translation>
     </message>
     <message>
         <source>Change chat title</source>
@@ -84,8 +80,12 @@
         <translation>請輸入新的交談標題:</translation>
     </message>
     <message>
-        <source>Close chat</source>
-        <translation>關閉交談</translation>
+        <source>Change nickname</source>
+        <translation>變更暱稱</translation>
+    </message>
+    <message>
+        <source>Please enter a new nickname:</source>
+        <translation>請輸入新暱稱:</translation>
     </message>
 </context>
 <context>
@@ -215,6 +215,49 @@
     <message>
         <source>%1 (use VDI desktops)</source>
         <translation>%1 (使用 VDI 桌面)</translation>
+    </message>
+</context>
+<context>
+    <name>DeviceLockPlugin</name>
+    <message>
+        <source>Block Internet access</source>
+        <translation>封鎖 internet 存取</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>取消封鎖 internet 存取</translation>
+    </message>
+    <message>
+        <source>Show help about command</source>
+        <translation>顯示命令的說明</translation>
+    </message>
+    <message>
+        <source>Internet access</source>
+        <translation>Internet 存取</translation>
+    </message>
+    <message>
+        <source>Block or unblock Internet access.</source>
+        <translation>封鎖或取消封鎖 internet 存取。</translation>
+    </message>
+    <message>
+        <source>Click this button to block Internet access.</source>
+        <translation>按一下此按鈕可封鎖 internet 存取。</translation>
+    </message>
+    <message>
+        <source>Click this button to unblock Internet access.</source>
+        <translation>按一下此按鈕可取消封鎖 internet 存取。</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>Internet 存取現在已封鎖。 由於您使用的是這個附加元件的展示版本，它將在 60 秒內自動取消封鎖。</translation>
+    </message>
+    <message>
+        <source>Lock peripheral devices</source>
+        <translation>鎖定周邊裝置</translation>
+    </message>
+    <message>
+        <source>Commands for locking/unlocking peripheral devices</source>
+        <translation>鎖定/解鎖周邊裝置的命令</translation>
     </message>
 </context>
 <context>
@@ -353,16 +396,16 @@
         <translation>按一下此按鈕可取消封鎖 internet 存取。</translation>
     </message>
     <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
+        <translation>Internet 存取現在已封鎖。 由於您使用的是這個附加元件的展示版本，它將在 60 秒內自動取消封鎖。</translation>
+    </message>
+    <message>
         <source>Control access to the internet</source>
         <translation>控制存取 internet</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>控制存取 internet 的命令</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Internet 存取現在已封鎖。 由於您使用的是這個附加元件的展示版本，它將在 60 秒內自動取消封鎖。</translation>
     </message>
 </context>
 <context>
@@ -446,8 +489,20 @@
         <translation>ID</translation>
     </message>
     <message>
+        <source>Add-on</source>
+        <translation>附加元件</translation>
+    </message>
+    <message>
         <source>Valid until</source>
         <translation>有效期至</translation>
+    </message>
+    <message>
+        <source>Sites</source>
+        <translation>站台</translation>
+    </message>
+    <message>
+        <source>Computers</source>
+        <translation>電腦</translation>
     </message>
     <message>
         <source>Licensee</source>
@@ -470,12 +525,20 @@
         <translation>您真的要移除選取的授權?</translation>
     </message>
     <message>
+        <source>Any</source>
+        <translation>任意</translation>
+    </message>
+    <message>
         <source>&lt;N/A&gt;</source>
         <translation>&lt;不適用&gt;</translation>
     </message>
     <message>
         <source>invalid license</source>
         <translation>授權無效</translation>
+    </message>
+    <message>
+        <source>unlimited</source>
+        <translation>無限</translation>
     </message>
     <message>
         <source>Invalid license file</source>
@@ -509,32 +572,16 @@
         <source>Feature</source>
         <translation>功能</translation>
     </message>
-    <message>
-        <source>Add-on</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Sites</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Computers</source>
-        <translation>電腦</translation>
-    </message>
-    <message>
-        <source>Any</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>unlimited</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>LicensingHelper</name>
     <message>
-        <source>%1 demo</source>
-        <translation>%1 展示</translation>
+        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
+        <translation>%1 附加元件最多只能用於 %2 部電腦。 請減少顯示的電腦數量或升級您的授權。</translation>
+    </message>
+    <message>
+        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
+        <translation>請訪問 %1 以取得有關如何升級這個附加元件授權的更多資訊。</translation>
     </message>
     <message>
         <source>Thank you for testing the %1 add-on.</source>
@@ -545,12 +592,8 @@
         <translation>請訪問 %1 以取得如得獲取這個附加元件授權的更多資訊。</translation>
     </message>
     <message>
-        <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation type="unfinished"/>
+        <source>%1 demo</source>
+        <translation>%1 展示</translation>
     </message>
 </context>
 <context>
@@ -679,10 +722,6 @@ USAGE
         <translation>工作階段</translation>
     </message>
     <message>
-        <source>Session scan limit</source>
-        <translation>工作階段掃描限制</translation>
-    </message>
-    <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
         <translation>掃描 (如遠端桌面) 工作階段在所有電腦</translation>
     </message>
@@ -699,40 +738,80 @@ USAGE
         <translation> 毫秒</translation>
     </message>
     <message>
-        <source>Parallel scans</source>
-        <translation>並行掃描</translation>
-    </message>
-    <message>
-        <source>Scan timeout</source>
-        <translation>掃描逾時</translation>
-    </message>
-    <message>
-        <source>New location</source>
-        <translation>新位置</translation>
-    </message>
-    <message>
         <source>Computer and location names</source>
         <translation>電腦和位置名稱</translation>
-    </message>
-    <message>
-        <source>Reverse lookup hostnames from discovered IP addresses</source>
-        <translation>從發現的 IP 地址反向查找主機名稱</translation>
-    </message>
-    <message>
-        <source>Extract location names from hostnames</source>
-        <translation>從主機名稱擷取位置名稱</translation>
-    </message>
-    <message>
-        <source>Extract computer names from hostnames</source>
-        <translation>從主機名稱擷取電腦名稱</translation>
     </message>
     <message>
         <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
         <translation>例如: (%location%:[a-z]+\d+)-(%name%:.*)</translation>
     </message>
     <message>
-        <source>Regular expression for hostname parsing:</source>
-        <translation>主機名稱解析的正則表達式:</translation>
+        <source>New location</source>
+        <translation>新位置</translation>
+    </message>
+    <message>
+        <source>Session scan limit:</source>
+        <translation>工作階段掃描限制:</translation>
+    </message>
+    <message>
+        <source>Computer name source:</source>
+        <translation>電腦名稱來源:</translation>
+    </message>
+    <message>
+        <source>Extract computer name using regular expression</source>
+        <translation>使用正則表達式擷取電腦名稱</translation>
+    </message>
+    <message>
+        <source>Regular expression for computer name parsing:</source>
+        <translation>電腦名稱解析的正則表達式:</translation>
+    </message>
+    <message>
+        <source>Extract location name using regular expression</source>
+        <translation>使用正則表達式擷取位置名稱</translation>
+    </message>
+    <message>
+        <source>IP address</source>
+        <translation>IP 位址</translation>
+    </message>
+    <message>
+        <source>DNS name (reverse lookup)</source>
+        <translation>DNS 名稱 (反向查找)</translation>
+    </message>
+    <message>
+        <source>User login name</source>
+        <translation>使用者登入名稱</translation>
+    </message>
+    <message>
+        <source>Session client address</source>
+        <translation>工作階段用戶端位址</translation>
+    </message>
+    <message>
+        <source>Session client name</source>
+        <translation>工作階段用戶端名稱</translation>
+    </message>
+    <message>
+        <source>Name resolve timeout:</source>
+        <translation>名稱解析逾時:</translation>
+    </message>
+    <message>
+        <source>Parallel scans:</source>
+        <translation>並行掃描:</translation>
+    </message>
+    <message>
+        <source>Scan timeout:</source>
+        <translation>掃描逾時:</translation>
+    </message>
+    <message>
+        <source>Retain time:</source>
+        <translation>保留時間:</translation>
+    </message>
+    <message>
+        <source>Hostname of session host</source>
+        <translation>工作階段主機的名稱</translation>
+    </message>
+    <message>
+        <source>Full name of user</source>
+        <translation>使用者的全名</translation>
     </message>
 </context>
 <context>
@@ -812,52 +891,44 @@ USAGE
 <context>
     <name>ScreenRecorderConfigurationPage</name>
     <message>
-        <source>Output directory</source>
-        <translation>輸出目錄</translation>
-    </message>
-    <message>
-        <source>Encoding settings</source>
-        <translation>編碼設定</translation>
-    </message>
-    <message>
-        <source>frames per second</source>
-        <translation>每秒框架數</translation>
-    </message>
-    <message>
-        <source>x</source>
-        <translation>x</translation>
-    </message>
-    <message>
-        <source>Keep aspect ratio</source>
-        <translation>保持外觀比例</translation>
-    </message>
-    <message>
         <source>Screen recorder</source>
         <translation>螢幕錄影機</translation>
-    </message>
-    <message>
-        <source>kbps</source>
-        <translation>kbps</translation>
-    </message>
-    <message>
-        <source>Bitrate</source>
-        <translation>位元率</translation>
     </message>
     <message>
         <source>Output settings</source>
         <translation>輸出設定</translation>
     </message>
     <message>
-        <source>Use fixed framerate</source>
-        <translation>使用固定框架</translation>
-    </message>
-    <message>
         <source>Use fixed resolution</source>
         <translation>使用固定解析度</translation>
     </message>
     <message>
-        <source>H.264 profile</source>
-        <translation>H.264 設定檔</translation>
+        <source>Keep aspect ratio</source>
+        <translation>保持外觀比例</translation>
+    </message>
+    <message>
+        <source>frames per second</source>
+        <translation>每秒框架數</translation>
+    </message>
+    <message>
+        <source>Output directory</source>
+        <translation>輸出目錄</translation>
+    </message>
+    <message>
+        <source>x</source>
+        <translation>x</translation>
+    </message>
+    <message>
+        <source>Use fixed framerate</source>
+        <translation>使用固定框架</translation>
+    </message>
+    <message>
+        <source>Save to computer-specific subdirectories</source>
+        <translation>儲存到電腦特定的子目錄</translation>
+    </message>
+    <message>
+        <source>Encoding settings</source>
+        <translation>編碼設定</translation>
     </message>
     <message>
         <source>Encoder</source>
@@ -868,8 +939,24 @@ USAGE
         <translation>x264 預先設定</translation>
     </message>
     <message>
-        <source>Save to computer-specific subdirectories</source>
-        <translation>儲存到電腦指定子目錄</translation>
+        <source>kbps</source>
+        <translation>kbps</translation>
+    </message>
+    <message>
+        <source>H.264 profile</source>
+        <translation>H.264 設定檔</translation>
+    </message>
+    <message>
+        <source>Bitrate</source>
+        <translation>位元率</translation>
+    </message>
+    <message>
+        <source>Keyframe interval</source>
+        <translation>關鍵框架間隔</translation>
+    </message>
+    <message>
+        <source>seconds</source>
+        <translation>秒</translation>
     </message>
     <message>
         <source>Other settings</source>
@@ -877,15 +964,7 @@ USAGE
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation>錄製其螢幕時通知使用者</translation>
-    </message>
-    <message>
-        <source>Keyframe interval</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation>秒</translation>
+        <translation>錄製螢幕時通知使用者</translation>
     </message>
 </context>
 <context>
@@ -899,12 +978,12 @@ USAGE
         <translation>開始錄製</translation>
     </message>
     <message>
-        <source>Open folder with recordings</source>
-        <translation>開啟錄製的資料夾</translation>
+        <source>Processing…</source>
+        <translation>正在處理…</translation>
     </message>
     <message>
-        <source>Stop recording</source>
-        <translation>停止錄製</translation>
+        <source>Open folder with recordings</source>
+        <translation>開啟錄製的資料夾</translation>
     </message>
     <message>
         <source>Close</source>
@@ -915,24 +994,24 @@ USAGE
         <translation>螢幕正在錄製</translation>
     </message>
     <message>
-        <source>Processing…</source>
-        <translation type="unfinished"/>
+        <source>Starting recordings…</source>
+        <translation>正在開始錄製…</translation>
     </message>
     <message>
-        <source>Starting recordings…</source>
-        <translation type="unfinished"/>
+        <source>Stop recording</source>
+        <translation>停止錄製</translation>
     </message>
     <message>
         <source>Finishing recordings…</source>
-        <translation type="unfinished"/>
+        <translation>正在完成錄製…</translation>
     </message>
     <message>
         <source>Recording finished (duration: %1)</source>
-        <translation type="unfinished"/>
+        <translation>錄製完成 (持續時間: %1)</translation>
     </message>
     <message>
         <source>Recording duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>錄製持續時間: %1</translation>
     </message>
 </context>
 <context>
@@ -945,14 +1024,6 @@ USAGE
 <context>
     <name>ScreenRecorderPlugin</name>
     <message>
-        <source>Click this button to record the screens of all users into video files.</source>
-        <translation>按一下這個按鈕以錄製所有使用者的螢幕為視訊檔。</translation>
-    </message>
-    <message>
-        <source>Record screens to video files</source>
-        <translation>錄製螢幕為視訊檔</translation>
-    </message>
-    <message>
         <source>Record</source>
         <translation>錄製</translation>
     </message>
@@ -961,16 +1032,24 @@ USAGE
         <translation>停止錄製</translation>
     </message>
     <message>
+        <source>Click this button to record the screens of all users into video files.</source>
+        <translation>按一下這個按鈕以錄製所有使用者的螢幕為視訊檔。</translation>
+    </message>
+    <message>
         <source>Screen recording</source>
         <translation>螢幕正在錄製</translation>
     </message>
     <message>
         <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
-        <translation type="unfinished"/>
+        <translation>螢幕現在錄製在老師電腦的視訊檔中。</translation>
     </message>
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
-        <translation type="unfinished"/>
+        <translation>老師的電腦上錄製螢幕已經停止。</translation>
+    </message>
+    <message>
+        <source>Record screens to video files</source>
+        <translation>錄製螢幕為視訊檔</translation>
     </message>
 </context>
 <context>
