@@ -866,7 +866,7 @@ USAGE
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation>Удалить маршруты по-умолчанию для блокировки доступа к интернету</translation>
+        <translation>Удалить маршруты по умолчанию для блокировки доступа к интернету</translation>
     </message>
     <message>
         <source>Add custom route to block internet</source>

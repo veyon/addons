@@ -253,11 +253,11 @@
     </message>
     <message>
         <source>Lock peripheral devices</source>
-        <translation type="unfinished"/>
+        <translation>Bloquear dispositivos periféricos</translation>
     </message>
     <message>
         <source>Commands for locking/unlocking peripheral devices</source>
-        <translation type="unfinished"/>
+        <translation>Comandos para bloquear/desbloquear dispositivos periféricos</translation>
     </message>
 </context>
 <context>
@@ -751,67 +751,67 @@ Eliminar %1 &lt;LICENSE ID&gt;
     </message>
     <message>
         <source>Session scan limit:</source>
-        <translation type="unfinished"/>
+        <translation>Límite de escaneo de sesión:</translation>
     </message>
     <message>
         <source>Computer name source:</source>
-        <translation type="unfinished"/>
+        <translation>Fuente del nombre del computador:</translation>
     </message>
     <message>
         <source>Extract computer name using regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Extraer el nombre de computador usando una expresión regular</translation>
     </message>
     <message>
         <source>Regular expression for computer name parsing:</source>
-        <translation type="unfinished"/>
+        <translation>Expresión regular para analizar el nombre del computador:</translation>
     </message>
     <message>
         <source>Extract location name using regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Extraer el nombre de la ubicación usando una expresión regular</translation>
     </message>
     <message>
         <source>IP address</source>
-        <translation type="unfinished"/>
+        <translation>Dirección IP</translation>
     </message>
     <message>
         <source>DNS name (reverse lookup)</source>
-        <translation type="unfinished"/>
+        <translation>Nombre DNS (búsqueda inversa)</translation>
     </message>
     <message>
         <source>User login name</source>
-        <translation type="unfinished"/>
+        <translation>Nombre de inicio de sesión del usuario</translation>
     </message>
     <message>
         <source>Session client address</source>
-        <translation type="unfinished"/>
+        <translation>Dirección del cliente de la sesión</translation>
     </message>
     <message>
         <source>Session client name</source>
-        <translation type="unfinished"/>
+        <translation>Nombre del cliente de sesión</translation>
     </message>
     <message>
         <source>Name resolve timeout:</source>
-        <translation type="unfinished"/>
+        <translation>Tiempo de espera de resolución de nombre:</translation>
     </message>
     <message>
         <source>Parallel scans:</source>
-        <translation type="unfinished"/>
+        <translation>Escaneos paralelos:</translation>
     </message>
     <message>
         <source>Scan timeout:</source>
-        <translation type="unfinished"/>
+        <translation>Tiempo de espera de escaneo:</translation>
     </message>
     <message>
         <source>Retain time:</source>
-        <translation type="unfinished"/>
+        <translation>Retener el tiempo:</translation>
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"/>
+        <translation>Nombre de equipo del computador de la sesión</translation>
     </message>
     <message>
         <source>Full name of user</source>
-        <translation type="unfinished"/>
+        <translation>Nombre completo del usuario</translation>
     </message>
 </context>
 <context>

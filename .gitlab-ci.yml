@@ -28,11 +28,11 @@ build-linux:
         - centos.7.9
         - debian.buster
         - debian.bullseye
-        - fedora.36
+        - debian.bookworm
         - fedora.37
+        - fedora.38
         - opensuse.15.4
         - opensuse.tumbleweed
-        - ubuntu.bionic
         - ubuntu.focal
         - ubuntu.jammy
   artifacts:

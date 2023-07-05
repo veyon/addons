@@ -296,7 +296,7 @@
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
+        <translation>bijv. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
@@ -346,7 +346,7 @@
     <name>InternetAccessControlConfigurationPage</name>
     <message>
         <source>Internet access control</source>
-        <translation type="unfinished"/>
+        <translation>Toegangscontrole internet</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -362,7 +362,7 @@
     </message>
     <message>
         <source>Backend settings</source>
-        <translation type="unfinished"/>
+        <translation>Backend-instellingen</translation>
     </message>
 </context>
 <context>
@@ -401,64 +401,64 @@
     </message>
     <message>
         <source>Control access to the internet</source>
-        <translation type="unfinished"/>
+        <translation>Toegang tot internet beheren</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
-        <translation type="unfinished"/>
+        <translation>Commando&apos;s om de toegang tot het internet te regelen</translation>
     </message>
 </context>
 <context>
     <name>LdapProConfigurationPage</name>
     <message>
         <source>LDAP Pro</source>
-        <translation type="unfinished"/>
+        <translation>LDAP Pro</translation>
     </message>
     <message>
         <source>Instances</source>
-        <translation type="unfinished"/>
+        <translation>Instanties</translation>
     </message>
     <message>
         <source>Enter name</source>
-        <translation type="unfinished"/>
+        <translation>Voer naam in</translation>
     </message>
     <message>
         <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation type="unfinished"/>
+        <translation>Voer een naam in voor de instantie (kan later niet worden gewijzigd!):</translation>
     </message>
     <message>
         <source>Remove instance</source>
-        <translation type="unfinished"/>
+        <translation>Instantie verwijderen</translation>
     </message>
     <message>
         <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Wil je echt instantie &quot;%1&quot; verwijderen?</translation>
     </message>
     <message>
         <source>Configuration for instance &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Configuratie voor bijvoorbeeld &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
     <name>LdapProPlugin</name>
     <message>
         <source>Professional LDAP/AD integration for Veyon</source>
-        <translation type="unfinished"/>
+        <translation>Professionele LDAP/AD integratie voor Veyon</translation>
     </message>
     <message>
         <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (computers en locaties laden vanuit LDAP/AD)</translation>
     </message>
     <message>
         <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (gebruikers en groepen laden vanuit LDAP/AD)</translation>
     </message>
 </context>
 <context>
     <name>LicensingConfigurationPage</name>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"/>
+        <translation>Licenties</translation>
     </message>
     <message>
         <source>Information</source>
@@ -474,7 +474,7 @@
     </message>
     <message>
         <source>Installed licenses</source>
-        <translation type="unfinished"/>
+        <translation>Geïnstalleerde licenties</translation>
     </message>
     <message>
         <source>Add license from file</source>
@@ -486,7 +486,7 @@
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Add-on</source>
@@ -494,7 +494,7 @@
     </message>
     <message>
         <source>Valid until</source>
-        <translation type="unfinished"/>
+        <translation>Geldig tot</translation>
     </message>
     <message>
         <source>Sites</source>
@@ -506,23 +506,23 @@
     </message>
     <message>
         <source>Licensee</source>
-        <translation type="unfinished"/>
+        <translation>Licentiehouder</translation>
     </message>
     <message>
         <source>Browse license file</source>
-        <translation type="unfinished"/>
+        <translation>Bladeren door licentiebestand</translation>
     </message>
     <message>
         <source>Veyon license files (*.vlf)</source>
-        <translation type="unfinished"/>
+        <translation>Veyon license files (*.vlf)</translation>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"/>
+        <translation>Verwijder licentie</translation>
     </message>
     <message>
         <source>Do you really want to remove the selected license?</source>
-        <translation type="unfinished"/>
+        <translation>Wil je de geselecteerde licentie echt verwijderen?</translation>
     </message>
     <message>
         <source>Any</source>
@@ -542,35 +542,35 @@
     </message>
     <message>
         <source>Invalid license file</source>
-        <translation type="unfinished"/>
+        <translation>Ongeldig licentiebestand</translation>
     </message>
     <message>
         <source>Could not open the license file for reading!</source>
-        <translation type="unfinished"/>
+        <translation>Kan het licentiebestand niet openen om te lezen!</translation>
     </message>
     <message>
         <source>The selected license file does not contain valid data.</source>
-        <translation type="unfinished"/>
+        <translation>Het geselecteerde licentiebestand bevat geen geldige gegevens.</translation>
     </message>
     <message>
         <source>The selected license file could not be verified.</source>
-        <translation type="unfinished"/>
+        <translation>Het geselecteerde licentiebestand kon niet worden geverifieerd.</translation>
     </message>
     <message>
         <source>The selected license file is not valid for this installation.</source>
-        <translation type="unfinished"/>
+        <translation>Het geselecteerde licentiebestand is niet geldig voor deze installatie.</translation>
     </message>
     <message>
         <source>The selected license file is expired.</source>
-        <translation type="unfinished"/>
+        <translation>Het geselecteerde licentiebestand is verlopen.</translation>
     </message>
     <message>
         <source>The license is already installed.</source>
-        <translation type="unfinished"/>
+        <translation>De licentie is al geïnstalleerd.</translation>
     </message>
     <message>
         <source>Feature</source>
-        <translation type="unfinished"/>
+        <translation>Functie</translation>
     </message>
 </context>
 <context>
@@ -600,19 +600,19 @@
     <name>LicensingPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation type="unfinished"/>
+        <translation>Geef hulp weer voor een specifiek commando</translation>
     </message>
     <message>
         <source>Show all installed licenses</source>
-        <translation type="unfinished"/>
+        <translation>Alle geïnstalleerde licenties weergeven</translation>
     </message>
     <message>
         <source>Add license file</source>
-        <translation type="unfinished"/>
+        <translation>Licentiebestand toevoegen</translation>
     </message>
     <message>
         <source>Remove installed license</source>
-        <translation type="unfinished"/>
+        <translation>Geïnstalleerde licentie verwijderen</translation>
     </message>
     <message>
         <source>
@@ -621,7 +621,12 @@ USAGE
 %1 add &lt;LICENSE FILE&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+GEBRUIK
+
+%1 toevoegen &lt;LICENSE FILE&gt;
+
+</translation>
     </message>
     <message>
         <source>
@@ -630,34 +635,39 @@ USAGE
 %1 remove &lt;LICENSE ID&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+ GEBRUIK
+
+%1 verwijderd &lt;LICENSE ID&gt;
+
+</translation>
     </message>
     <message>
         <source>No certificate found with given ID</source>
-        <translation type="unfinished"/>
+        <translation>Geen certificaat gevonden met opgegeven ID</translation>
     </message>
     <message>
         <source>Licensing management</source>
-        <translation type="unfinished"/>
+        <translation>Licentiebeheer</translation>
     </message>
     <message>
         <source>Commands for managing license keys</source>
-        <translation type="unfinished"/>
+        <translation>Commando&apos;s voor het beheren van licentiesleutels</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryConfigurationPage</name>
     <message>
         <source>Network discovery</source>
-        <translation type="unfinished"/>
+        <translation>Netwerk ontdekken</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode</translation>
     </message>
     <message>
         <source>Scan all subnets of computer</source>
-        <translation type="unfinished"/>
+        <translation>Alle subnetten van computer scannen</translation>
     </message>
     <message>
         <source>Test</source>
@@ -665,19 +675,19 @@ USAGE
     </message>
     <message>
         <source>Scan custom subnet</source>
-        <translation type="unfinished"/>
+        <translation>Aangepast subnet scannen</translation>
     </message>
     <message>
         <source>Scan network ranges</source>
-        <translation type="unfinished"/>
+        <translation>Netwerkbereiken scannen</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
+        <translation>bijv. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
-        <translation type="unfinished"/>
+        <translation>Netwerk bereiken</translation>
     </message>
     <message>
         <source>Add new group</source>
@@ -701,11 +711,11 @@ USAGE
     </message>
     <message>
         <source>Add new network range</source>
-        <translation type="unfinished"/>
+        <translation>Nieuw netwerkbereik toevoegen</translation>
     </message>
     <message>
         <source>Remove selected network range</source>
-        <translation type="unfinished"/>
+        <translation>Verwijder het geselecteerde netwerkbereik</translation>
     </message>
     <message>
         <source>Sessions</source>
@@ -721,7 +731,7 @@ USAGE
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opties</translation>
     </message>
     <message>
         <source> ms</source>
@@ -808,22 +818,22 @@ USAGE
     <name>NetworkDiscoveryDirectory</name>
     <message>
         <source>Discovered computers</source>
-        <translation type="unfinished"/>
+        <translation>Ontdekte computers</translation>
     </message>
     <message>
         <source>Scanning...</source>
-        <translation type="unfinished"/>
+        <translation>Scannen...</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation type="unfinished"/>
+        <translation>Geef hulp weer voor een specifiek commando</translation>
     </message>
     <message>
         <source>Scan a subnet</source>
-        <translation type="unfinished"/>
+        <translation>Subnet scannen</translation>
     </message>
     <message>
         <source>
@@ -832,38 +842,43 @@ USAGE
 %1 scan [&lt;SUBNET&gt;]
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+GEBRUIK
+
+%1 scan [&lt;SUBNET&gt;]
+
+</translation>
     </message>
     <message>
         <source>Network object directory which automatically discovers computers in the network</source>
-        <translation type="unfinished"/>
+        <translation>Netwerk object map die automatisch computers in het netwerk ontdekt</translation>
     </message>
     <message>
         <source>Network discovery (scan network for Veyon clients)</source>
-        <translation type="unfinished"/>
+        <translation>Netwerk ontdekken (netwerk scannen voor Veyon clients)</translation>
     </message>
     <message>
         <source>Commands for managing the network discovery directory</source>
-        <translation type="unfinished"/>
+        <translation>Commando&apos;s voor het beheren van de netwerkzoekmap</translation>
     </message>
 </context>
 <context>
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Standaardroutes verwijderen om internettoegang te blokkeren</translation>
     </message>
     <message>
         <source>Add custom route to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Aangepaste route toevoegen om internet te blokkeren</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"/>
+        <translation>Bestemming</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="unfinished"/>
+        <translation>Toegangspoort</translation>
     </message>
 </context>
 <context>
@@ -1041,7 +1056,7 @@ USAGE
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
-        <translation type="unfinished"/>
+        <translation>gelicentieerd voor</translation>
     </message>
 </context>
 <context>

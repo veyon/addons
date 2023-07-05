@@ -56,7 +56,6 @@ add_custom_target(addons-binaries
 	COMMAND cp -r ${CMAKE_SOURCE_DIR}/nsis ${ADDONS_BINARIES}
 	COMMAND cp nsis/${NSI} ${ADDONS_BINARIES}
 	COMMAND mkdir -p ${ADDONS_BINARIES}/tls
-	COMMAND cp ${MINGW_PREFIX}/plugins/tls/qopensslbackend.dll ${ADDONS_BINARIES}/tls
 	COMMAND cp ${DLLDIR}/avcodec*.dll ${DLLDIR}/avformat*.dll ${DLLDIR}/avutil*.dll ${DLLDIR}/swscale*.dll ${DLLDIR}/libx264*.dll ${ADDONS_BINARIES}
 	COMMAND cp ${LIBDIR}/WebView2Loader.dll ${ADDONS_BINARIES}
 	COMMAND find ${ADDONS_BINARIES} -name "*.dll" -exec ${MINGW_TOOL_PREFIX}strip '{}' '\;'
