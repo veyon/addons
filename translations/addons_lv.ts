@@ -3,89 +3,89 @@
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Čats</translation>
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished"/>
+        <translation>Galvenie iestatījumi</translation>
     </message>
     <message>
         <source>Allow plain text messages only</source>
-        <translation type="unfinished"/>
+        <translation>Atļaut teksta ziņojumus tikai</translation>
     </message>
     <message>
         <source>Nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Iesaukas</translation>
     </message>
     <message>
         <source>Login names of users</source>
-        <translation type="unfinished"/>
+        <translation>Lietotāju login vārdi</translation>
     </message>
     <message>
         <source>Full names of users</source>
-        <translation type="unfinished"/>
+        <translation>Lietotāju pilni vārdi</translation>
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Atļaut lietotājiem mainīt iesaukas</translation>
     </message>
 </context>
 <context>
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Čats</translation>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
-        <translation type="unfinished"/>
+        <translation>Spied šo pogu, lai saktu čatu ar visiem lietotājiem. Tad visi lietotāji varēs rakstīt teksta ziņas kopīgajā čatā.</translation>
     </message>
     <message>
         <source>%2 Chat</source>
-        <translation type="unfinished"/>
+        <translation>%2 Čats</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
-        <translation type="unfinished"/>
+        <translation>Interaktīvais čats ar pieslēgušajiem lietotājiem</translation>
     </message>
 </context>
 <context>
     <name>ChatWindow</name>
     <message>
         <source>Veyon Chat</source>
-        <translation type="unfinished"/>
+        <translation>Veyon Čats</translation>
     </message>
     <message>
         <source>Chat title</source>
-        <translation type="unfinished"/>
+        <translation>Čata virsraksts</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>Iesauka</translation>
     </message>
     <message>
         <source>Type a new message</source>
-        <translation type="unfinished"/>
+        <translation>Ieraksti jauno ziņojumu</translation>
     </message>
     <message>
         <source>Close chat</source>
-        <translation type="unfinished"/>
+        <translation>Aizvērt čatu</translation>
     </message>
     <message>
         <source>Change chat title</source>
-        <translation type="unfinished"/>
+        <translation>Mainīt čata virsrakstu</translation>
     </message>
     <message>
         <source>Please enter a new title for the chat:</source>
-        <translation type="unfinished"/>
+        <translation>Lūdzu ievadi jauno čata virsrakstu:</translation>
     </message>
     <message>
         <source>Change nickname</source>
-        <translation type="unfinished"/>
+        <translation>Mainīt iesauku</translation>
     </message>
     <message>
         <source>Please enter a new nickname:</source>
-        <translation type="unfinished"/>
+        <translation>Lūdzu ievadi jauno iesauku:</translation>
     </message>
 </context>
 <context>
@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>Hide own sessions</source>
-        <translation type="unfinished"/>
+        <translation>Paslēpt paša sesiju</translation>
     </message>
     <message>
         <source>Add hierarchy level for desktop group types</source>
@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Coordinator</source>
-        <translation type="unfinished"/>
+        <translation>Koordinātors</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -124,11 +124,11 @@
     </message>
     <message>
         <source>Register sessions</source>
-        <translation type="unfinished"/>
+        <translation>Reģistrētās sesijas</translation>
     </message>
     <message>
         <source>Run coordinator on this host</source>
-        <translation type="unfinished"/>
+        <translation>Aktivizēt koordinātoru šim lietotājam</translation>
     </message>
     <message>
         <source>Desktop groups</source>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"/>
+        <translation>Vietas</translation>
     </message>
     <message>
         <source>Common locations only</source>
@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Instant lessons</source>
-        <translation type="unfinished"/>
+        <translation>Tūlītējas stundas</translation>
     </message>
     <message>
         <source>Host name separator</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Name filter</source>
-        <translation type="unfinished"/>
+        <translation>Vārdu filtrs</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -203,7 +203,7 @@
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"/>
+        <translation>Vietas</translation>
     </message>
 </context>
 <context>
@@ -221,11 +221,11 @@
     <name>DeviceLockPlugin</name>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Bloķēt interneta lietošanu</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Atļaut interneta lietošanu</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -233,19 +233,19 @@
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Interneta piekķuve</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Bloķēt vai atļaut interneta lietošanu</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Spied šo pogu lai bloķētu interneta lietošanu</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Spied šo pogu lai atļautu interneta lietošanu</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
@@ -268,11 +268,11 @@
     </message>
     <message>
         <source>e.g. 8080</source>
-        <translation type="unfinished"/>
+        <translation>piemēram 8080</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Pielāgots</translation>
     </message>
     <message>
         <source>21 (FTP)</source>
@@ -280,7 +280,7 @@
     </message>
     <message>
         <source>80/443 (HTTP/HTTPS)</source>
-        <translation type="unfinished"/>
+        <translation>80/443 (HTTP/HTTPS)</translation>
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
@@ -292,19 +292,19 @@
     </message>
     <message>
         <source>e.g. 80 443</source>
-        <translation type="unfinished"/>
+        <translation>piemēram 80 443</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
+        <translation>piemēram 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
-        <translation type="unfinished"/>
+        <translation>Porti</translation>
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Tīkli</translation>
     </message>
     <message>
         <source>Hosts</source>
@@ -312,7 +312,7 @@
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>piemēram docs.veyon.io</translation>
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
@@ -320,11 +320,11 @@
     </message>
     <message>
         <source>Server addresses</source>
-        <translation type="unfinished"/>
+        <translation>Servera adreses</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation type="unfinished"/>
+        <translation>piemēram 192.168.1.253</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
@@ -350,7 +350,7 @@
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished"/>
+        <translation>Galvenie iestatījumi</translation>
     </message>
     <message>
         <source>Backend:</source>
@@ -369,11 +369,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Bloķēt interneta lietošanu</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Atļaut interneta lietošanu</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -381,19 +381,19 @@
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Interneta piekķuve</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Bloķēt vai atļaut interneta lietošanu</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Spied šo pogu lai bloķētu interneta lietošanu</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Spied šo pogu lai atļautu interneta lietošanu</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
@@ -420,7 +420,7 @@
     </message>
     <message>
         <source>Enter name</source>
-        <translation type="unfinished"/>
+        <translation>Ievadi vārdu</translation>
     </message>
     <message>
         <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
@@ -462,7 +462,7 @@
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informācija</translation>
     </message>
     <message>
         <source>Installation ID</source>
@@ -486,7 +486,7 @@
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Add-on</source>
@@ -506,7 +506,7 @@
     </message>
     <message>
         <source>Licensee</source>
-        <translation type="unfinished"/>
+        <translation>Licenze</translation>
     </message>
     <message>
         <source>Browse license file</source>
@@ -538,7 +538,7 @@
     </message>
     <message>
         <source>unlimited</source>
-        <translation type="unfinished"/>
+        <translation>neierobežots</translation>
     </message>
     <message>
         <source>Invalid license file</source>
@@ -585,7 +585,7 @@
     </message>
     <message>
         <source>Thank you for testing the %1 add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Paldies par %1 papildinājuma testēšanu.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
@@ -604,11 +604,11 @@
     </message>
     <message>
         <source>Show all installed licenses</source>
-        <translation type="unfinished"/>
+        <translation>Parādīt visas instalētās licenzes</translation>
     </message>
     <message>
         <source>Add license file</source>
-        <translation type="unfinished"/>
+        <translation>Pievienot licenzes failu</translation>
     </message>
     <message>
         <source>Remove installed license</source>
@@ -673,7 +673,7 @@ USAGE
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
+        <translation>piemēram 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -685,19 +685,19 @@ USAGE
     </message>
     <message>
         <source>Remove selected group</source>
-        <translation type="unfinished"/>
+        <translation>Noņemt izvēlētās grupas</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="unfinished"/>
+        <translation>Grupas</translation>
     </message>
     <message>
         <source>First address</source>
-        <translation type="unfinished"/>
+        <translation>Pirmā adrese</translation>
     </message>
     <message>
         <source>Last address</source>
-        <translation type="unfinished"/>
+        <translation>Pēdējā adrese</translation>
     </message>
     <message>
         <source>Add new network range</source>
@@ -709,7 +709,7 @@ USAGE
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Sesijas</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
@@ -877,7 +877,7 @@ USAGE
     <name>ScreenRecorderConfigurationPage</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>Ekrāna ierakstītājs</translation>
     </message>
     <message>
         <source>Output settings</source>
@@ -956,15 +956,15 @@ USAGE
     <name>ScreenRecorderControlWidget</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>Ekrāna ierakstītājs</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation type="unfinished"/>
+        <translation>Sākt ierakstīšanu</translation>
     </message>
     <message>
         <source>Processing…</source>
-        <translation type="unfinished"/>
+        <translation>Apstrādā...</translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
@@ -972,11 +972,11 @@ USAGE
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Aizvērts</translation>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation>Ekrāna ierakstīšana</translation>
     </message>
     <message>
         <source>Starting recordings…</source>
@@ -984,7 +984,7 @@ USAGE
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation>Apturēt ierakstīšanu</translation>
     </message>
     <message>
         <source>Finishing recordings…</source>
@@ -1010,11 +1010,11 @@ USAGE
     <name>ScreenRecorderPlugin</name>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation>Ierakstīt</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation>Apturēt ierakstīšanu</translation>
     </message>
     <message>
         <source>Click this button to record the screens of all users into video files.</source>
@@ -1022,7 +1022,7 @@ USAGE
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation>Ekrāna ierakstīšana</translation>
     </message>
     <message>
         <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
@@ -1077,7 +1077,7 @@ USAGE
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished"/>
+        <translation>Galvenie iestatījumi</translation>
     </message>
     <message>
         <source>Backend:</source>

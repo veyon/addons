@@ -3,7 +3,7 @@
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -11,88 +11,88 @@
     </message>
     <message>
         <source>Allow plain text messages only</source>
-        <translation type="unfinished"/>
+        <translation>Alleen platte tekstberichten toestaan</translation>
     </message>
     <message>
         <source>Nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Bijnamen</translation>
     </message>
     <message>
         <source>Login names of users</source>
-        <translation type="unfinished"/>
+        <translation>Inlognamen van gebruikers</translation>
     </message>
     <message>
         <source>Full names of users</source>
-        <translation type="unfinished"/>
+        <translation>Volledige namen van gebruikers</translation>
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Gebruikers toestaan hun bijnaam te wijzigen</translation>
     </message>
 </context>
 <context>
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
-        <translation type="unfinished"/>
+        <translation>Klik op deze knop om een chat te starten met alle gebruikers. Vervolgens kunnen alle gebruikers tekstberichten schrijven in een gemeenschappelijke chat.</translation>
     </message>
     <message>
         <source>%2 Chat</source>
-        <translation type="unfinished"/>
+        <translation>%2 Chat</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
-        <translation type="unfinished"/>
+        <translation>Interactieve chat met ingelogde gebruikers</translation>
     </message>
 </context>
 <context>
     <name>ChatWindow</name>
     <message>
         <source>Veyon Chat</source>
-        <translation type="unfinished"/>
+        <translation>Veyon Chat</translation>
     </message>
     <message>
         <source>Chat title</source>
-        <translation type="unfinished"/>
+        <translation>Chat titel</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>Bijnaam</translation>
     </message>
     <message>
         <source>Type a new message</source>
-        <translation type="unfinished"/>
+        <translation>Typ een nieuw bericht</translation>
     </message>
     <message>
         <source>Close chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat sluiten</translation>
     </message>
     <message>
         <source>Change chat title</source>
-        <translation type="unfinished"/>
+        <translation>Wijzig chat-titel</translation>
     </message>
     <message>
         <source>Please enter a new title for the chat:</source>
-        <translation type="unfinished"/>
+        <translation>Voer een nieuwe titel in voor de chat:</translation>
     </message>
     <message>
         <source>Change nickname</source>
-        <translation type="unfinished"/>
+        <translation>Wijzig bijnaam</translation>
     </message>
     <message>
         <source>Please enter a new nickname:</source>
-        <translation type="unfinished"/>
+        <translation>Voer een nieuwe bijnaam in:</translation>
     </message>
 </context>
 <context>
     <name>DesktopMatrixConfigurationPage</name>
     <message>
         <source>DesktopMatrix</source>
-        <translation type="unfinished"/>
+        <translation>DesktopMatrix</translation>
     </message>
     <message>
         <source>General</source>
@@ -100,19 +100,19 @@
     </message>
     <message>
         <source>Show usernames instead of session names</source>
-        <translation type="unfinished"/>
+        <translation>Toon gebruikersnamen in plaats van sessienamen</translation>
     </message>
     <message>
         <source>Hide own sessions</source>
-        <translation type="unfinished"/>
+        <translation>Eigen sessies verbergen</translation>
     </message>
     <message>
         <source>Add hierarchy level for desktop group types</source>
-        <translation type="unfinished"/>
+        <translation>Hiërarchie niveau toevoegen voor bureaubladgroep types</translation>
     </message>
     <message>
         <source>Coordinator</source>
-        <translation type="unfinished"/>
+        <translation>Coördinator</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -120,39 +120,39 @@
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Poort</translation>
     </message>
     <message>
         <source>Register sessions</source>
-        <translation type="unfinished"/>
+        <translation>Registreer sessies</translation>
     </message>
     <message>
         <source>Run coordinator on this host</source>
-        <translation type="unfinished"/>
+        <translation>Voer coördinator uit op deze host</translation>
     </message>
     <message>
         <source>Desktop groups</source>
-        <translation type="unfinished"/>
+        <translation>Desktop groepen</translation>
     </message>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
+        <translation>Sessie hosts</translation>
     </message>
     <message>
         <source>Hostname groups</source>
-        <translation type="unfinished"/>
+        <translation>Hostnaam groepen</translation>
     </message>
     <message>
         <source>Common hostname groups only</source>
-        <translation type="unfinished"/>
+        <translation>Alleen algemene hostnaamgroepen</translation>
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>Gebruikersgroepen</translation>
     </message>
     <message>
         <source>Common user groups only</source>
-        <translation type="unfinished"/>
+        <translation>Alleen algemene gebruikersgroepen</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -160,19 +160,19 @@
     </message>
     <message>
         <source>Common locations only</source>
-        <translation type="unfinished"/>
+        <translation>Alleen algemene locaties</translation>
     </message>
     <message>
         <source>Instant lessons</source>
-        <translation type="unfinished"/>
+        <translation>Directe lessen</translation>
     </message>
     <message>
         <source>Host name separator</source>
-        <translation type="unfinished"/>
+        <translation>Hostnaam scheidingsteken</translation>
     </message>
     <message>
         <source>Cache size</source>
-        <translation type="unfinished"/>
+        <translation>Grootte cache</translation>
     </message>
     <message>
         <source>Backend</source>
@@ -180,26 +180,26 @@
     </message>
     <message>
         <source>Name filter</source>
-        <translation type="unfinished"/>
+        <translation>Naam filter</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"/>
+        <translation>Map</translation>
     </message>
 </context>
 <context>
     <name>DesktopMatrixGroupManager</name>
     <message>
         <source>Session hosts</source>
-        <translation type="unfinished"/>
+        <translation>Sessie hosts</translation>
     </message>
     <message>
         <source>Hostname groups</source>
-        <translation type="unfinished"/>
+        <translation>Hostnaam groepen</translation>
     </message>
     <message>
         <source>User groups</source>
-        <translation type="unfinished"/>
+        <translation>Gebruikersgroepen</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -210,22 +210,22 @@
     <name>DesktopMatrixPlugin</name>
     <message>
         <source>VDI support for Veyon</source>
-        <translation type="unfinished"/>
+        <translation>VDI-ondersteuning voor Veyon</translation>
     </message>
     <message>
         <source>%1 (use VDI desktops)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (gebruik VDI-desktops)</translation>
     </message>
 </context>
 <context>
     <name>DeviceLockPlugin</name>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Blokkeer internettoegang</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Deblokkeer internettoegang</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -233,66 +233,66 @@
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet toegang</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Blokkeer of deblokkeer internettoegang.</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klik op deze knop om internettoegang te blokkeren.</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klik op deze knop om de internettoegang te deblokkeren.</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>De internettoegang is nu geblokkeerd. Aangezien je een demoversie van deze add-on gebruikt, wordt deze automatisch binnen 60 seconden gedeblokkeerd.</translation>
     </message>
     <message>
         <source>Lock peripheral devices</source>
-        <translation type="unfinished"/>
+        <translation>Randapparaten vergrendelen</translation>
     </message>
     <message>
         <source>Commands for locking/unlocking peripheral devices</source>
-        <translation type="unfinished"/>
+        <translation>Commando&apos;s voor vergrendelen/ontgrendelen van randapparaten</translation>
     </message>
 </context>
 <context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
-        <translation type="unfinished"/>
+        <translation>Blokkeer al het uitgaande verkeer voor TCP-poorten</translation>
     </message>
     <message>
         <source>e.g. 8080</source>
-        <translation type="unfinished"/>
+        <translation>bijv. 8080</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Aangepast</translation>
     </message>
     <message>
         <source>21 (FTP)</source>
-        <translation type="unfinished"/>
+        <translation>21 (FTP)</translation>
     </message>
     <message>
         <source>80/443 (HTTP/HTTPS)</source>
-        <translation type="unfinished"/>
+        <translation>80/443 (HTTP/HTTPS)</translation>
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>Blokkeer al het uitgaande verkeer naar niet-lokale subnetten</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"/>
+        <translation>Uitzonderingen</translation>
     </message>
     <message>
         <source>e.g. 80 443</source>
-        <translation type="unfinished"/>
+        <translation>bijv. 80 443</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -300,35 +300,35 @@
     </message>
     <message>
         <source>Ports</source>
-        <translation type="unfinished"/>
+        <translation>Poorten</translation>
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Netwerken</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Hosts</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>bijv. docs.veyon.io</translation>
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Blokkeer verkeer naar (bijvoorbeeld proxy- of DNS-) servers</translation>
     </message>
     <message>
         <source>Server addresses</source>
-        <translation type="unfinished"/>
+        <translation>Serveradressen</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation type="unfinished"/>
+        <translation>bijv. 192.168.1.253</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
+        <translation>Voorgeconfigureerde firewallregel inschakelen</translation>
     </message>
     <message>
         <source>Name</source>
@@ -339,7 +339,7 @@
     <name>FirewallPlugin</name>
     <message>
         <source>Block internet access via system firewall</source>
-        <translation type="unfinished"/>
+        <translation>Blokkeer internettoegang via systeemfirewall</translation>
     </message>
 </context>
 <context>
@@ -358,7 +358,7 @@
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation type="unfinished"/>
+        <translation>Deblokkeer internettoegang bij het starten van de service (bijv. na afmelden of opnieuw opstarten)</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -369,11 +369,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Blokkeer internettoegang</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Deblokkeer internettoegang</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -381,23 +381,23 @@
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet toegang</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Blokkeer of deblokkeer internettoegang.</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klik op deze knop om internettoegang te blokkeren.</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klik op deze knop om de internettoegang te deblokkeren.</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>De internettoegang is nu geblokkeerd. Aangezien je een demoversie van deze add-on gebruikt, wordt deze automatisch binnen 60 seconden gedeblokkeerd.</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -462,15 +462,15 @@
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informatie</translation>
     </message>
     <message>
         <source>Installation ID</source>
-        <translation type="unfinished"/>
+        <translation>installatie ID</translation>
     </message>
     <message>
         <source>Addons available for licensing</source>
-        <translation type="unfinished"/>
+        <translation>Add-ons beschikbaar voor licenties</translation>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -478,11 +478,11 @@
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>Licentie toevoegen uit bestand</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>Verwijder geselecteerde licentie</translation>
     </message>
     <message>
         <source>ID</source>
@@ -490,7 +490,7 @@
     </message>
     <message>
         <source>Add-on</source>
-        <translation type="unfinished"/>
+        <translation>Add-on</translation>
     </message>
     <message>
         <source>Valid until</source>
@@ -498,7 +498,7 @@
     </message>
     <message>
         <source>Sites</source>
-        <translation type="unfinished"/>
+        <translation>Sites</translation>
     </message>
     <message>
         <source>Computers</source>
@@ -526,7 +526,7 @@
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation>Elke</translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
@@ -534,11 +534,11 @@
     </message>
     <message>
         <source>invalid license</source>
-        <translation type="unfinished"/>
+        <translation>Ongeldig licentie</translation>
     </message>
     <message>
         <source>unlimited</source>
-        <translation type="unfinished"/>
+        <translation>onbeperkt</translation>
     </message>
     <message>
         <source>Invalid license file</source>
@@ -577,23 +577,23 @@
     <name>LicensingHelper</name>
     <message>
         <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation type="unfinished"/>
+        <translation>De invoegtoepassing %1 is gelicentieerd voor gebruik met maximaal %2 computers. Verminder het aantal weergegeven computers of upgrade uw licentie.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Ga naar %1 voor meer informatie over hoe u uw licentie voor deze add-on kunt upgraden.</translation>
     </message>
     <message>
         <source>Thank you for testing the %1 add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Bedankt voor het testen van de %1 add-on.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Ga naar %1 voor meer informatie over het verkrijgen van een licentie voor deze add-on.</translation>
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation>%1 demo</translation>
     </message>
 </context>
 <context>
@@ -719,15 +719,15 @@ USAGE
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Sessies</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
+        <translation>Scan (bijvoorbeeld bureaublad op afstand) sessies op alle computers</translation>
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation type="unfinished"/>
+        <translation>Eerste (bijv. console) sessie uitsluiten</translation>
     </message>
     <message>
         <source>Options</source>
@@ -739,11 +739,11 @@ USAGE
     </message>
     <message>
         <source>Computer and location names</source>
-        <translation type="unfinished"/>
+        <translation>Computer- en locatienamen</translation>
     </message>
     <message>
         <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
-        <translation type="unfinished"/>
+        <translation>bijv. (%location%:[a-z]+\d+)-(%name%:.*)</translation>
     </message>
     <message>
         <source>New location</source>
@@ -751,67 +751,67 @@ USAGE
     </message>
     <message>
         <source>Session scan limit:</source>
-        <translation type="unfinished"/>
+        <translation>Sessie scanlimiet:</translation>
     </message>
     <message>
         <source>Computer name source:</source>
-        <translation type="unfinished"/>
+        <translation>Computernaam bron:</translation>
     </message>
     <message>
         <source>Extract computer name using regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Computernaam ophalen met behulp van gewone expressie</translation>
     </message>
     <message>
         <source>Regular expression for computer name parsing:</source>
-        <translation type="unfinished"/>
+        <translation>Gewone expressie voor het analyseren van computernamen:</translation>
     </message>
     <message>
         <source>Extract location name using regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Locatienaam ophalen met gewone expressie</translation>
     </message>
     <message>
         <source>IP address</source>
-        <translation type="unfinished"/>
+        <translation>IP adres</translation>
     </message>
     <message>
         <source>DNS name (reverse lookup)</source>
-        <translation type="unfinished"/>
+        <translation>DNS-naam (omgekeerd zoeken)</translation>
     </message>
     <message>
         <source>User login name</source>
-        <translation type="unfinished"/>
+        <translation>Loginnaam gebruiker</translation>
     </message>
     <message>
         <source>Session client address</source>
-        <translation type="unfinished"/>
+        <translation>Sessie-clientadres</translation>
     </message>
     <message>
         <source>Session client name</source>
-        <translation type="unfinished"/>
+        <translation>Sessie-clientnaam</translation>
     </message>
     <message>
         <source>Name resolve timeout:</source>
-        <translation type="unfinished"/>
+        <translation>Time-out omzetten naam:</translation>
     </message>
     <message>
         <source>Parallel scans:</source>
-        <translation type="unfinished"/>
+        <translation>Parallelle scans:</translation>
     </message>
     <message>
         <source>Scan timeout:</source>
-        <translation type="unfinished"/>
+        <translation>Time-out scan</translation>
     </message>
     <message>
         <source>Retain time:</source>
-        <translation type="unfinished"/>
+        <translation>Bewaar tijd:</translation>
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"/>
+        <translation>Hostnaam van sessie-host</translation>
     </message>
     <message>
         <source>Full name of user</source>
-        <translation type="unfinished"/>
+        <translation>Volledige naam van gebruiker</translation>
     </message>
 </context>
 <context>
@@ -885,34 +885,34 @@ GEBRUIK
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
-        <translation type="unfinished"/>
+        <translation>Internettoegang blokkeren door routering-tabel te wijzigen</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderConfigurationPage</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>Schermopname</translation>
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation>Uitvoerinstellingen</translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation>Gebruik vaste resolutie</translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
-        <translation type="unfinished"/>
+        <translation>Verhouding behouden</translation>
     </message>
     <message>
         <source>frames per second</source>
-        <translation type="unfinished"/>
+        <translation>beelden per seconde</translation>
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>Uitvoermap</translation>
     </message>
     <message>
         <source>x</source>
@@ -920,136 +920,136 @@ GEBRUIK
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation>Vaste beeldsnelheid gebruiken</translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>Opslaan in computer-specifieke submappen</translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation>Codeerinstellingen</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation>Encoder</translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation>x264 voorinstelling</translation>
     </message>
     <message>
         <source>kbps</source>
-        <translation type="unfinished"/>
+        <translation>kbps</translation>
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation>H.264 profiel</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation>Bitrate</translation>
     </message>
     <message>
         <source>Keyframe interval</source>
-        <translation type="unfinished"/>
+        <translation>Keyframe interval</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>seconden</translation>
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>Andere instellingen</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>Laat gebruikers weten wanneer hun scherm is vastgelegd</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderControlWidget</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>Schermopname</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation type="unfinished"/>
+        <translation>Start opnemen</translation>
     </message>
     <message>
         <source>Processing…</source>
-        <translation type="unfinished"/>
+        <translation>Verwerking...</translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation>Open map met opnames</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation>Schermopname</translation>
     </message>
     <message>
         <source>Starting recordings…</source>
-        <translation type="unfinished"/>
+        <translation>Start opnames...</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation>Stop opnemen</translation>
     </message>
     <message>
         <source>Finishing recordings…</source>
-        <translation type="unfinished"/>
+        <translation>Afwerken opnames...</translation>
     </message>
     <message>
         <source>Recording finished (duration: %1)</source>
-        <translation type="unfinished"/>
+        <translation>Opname beëindigd (duur: %1)</translation>
     </message>
     <message>
         <source>Recording duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Opnameduur: %1</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>auto</source>
-        <translation type="unfinished"/>
+        <translation>auto</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderPlugin</name>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation>Opnemen</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation>Stop opnemen</translation>
     </message>
     <message>
         <source>Click this button to record the screens of all users into video files.</source>
-        <translation type="unfinished"/>
+        <translation>Klik op deze knop om de schermen van alle gebruikers op te nemen in videobestanden.</translation>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation>Schermopname</translation>
     </message>
     <message>
         <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
-        <translation type="unfinished"/>
+        <translation>Het scherm wordt nu opgenomen in een videobestand op de computer van de leerkracht.</translation>
     </message>
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
-        <translation type="unfinished"/>
+        <translation>De schermopname op de computer van de leraar is gestopt.</translation>
     </message>
     <message>
         <source>Record screens to video files</source>
-        <translation type="unfinished"/>
+        <translation>Schermen opnemen in videobestanden</translation>
     </message>
 </context>
 <context>
@@ -1063,32 +1063,32 @@ GEBRUIK
     <name>WebTabsBackendQtWebEngine</name>
     <message>
         <source>Qt WebEngine backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Qt WebEngine backend voor WebTabs</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendQtWebKit</name>
     <message>
         <source>Legacy Qt WebKit backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Verouderde Qt WebKit backend voor WebTabs</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendWebView2</name>
     <message>
         <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
-        <translation type="unfinished"/>
+        <translation>Als deze tekst zichtbaar blijft, installeer dan de &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; of configureer Veyon om een andere WebTabs backend te gebruiken.</translation>
     </message>
     <message>
         <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Edge WebView2 backend voor WebTabs</translation>
     </message>
 </context>
 <context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>WebTabs</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -1100,39 +1100,39 @@ GEBRUIK
     </message>
     <message>
         <source>Allow websites to access the microphone</source>
-        <translation type="unfinished"/>
+        <translation>Geef websites toegang tot de microfoon</translation>
     </message>
     <message>
         <source>Allow websites to access the camera</source>
-        <translation type="unfinished"/>
+        <translation>Geef websites toegang tot de camera</translation>
     </message>
     <message>
         <source>Allow websites to access the geographical location</source>
-        <translation type="unfinished"/>
+        <translation>Geef websites toegang tot de geografische locatie</translation>
     </message>
     <message>
         <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
-        <translation type="unfinished"/>
+        <translation>SSL-fouten negeren voor hosts/domeinen met zelfondertekende certificaten:</translation>
     </message>
     <message>
         <source>e.g. www.example.org lan.example.org</source>
-        <translation type="unfinished"/>
+        <translation>bijv. www.example.org lan.example.org</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Tabs</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Tabblad toevoegen</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Verwijder geselecteerde tab</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Tabbladen weergeven</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1144,18 +1144,18 @@ GEBRUIK
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Breedte</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Nieuw tabblad</translation>
     </message>
 </context>
 <context>
     <name>WebTabsPlugin</name>
     <message>
         <source>Integrate web page tabs into Veyon Master</source>
-        <translation type="unfinished"/>
+        <translation>Tabbladen voor webpagina&apos;s integreren in Veyon Master</translation>
     </message>
 </context>
 </TS>
