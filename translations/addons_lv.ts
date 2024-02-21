@@ -89,135 +89,6 @@
     </message>
 </context>
 <context>
-    <name>DesktopMatrixConfigurationPage</name>
-    <message>
-        <source>DesktopMatrix</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>Vispārīgi</translation>
-    </message>
-    <message>
-        <source>Show usernames instead of session names</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation>Paslēpt paša sesiju</translation>
-    </message>
-    <message>
-        <source>Add hierarchy level for desktop group types</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Coordinator</source>
-        <translation>Koordinātors</translation>
-    </message>
-    <message>
-        <source>Host address</source>
-        <translation>Dalībnieku adreses</translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation>Ports</translation>
-    </message>
-    <message>
-        <source>Register sessions</source>
-        <translation>Reģistrētās sesijas</translation>
-    </message>
-    <message>
-        <source>Run coordinator on this host</source>
-        <translation>Aktivizēt koordinātoru šim lietotājam</translation>
-    </message>
-    <message>
-        <source>Desktop groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Session hosts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common hostname groups only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Lietotāju grupas</translation>
-    </message>
-    <message>
-        <source>Common user groups only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Vietas</translation>
-    </message>
-    <message>
-        <source>Common locations only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation>Tūlītējas stundas</translation>
-    </message>
-    <message>
-        <source>Host name separator</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation>Kešatmiņas izmērs</translation>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation>Vārdu filtrs</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixGroupManager</name>
-    <message>
-        <source>Session hosts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Lietotāju grupas</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Vietas</translation>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixPlugin</name>
-    <message>
-        <source>VDI support for Veyon</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 (use VDI desktops)</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>DeviceLockPlugin</name>
     <message>
         <source>Block Internet access</source>
@@ -264,7 +135,7 @@
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>Block all outbound traffic for TCP ports</source>
-        <translation type="unfinished"/>
+        <translation>Bloķēt visu izejošo trafiku TCP portiem</translation>
     </message>
     <message>
         <source>e.g. 8080</source>
@@ -284,11 +155,11 @@
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>Bloķēt visu izejošo trafiku uz apakštīkliem, kuri nav vietējie apakštīkli</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"/>
+        <translation>Izņēmumi</translation>
     </message>
     <message>
         <source>e.g. 80 443</source>
@@ -308,7 +179,7 @@
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Saimnieki</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
@@ -316,7 +187,7 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Bloķēt trafiku uz (starpniekserveri vai DNS) serveriem</translation>
     </message>
     <message>
         <source>Server addresses</source>
@@ -328,7 +199,7 @@
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
+        <translation>Iespējot iepriekš konfigurētu ugunsmūra kārtulu</translation>
     </message>
     <message>
         <source>Name</source>
@@ -339,14 +210,14 @@
     <name>FirewallPlugin</name>
     <message>
         <source>Block internet access via system firewall</source>
-        <translation type="unfinished"/>
+        <translation>Bloķējiet piekļuvi internetam, izmantojot sistēmas ugunsmūri</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlConfigurationPage</name>
     <message>
         <source>Internet access control</source>
-        <translation type="unfinished"/>
+        <translation>Interneta piekļuves kontrole</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -358,7 +229,7 @@
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation type="unfinished"/>
+        <translation>Atbloķējiet piekļuvi internetam, uzsākot pakalpojumu (piem., pēc atteikšanās vai atsāknēšanas)</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -401,11 +272,11 @@
     </message>
     <message>
         <source>Control access to the internet</source>
-        <translation type="unfinished"/>
+        <translation>Pārvaldīt piekļuvi internetam</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
-        <translation type="unfinished"/>
+        <translation>Komandas interneta piekļuves pārvaldībai</translation>
     </message>
 </context>
 <context>
@@ -416,7 +287,7 @@
     </message>
     <message>
         <source>Instances</source>
-        <translation type="unfinished"/>
+        <translation>Gadījumi</translation>
     </message>
     <message>
         <source>Enter name</source>
@@ -638,26 +509,26 @@ USAGE
     </message>
     <message>
         <source>Licensing management</source>
-        <translation type="unfinished"/>
+        <translation>Licencēšanas pārvaldība</translation>
     </message>
     <message>
         <source>Commands for managing license keys</source>
-        <translation type="unfinished"/>
+        <translation>Komandas licences atslēgu pārvaldībai</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryConfigurationPage</name>
     <message>
         <source>Network discovery</source>
-        <translation type="unfinished"/>
+        <translation>Tīkla atklāšana</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"/>
+        <translation>Režīms</translation>
     </message>
     <message>
         <source>Scan all subnets of computer</source>
-        <translation type="unfinished"/>
+        <translation>Skenējiet visus datora apakštīklus</translation>
     </message>
     <message>
         <source>Test</source>
@@ -681,7 +552,7 @@ USAGE
     </message>
     <message>
         <source>Add new group</source>
-        <translation type="unfinished"/>
+        <translation>Pievienot jaunu grupu</translation>
     </message>
     <message>
         <source>Remove selected group</source>
@@ -701,11 +572,11 @@ USAGE
     </message>
     <message>
         <source>Add new network range</source>
-        <translation type="unfinished"/>
+        <translation>Pievienojiet jaunu tīkla diapazonu</translation>
     </message>
     <message>
         <source>Remove selected network range</source>
-        <translation type="unfinished"/>
+        <translation>Noņemiet atlasīto tīkla diapazonu</translation>
     </message>
     <message>
         <source>Sessions</source>
@@ -713,11 +584,11 @@ USAGE
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
+        <translation>Skenējiet (piem., attālās darbvirsmas) sesijas visos datoros</translation>
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation type="unfinished"/>
+        <translation>Izslēgt pirmo (piem., konsoles) sesiju</translation>
     </message>
     <message>
         <source>Options</source>
@@ -728,35 +599,11 @@ USAGE
         <translation>ms</translation>
     </message>
     <message>
-        <source>Computer and location names</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>New location</source>
-        <translation type="unfinished"/>
+        <translation>Jauna vieta</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Computer name source:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extract computer name using regular expression</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Regular expression for computer name parsing:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extract location name using regular expression</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -780,10 +627,6 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Name resolve timeout:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Parallel scans:</source>
         <translation type="unfinished"/>
     </message>
@@ -801,6 +644,94 @@ USAGE
     </message>
     <message>
         <source>Full name of user</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups filter expression:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. Class.*</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computer names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Vietas</translation>
+    </message>
+    <message>
+        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default / network range groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract from computer names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Groups of logged-in users</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Data source:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Data retrieval timeout:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expression for substring extraction:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Environment variable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Environment variable name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Registry key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Registry key name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Property for generating persistent network object IDs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Dalībnieku adreses</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude computers whose names could not be resolved</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -836,14 +767,46 @@ USAGE
     </message>
     <message>
         <source>Network object directory which automatically discovers computers in the network</source>
-        <translation type="unfinished"/>
+        <translation>Tīkla objektu direktorijs, kas automātiski atrod datorus tīklā</translation>
     </message>
     <message>
         <source>Network discovery (scan network for Veyon clients)</source>
-        <translation type="unfinished"/>
+        <translation>Tīkla atklāšana (skenēt tīklu, lai atrastu Veyon klientus)</translation>
     </message>
     <message>
         <source>Commands for managing the network discovery directory</source>
+        <translation>Komandas tīkla atklāšanas direktorijas pārvaldīšanai</translation>
+    </message>
+    <message>
+        <source>Failed to initialize credentials</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Vārds</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Ports</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Vietas</translation>
+    </message>
+    <message>
+        <source>Query system settings key from the server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query user groups of logged in user from the server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query environment variable from the server</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -851,7 +814,7 @@ USAGE
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Noņemt noklusējuma maršrutus, lai bloķētu piekļuvi internetam</translation>
     </message>
     <message>
         <source>Add custom route to block internet</source>
@@ -870,7 +833,7 @@ USAGE
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
-        <translation type="unfinished"/>
+        <translation>Bloķējiet piekļuvi internetam, mainot maršrutēšanas tabulu</translation>
     </message>
 </context>
 <context>
@@ -941,7 +904,7 @@ USAGE
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>sekundes</translation>
     </message>
     <message>
         <source>Other settings</source>
@@ -1073,7 +1036,7 @@ USAGE
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>WebCilnes</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -1105,19 +1068,19 @@ USAGE
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Cilnes</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Pievienot cilni</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Noņemt izvēlēto cilni</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Parādīt cilnes</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1129,18 +1092,18 @@ USAGE
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Platums</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Jauna cilne</translation>
     </message>
 </context>
 <context>
     <name>WebTabsPlugin</name>
     <message>
         <source>Integrate web page tabs into Veyon Master</source>
-        <translation type="unfinished"/>
+        <translation>Integrējiet tīmekļa lapu cilnes Veyon Master</translation>
     </message>
 </context>
 </TS>

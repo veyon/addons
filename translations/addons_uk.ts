@@ -89,135 +89,6 @@
     </message>
 </context>
 <context>
-    <name>DesktopMatrixConfigurationPage</name>
-    <message>
-        <source>DesktopMatrix</source>
-        <translation>DesktopMatrix</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>Загальні</translation>
-    </message>
-    <message>
-        <source>Show usernames instead of session names</source>
-        <translation>Показувати імена користувачів замість назв сеансів</translation>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation>Приховати власні сеанси</translation>
-    </message>
-    <message>
-        <source>Add hierarchy level for desktop group types</source>
-        <translation>Додати рівень ієрархії для типів стільничних груп</translation>
-    </message>
-    <message>
-        <source>Coordinator</source>
-        <translation>Координатор</translation>
-    </message>
-    <message>
-        <source>Host address</source>
-        <translation>Адреса вузла</translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation>Порт</translation>
-    </message>
-    <message>
-        <source>Register sessions</source>
-        <translation>Зареєструвати сеанси</translation>
-    </message>
-    <message>
-        <source>Run coordinator on this host</source>
-        <translation>Запустити координатора на цьому вузлі</translation>
-    </message>
-    <message>
-        <source>Desktop groups</source>
-        <translation>Стільничні групи</translation>
-    </message>
-    <message>
-        <source>Session hosts</source>
-        <translation>Вузли сеансів</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation>Групи вузла</translation>
-    </message>
-    <message>
-        <source>Common hostname groups only</source>
-        <translation>Лише загальні групи вузла</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Групи користувачів</translation>
-    </message>
-    <message>
-        <source>Common user groups only</source>
-        <translation>Лише загальні групи користувачів</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Місця</translation>
-    </message>
-    <message>
-        <source>Common locations only</source>
-        <translation>Лише загальні місця</translation>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation>Негайні уроки</translation>
-    </message>
-    <message>
-        <source>Host name separator</source>
-        <translation>Роздільник назви вузла</translation>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation>Розмір кешу</translation>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>Сервер</translation>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation>Фільтр назв</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>Каталог</translation>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixGroupManager</name>
-    <message>
-        <source>Session hosts</source>
-        <translation>Вузли сеансів</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation>Групи вузла</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Групи користувачів</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Місця</translation>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixPlugin</name>
-    <message>
-        <source>VDI support for Veyon</source>
-        <translation>Підтримка VDI у Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (use VDI desktops)</source>
-        <translation>%1 (використати стільниці VDI)</translation>
-    </message>
-</context>
-<context>
     <name>DeviceLockPlugin</name>
     <message>
         <source>Block Internet access</source>
@@ -738,36 +609,12 @@ USAGE
         <translation>мс</translation>
     </message>
     <message>
-        <source>Computer and location names</source>
-        <translation>Назви комп&apos;ютера і місця</translation>
-    </message>
-    <message>
-        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
-        <translation>Приклад: (%location%:[a-z]+\d+)-(%name%:.*)</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Нове місце</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
         <translation>Обмеження сканування сеансів:</translation>
-    </message>
-    <message>
-        <source>Computer name source:</source>
-        <translation>Джерело назви комп&apos;ютера:</translation>
-    </message>
-    <message>
-        <source>Extract computer name using regular expression</source>
-        <translation>Видобути назву комп&apos;ютера за допомогою формального виразу</translation>
-    </message>
-    <message>
-        <source>Regular expression for computer name parsing:</source>
-        <translation>Формальний вираз для визначення назви комп&apos;ютера:</translation>
-    </message>
-    <message>
-        <source>Extract location name using regular expression</source>
-        <translation>Видобути назву місця за допомогою формального виразу</translation>
     </message>
     <message>
         <source>IP address</source>
@@ -790,10 +637,6 @@ USAGE
         <translation>Назва клієнта сеансу</translation>
     </message>
     <message>
-        <source>Name resolve timeout:</source>
-        <translation>Час очікування на визначення назви:</translation>
-    </message>
-    <message>
         <source>Parallel scans:</source>
         <translation>Кількість паралельних сканувань:</translation>
     </message>
@@ -812,6 +655,98 @@ USAGE
     <message>
         <source>Full name of user</source>
         <translation>Повне ім&apos;я користувача</translation>
+    </message>
+    <message>
+        <source>User groups filter expression:</source>
+        <translation>Вираз фільтрування груп користувачів:</translation>
+    </message>
+    <message>
+        <source>e.g. Class.*</source>
+        <translation>Приклад: Клас.*</translation>
+    </message>
+    <message>
+        <source>Computer names</source>
+        <translation>Назви комп&apos;ютерів</translation>
+    </message>
+    <message>
+        <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation>Якщо хочете, введіть формальний вираз із використанням захоплення даних для видобування частини назви комп&apos;ютера і використання її як показану назву комп&apos;ютера.
+
+Приклад: [^-]*-(PC[0-9]*)</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Місця</translation>
+    </message>
+    <message>
+        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation>Введіть формальний вираз із використанням захоплення даних для видобування назви кожного комп&apos;ютера і використання її як частини місця комп&apos;ютера.
+
+Приклад: [^-]*-(PC[0-9]*)</translation>
+    </message>
+    <message>
+        <source>Default / network range groups</source>
+        <translation>Типові/Мережеві групи діапазону</translation>
+    </message>
+    <message>
+        <source>Extract from computer names</source>
+        <translation>Видобути з назви комп&apos;ютера</translation>
+    </message>
+    <message>
+        <source>Groups of logged-in users</source>
+        <translation>Групи користувачів у системі</translation>
+    </message>
+    <message>
+        <source>Data source:</source>
+        <translation>Джерело даних:</translation>
+    </message>
+    <message>
+        <source>Data retrieval timeout:</source>
+        <translation>Час очікування на дані:</translation>
+    </message>
+    <message>
+        <source>Expression for substring extraction:</source>
+        <translation>Вираз для видобування підрядка:</translation>
+    </message>
+    <message>
+        <source>Environment variable</source>
+        <translation>Змінна середовища</translation>
+    </message>
+    <message>
+        <source>Environment variable name:</source>
+        <translation>Назва змінної середовища:</translation>
+    </message>
+    <message>
+        <source>Registry key</source>
+        <translation>Ключ реєстра</translation>
+    </message>
+    <message>
+        <source>Registry key name:</source>
+        <translation>Назва ключа реєстра:</translation>
+    </message>
+    <message>
+        <source>Property for generating persistent network object IDs:</source>
+        <translation>Властивість для створення постійних ідентифікаторів мережевих об&apos;єктів:</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation>Типове</translation>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Адреса вузла</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation>Назва комп&apos;ютера</translation>
+    </message>
+    <message>
+        <source>Exclude computers whose names could not be resolved</source>
+        <translation>Виключити комп&apos;ютери, назви яких не вдалося обробити</translation>
     </message>
 </context>
 <context>
@@ -860,6 +795,38 @@ USAGE
     <message>
         <source>Commands for managing the network discovery directory</source>
         <translation>Команди для керування каталогом виявлення мережі</translation>
+    </message>
+    <message>
+        <source>Failed to initialize credentials</source>
+        <translation>Не вдалося ініціалізувати реєстраційні дані</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Назва</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Адреса</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Порт</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Місця</translation>
+    </message>
+    <message>
+        <source>Query system settings key from the server</source>
+        <translation>Отримати ключ параметрів системи з сервера</translation>
+    </message>
+    <message>
+        <source>Query user groups of logged in user from the server</source>
+        <translation>Отримати групи користувача, що увійшов до системи, з сервера</translation>
+    </message>
+    <message>
+        <source>Query environment variable from the server</source>
+        <translation>Запитати про змінну середовища сервер</translation>
     </message>
 </context>
 <context>

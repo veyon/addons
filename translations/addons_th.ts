@@ -89,135 +89,6 @@
     </message>
 </context>
 <context>
-    <name>DesktopMatrixConfigurationPage</name>
-    <message>
-        <source>DesktopMatrix</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>ทั่วไป</translation>
-    </message>
-    <message>
-        <source>Show usernames instead of session names</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add hierarchy level for desktop group types</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Coordinator</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Host address</source>
-        <translation>โฮสแอดแดรส</translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Register sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Run coordinator on this host</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Desktop groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Session hosts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common hostname groups only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common user groups only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>สถานที่</translation>
-    </message>
-    <message>
-        <source>Common locations only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Host name separator</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixGroupManager</name>
-    <message>
-        <source>Session hosts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>สถานที่</translation>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixPlugin</name>
-    <message>
-        <source>VDI support for Veyon</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 (use VDI desktops)</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>DeviceLockPlugin</name>
     <message>
         <source>Block Internet access</source>
@@ -728,35 +599,11 @@ USAGE
         <translation> ms</translation>
     </message>
     <message>
-        <source>Computer and location names</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>New location</source>
         <translation>สถานที่ใหม่</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Computer name source:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extract computer name using regular expression</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Regular expression for computer name parsing:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extract location name using regular expression</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -780,10 +627,6 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Name resolve timeout:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Parallel scans:</source>
         <translation type="unfinished"/>
     </message>
@@ -801,6 +644,94 @@ USAGE
     </message>
     <message>
         <source>Full name of user</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups filter expression:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. Class.*</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computer names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>สถานที่</translation>
+    </message>
+    <message>
+        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default / network range groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract from computer names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Groups of logged-in users</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Data source:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Data retrieval timeout:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expression for substring extraction:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Environment variable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Environment variable name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Registry key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Registry key name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Property for generating persistent network object IDs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>โฮสแอดแดรส</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude computers whose names could not be resolved</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -844,6 +775,38 @@ USAGE
     </message>
     <message>
         <source>Commands for managing the network discovery directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Failed to initialize credentials</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>ชื่อ</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>สถานที่</translation>
+    </message>
+    <message>
+        <source>Query system settings key from the server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query user groups of logged in user from the server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query environment variable from the server</source>
         <translation type="unfinished"/>
     </message>
 </context>

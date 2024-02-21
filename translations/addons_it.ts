@@ -89,135 +89,6 @@
     </message>
 </context>
 <context>
-    <name>DesktopMatrixConfigurationPage</name>
-    <message>
-        <source>DesktopMatrix</source>
-        <translation>DesktopMatrix</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>Generale</translation>
-    </message>
-    <message>
-        <source>Show usernames instead of session names</source>
-        <translation>Mostra i nomi utente anziché i nomi delle sessioni</translation>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation>Nascondi le proprie sessioni</translation>
-    </message>
-    <message>
-        <source>Add hierarchy level for desktop group types</source>
-        <translation>Aggiungi il livello gerarchico per i tipi di gruppi desktop</translation>
-    </message>
-    <message>
-        <source>Coordinator</source>
-        <translation>Coordinatore</translation>
-    </message>
-    <message>
-        <source>Host address</source>
-        <translation>Indirizzo dell&apos;host</translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation>Porta</translation>
-    </message>
-    <message>
-        <source>Register sessions</source>
-        <translation>Registra sessioni</translation>
-    </message>
-    <message>
-        <source>Run coordinator on this host</source>
-        <translation>Esegui coordinatore su questo host</translation>
-    </message>
-    <message>
-        <source>Desktop groups</source>
-        <translation>Gruppi desktop</translation>
-    </message>
-    <message>
-        <source>Session hosts</source>
-        <translation>Sessione host</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation>Gruppi nomi host</translation>
-    </message>
-    <message>
-        <source>Common hostname groups only</source>
-        <translation>Solo gruppi di nomi host comuni</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Gruppi utenti</translation>
-    </message>
-    <message>
-        <source>Common user groups only</source>
-        <translation>Solo gruppi di utenti comuni</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Posizioni</translation>
-    </message>
-    <message>
-        <source>Common locations only</source>
-        <translation>Solo luoghi comuni</translation>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation>Lezioni istantanee</translation>
-    </message>
-    <message>
-        <source>Host name separator</source>
-        <translation>Separatore del nome host</translation>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation>Dimensione della cache</translation>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>Backend</translation>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation>Nome filtro</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>Directory</translation>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixGroupManager</name>
-    <message>
-        <source>Session hosts</source>
-        <translation>Sessione host</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation>Gruppi nomi host</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Gruppi utenti</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Posizioni</translation>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixPlugin</name>
-    <message>
-        <source>VDI support for Veyon</source>
-        <translation>Supporto VDI per Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (use VDI desktops)</source>
-        <translation>%1 (usa desktop VDI)</translation>
-    </message>
-</context>
-<context>
     <name>DeviceLockPlugin</name>
     <message>
         <source>Block Internet access</source>
@@ -738,36 +609,12 @@ USO
         <translation>ms</translation>
     </message>
     <message>
-        <source>Computer and location names</source>
-        <translation>Nomi dei computer e posizioni</translation>
-    </message>
-    <message>
-        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
-        <translation>es. (%location%:[a-z]+\d+)-(%name%:.*)</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Nuova posizione</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
         <translation>Limite di scansione di sessione:</translation>
-    </message>
-    <message>
-        <source>Computer name source:</source>
-        <translation>Fonte nome computer:</translation>
-    </message>
-    <message>
-        <source>Extract computer name using regular expression</source>
-        <translation>Estrarre il nome del computer utilizzando l&apos;espressione regolare</translation>
-    </message>
-    <message>
-        <source>Regular expression for computer name parsing:</source>
-        <translation>Espressione regolare per l&apos;analisi del nome del computer:</translation>
-    </message>
-    <message>
-        <source>Extract location name using regular expression</source>
-        <translation>Estrai il nome della posizione utilizzando un&apos;espressione regolare</translation>
     </message>
     <message>
         <source>IP address</source>
@@ -790,10 +637,6 @@ USO
         <translation>Nome del cliente di sessione</translation>
     </message>
     <message>
-        <source>Name resolve timeout:</source>
-        <translation>Timeout di risoluzione del nome:</translation>
-    </message>
-    <message>
         <source>Parallel scans:</source>
         <translation>Scansioni parallele:</translation>
     </message>
@@ -812,6 +655,98 @@ USO
     <message>
         <source>Full name of user</source>
         <translation>Nome completo dell&apos;utente</translation>
+    </message>
+    <message>
+        <source>User groups filter expression:</source>
+        <translation>Espressione filtro gruppi utenti:</translation>
+    </message>
+    <message>
+        <source>e.g. Class.*</source>
+        <translation>ad es. Classe.*</translation>
+    </message>
+    <message>
+        <source>Computer names</source>
+        <translation>Nomi dei computer</translation>
+    </message>
+    <message>
+        <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation>Facoltativamente, inserisci un&apos;espressione regolare con un&apos;acquisizione per estrarre una parte del nome del computer e utilizzarla come nome visualizzato per il computer.
+
+Esempio: [^-]*-(PC[0-9]*)</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Posizioni</translation>
+    </message>
+    <message>
+        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation>Inserisci un&apos;espressione regolare con un&apos;acquisizione per analizzare il nome di ciascun computer e utilizzarne una parte come posizione del computer.
+
+Esempio: [^-]*-(PC[0-9]*)</translation>
+    </message>
+    <message>
+        <source>Default / network range groups</source>
+        <translation>Gruppi predefiniti/intervallo di rete</translation>
+    </message>
+    <message>
+        <source>Extract from computer names</source>
+        <translation>Estrai dai nomi dei computer</translation>
+    </message>
+    <message>
+        <source>Groups of logged-in users</source>
+        <translation>Gruppi di utenti registrati</translation>
+    </message>
+    <message>
+        <source>Data source:</source>
+        <translation>Sorgente di dati:</translation>
+    </message>
+    <message>
+        <source>Data retrieval timeout:</source>
+        <translation>Timeout per il recupero dei dati:</translation>
+    </message>
+    <message>
+        <source>Expression for substring extraction:</source>
+        <translation>Espressione per l&apos;estrazione di sottostringhe:</translation>
+    </message>
+    <message>
+        <source>Environment variable</source>
+        <translation>Variabile d&apos;ambiente</translation>
+    </message>
+    <message>
+        <source>Environment variable name:</source>
+        <translation>Nome della variabile d&apos;ambiente:</translation>
+    </message>
+    <message>
+        <source>Registry key</source>
+        <translation>Chiave di registro</translation>
+    </message>
+    <message>
+        <source>Registry key name:</source>
+        <translation>Nome della chiave di registro:</translation>
+    </message>
+    <message>
+        <source>Property for generating persistent network object IDs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Indirizzo dell&apos;host</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude computers whose names could not be resolved</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -860,6 +795,38 @@ USO
     <message>
         <source>Commands for managing the network discovery directory</source>
         <translation>Comandi per la gestione della directory di ricerca della rete</translation>
+    </message>
+    <message>
+        <source>Failed to initialize credentials</source>
+        <translation>Impossibile inizializzare le credenziali</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nome</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Indirizzo</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Porta</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Posizioni</translation>
+    </message>
+    <message>
+        <source>Query system settings key from the server</source>
+        <translation>Interrogare la chiave delle impostazioni di sistema dal server</translation>
+    </message>
+    <message>
+        <source>Query user groups of logged in user from the server</source>
+        <translation>Interrogare i gruppi di utenti dell&apos;utente registrato dal server</translation>
+    </message>
+    <message>
+        <source>Query environment variable from the server</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

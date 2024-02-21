@@ -3,7 +3,7 @@
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Üzenetek</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -11,221 +11,92 @@
     </message>
     <message>
         <source>Allow plain text messages only</source>
-        <translation type="unfinished"/>
+        <translation>Csak sima szöveges üzenetek engedélyezése</translation>
     </message>
     <message>
         <source>Nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Becenevek</translation>
     </message>
     <message>
         <source>Login names of users</source>
-        <translation type="unfinished"/>
+        <translation>A felhasználók bejelentkezési nevei</translation>
     </message>
     <message>
         <source>Full names of users</source>
-        <translation type="unfinished"/>
+        <translation>A felhasználók teljes neve</translation>
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
-        <translation type="unfinished"/>
+        <translation>A felhasználók módosíthatják becenevüket</translation>
     </message>
 </context>
 <context>
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Üzenetek</translation>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints erre a gombra, hogy elindítsd a csevegést az összes felhasználóval. Ezután az összes felhasználó írhat szöveges üzeneteket egy közös csevegőben.</translation>
     </message>
     <message>
         <source>%2 Chat</source>
-        <translation type="unfinished"/>
+        <translation>%2 üzenet</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
-        <translation type="unfinished"/>
+        <translation>Interaktív csevegés bejelentkezett felhasználókkal</translation>
     </message>
 </context>
 <context>
     <name>ChatWindow</name>
     <message>
         <source>Veyon Chat</source>
-        <translation type="unfinished"/>
+        <translation>Veyon Üzenetek</translation>
     </message>
     <message>
         <source>Chat title</source>
-        <translation type="unfinished"/>
+        <translation>Üzenet címe</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>Becenév</translation>
     </message>
     <message>
         <source>Type a new message</source>
-        <translation type="unfinished"/>
+        <translation>Gépelj egy új üzenetet</translation>
     </message>
     <message>
         <source>Close chat</source>
-        <translation type="unfinished"/>
+        <translation>Üzenet lezárása</translation>
     </message>
     <message>
         <source>Change chat title</source>
-        <translation type="unfinished"/>
+        <translation>Üzenetcím módosítása</translation>
     </message>
     <message>
         <source>Please enter a new title for the chat:</source>
-        <translation type="unfinished"/>
+        <translation>Add meg az üzenet új címét:</translation>
     </message>
     <message>
         <source>Change nickname</source>
-        <translation type="unfinished"/>
+        <translation>Becenév módosítása</translation>
     </message>
     <message>
         <source>Please enter a new nickname:</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixConfigurationPage</name>
-    <message>
-        <source>DesktopMatrix</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>Általános</translation>
-    </message>
-    <message>
-        <source>Show usernames instead of session names</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Add hierarchy level for desktop group types</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Coordinator</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Host address</source>
-        <translation>Kiszolgáló címe</translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Register sessions</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Run coordinator on this host</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Desktop groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Session hosts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common hostname groups only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Common user groups only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Helyszínek</translation>
-    </message>
-    <message>
-        <source>Common locations only</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Host name separator</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>Háttér</translation>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixGroupManager</name>
-    <message>
-        <source>Session hosts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Helyszínek</translation>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixPlugin</name>
-    <message>
-        <source>VDI support for Veyon</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 (use VDI desktops)</source>
-        <translation type="unfinished"/>
+        <translation>Add meg az új becenevet:</translation>
     </message>
 </context>
 <context>
     <name>DeviceLockPlugin</name>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés blokkolása</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés blokkolásának feloldása</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -233,31 +104,31 @@
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internetelérés</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés blokkolása, illetve annak feloldása.</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Az internet-hozzáférés blokkolásához kattintson erre a gombra. </translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Az internet-hozzáférés blokkolásának feloldásához kattintson erre a gombra. </translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Az internet-hozzáférés jelenleg blokkolva van. Mivel egy demó verziót használsz ennek a bővítménynek, automatikusan 60 másodpercen belül feloldódik.</translation>
     </message>
     <message>
         <source>Lock peripheral devices</source>
-        <translation type="unfinished"/>
+        <translation>Beviteli eszközök zárolása</translation>
     </message>
     <message>
         <source>Commands for locking/unlocking peripheral devices</source>
-        <translation type="unfinished"/>
+        <translation>Parancsok a perifériás eszközök zárolásához/feloldásához</translation>
     </message>
 </context>
 <context>
@@ -304,27 +175,27 @@
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Hálózatok</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Kiszolgálók</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>pl. docs.veyon.io</translation>
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Szerverirányú forgalom (pl. proxy vagy DNS) blokkolása</translation>
     </message>
     <message>
         <source>Server addresses</source>
-        <translation type="unfinished"/>
+        <translation>Szerver címek</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation type="unfinished"/>
+        <translation>pl. 192.168.1.253</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
@@ -358,7 +229,7 @@
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés blokkolásának feloldása a szolgáltatás indulásakor (pl. kijelentkezés után vagy újraindítása)</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -369,11 +240,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Block Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés blokkolása</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés blokkolásának feloldása</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -381,23 +252,23 @@
     </message>
     <message>
         <source>Internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internetelérés</translation>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Internetelérés blokkolása, illetve annak feloldása.</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Az internet-hozzáférés blokkolásához kattintson erre a gombra. </translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Az internet-hozzáférés blokkolásának feloldásához kattintson erre a gombra. </translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Az internet-hozzáférés jelenleg blokkolva van. Mivel egy demó verziót használsz ennek a bővítménynek, automatikusan 60 másodpercen belül feloldódik.</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -478,11 +349,11 @@
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation>Licenc hozzáadása fájlból</translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation>Kiválasztott licenc eltávolítása</translation>
     </message>
     <message>
         <source>ID</source>
@@ -490,7 +361,7 @@
     </message>
     <message>
         <source>Add-on</source>
-        <translation type="unfinished"/>
+        <translation>Kiegészítő</translation>
     </message>
     <message>
         <source>Valid until</source>
@@ -498,7 +369,7 @@
     </message>
     <message>
         <source>Sites</source>
-        <translation type="unfinished"/>
+        <translation>Oldalak</translation>
     </message>
     <message>
         <source>Computers</source>
@@ -526,7 +397,7 @@
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation>Bármi</translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
@@ -534,15 +405,15 @@
     </message>
     <message>
         <source>invalid license</source>
-        <translation type="unfinished"/>
+        <translation>Érvénytelen licenc</translation>
     </message>
     <message>
         <source>unlimited</source>
-        <translation type="unfinished"/>
+        <translation>korlátlan</translation>
     </message>
     <message>
         <source>Invalid license file</source>
-        <translation>Érvénytelen licencfájlok</translation>
+        <translation>Érvénytelen licencfájl</translation>
     </message>
     <message>
         <source>Could not open the license file for reading!</source>
@@ -577,23 +448,23 @@
     <name>LicensingHelper</name>
     <message>
         <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation type="unfinished"/>
+        <translation>A %1 kiegészítő csak %2 számítógépen használható licencelve. Kérjük, csökkentsd a megjelenített számítógépek számát, vagy frissítsd a licencét.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Kérjük, látogass el a %1 weboldalra további információért, hogy hogyan frissítheted a licenced ehhez a kiegészítőhöz.</translation>
     </message>
     <message>
         <source>Thank you for testing the %1 add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Köszönjük, hogy tesztelte %1 kiegészítőt.</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation>Kérjük, látogass el a %1 weboldalra további információért, hogy hogyan szerezhetsz licencet ehhez a kiegészítőhöz.</translation>
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation>%1 demo</translation>
     </message>
 </context>
 <context>
@@ -608,11 +479,11 @@
     </message>
     <message>
         <source>Add license file</source>
-        <translation>Licencfájlok hozzáadása</translation>
+        <translation>Licencfájl hozzáadása</translation>
     </message>
     <message>
         <source>Remove installed license</source>
-        <translation>Telepített licencek eltávolítása</translation>
+        <translation>Telepített licenc eltávolítása</translation>
     </message>
     <message>
         <source>
@@ -719,15 +590,15 @@ HASZNÁLAT
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Munkamenetek</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
+        <translation>A munkamenetek átvizsgálása (pl. távoli asztal) az összes számítógépen</translation>
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation type="unfinished"/>
+        <translation>Az első (pl. konzol) munkamenetet kizárása</translation>
     </message>
     <message>
         <source>Options</source>
@@ -738,79 +609,143 @@ HASZNÁLAT
         <translation>ms</translation>
     </message>
     <message>
-        <source>Computer and location names</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Új helyszín</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Computer name source:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extract computer name using regular expression</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Regular expression for computer name parsing:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extract location name using regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Munkamenetének átvizsgálásának korlátja:</translation>
     </message>
     <message>
         <source>IP address</source>
-        <translation type="unfinished"/>
+        <translation>IP-cím</translation>
     </message>
     <message>
         <source>DNS name (reverse lookup)</source>
-        <translation type="unfinished"/>
+        <translation>DNS név (fordított keresés)</translation>
     </message>
     <message>
         <source>User login name</source>
-        <translation type="unfinished"/>
+        <translation>A felhasználó bejelentkezési neve</translation>
     </message>
     <message>
         <source>Session client address</source>
-        <translation type="unfinished"/>
+        <translation>Munkamenet kliens címe</translation>
     </message>
     <message>
         <source>Session client name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Name resolve timeout:</source>
-        <translation type="unfinished"/>
+        <translation>Munkamenet ügyfél neve</translation>
     </message>
     <message>
         <source>Parallel scans:</source>
-        <translation type="unfinished"/>
+        <translation>Párhuzamos átvizsgálások:</translation>
     </message>
     <message>
         <source>Scan timeout:</source>
-        <translation type="unfinished"/>
+        <translation>Átvizsgálás időtúllépése:</translation>
     </message>
     <message>
         <source>Retain time:</source>
-        <translation type="unfinished"/>
+        <translation>Tartási idő:</translation>
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"/>
+        <translation>Munkamenet kiszolgálóneve</translation>
     </message>
     <message>
         <source>Full name of user</source>
+        <translation>A felhasználók teljes neve</translation>
+    </message>
+    <message>
+        <source>User groups filter expression:</source>
+        <translation>Felhasználói csoportok szűrő kifejezése:</translation>
+    </message>
+    <message>
+        <source>e.g. Class.*</source>
+        <translation>pl. Osztály.*</translation>
+    </message>
+    <message>
+        <source>Computer names</source>
+        <translation>Számítógépnevek</translation>
+    </message>
+    <message>
+        <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation>Opcionálisan írj egy reguláris kifejezést a számítógépnév egy részének kinyeréséhez, és használd ezt a számítógép megjelenített neveként.
+
+Példa: [^-]*-(PC[0-9]*)</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Helyszínek</translation>
+    </message>
+    <message>
+        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation>Opcionálisan írj egy reguláris kifejezést a számítógépnév egy részének kinyeréséhez, és használd ezt a számítógép helyének megnevezéséhez.
+
+Példa: [^-]*-(PC[0-9]*)</translation>
+    </message>
+    <message>
+        <source>Default / network range groups</source>
+        <translation>Alapértelmezett / hálózati tartománycsoportok</translation>
+    </message>
+    <message>
+        <source>Extract from computer names</source>
+        <translation>Kivonat a számítógépnevekből</translation>
+    </message>
+    <message>
+        <source>Groups of logged-in users</source>
+        <translation>Bejelentkezett felhasználók csoportjai</translation>
+    </message>
+    <message>
+        <source>Data source:</source>
+        <translation>Adatforrás:</translation>
+    </message>
+    <message>
+        <source>Data retrieval timeout:</source>
+        <translation>Adatlekérés időtúllépése:</translation>
+    </message>
+    <message>
+        <source>Expression for substring extraction:</source>
+        <translation>Kifejezés a részsztring kinyeréséhez:</translation>
+    </message>
+    <message>
+        <source>Environment variable</source>
+        <translation>Környezeti változó</translation>
+    </message>
+    <message>
+        <source>Environment variable name:</source>
+        <translation>Környezeti változó neve:</translation>
+    </message>
+    <message>
+        <source>Registry key</source>
+        <translation>Rendszerleíró kulcs</translation>
+    </message>
+    <message>
+        <source>Registry key name:</source>
+        <translation>Rendszerleíró kulcs neve:</translation>
+    </message>
+    <message>
+        <source>Property for generating persistent network object IDs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Kiszolgáló címe</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude computers whose names could not be resolved</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -861,6 +796,38 @@ HASZNÁLATA
         <source>Commands for managing the network discovery directory</source>
         <translation>A hálózatfelderítő-mappát kezelő parancsok</translation>
     </message>
+    <message>
+        <source>Failed to initialize credentials</source>
+        <translation>Nem sikerült inicializálni a hitelesítő adatokat</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Megnevezés</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Cím</translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Port</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Helyszínek</translation>
+    </message>
+    <message>
+        <source>Query system settings key from the server</source>
+        <translation>A rendszerbeállítások kulcsának lekérése a szerverről</translation>
+    </message>
+    <message>
+        <source>Query user groups of logged in user from the server</source>
+        <translation>A bejelentkezett felhasználó felhasználói csoportjainak lekérdezése a szerverről</translation>
+    </message>
+    <message>
+        <source>Query environment variable from the server</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingConfigurationWidget</name>
@@ -892,27 +859,27 @@ HASZNÁLATA
     <name>ScreenRecorderConfigurationPage</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>Képernyőfelvevő</translation>
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation>Kimeneti beállítások</translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation>Rögzített felbontás használata</translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
-        <translation type="unfinished"/>
+        <translation>Méretarány megtartása</translation>
     </message>
     <message>
         <source>frames per second</source>
-        <translation type="unfinished"/>
+        <translation> képkocka másodpercenként</translation>
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>Kimeneti mappa</translation>
     </message>
     <message>
         <source>x</source>
@@ -920,39 +887,39 @@ HASZNÁLATA
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation>Rögzített képkockasebesség használata</translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>Számítógép-specifikus almappákba mentés</translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation>Kódolási beállítások</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation>Kódoló</translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation>x264 előre beállítás</translation>
     </message>
     <message>
         <source>kbps</source>
-        <translation type="unfinished"/>
+        <translation>kbps</translation>
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation>H.264 profil</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation>Bitráta</translation>
     </message>
     <message>
         <source>Keyframe interval</source>
-        <translation type="unfinished"/>
+        <translation>Kulcskeret intervallum</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -960,96 +927,96 @@ HASZNÁLATA
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>További beállítások</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>Felhasználók értesítése, amikor a képernyőjüket rögzítjük</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderControlWidget</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>Képernyőfelvevő</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation type="unfinished"/>
+        <translation>Képernyőfelvétel indítása</translation>
     </message>
     <message>
         <source>Processing…</source>
-        <translation type="unfinished"/>
+        <translation>Folyamatban...</translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation>Felvételek mappa megnyitása</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Bezárás</translation>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation>Képernyőfelvevő</translation>
     </message>
     <message>
         <source>Starting recordings…</source>
-        <translation type="unfinished"/>
+        <translation>Képernyőfelvétel indítása...</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation>Képernyőfelvétel leállítása</translation>
     </message>
     <message>
         <source>Finishing recordings…</source>
-        <translation type="unfinished"/>
+        <translation>Képernyőfelvétel befejezése...</translation>
     </message>
     <message>
         <source>Recording finished (duration: %1)</source>
-        <translation type="unfinished"/>
+        <translation>Rögzítés befejeződött (időtartam: %1)</translation>
     </message>
     <message>
         <source>Recording duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Rögzítés időtartama: %1</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>auto</source>
-        <translation type="unfinished"/>
+        <translation>auto</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderPlugin</name>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation>Felvétel</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation>Képernyőfelvétel leállítása</translation>
     </message>
     <message>
         <source>Click this button to record the screens of all users into video files.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints erre a gombra az összes felhasználó képernyőjének rögzítéséhez videofájlokba.</translation>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation>Képernyőfelvevő</translation>
     </message>
     <message>
         <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
-        <translation type="unfinished"/>
+        <translation>A képernyő most egy videofájlban rögzítjük a tanár számítógépére.</translation>
     </message>
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
-        <translation type="unfinished"/>
+        <translation>A képernyőfelvétel leállt a tanár számítógépén.</translation>
     </message>
     <message>
         <source>Record screens to video files</source>
-        <translation type="unfinished"/>
+        <translation>A képernyők videófájlokba rögzítése</translation>
     </message>
 </context>
 <context>
@@ -1063,32 +1030,32 @@ HASZNÁLATA
     <name>WebTabsBackendQtWebEngine</name>
     <message>
         <source>Qt WebEngine backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Qt WebEngine háttér a WebTabs-hoz</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendQtWebKit</name>
     <message>
         <source>Legacy Qt WebKit backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Örökölt Qt WebKit háttér a WebTabs-hoz</translation>
     </message>
 </context>
 <context>
     <name>WebTabsBackendWebView2</name>
     <message>
         <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
-        <translation type="unfinished"/>
+        <translation>Ha ez a szöveg látható marad, telepítse a &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt;-ot, vagy állítsa be a Veyon-t, hogy más WebTabs háttérrendszert használjon.</translation>
     </message>
     <message>
         <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Edge WebView2 backend a WebTabs-hoz</translation>
     </message>
 </context>
 <context>
     <name>WebTabsConfigurationPage</name>
     <message>
         <source>WebTabs</source>
-        <translation type="unfinished"/>
+        <translation>WebTabs</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -1100,39 +1067,39 @@ HASZNÁLATA
     </message>
     <message>
         <source>Allow websites to access the microphone</source>
-        <translation type="unfinished"/>
+        <translation>A webhelyek mikrofonhoz való hozzáférésének engedélyezése</translation>
     </message>
     <message>
         <source>Allow websites to access the camera</source>
-        <translation type="unfinished"/>
+        <translation>A webhelyek kamerához való hozzáférésének engedélyezése</translation>
     </message>
     <message>
         <source>Allow websites to access the geographical location</source>
-        <translation type="unfinished"/>
+        <translation>A webhelyek földrajzi elhelyezkedéshez való hozzáférésének engedélyezése</translation>
     </message>
     <message>
         <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
-        <translation type="unfinished"/>
+        <translation>Az önaláírt tanúsítványokkal rendelkező kiszolgálók/domainek SSL-hibáinak figyelmen kívül hagyása:</translation>
     </message>
     <message>
         <source>e.g. www.example.org lan.example.org</source>
-        <translation type="unfinished"/>
+        <translation>pl. www.pelda.org lan.pelda.org</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Lapok</translation>
     </message>
     <message>
         <source>Add tab</source>
-        <translation type="unfinished"/>
+        <translation>Lap hozzáadása</translation>
     </message>
     <message>
         <source>Remove selected tab</source>
-        <translation type="unfinished"/>
+        <translation>Kiválasztott lapok eltávolítása</translation>
     </message>
     <message>
         <source>Show tabs</source>
-        <translation type="unfinished"/>
+        <translation>Lapok megjelenítése</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1144,18 +1111,18 @@ HASZNÁLATA
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Szélesség</translation>
     </message>
     <message>
         <source>New tab</source>
-        <translation type="unfinished"/>
+        <translation>Új lapok</translation>
     </message>
 </context>
 <context>
     <name>WebTabsPlugin</name>
     <message>
         <source>Integrate web page tabs into Veyon Master</source>
-        <translation type="unfinished"/>
+        <translation>Weboldal lapok a Veyon Master-be</translation>
     </message>
 </context>
 </TS>

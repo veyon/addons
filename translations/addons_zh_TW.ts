@@ -89,135 +89,6 @@
     </message>
 </context>
 <context>
-    <name>DesktopMatrixConfigurationPage</name>
-    <message>
-        <source>DesktopMatrix</source>
-        <translation>DesktopMatrix</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>一般</translation>
-    </message>
-    <message>
-        <source>Show usernames instead of session names</source>
-        <translation>顯示使用者名稱而不是工作階段名稱</translation>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation>隱藏自己工作階段</translation>
-    </message>
-    <message>
-        <source>Add hierarchy level for desktop group types</source>
-        <translation>為桌面群組類型加上層次結構級別</translation>
-    </message>
-    <message>
-        <source>Coordinator</source>
-        <translation>協調員</translation>
-    </message>
-    <message>
-        <source>Host address</source>
-        <translation>主機位址</translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation>連接埠</translation>
-    </message>
-    <message>
-        <source>Register sessions</source>
-        <translation>註冊工作階段</translation>
-    </message>
-    <message>
-        <source>Run coordinator on this host</source>
-        <translation>執行這個主機上的協調員</translation>
-    </message>
-    <message>
-        <source>Desktop groups</source>
-        <translation>桌面群組</translation>
-    </message>
-    <message>
-        <source>Session hosts</source>
-        <translation>工作階段主機</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation>主機名稱群組</translation>
-    </message>
-    <message>
-        <source>Common hostname groups only</source>
-        <translation>僅公共主機名稱群組</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>使用者群組</translation>
-    </message>
-    <message>
-        <source>Common user groups only</source>
-        <translation>僅公共使用者群組</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>位置</translation>
-    </message>
-    <message>
-        <source>Common locations only</source>
-        <translation>僅公共位置</translation>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation>即時課程</translation>
-    </message>
-    <message>
-        <source>Host name separator</source>
-        <translation>主機名稱分隔符號</translation>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation>快取大小</translation>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>後端</translation>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation>名稱篩選器</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>目錄</translation>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixGroupManager</name>
-    <message>
-        <source>Session hosts</source>
-        <translation>工作階段主機</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation>主機名稱群組</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>使用者群組</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>位置</translation>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixPlugin</name>
-    <message>
-        <source>VDI support for Veyon</source>
-        <translation>Veyon 的 VDI 支援</translation>
-    </message>
-    <message>
-        <source>%1 (use VDI desktops)</source>
-        <translation>%1 (使用 VDI 桌面)</translation>
-    </message>
-</context>
-<context>
     <name>DeviceLockPlugin</name>
     <message>
         <source>Block Internet access</source>
@@ -738,36 +609,12 @@ USAGE
         <translation> 毫秒</translation>
     </message>
     <message>
-        <source>Computer and location names</source>
-        <translation>電腦和位置名稱</translation>
-    </message>
-    <message>
-        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
-        <translation>例如: (%location%:[a-z]+\d+)-(%name%:.*)</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>新位置</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
         <translation>工作階段掃描限制:</translation>
-    </message>
-    <message>
-        <source>Computer name source:</source>
-        <translation>電腦名稱來源:</translation>
-    </message>
-    <message>
-        <source>Extract computer name using regular expression</source>
-        <translation>使用正則表達式擷取電腦名稱</translation>
-    </message>
-    <message>
-        <source>Regular expression for computer name parsing:</source>
-        <translation>電腦名稱解析的正則表達式:</translation>
-    </message>
-    <message>
-        <source>Extract location name using regular expression</source>
-        <translation>使用正則表達式擷取位置名稱</translation>
     </message>
     <message>
         <source>IP address</source>
@@ -790,10 +637,6 @@ USAGE
         <translation>工作階段用戶端名稱</translation>
     </message>
     <message>
-        <source>Name resolve timeout:</source>
-        <translation>名稱解析逾時:</translation>
-    </message>
-    <message>
         <source>Parallel scans:</source>
         <translation>並行掃描:</translation>
     </message>
@@ -812,6 +655,94 @@ USAGE
     <message>
         <source>Full name of user</source>
         <translation>使用者的全名</translation>
+    </message>
+    <message>
+        <source>User groups filter expression:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. Class.*</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computer names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default / network range groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract from computer names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Groups of logged-in users</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Data source:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Data retrieval timeout:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expression for substring extraction:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Environment variable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Environment variable name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Registry key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Registry key name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Property for generating persistent network object IDs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>主機位址</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude computers whose names could not be resolved</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -860,6 +791,38 @@ USAGE
     <message>
         <source>Commands for managing the network discovery directory</source>
         <translation>用於管理網路探索目錄的命令</translation>
+    </message>
+    <message>
+        <source>Failed to initialize credentials</source>
+        <translation>初始化認證失敗</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>連接埠</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>Query system settings key from the server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query user groups of logged in user from the server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query environment variable from the server</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

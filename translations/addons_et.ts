@@ -89,135 +89,6 @@
     </message>
 </context>
 <context>
-    <name>DesktopMatrixConfigurationPage</name>
-    <message>
-        <source>DesktopMatrix</source>
-        <translation>Töölaua maatriks</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation>Üldine</translation>
-    </message>
-    <message>
-        <source>Show usernames instead of session names</source>
-        <translation>Kuva seansi nimede asemel kasutajanimed</translation>
-    </message>
-    <message>
-        <source>Hide own sessions</source>
-        <translation>Peida oma seansid</translation>
-    </message>
-    <message>
-        <source>Add hierarchy level for desktop group types</source>
-        <translation>Lisage hierarhiatase töölauagruppide tüüpide jaoks</translation>
-    </message>
-    <message>
-        <source>Coordinator</source>
-        <translation>Koordinaator</translation>
-    </message>
-    <message>
-        <source>Host address</source>
-        <translation>Seadme aadress</translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation>Port</translation>
-    </message>
-    <message>
-        <source>Register sessions</source>
-        <translation>Registreerige seansid</translation>
-    </message>
-    <message>
-        <source>Run coordinator on this host</source>
-        <translation>Käivita selle hostiga koordinaator</translation>
-    </message>
-    <message>
-        <source>Desktop groups</source>
-        <translation>Töölauagrupid</translation>
-    </message>
-    <message>
-        <source>Session hosts</source>
-        <translation>Sessiooni hostid</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation>Hostinime rühmad</translation>
-    </message>
-    <message>
-        <source>Common hostname groups only</source>
-        <translation>Ainult tavalised hostinime rühmad</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Kasutajagrupid</translation>
-    </message>
-    <message>
-        <source>Common user groups only</source>
-        <translation>Ainult tavalised kasutajarühmad</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Asukohad</translation>
-    </message>
-    <message>
-        <source>Common locations only</source>
-        <translation>Ainult tavalised asukohad</translation>
-    </message>
-    <message>
-        <source>Instant lessons</source>
-        <translation>Kohesed õppetunnid</translation>
-    </message>
-    <message>
-        <source>Host name separator</source>
-        <translation>Hostinime eraldaja</translation>
-    </message>
-    <message>
-        <source>Cache size</source>
-        <translation>Vahemälu suurus</translation>
-    </message>
-    <message>
-        <source>Backend</source>
-        <translation>Taustaprogramm</translation>
-    </message>
-    <message>
-        <source>Name filter</source>
-        <translation>Nimefilter</translation>
-    </message>
-    <message>
-        <source>Directory</source>
-        <translation>Kataloog</translation>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixGroupManager</name>
-    <message>
-        <source>Session hosts</source>
-        <translation>Sessiooni hostid</translation>
-    </message>
-    <message>
-        <source>Hostname groups</source>
-        <translation>Hostinime rühmad</translation>
-    </message>
-    <message>
-        <source>User groups</source>
-        <translation>Kasutajagrupid</translation>
-    </message>
-    <message>
-        <source>Locations</source>
-        <translation>Asukohad</translation>
-    </message>
-</context>
-<context>
-    <name>DesktopMatrixPlugin</name>
-    <message>
-        <source>VDI support for Veyon</source>
-        <translation>VDI tugi Veyonile</translation>
-    </message>
-    <message>
-        <source>%1 (use VDI desktops)</source>
-        <translation>%1 (kasutage VDI lauaarvuteid)</translation>
-    </message>
-</context>
-<context>
     <name>DeviceLockPlugin</name>
     <message>
         <source>Block Internet access</source>
@@ -738,35 +609,11 @@ KASUTA
         <translation> ms</translation>
     </message>
     <message>
-        <source>Computer and location names</source>
-        <translation>Arvutite ja asukohtade nimed</translation>
-    </message>
-    <message>
-        <source>e.g. (%location%:[a-z]+\d+)-(%name%:.*)</source>
-        <translation>e.g. (%asukoht%:[a-z]+\d+)-(%nimi%:.*)</translation>
-    </message>
-    <message>
         <source>New location</source>
         <translation>Uus asukoht</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Computer name source:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extract computer name using regular expression</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Regular expression for computer name parsing:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Extract location name using regular expression</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -790,10 +637,6 @@ KASUTA
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Name resolve timeout:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Parallel scans:</source>
         <translation type="unfinished"/>
     </message>
@@ -811,6 +654,94 @@ KASUTA
     </message>
     <message>
         <source>Full name of user</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>User groups filter expression:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. Class.*</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computer names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Asukohad</translation>
+    </message>
+    <message>
+        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
+
+Example: [^-]*-(PC[0-9]*)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default / network range groups</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract from computer names</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Groups of logged-in users</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Data source:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Data retrieval timeout:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Expression for substring extraction:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Environment variable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Environment variable name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Registry key</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Registry key name:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Property for generating persistent network object IDs:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Host address</source>
+        <translation>Seadme aadress</translation>
+    </message>
+    <message>
+        <source>Computer name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude computers whose names could not be resolved</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -860,6 +791,38 @@ KASUTA
     <message>
         <source>Commands for managing the network discovery directory</source>
         <translation>Käsklused võrgu avastamise kataloogi haldamiseks</translation>
+    </message>
+    <message>
+        <source>Failed to initialize credentials</source>
+        <translation>Mandaatide lähtestamine ebaõnnestus</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nimi</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation>Port</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Asukohad</translation>
+    </message>
+    <message>
+        <source>Query system settings key from the server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query user groups of logged in user from the server</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query environment variable from the server</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
