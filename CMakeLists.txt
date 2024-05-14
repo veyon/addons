@@ -25,7 +25,6 @@ endmacro()
 
 configure_cpack_component("veyon-addons" "UNSPECIFIED" "Veyon Add-ons")
 configure_cpack_component("veyon-addons-screenrecorder" "SCREENRECORDER" "Veyon ScreenRecorder Add-on")
-configure_cpack_component("veyon-addons-webtabs" "WEBTABS" "Veyon WebTabs Add-on")
 
 add_subdirectory(translations)
 add_subdirectory(chat)
@@ -34,7 +33,6 @@ add_subdirectory(licensing)
 add_subdirectory(ldap-pro)
 add_subdirectory(network-discovery)
 add_subdirectory(screenrecorder)
-add_subdirectory(webtabs)
 
 set(NSI "veyon-addons.nsi")
 

@@ -21,9 +21,6 @@
 [submodule "chat"]
 	path = chat
 	url = ../chat.git
-[submodule "webtabs"]
-	path = webtabs
-	url = ../webtabs
 [submodule "screenrecorder"]
 	path = screenrecorder
 	url = ../screenrecorder.git
