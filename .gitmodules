@@ -24,3 +24,7 @@
 [submodule "screenrecorder"]
 	path = screenrecorder
 	url = ../screenrecorder.git
+[submodule "entra-id-connector"]
+	path = entra-id-connector
+	url = ../entra-id-connector
+	branch = main

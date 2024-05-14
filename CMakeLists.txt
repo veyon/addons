@@ -28,6 +28,7 @@ configure_cpack_component("veyon-addons-screenrecorder" "SCREENRECORDER" "Veyon 
 
 add_subdirectory(translations)
 add_subdirectory(chat)
+add_subdirectory(entra-id-connector)
 add_subdirectory(internet-access-control)
 add_subdirectory(licensing)
 add_subdirectory(ldap-pro)
