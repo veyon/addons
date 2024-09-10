@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_TW">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_TW">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -92,15 +94,15 @@
     <name>DeviceLockPlugin</name>
     <message>
         <source>Block Internet access</source>
-        <translation>封鎖 internet 存取</translation>
+        <translation>封鎖 Internet 存取</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation>取消封鎖 internet 存取</translation>
+        <translation>取消封鎖 Internet 存取</translation>
     </message>
     <message>
         <source>Show help about command</source>
-        <translation>顯示命令的說明</translation>
+        <translation>顯示有關命令的說明</translation>
     </message>
     <message>
         <source>Internet access</source>
@@ -108,19 +110,19 @@
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation>封鎖或取消封鎖 internet 存取。</translation>
+        <translation>封鎖或取消封鎖 Internet 存取。</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation>按一下此按鈕可封鎖 internet 存取。</translation>
+        <translation>按一下此按鈕可封鎖 Internet 存取。</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation>按一下此按鈕可取消封鎖 internet 存取。</translation>
+        <translation>按一下此按鈕可取消封鎖 Internet 存取。</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Internet 存取現在已封鎖。 由於您使用的是這個附加元件的展示版本，它將在 60 秒內自動取消封鎖。</translation>
+        <translation>Internet 存取現在已封鎖。 由於您使用的是這個附加元件的演示版本，因此它將在 60 秒內自動解除封鎖。</translation>
     </message>
     <message>
         <source>Lock peripheral devices</source>
@@ -129,6 +131,239 @@
     <message>
         <source>Commands for locking/unlocking peripheral devices</source>
         <translation>鎖定/解鎖周邊裝置的命令</translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdConnectorConfigurationPage</name>
+    <message>
+        <source>Entra ID Connector</source>
+        <translation>Entra ID 連接器</translation>
+    </message>
+    <message>
+        <source>Basic settings</source>
+        <translation>基本設定</translation>
+    </message>
+    <message>
+        <source>Tenant ID</source>
+        <translation>租用 ID</translation>
+    </message>
+    <message>
+        <source>Application (client) ID</source>
+        <translation>應用程式 (用戶端) ID</translation>
+    </message>
+    <message>
+        <source>Client secret</source>
+        <translation>用戶端秘密</translation>
+    </message>
+    <message>
+        <source>Authentication mechanism</source>
+        <translation>認證機制</translation>
+    </message>
+    <message>
+        <source>Microsoft Authentication Library (MSAL)</source>
+        <translation>Microsoft Authentication Library (MSAL)</translation>
+    </message>
+    <message>
+        <source>OAuth 2.0</source>
+        <translation>OAuth 2.0</translation>
+    </message>
+    <message>
+        <source>Request timeout</source>
+        <translation>請求逾時</translation>
+    </message>
+    <message>
+        <source>Domain name</source>
+        <translation>網域名稱</translation>
+    </message>
+    <message>
+        <source>Device hostname</source>
+        <translation>裝置主機名稱</translation>
+    </message>
+    <message>
+        <source>Device location</source>
+        <translation>裝置位置</translation>
+    </message>
+    <message>
+        <source>Device MAC address</source>
+        <translation>裝置 MAC 位址</translation>
+    </message>
+    <message>
+        <source>Filters</source>
+        <translation>篩選器</translation>
+    </message>
+    <message>
+        <source>Users filter</source>
+        <translation>使用者篩選器</translation>
+    </message>
+    <message>
+        <source>Devices filter</source>
+        <translation>裝置篩選器</translation>
+    </message>
+    <message>
+        <source>User groups filter</source>
+        <translation>使用者和群組篩選器</translation>
+    </message>
+    <message>
+        <source>Device groups filter</source>
+        <translation>裝置群組篩選器</translation>
+    </message>
+    <message>
+        <source>Use location attribute of device</source>
+        <translation>使用裝置的位置屬性</translation>
+    </message>
+    <message>
+        <source>Extract from hostname via regular expression</source>
+        <translation>透過正規表示式從主機名稱中提取</translation>
+    </message>
+    <message>
+        <source>Regular expression</source>
+        <translation>正規表示式</translation>
+    </message>
+    <message>
+        <source>Query limit</source>
+        <translation>查詢限制</translation>
+    </message>
+    <message>
+        <source>Entra ID configuration check</source>
+        <translation>Entra ID 組態檢查</translation>
+    </message>
+    <message>
+        <source>An access token for Entra ID has been obtained successfully.</source>
+        <translation>取得 Entra ID 的存取權杖成功。</translation>
+    </message>
+    <message>
+        <source>Entra ID test failed</source>
+        <translation>Entra ID 測試失敗</translation>
+    </message>
+    <message>
+        <source>Entra ID test successful</source>
+        <translation>Entra ID 測試成功</translation>
+    </message>
+    <message>
+        <source>%1 %2 have been queried successfully:
+
+%3</source>
+        <translation>%1 %2 查詢成功:
+
+%3</translation>
+    </message>
+    <message>
+        <source>users</source>
+        <translation>使用者</translation>
+    </message>
+    <message>
+        <source>Test access</source>
+        <translation>測試存取</translation>
+    </message>
+    <message>
+        <source>Entra ID access</source>
+        <translation>Entra ID 存取</translation>
+    </message>
+    <message>
+        <source>user groups</source>
+        <translation>使用者群組</translation>
+    </message>
+    <message>
+        <source>device groups</source>
+        <translation>裝置群組</translation>
+    </message>
+    <message>
+        <source>device locations</source>
+        <translation>裝置位置</translation>
+    </message>
+    <message>
+        <source>Location mapping mode</source>
+        <translation>位置映射模式</translation>
+    </message>
+    <message>
+        <source>Could not query any %1. Please check the API permissions (%2) for the registered app in your Microsoft Entra admin center and the &quot;%3&quot; parameter on this page.</source>
+        <translation>無法查詢任何 %1。請檢查 Microsoft Entra 管理中心中已註冊 App 的 API 權限 (%2) 和這個頁面上的 &quot;%3&quot; 參數。</translation>
+    </message>
+    <message>
+        <source>Could not query any device locations. Please check the API permissions (%1) for the registered app in your Microsoft Entra admin center and the &quot;%2&quot;, &quot;%3&quot; and &quot;%4&quot; parameters on this page.</source>
+        <translation>無法查詢任何裝置位置。 請檢查 Microsoft Entra 管理中心中已註冊 App 的 API 權限 (%1)，和這個頁面上的 &quot;%2&quot;、&quot;%3&quot; 和 &quot;%4&quot; 參數。</translation>
+    </message>
+    <message>
+        <source>devices</source>
+        <translation>裝置</translation>
+    </message>
+    <message>
+        <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
+        <translation>例如: startsWith(displayName, &apos;PC&apos;)</translation>
+    </message>
+    <message>
+        <source>e.g. startsWith(displayName, &apos;Room&apos;)</source>
+        <translation>例如: startsWith(displayName, &apos;Room&apos;)</translation>
+    </message>
+    <message>
+        <source>Device attributes</source>
+        <translation>裝置屬性</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>Use device groups</source>
+        <translation>使用裝置群組</translation>
+    </message>
+    <message>
+        <source>e.g. description</source>
+        <translation>例如: 描述</translation>
+    </message>
+    <message>
+        <source>Device group attribute to use as location name</source>
+        <translation>用作位置名稱的裝置群組屬性</translation>
+    </message>
+    <message>
+        <source>Client certificate path</source>
+        <translation>用戶端憑證路徑</translation>
+    </message>
+    <message>
+        <source>Client certificate file</source>
+        <translation>用戶端憑證檔案</translation>
+    </message>
+    <message>
+        <source>PEM files (*.pem)</source>
+        <translation>PEM 檔案 (*.pem)</translation>
+    </message>
+    <message>
+        <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
+        <translation>無法取得 Entra ID 的存取權杖。 請檢查租用戶 ID、應用程式 (用戶端) ID 以及用戶端金鑰或憑證路徑。</translation>
+    </message>
+    <message>
+        <source>Client certificate with private key file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Specify path to client certificate file containing the private key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client credential type</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdConnectorPlugin</name>
+    <message>
+        <source>Network object directory providing users, groups and devices from Microsoft Entra ID</source>
+        <translation>網路物件目錄提供來自 Microsoft Entra ID 的使用者、群組和裝置</translation>
+    </message>
+    <message>
+        <source>Entra ID (read devices from Entra ID directory)</source>
+        <translation>Entra ID (從 Entra ID 目錄讀取裝置)</translation>
+    </message>
+    <message>
+        <source>%1 (read users and groups from Entra ID directory)</source>
+        <translation>%1 (從 Entra ID 目錄讀取使用者和群組)</translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdDirectory</name>
+    <message>
+        <source>Unknown location</source>
+        <translation>未知位置</translation>
     </message>
 </context>
 <context>
@@ -240,15 +475,15 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Block Internet access</source>
-        <translation>封鎖 internet 存取</translation>
+        <translation>封鎖 Internet 存取</translation>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation>取消封鎖 internet 存取</translation>
+        <translation>取消封鎖 Internet 存取</translation>
     </message>
     <message>
         <source>Show help about command</source>
-        <translation>顯示命令的說明</translation>
+        <translation>顯示有關命令的說明</translation>
     </message>
     <message>
         <source>Internet access</source>
@@ -256,19 +491,19 @@
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation>封鎖或取消封鎖 internet 存取。</translation>
+        <translation>封鎖或取消封鎖 Internet 存取。</translation>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation>按一下此按鈕可封鎖 internet 存取。</translation>
+        <translation>按一下此按鈕可封鎖 Internet 存取。</translation>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation>按一下此按鈕可取消封鎖 internet 存取。</translation>
+        <translation>按一下此按鈕可取消封鎖 Internet 存取。</translation>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Internet 存取現在已封鎖。 由於您使用的是這個附加元件的展示版本，它將在 60 秒內自動取消封鎖。</translation>
+        <translation>Internet 存取現在已封鎖。 由於您使用的是這個附加元件的演示版本，因此它將在 60 秒內自動解除封鎖。</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -303,7 +538,7 @@
     </message>
     <message>
         <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>您確定要移除實體「%1」?</translation>
+        <translation>您確定要移除實例「%1」?</translation>
     </message>
     <message>
         <source>Configuration for instance &quot;%1&quot;</source>
@@ -464,7 +699,7 @@
     </message>
     <message>
         <source>%1 demo</source>
-        <translation>%1 展示</translation>
+        <translation>%1 演示</translation>
     </message>
 </context>
 <context>
@@ -650,7 +885,7 @@ USAGE
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation>工作階段主機的名稱</translation>
+        <translation>工作階段主機的主機名稱</translation>
     </message>
     <message>
         <source>Full name of user</source>
@@ -658,79 +893,75 @@ USAGE
     </message>
     <message>
         <source>User groups filter expression:</source>
-        <translation type="unfinished"/>
+        <translation>使用者群組篩選表達式:</translation>
     </message>
     <message>
         <source>e.g. Class.*</source>
-        <translation type="unfinished"/>
+        <translation>例如. Class.*</translation>
     </message>
     <message>
         <source>Computer names</source>
-        <translation type="unfinished"/>
+        <translation>電腦名稱</translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
 
 Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"/>
+        <translation>(可選) 輸入含擷取的正規表示式，以擷取電腦名稱的一部分並將其用於電腦的顯示名稱。
+
+例如: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>位置</translation>
     </message>
     <message>
-        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
-
-Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Default / network range groups</source>
-        <translation type="unfinished"/>
+        <translation>預設/網路範圍群組</translation>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation>從電腦名稱擷取</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation>登入的使用者群組</translation>
     </message>
     <message>
         <source>Data source:</source>
-        <translation type="unfinished"/>
+        <translation>資料來源:</translation>
     </message>
     <message>
         <source>Data retrieval timeout:</source>
-        <translation type="unfinished"/>
+        <translation>資料檢索逾時:</translation>
     </message>
     <message>
         <source>Expression for substring extraction:</source>
-        <translation type="unfinished"/>
+        <translation>子字串擷取表達式:</translation>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation>環境變數</translation>
     </message>
     <message>
         <source>Environment variable name:</source>
-        <translation type="unfinished"/>
+        <translation>環境變數名稱:</translation>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation>登錄檔機碼</translation>
     </message>
     <message>
         <source>Registry key name:</source>
-        <translation type="unfinished"/>
+        <translation>登錄檔機碼名稱:</translation>
     </message>
     <message>
         <source>Property for generating persistent network object IDs:</source>
-        <translation type="unfinished"/>
+        <translation>產生持久性網路物件 ID 的內容:</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>預設值</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -738,11 +969,19 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Computer name</source>
-        <translation type="unfinished"/>
+        <translation>電腦名稱</translation>
     </message>
     <message>
         <source>Exclude computers whose names could not be resolved</source>
-        <translation type="unfinished"/>
+        <translation>排除名稱無法解析的電腦</translation>
+    </message>
+    <message>
+        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
+
+Example: (R[0-9]*)-*</source>
+        <translation>輸入含有擷取的正規表示式以解析每部電腦的名稱，並使用其中的一部分作為電腦的位置。
+
+範例: (R[0-9]*)-*</translation>
     </message>
 </context>
 <context>
@@ -802,7 +1041,7 @@ USAGE
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>位址</translation>
     </message>
     <message>
         <source>Port</source>
@@ -814,15 +1053,15 @@ USAGE
     </message>
     <message>
         <source>Query system settings key from the server</source>
-        <translation type="unfinished"/>
+        <translation>從伺服器查詢系統設定金鑰</translation>
     </message>
     <message>
         <source>Query user groups of logged in user from the server</source>
-        <translation type="unfinished"/>
+        <translation>從伺服器查詢登入使用者的使用者群組</translation>
     </message>
     <message>
         <source>Query environment variable from the server</source>
-        <translation type="unfinished"/>
+        <translation>從伺服器查詢環境變數</translation>
     </message>
 </context>
 <context>
@@ -1014,111 +1253,20 @@ USAGE
         <source>Record screens to video files</source>
         <translation>錄製螢幕為視訊檔</translation>
     </message>
+    <message>
+        <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen recording stopped</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
         <translation>授權於</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendQtWebEngine</name>
-    <message>
-        <source>Qt WebEngine backend for WebTabs</source>
-        <translation>Qt WebEngine 後端用於 WebTabs</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendQtWebKit</name>
-    <message>
-        <source>Legacy Qt WebKit backend for WebTabs</source>
-        <translation>Legacy Qt WebKit 後端用於 WebTabs</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendWebView2</name>
-    <message>
-        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
-        <translation>如果這個文字仍然可見，請安裝 &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; 或組態 Veyon 以使用不同的 WebTabs 後端。</translation>
-    </message>
-    <message>
-        <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation>Microsoft Edge WebView2 後端用於 WebTabs</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsConfigurationPage</name>
-    <message>
-        <source>WebTabs</source>
-        <translation>WebTabs</translation>
-    </message>
-    <message>
-        <source>General settings</source>
-        <translation>一般設定</translation>
-    </message>
-    <message>
-        <source>Backend:</source>
-        <translation>後端:</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the microphone</source>
-        <translation>允許網站存取麥克風</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the camera</source>
-        <translation>允許網站存取攝影機</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the geographical location</source>
-        <translation>允許網站存取地理位置</translation>
-    </message>
-    <message>
-        <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
-        <translation>忽略含有自我簽章憑證的主機/網域的 SSL 錯誤:</translation>
-    </message>
-    <message>
-        <source>e.g. www.example.org lan.example.org</source>
-        <translation>例如: www.example.org lan.example.org</translation>
-    </message>
-    <message>
-        <source>Tabs</source>
-        <translation>索引標籤</translation>
-    </message>
-    <message>
-        <source>Add tab</source>
-        <translation>加入索引標籤</translation>
-    </message>
-    <message>
-        <source>Remove selected tab</source>
-        <translation>移除選取的索引標籤</translation>
-    </message>
-    <message>
-        <source>Show tabs</source>
-        <translation>顯示索引標籤</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>名稱</translation>
-    </message>
-    <message>
-        <source>URL</source>
-        <translation>URL</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation>寬度</translation>
-    </message>
-    <message>
-        <source>New tab</source>
-        <translation>新增索引標籤</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsPlugin</name>
-    <message>
-        <source>Integrate web page tabs into Veyon Master</source>
-        <translation>將網頁索引標籤整合到 Veyon Master</translation>
     </message>
 </context>
 </TS>

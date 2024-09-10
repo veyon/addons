@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="lv">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="lv">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -120,15 +122,246 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Lock peripheral devices</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Commands for locking/unlocking peripheral devices</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdConnectorConfigurationPage</name>
+    <message>
+        <source>Entra ID Connector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic settings</source>
+        <translation>Pamata iestatījumi</translation>
+    </message>
+    <message>
+        <source>Tenant ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application (client) ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client secret</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication mechanism</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Authentication Library (MSAL)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OAuth 2.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request timeout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domain name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device hostname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device MAC address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Devices filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User groups filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device groups filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use location attribute of device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extract from hostname via regular expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regular expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Query limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entra ID configuration check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An access token for Entra ID has been obtained successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entra ID test failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entra ID test successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2 have been queried successfully:
+
+%3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>users</source>
+        <translation>lietotāji</translation>
+    </message>
+    <message>
+        <source>Test access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entra ID access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>user groups</source>
+        <translation>lietotāju grupas</translation>
+    </message>
+    <message>
+        <source>device groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>device locations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Location mapping mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not query any %1. Please check the API permissions (%2) for the registered app in your Microsoft Entra admin center and the &quot;%3&quot; parameter on this page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not query any device locations. Please check the API permissions (%1) for the registered app in your Microsoft Entra admin center and the &quot;%2&quot;, &quot;%3&quot; and &quot;%4&quot; parameters on this page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e.g. startsWith(displayName, &apos;Room&apos;)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Vietas</translation>
+    </message>
+    <message>
+        <source>Use device groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e.g. description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device group attribute to use as location name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client certificate path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client certificate file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PEM files (*.pem)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client certificate with private key file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Specify path to client certificate file containing the private key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client credential type</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdConnectorPlugin</name>
+    <message>
+        <source>Network object directory providing users, groups and devices from Microsoft Entra ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entra ID (read devices from Entra ID directory)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 (read users and groups from Entra ID directory)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdDirectory</name>
+    <message>
+        <source>Unknown location</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -225,15 +458,15 @@
     </message>
     <message>
         <source>Backend:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Atbloķējiet piekļuvi internetam, uzsākot pakalpojumu (piem., pēc atteikšanās vai atsāknēšanas)</translation>
+        <translation>Atbloķējiet piekļuvi internetam, uzsākot pakalpojumu (piem., pēc atteikšanās vai restartēšanas)</translation>
     </message>
     <message>
         <source>Backend settings</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -268,7 +501,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -283,7 +516,7 @@
     <name>LdapProConfigurationPage</name>
     <message>
         <source>LDAP Pro</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Instances</source>
@@ -295,41 +528,41 @@
     </message>
     <message>
         <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove instance</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Configuration for instance &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LdapProPlugin</name>
     <message>
         <source>Professional LDAP/AD integration for Veyon</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LicensingConfigurationPage</name>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Information</source>
@@ -337,23 +570,23 @@
     </message>
     <message>
         <source>Installation ID</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Addons available for licensing</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Installed licenses</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add license from file</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ID</source>
@@ -361,15 +594,15 @@
     </message>
     <message>
         <source>Add-on</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Valid until</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sites</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Computers</source>
@@ -381,23 +614,23 @@
     </message>
     <message>
         <source>Browse license file</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Veyon license files (*.vlf)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove license</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you really want to remove the selected license?</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
@@ -405,7 +638,7 @@
     </message>
     <message>
         <source>invalid license</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>unlimited</source>
@@ -413,46 +646,46 @@
     </message>
     <message>
         <source>Invalid license file</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Could not open the license file for reading!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The selected license file does not contain valid data.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The selected license file could not be verified.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The selected license file is not valid for this installation.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The selected license file is expired.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The license is already installed.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feature</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LicensingHelper</name>
     <message>
         <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thank you for testing the %1 add-on.</source>
@@ -460,11 +693,11 @@
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -483,7 +716,7 @@
     </message>
     <message>
         <source>Remove installed license</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
@@ -492,7 +725,7 @@ USAGE
 %1 add &lt;LICENSE FILE&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
@@ -501,11 +734,11 @@ USAGE
 %1 remove &lt;LICENSE ID&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No certificate found with given ID</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Licensing management</source>
@@ -536,11 +769,11 @@ USAGE
     </message>
     <message>
         <source>Scan custom subnet</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scan network ranges</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -548,7 +781,7 @@ USAGE
     </message>
     <message>
         <source>Network ranges</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add new group</source>
@@ -604,123 +837,117 @@ USAGE
     </message>
     <message>
         <source>Session scan limit:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>IP address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>DNS name (reverse lookup)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User login name</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Session client address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Session client name</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Parallel scans:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scan timeout:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Retain time:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Full name of user</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User groups filter expression:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>e.g. Class.*</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Computer names</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
 
 Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>Vietas</translation>
     </message>
     <message>
-        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
-
-Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Default / network range groups</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data source:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data retrieval timeout:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Expression for substring extraction:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Environment variable name:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Registry key name:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Property for generating persistent network object IDs:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Host address</source>
@@ -728,11 +955,17 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Computer name</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exclude computers whose names could not be resolved</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
+
+Example: (R[0-9]*)-*</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -763,7 +996,7 @@ USAGE
 %1 scan [&lt;SUBNET&gt;]
 
 </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Network object directory which automatically discovers computers in the network</source>
@@ -779,7 +1012,7 @@ USAGE
     </message>
     <message>
         <source>Failed to initialize credentials</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Name</source>
@@ -787,7 +1020,7 @@ USAGE
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Port</source>
@@ -799,15 +1032,15 @@ USAGE
     </message>
     <message>
         <source>Query system settings key from the server</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Query user groups of logged in user from the server</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Query environment variable from the server</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -844,23 +1077,23 @@ USAGE
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>frames per second</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>x</source>
@@ -868,39 +1101,39 @@ USAGE
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>kbps</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keyframe interval</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>seconds</source>
@@ -908,11 +1141,11 @@ USAGE
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -931,7 +1164,7 @@ USAGE
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
@@ -943,7 +1176,7 @@ USAGE
     </message>
     <message>
         <source>Starting recordings…</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop recording</source>
@@ -951,22 +1184,22 @@ USAGE
     </message>
     <message>
         <source>Finishing recordings…</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recording finished (duration: %1)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recording duration: %1</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>auto</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -981,7 +1214,7 @@ USAGE
     </message>
     <message>
         <source>Click this button to record the screens of all users into video files.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Screen recording</source>
@@ -989,15 +1222,23 @@ USAGE
     </message>
     <message>
         <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Record screens to video files</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen recording stopped</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1005,105 +1246,6 @@ USAGE
     <message>
         <source>licensed for</source>
         <translation>licenzēts uz</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendQtWebEngine</name>
-    <message>
-        <source>Qt WebEngine backend for WebTabs</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendQtWebKit</name>
-    <message>
-        <source>Legacy Qt WebKit backend for WebTabs</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendWebView2</name>
-    <message>
-        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>WebTabsConfigurationPage</name>
-    <message>
-        <source>WebTabs</source>
-        <translation>WebCilnes</translation>
-    </message>
-    <message>
-        <source>General settings</source>
-        <translation>Galvenie iestatījumi</translation>
-    </message>
-    <message>
-        <source>Backend:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Allow websites to access the microphone</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Allow websites to access the camera</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Allow websites to access the geographical location</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>e.g. www.example.org lan.example.org</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Tabs</source>
-        <translation>Cilnes</translation>
-    </message>
-    <message>
-        <source>Add tab</source>
-        <translation>Pievienot cilni</translation>
-    </message>
-    <message>
-        <source>Remove selected tab</source>
-        <translation>Noņemt izvēlēto cilni</translation>
-    </message>
-    <message>
-        <source>Show tabs</source>
-        <translation>Parādīt cilnes</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Vārds</translation>
-    </message>
-    <message>
-        <source>URL</source>
-        <translation>URL</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation>Platums</translation>
-    </message>
-    <message>
-        <source>New tab</source>
-        <translation>Jauna cilne</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsPlugin</name>
-    <message>
-        <source>Integrate web page tabs into Veyon Master</source>
-        <translation>Integrējiet tīmekļa lapu cilnes Veyon Master</translation>
     </message>
 </context>
 </TS>

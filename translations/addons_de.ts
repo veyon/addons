@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="de">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="de">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -129,6 +131,239 @@
     <message>
         <source>Commands for locking/unlocking peripheral devices</source>
         <translation>Befehle zum Sperren/Entsperren von Peripheriegeräten</translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdConnectorConfigurationPage</name>
+    <message>
+        <source>Entra ID Connector</source>
+        <translation>Entra ID Connector</translation>
+    </message>
+    <message>
+        <source>Basic settings</source>
+        <translation>Grundeinstellungen</translation>
+    </message>
+    <message>
+        <source>Tenant ID</source>
+        <translation>Mandanten-ID</translation>
+    </message>
+    <message>
+        <source>Application (client) ID</source>
+        <translation>Anwendungs-ID (Client)</translation>
+    </message>
+    <message>
+        <source>Client secret</source>
+        <translation>Geheimer Clientschlüssel</translation>
+    </message>
+    <message>
+        <source>Authentication mechanism</source>
+        <translation>Authentifizierungsmechanismus</translation>
+    </message>
+    <message>
+        <source>Microsoft Authentication Library (MSAL)</source>
+        <translation>Microsoft Authentifizierungsbibliothek (MSAL)</translation>
+    </message>
+    <message>
+        <source>OAuth 2.0</source>
+        <translation>OAuth 2.0</translation>
+    </message>
+    <message>
+        <source>Request timeout</source>
+        <translation>Anfrage-Timeout</translation>
+    </message>
+    <message>
+        <source>Domain name</source>
+        <translation>Domänenname</translation>
+    </message>
+    <message>
+        <source>Device hostname</source>
+        <translation>Geräte-Hostname</translation>
+    </message>
+    <message>
+        <source>Device location</source>
+        <translation>Geräte-Standort</translation>
+    </message>
+    <message>
+        <source>Device MAC address</source>
+        <translation>Geräte-MAC-Adresse</translation>
+    </message>
+    <message>
+        <source>Filters</source>
+        <translation>Filter</translation>
+    </message>
+    <message>
+        <source>Users filter</source>
+        <translation>Benutzerfilter</translation>
+    </message>
+    <message>
+        <source>Devices filter</source>
+        <translation>Gerätefilter</translation>
+    </message>
+    <message>
+        <source>User groups filter</source>
+        <translation>Benutzergruppenfilter</translation>
+    </message>
+    <message>
+        <source>Device groups filter</source>
+        <translation>Gerätegruppenfilter</translation>
+    </message>
+    <message>
+        <source>Use location attribute of device</source>
+        <translation>Standortattribut des Geräts verwenden</translation>
+    </message>
+    <message>
+        <source>Extract from hostname via regular expression</source>
+        <translation>Aus Hostname mithilfe eines regulären Ausdrucks extrahieren</translation>
+    </message>
+    <message>
+        <source>Regular expression</source>
+        <translation>Regulärer Ausdruck</translation>
+    </message>
+    <message>
+        <source>Query limit</source>
+        <translation>Abfragelimit</translation>
+    </message>
+    <message>
+        <source>Entra ID configuration check</source>
+        <translation>Entra ID Konfigurationsüberprüfung</translation>
+    </message>
+    <message>
+        <source>An access token for Entra ID has been obtained successfully.</source>
+        <translation>Ein Zugangstoken für Entra ID wurde erfolgreich bezogen.</translation>
+    </message>
+    <message>
+        <source>Entra ID test failed</source>
+        <translation>Entra ID Test fehlgeschlagen</translation>
+    </message>
+    <message>
+        <source>Entra ID test successful</source>
+        <translation>Entra ID Test erfolgreich</translation>
+    </message>
+    <message>
+        <source>%1 %2 have been queried successfully:
+
+%3</source>
+        <translation>%1 %2 wurden erfolgreich abgefragt:
+
+%3</translation>
+    </message>
+    <message>
+        <source>users</source>
+        <translation>Benutzer</translation>
+    </message>
+    <message>
+        <source>Test access</source>
+        <translation>Zugriff testen</translation>
+    </message>
+    <message>
+        <source>Entra ID access</source>
+        <translation>Zugriff auf Entra ID</translation>
+    </message>
+    <message>
+        <source>user groups</source>
+        <translation>Benutzergruppen</translation>
+    </message>
+    <message>
+        <source>device groups</source>
+        <translation>Gerätegruppen</translation>
+    </message>
+    <message>
+        <source>device locations</source>
+        <translation>Geräte-Standorte</translation>
+    </message>
+    <message>
+        <source>Location mapping mode</source>
+        <translation>Standortzuordnungsmodus</translation>
+    </message>
+    <message>
+        <source>Could not query any %1. Please check the API permissions (%2) for the registered app in your Microsoft Entra admin center and the &quot;%3&quot; parameter on this page.</source>
+        <translation>Es konnten keine %1 abgefragt werden. Bitte überprüfen Sie die API-Berechtigungen (%2) für die registrierte App in Ihrem Microsoft Entra Admin Center sowie den Parameter &quot;%3&quot; auf dieser Seite.</translation>
+    </message>
+    <message>
+        <source>Could not query any device locations. Please check the API permissions (%1) for the registered app in your Microsoft Entra admin center and the &quot;%2&quot;, &quot;%3&quot; and &quot;%4&quot; parameters on this page.</source>
+        <translation>Es konnten keine Gerätestandorte abgefragt werden. Bitte überprüfen Sie die API-Berechtigungen (%1) für die registrierte App in Ihrem Microsoft Entra Admin Center sowie die Parameter &quot;%2&quot;, &quot;%3&quot; und &quot;%4&quot; auf dieser Seite.</translation>
+    </message>
+    <message>
+        <source>devices</source>
+        <translation>Geräte</translation>
+    </message>
+    <message>
+        <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
+        <translation>z.B. startsWith(displayName, &apos;PC&apos;)</translation>
+    </message>
+    <message>
+        <source>e.g. startsWith(displayName, &apos;Room&apos;)</source>
+        <translation>z.B. startsWith(displayName, &apos;Raum&apos;)</translation>
+    </message>
+    <message>
+        <source>Device attributes</source>
+        <translation>Geräteattribute</translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Standorte</translation>
+    </message>
+    <message>
+        <source>Use device groups</source>
+        <translation>Gerätegruppen verwenden</translation>
+    </message>
+    <message>
+        <source>e.g. description</source>
+        <translation>z.B. description</translation>
+    </message>
+    <message>
+        <source>Device group attribute to use as location name</source>
+        <translation>Als Standortname zu verwendendes Gerätegruppenattribut</translation>
+    </message>
+    <message>
+        <source>Client certificate path</source>
+        <translation>Clientzertifikatpfad</translation>
+    </message>
+    <message>
+        <source>Client certificate file</source>
+        <translation>Clientzertifikatsdatei</translation>
+    </message>
+    <message>
+        <source>PEM files (*.pem)</source>
+        <translation>PEM-Dateien (*.pem)</translation>
+    </message>
+    <message>
+        <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
+        <translation>Es konnte kein Zugriffstoken für die Entra ID erhalten werden. Bitte überprüfen Sie die Mandanten-ID, die Anwendungs-ID (Client) und den geheimen Clientschlüssel oder Clientzertifikatpfad.</translation>
+    </message>
+    <message>
+        <source>Client certificate with private key file</source>
+        <translation>Client-Zertifikat mit privater Schlüsseldatei</translation>
+    </message>
+    <message>
+        <source>Specify path to client certificate file containing the private key.</source>
+        <translation>Geben Sie den Pfad zur Client-Zertifikatsdatei an, die den privaten Schlüssel enthält.</translation>
+    </message>
+    <message>
+        <source>Client credential type</source>
+        <translation>Typ der Client-Anmeldeinformation</translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdConnectorPlugin</name>
+    <message>
+        <source>Network object directory providing users, groups and devices from Microsoft Entra ID</source>
+        <translation>Netzwerkobjektverzeichnis mit Benutzern, Gruppen und Geräten aus Microsoft Entra ID</translation>
+    </message>
+    <message>
+        <source>Entra ID (read devices from Entra ID directory)</source>
+        <translation>Entra ID (Geräte aus dem Entra ID-Verzeichnis lesen)</translation>
+    </message>
+    <message>
+        <source>%1 (read users and groups from Entra ID directory)</source>
+        <translation>%1 (Benutzer und Gruppen aus dem Entra ID-Verzeichnis lesen)</translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdDirectory</name>
+    <message>
+        <source>Unknown location</source>
+        <translation>Unbekannter Standort</translation>
     </message>
 </context>
 <context>
@@ -681,14 +916,6 @@ Beispiel: [^-]*-(PC[0-9]*)</translation>
         <translation>Standorte</translation>
     </message>
     <message>
-        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
-
-Example: [^-]*-(PC[0-9]*)</source>
-        <translation>Geben Sie einen regulären Ausdruck mit einem Capture ein, um den Namen eines jeden Computers zu zerlegen und einen Teil davon als Standort des Computers zu verwenden.
-
-Beispiel: [^-]*-(PC[0-9]*)</translation>
-    </message>
-    <message>
         <source>Default / network range groups</source>
         <translation>Standard / Gruppen von Netzwerkbereichen</translation>
     </message>
@@ -747,6 +974,14 @@ Beispiel: [^-]*-(PC[0-9]*)</translation>
     <message>
         <source>Exclude computers whose names could not be resolved</source>
         <translation>Computer ausschließen, deren Namen nicht aufgelöst werden konnten</translation>
+    </message>
+    <message>
+        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
+
+Example: (R[0-9]*)-*</source>
+        <translation>Geben Sie einen regulären Ausdruck mit einem Capture ein, um den Namen eines jeden Computers zu zerlegen und einen Teil davon als Standort des Computers zu verwenden.
+
+Beispiel: (R[0-9]*)-*</translation>
     </message>
 </context>
 <context>
@@ -1017,111 +1252,20 @@ VERWENDUNG
         <source>Record screens to video files</source>
         <translation>Aufzeichnung von Bildschirmen in Videodateien</translation>
     </message>
+    <message>
+        <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
+        <translation>Die Bildschirmaufzeichnung wurde aufgrund eines manuellen Neuladens gestoppt. Bitte starten Sie die Aufzeichnung bei Bedarf erneut.</translation>
+    </message>
+    <message>
+        <source>Screen recording stopped</source>
+        <translation>Bildschirmaufzeichnung beendet</translation>
+    </message>
 </context>
 <context>
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
         <translation>lizenziert für</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendQtWebEngine</name>
-    <message>
-        <source>Qt WebEngine backend for WebTabs</source>
-        <translation>Qt WebEngine Backend für WebTabs</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendQtWebKit</name>
-    <message>
-        <source>Legacy Qt WebKit backend for WebTabs</source>
-        <translation>Veraltetes Qt WebKit Backend für WebTabs</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendWebView2</name>
-    <message>
-        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
-        <translation>Wenn dieser Text sichtbar bleibt, installieren Sie bitte die &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Laufzeit&lt;/a&gt; oder konfigurieren Veyon so, dass es ein anderes WebTabs-Backend nutzt.</translation>
-    </message>
-    <message>
-        <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation>Microsoft Edge WebView2 Backend für WebTabs</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsConfigurationPage</name>
-    <message>
-        <source>WebTabs</source>
-        <translation>WebTabs</translation>
-    </message>
-    <message>
-        <source>General settings</source>
-        <translation>Allgemeine Einstellungen</translation>
-    </message>
-    <message>
-        <source>Backend:</source>
-        <translation>Backend:</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the microphone</source>
-        <translation>Webseiten den Zugriff auf das Mikrofon erlauben</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the camera</source>
-        <translation>Webseiten den Zugriff auf die Kamera erlauben</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the geographical location</source>
-        <translation>Webseiten den Zugriff auf den geografischen Standort erlauben</translation>
-    </message>
-    <message>
-        <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
-        <translation>SSL-Fehler für Rechner/Domänen mit selbstsignierten Zertifikaten ignorieren:</translation>
-    </message>
-    <message>
-        <source>e.g. www.example.org lan.example.org</source>
-        <translation>z.B. www.example.org lan.example.org</translation>
-    </message>
-    <message>
-        <source>Tabs</source>
-        <translation>Tabs</translation>
-    </message>
-    <message>
-        <source>Add tab</source>
-        <translation>Tab hinzufügen</translation>
-    </message>
-    <message>
-        <source>Remove selected tab</source>
-        <translation>Ausgewählten Tab entfernen</translation>
-    </message>
-    <message>
-        <source>Show tabs</source>
-        <translation>Tabs anzeigen</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Name</translation>
-    </message>
-    <message>
-        <source>URL</source>
-        <translation>URL</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation>Breite</translation>
-    </message>
-    <message>
-        <source>New tab</source>
-        <translation>Neuer Tab</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsPlugin</name>
-    <message>
-        <source>Integrate web page tabs into Veyon Master</source>
-        <translation>Webpage-Tabs in Veyon Master integrieren</translation>
     </message>
 </context>
 </TS>

@@ -4,7 +4,7 @@ stages:
 
 build-windows:
   stage: build
-  image: $CI_REGISTRY/veyon/ci-mingw-w64:4.8
+  image: $CI_REGISTRY/veyon/ci-mingw-w64:4.9
   script:
     - ./prepare-build.sh
     - cd veyon && .ci/windows/build.sh $ARCH addons-binaries && cd ..
@@ -26,17 +26,16 @@ build-linux:
     matrix:
       - DISTRO:
         - centos.7.9
-        - debian.buster
-        - debian.bullseye
-        - debian.bookworm
-        - fedora.38
+        - debian.11
+        - debian.12
         - fedora.39
-        - opensuse.15.4
+        - fedora.40
         - opensuse.15.5
+        - opensuse.15.6
         - opensuse.tumbleweed
-        - ubuntu.focal
-        - ubuntu.jammy
-        - ubuntu.mantic
+        - ubuntu.20.04
+        - ubuntu.22.04
+        - ubuntu.24.04
   artifacts:
     paths: [ "veyon-addons*" ]
 

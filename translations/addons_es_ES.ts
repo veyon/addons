@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="es_ES">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="es_ES">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -129,6 +131,239 @@
     <message>
         <source>Commands for locking/unlocking peripheral devices</source>
         <translation>Comandos para bloquear/desbloquear dispositivos periféricos</translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdConnectorConfigurationPage</name>
+    <message>
+        <source>Entra ID Connector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic settings</source>
+        <translation>Configuración básica</translation>
+    </message>
+    <message>
+        <source>Tenant ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application (client) ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client secret</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication mechanism</source>
+        <translation>Mecanismo de autenticación</translation>
+    </message>
+    <message>
+        <source>Microsoft Authentication Library (MSAL)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OAuth 2.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request timeout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domain name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device hostname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device MAC address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Users filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Devices filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User groups filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device groups filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use location attribute of device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extract from hostname via regular expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regular expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Query limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entra ID configuration check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An access token for Entra ID has been obtained successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entra ID test failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entra ID test successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2 have been queried successfully:
+
+%3</source>
+        <translation>%1 %2 ha sido consultado correctamente:
+
+%3</translation>
+    </message>
+    <message>
+        <source>users</source>
+        <translation>usuarios</translation>
+    </message>
+    <message>
+        <source>Test access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entra ID access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>user groups</source>
+        <translation>grupos de usuarios</translation>
+    </message>
+    <message>
+        <source>device groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>device locations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Location mapping mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not query any %1. Please check the API permissions (%2) for the registered app in your Microsoft Entra admin center and the &quot;%3&quot; parameter on this page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not query any device locations. Please check the API permissions (%1) for the registered app in your Microsoft Entra admin center and the &quot;%2&quot;, &quot;%3&quot; and &quot;%4&quot; parameters on this page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e.g. startsWith(displayName, &apos;Room&apos;)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locations</source>
+        <translation>Ubicaciones</translation>
+    </message>
+    <message>
+        <source>Use device groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e.g. description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device group attribute to use as location name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client certificate path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client certificate file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PEM files (*.pem)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client certificate with private key file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Specify path to client certificate file containing the private key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Client credential type</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdConnectorPlugin</name>
+    <message>
+        <source>Network object directory providing users, groups and devices from Microsoft Entra ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entra ID (read devices from Entra ID directory)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 (read users and groups from Entra ID directory)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdDirectory</name>
+    <message>
+        <source>Unknown location</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -658,79 +893,73 @@ Eliminar %1 &lt;LICENSE ID&gt;
     </message>
     <message>
         <source>User groups filter expression:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>e.g. Class.*</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Computer names</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
 
 Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Locations</source>
         <translation>Ubicaciones</translation>
     </message>
     <message>
-        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
-
-Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Default / network range groups</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data source:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data retrieval timeout:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Expression for substring extraction:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Environment variable name:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Registry key name:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Property for generating persistent network object IDs:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Host address</source>
@@ -738,11 +967,17 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Computer name</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exclude computers whose names could not be resolved</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
+
+Example: (R[0-9]*)-*</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -802,7 +1037,7 @@ USO
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Port</source>
@@ -814,15 +1049,15 @@ USO
     </message>
     <message>
         <source>Query system settings key from the server</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Query user groups of logged in user from the server</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Query environment variable from the server</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1014,111 +1249,20 @@ USO
         <source>Record screens to video files</source>
         <translation>Grabar pantallas en archivos de video</translation>
     </message>
+    <message>
+        <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen recording stopped</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
         <translation>licenciado para</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendQtWebEngine</name>
-    <message>
-        <source>Qt WebEngine backend for WebTabs</source>
-        <translation>Qt WebEngine backend para WebTabs</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendQtWebKit</name>
-    <message>
-        <source>Legacy Qt WebKit backend for WebTabs</source>
-        <translation>Legacy Qt WebKit backend para WebTabs</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsBackendWebView2</name>
-    <message>
-        <source>If this text remains visible, please install the &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; or configure Veyon to use a different WebTabs backend.</source>
-        <translation>Si este texto permanece visible, instale el &lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/webview2/&quot;&gt;Microsoft Edge WebView Runtime&lt;/a&gt; o configure Veyon para usar un backend de WebTabs diferente.</translation>
-    </message>
-    <message>
-        <source>Microsoft Edge WebView2 backend for WebTabs</source>
-        <translation>Microsoft Edge WebView2 backend para WebTabs</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsConfigurationPage</name>
-    <message>
-        <source>WebTabs</source>
-        <translation>Pestañas web</translation>
-    </message>
-    <message>
-        <source>General settings</source>
-        <translation>Configuración general</translation>
-    </message>
-    <message>
-        <source>Backend:</source>
-        <translation>Backend:</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the microphone</source>
-        <translation>Permitir que los sitios web accedan al micrófono</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the camera</source>
-        <translation>Permitir que los sitios web accedan a la cámara</translation>
-    </message>
-    <message>
-        <source>Allow websites to access the geographical location</source>
-        <translation>Permitir que los sitios web accedan a la ubicación geográfica</translation>
-    </message>
-    <message>
-        <source>Ignore SSL errors for hosts/domains with self-signed certificates:</source>
-        <translation>Ignorar los errores de SSL para hosts/dominios con certificados autofirmados:</translation>
-    </message>
-    <message>
-        <source>e.g. www.example.org lan.example.org</source>
-        <translation>p.ej. www.example.org lan.example.org</translation>
-    </message>
-    <message>
-        <source>Tabs</source>
-        <translation>Pestañas</translation>
-    </message>
-    <message>
-        <source>Add tab</source>
-        <translation>Añadir pestaña</translation>
-    </message>
-    <message>
-        <source>Remove selected tab</source>
-        <translation>Eliminar la pestaña seleccionada</translation>
-    </message>
-    <message>
-        <source>Show tabs</source>
-        <translation>Mostrar pestañas</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation>Nombre</translation>
-    </message>
-    <message>
-        <source>URL</source>
-        <translation>URL</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation>Ancho</translation>
-    </message>
-    <message>
-        <source>New tab</source>
-        <translation>Nueva pestaña</translation>
-    </message>
-</context>
-<context>
-    <name>WebTabsPlugin</name>
-    <message>
-        <source>Integrate web page tabs into Veyon Master</source>
-        <translation>Integrar las pestañas de la página web en Veyon Master</translation>
     </message>
 </context>
 </TS>
