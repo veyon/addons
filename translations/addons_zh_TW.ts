@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="zh_TW">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_TW">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -176,18 +174,6 @@
         <translation>網域名稱</translation>
     </message>
     <message>
-        <source>Device hostname</source>
-        <translation>裝置主機名稱</translation>
-    </message>
-    <message>
-        <source>Device location</source>
-        <translation>裝置位置</translation>
-    </message>
-    <message>
-        <source>Device MAC address</source>
-        <translation>裝置 MAC 位址</translation>
-    </message>
-    <message>
         <source>Filters</source>
         <translation>篩選器</translation>
     </message>
@@ -296,10 +282,6 @@
         <translation>例如: startsWith(displayName, &apos;Room&apos;)</translation>
     </message>
     <message>
-        <source>Device attributes</source>
-        <translation>裝置屬性</translation>
-    </message>
-    <message>
         <source>Locations</source>
         <translation>位置</translation>
     </message>
@@ -333,15 +315,71 @@
     </message>
     <message>
         <source>Client certificate with private key file</source>
-        <translation type="unfinished"></translation>
+        <translation>用戶端憑證含私密金鑰檔</translation>
     </message>
     <message>
         <source>Specify path to client certificate file containing the private key.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定用戶端憑證檔案的路徑</translation>
     </message>
     <message>
         <source>Client credential type</source>
-        <translation type="unfinished"></translation>
+        <translation>用戶端認證類型</translation>
+    </message>
+    <message>
+        <source>Devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname attribute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address attribute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname source</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Device name (default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Multicast DNS (device name + .local suffix)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open query console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address source</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address attribute (default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Ethernet MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Wi-Fi MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Ethernet or Wi-Fi MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Wi-Fi or Ethernet MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Device location attribute</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -355,8 +393,8 @@
         <translation>Entra ID (從 Entra ID 目錄讀取裝置)</translation>
     </message>
     <message>
-        <source>%1 (read users and groups from Entra ID directory)</source>
-        <translation>%1 (從 Entra ID 目錄讀取使用者和群組)</translation>
+        <source>Entra ID (read users and groups from Entra ID directory)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -364,6 +402,33 @@
     <message>
         <source>Unknown location</source>
         <translation>未知位置</translation>
+    </message>
+    <message>
+        <source>Query timed out</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>EntraIdQueryConsole</name>
+    <message>
+        <source>Entra ID Query Console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resource or query URL:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Response</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1255,11 +1320,11 @@ USAGE
     </message>
     <message>
         <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
-        <translation type="unfinished"></translation>
+        <translation>螢幕錄製已停止由於手動重新載入。 若需要請重新啟動錄製。</translation>
     </message>
     <message>
         <source>Screen recording stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>螢幕錄製已停止</translation>
     </message>
 </context>
 <context>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="de">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="de">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -176,18 +174,6 @@
         <translation>Domänenname</translation>
     </message>
     <message>
-        <source>Device hostname</source>
-        <translation>Geräte-Hostname</translation>
-    </message>
-    <message>
-        <source>Device location</source>
-        <translation>Geräte-Standort</translation>
-    </message>
-    <message>
-        <source>Device MAC address</source>
-        <translation>Geräte-MAC-Adresse</translation>
-    </message>
-    <message>
         <source>Filters</source>
         <translation>Filter</translation>
     </message>
@@ -296,10 +282,6 @@
         <translation>z.B. startsWith(displayName, &apos;Raum&apos;)</translation>
     </message>
     <message>
-        <source>Device attributes</source>
-        <translation>Geräteattribute</translation>
-    </message>
-    <message>
         <source>Locations</source>
         <translation>Standorte</translation>
     </message>
@@ -343,6 +325,62 @@
         <source>Client credential type</source>
         <translation>Typ der Client-Anmeldeinformation</translation>
     </message>
+    <message>
+        <source>Devices</source>
+        <translation>Geräte</translation>
+    </message>
+    <message>
+        <source>Hostname attribute</source>
+        <translation>Attribut Hostname</translation>
+    </message>
+    <message>
+        <source>MAC address attribute</source>
+        <translation>MAC-Adressen-Attribut</translation>
+    </message>
+    <message>
+        <source>Hostname source</source>
+        <translation>Quelle für Hostname</translation>
+    </message>
+    <message>
+        <source>Device name (default)</source>
+        <translation>Gerätename (Standard)</translation>
+    </message>
+    <message>
+        <source>Multicast DNS (device name + .local suffix)</source>
+        <translation>Multicast DNS (Gerätename + .local-Suffix)</translation>
+    </message>
+    <message>
+        <source>Open query console</source>
+        <translation>Abfrage-Konsole öffnen</translation>
+    </message>
+    <message>
+        <source>MAC address source</source>
+        <translation>Quelle für MAC-Adresse</translation>
+    </message>
+    <message>
+        <source>MAC address attribute (default)</source>
+        <translation>MAC-Adressen-Attribut (Standard)</translation>
+    </message>
+    <message>
+        <source>Intune Ethernet MAC address</source>
+        <translation>Intune Ethernet-MAC-Adresse</translation>
+    </message>
+    <message>
+        <source>Intune Wi-Fi MAC address</source>
+        <translation>Intune Wi-Fi-MAC-Adresse</translation>
+    </message>
+    <message>
+        <source>Intune Ethernet or Wi-Fi MAC address</source>
+        <translation>Intune Ethernet- oder Wi-Fi-MAC-Adresse</translation>
+    </message>
+    <message>
+        <source>Intune Wi-Fi or Ethernet MAC address</source>
+        <translation>Intune Wi-Fi- oder Ethernet-MAC-Adresse</translation>
+    </message>
+    <message>
+        <source>Device location attribute</source>
+        <translation>Attribut Gerätestandort</translation>
+    </message>
 </context>
 <context>
     <name>EntraIdConnectorPlugin</name>
@@ -355,8 +393,8 @@
         <translation>Entra ID (Geräte aus dem Entra ID-Verzeichnis lesen)</translation>
     </message>
     <message>
-        <source>%1 (read users and groups from Entra ID directory)</source>
-        <translation>%1 (Benutzer und Gruppen aus dem Entra ID-Verzeichnis lesen)</translation>
+        <source>Entra ID (read users and groups from Entra ID directory)</source>
+        <translation>Entra ID (Benutzer und Gruppen aus dem Entra ID-Verzeichnis lesen)</translation>
     </message>
 </context>
 <context>
@@ -364,6 +402,33 @@
     <message>
         <source>Unknown location</source>
         <translation>Unbekannter Standort</translation>
+    </message>
+    <message>
+        <source>Query timed out</source>
+        <translation>Zeitüberschreitung bei der Abfrage</translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdQueryConsole</name>
+    <message>
+        <source>Entra ID Query Console</source>
+        <translation>Entra ID Abfragekonsole</translation>
+    </message>
+    <message>
+        <source>Query</source>
+        <translation>Abfrage</translation>
+    </message>
+    <message>
+        <source>Resource or query URL:</source>
+        <translation>Ressource oder Abfrage-URL:</translation>
+    </message>
+    <message>
+        <source>Run query</source>
+        <translation>Abfrage ausführen</translation>
+    </message>
+    <message>
+        <source>Response</source>
+        <translation>Antwort</translation>
     </message>
 </context>
 <context>

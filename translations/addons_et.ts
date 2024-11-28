@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="et">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="et">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -126,18 +124,18 @@
     </message>
     <message>
         <source>Lock peripheral devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Välisseadmete lukustamine</translation>
     </message>
     <message>
         <source>Commands for locking/unlocking peripheral devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Käsud välisseadmete lukustamiseks/avamiseks</translation>
     </message>
 </context>
 <context>
     <name>EntraIdConnectorConfigurationPage</name>
     <message>
         <source>Entra ID Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID pistik</translation>
     </message>
     <message>
         <source>Basic settings</source>
@@ -145,15 +143,15 @@
     </message>
     <message>
         <source>Tenant ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Üürniku ID</translation>
     </message>
     <message>
         <source>Application (client) ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Rakenduse (kliendi) ID</translation>
     </message>
     <message>
         <source>Client secret</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliendi salastus</translation>
     </message>
     <message>
         <source>Authentication mechanism</source>
@@ -161,83 +159,71 @@
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Authentication Library (MSAL)</translation>
     </message>
     <message>
         <source>OAuth 2.0</source>
-        <translation type="unfinished"></translation>
+        <translation>OAuth 2.0</translation>
     </message>
     <message>
         <source>Request timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Päringu aegumine</translation>
     </message>
     <message>
         <source>Domain name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device hostname</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device MAC address</source>
-        <translation type="unfinished"></translation>
+        <translation>Domeeni nimi</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrid</translation>
     </message>
     <message>
         <source>Users filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasutaja filtrid</translation>
     </message>
     <message>
         <source>Devices filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Seadme filtrid</translation>
     </message>
     <message>
         <source>User groups filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasutajarühmade filter</translation>
     </message>
     <message>
         <source>Device groups filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Seadmerühmade filter</translation>
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasutage seadme asukoha atribuuti</translation>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Väljavõte hostinimest regulaaravaldise kaudu</translation>
     </message>
     <message>
         <source>Regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Regulaaravaldis</translation>
     </message>
     <message>
         <source>Query limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Päringu limiit</translation>
     </message>
     <message>
         <source>Entra ID configuration check</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID konfiguratsiooni kontroll</translation>
     </message>
     <message>
         <source>An access token for Entra ID has been obtained successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID juurdepääsuluba on edukalt hangitud.</translation>
     </message>
     <message>
         <source>Entra ID test failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID test ebaõnnestus</translation>
     </message>
     <message>
         <source>Entra ID test successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID test õnnestus</translation>
     </message>
     <message>
         <source>%1 %2 have been queried successfully:
@@ -253,11 +239,11 @@
     </message>
     <message>
         <source>Test access</source>
-        <translation type="unfinished"></translation>
+        <translation>Testi juurdepääsu</translation>
     </message>
     <message>
         <source>Entra ID access</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID juurdepääs</translation>
     </message>
     <message>
         <source>user groups</source>
@@ -265,39 +251,35 @@
     </message>
     <message>
         <source>device groups</source>
-        <translation type="unfinished"></translation>
+        <translation>seadmerühmad</translation>
     </message>
     <message>
         <source>device locations</source>
-        <translation type="unfinished"></translation>
+        <translation>seadmete asukohad</translation>
     </message>
     <message>
         <source>Location mapping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Asukoha kaardistamise režiim</translation>
     </message>
     <message>
         <source>Could not query any %1. Please check the API permissions (%2) for the registered app in your Microsoft Entra admin center and the &quot;%3&quot; parameter on this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Päringut ei õnnestunud esitada %1. Kontrollige oma Microsoft Entra halduskeskuses registreeritud rakenduse API õigusi (%2) ja parameetrit &quot;%3&quot; sellel lehel.</translation>
     </message>
     <message>
         <source>Could not query any device locations. Please check the API permissions (%1) for the registered app in your Microsoft Entra admin center and the &quot;%2&quot;, &quot;%3&quot; and &quot;%4&quot; parameters on this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ühegi seadme asukoha päringuid ei saanud teha. Palun kontrollige oma Microsoft Entra halduskeskuses registreeritud rakenduse API õigusi (%1) ja parameetreid &quot;%2&quot;, &quot;%3&quot; ja &quot;%4&quot; sellel lehel.</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"></translation>
+        <translation>seadmed</translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
-        <translation type="unfinished"></translation>
+        <translation>nt. algab tähega (kuvanimi, &apos;PC&apos;)</translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;Room&apos;)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>nt. algab sõnadega (kuvanimi, &apos;ruum&apos;)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -305,65 +287,148 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasutage seadmerühmi</translation>
     </message>
     <message>
         <source>e.g. description</source>
-        <translation type="unfinished"></translation>
+        <translation>nt. kirjeldus</translation>
     </message>
     <message>
         <source>Device group attribute to use as location name</source>
-        <translation type="unfinished"></translation>
+        <translation>Seadmerühma atribuut kasutamiseks asukohanimena </translation>
     </message>
     <message>
         <source>Client certificate path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliendi sertifikaadi tee</translation>
     </message>
     <message>
         <source>Client certificate file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliendi sertifikaadi fail</translation>
     </message>
     <message>
         <source>PEM files (*.pem)</source>
-        <translation type="unfinished"></translation>
+        <translation>PEM failid (*.pem)</translation>
     </message>
     <message>
         <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID jaoks ei õnnestunud juurdepääsuluba hankida. Kontrollige üürniku ID-d, rakenduse (kliendi) ID-d ja kliendi saladuse või sertifikaadi teed.</translation>
     </message>
     <message>
         <source>Client certificate with private key file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliendi sertifikaat privaatvõtme failiga</translation>
     </message>
     <message>
         <source>Specify path to client certificate file containing the private key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Määrake privaatvõtit sisaldava kliendi sertifikaadi faili tee.</translation>
     </message>
     <message>
         <source>Client credential type</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliendi mandaadi tüüp</translation>
+    </message>
+    <message>
+        <source>Devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname attribute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address attribute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname source</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Device name (default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Multicast DNS (device name + .local suffix)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open query console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address source</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address attribute (default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Ethernet MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Wi-Fi MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Ethernet or Wi-Fi MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Wi-Fi or Ethernet MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Device location attribute</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>EntraIdConnectorPlugin</name>
     <message>
         <source>Network object directory providing users, groups and devices from Microsoft Entra ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Võrguobjektide kataloog, mis pakub Microsoft Entra ID kasutajaid, rühmi ja seadmeid</translation>
     </message>
     <message>
         <source>Entra ID (read devices from Entra ID directory)</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID (lugege seadmeid Entra ID kataloogist)</translation>
     </message>
     <message>
-        <source>%1 (read users and groups from Entra ID directory)</source>
-        <translation type="unfinished"></translation>
+        <source>Entra ID (read users and groups from Entra ID directory)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>EntraIdDirectory</name>
     <message>
         <source>Unknown location</source>
-        <translation type="unfinished"></translation>
+        <translation>Tundmatu asukoht</translation>
+    </message>
+    <message>
+        <source>Query timed out</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>EntraIdQueryConsole</name>
+    <message>
+        <source>Entra ID Query Console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resource or query URL:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Response</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -849,65 +914,67 @@ KASUTA
     </message>
     <message>
         <source>Session scan limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seansi skannimise limiit:</translation>
     </message>
     <message>
         <source>IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>IP aadress</translation>
     </message>
     <message>
         <source>DNS name (reverse lookup)</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS-nimi (pöördotsing)</translation>
     </message>
     <message>
         <source>User login name</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasutaja sisselogimisnimi</translation>
     </message>
     <message>
         <source>Session client address</source>
-        <translation type="unfinished"></translation>
+        <translation>Seansi kliendi aadress</translation>
     </message>
     <message>
         <source>Session client name</source>
-        <translation type="unfinished"></translation>
+        <translation>Seansi kliendi nimi</translation>
     </message>
     <message>
         <source>Parallel scans:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paralleelsed skaneeringud:</translation>
     </message>
     <message>
         <source>Scan timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skannimise ajalõpp:</translation>
     </message>
     <message>
         <source>Retain time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Säilitusaeg:</translation>
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"></translation>
+        <translation>Seansi hosti hostinimi</translation>
     </message>
     <message>
         <source>Full name of user</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasutaja täisnimi</translation>
     </message>
     <message>
         <source>User groups filter expression:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasutajarühmade filtriavaldis:</translation>
     </message>
     <message>
         <source>e.g. Class.*</source>
-        <translation type="unfinished"></translation>
+        <translation>nt. Klass.*</translation>
     </message>
     <message>
         <source>Computer names</source>
-        <translation type="unfinished"></translation>
+        <translation>Arvutinimed</translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
 
 Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Soovi korral sisestage fikseeritud regulaaravaldis, et eraldada osa arvuti nimest ja kasutada seda arvuti kuvanimena.
+
+Näide: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -915,51 +982,51 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default / network range groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaike-/võrguvahemiku rühmad</translation>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"></translation>
+        <translation>Väljavõte arvutinimedest</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisselogitud kasutajate rühmad</translation>
     </message>
     <message>
         <source>Data source:</source>
-        <translation type="unfinished"></translation>
+        <translation>Andmeallikas:</translation>
     </message>
     <message>
         <source>Data retrieval timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Andmete toomise ajalõpp:</translation>
     </message>
     <message>
         <source>Expression for substring extraction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaldis alamstringi ekstraheerimiseks:</translation>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskkonnamuutuja</translation>
     </message>
     <message>
         <source>Environment variable name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskkonna muutuja nimi</translation>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrivõti</translation>
     </message>
     <message>
         <source>Registry key name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrivõtme nimi</translation>
     </message>
     <message>
         <source>Property for generating persistent network object IDs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Püsivate võrguobjektide ID-de genereerimise atribuut:</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaikimisi</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -967,17 +1034,19 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Computer name</source>
-        <translation type="unfinished"></translation>
+        <translation>Arvuti nimi</translation>
     </message>
     <message>
         <source>Exclude computers whose names could not be resolved</source>
-        <translation type="unfinished"></translation>
+        <translation>Välistage arvutid, mille nimesid ei õnnestunud lahendada</translation>
     </message>
     <message>
         <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
 
 Example: (R[0-9]*)-*</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisestage regulaaravaldis koos hõivamisega, et sõeluda iga arvuti nimi ja kasutada osa sellest arvuti asukohana.
+
+Näide: (R[0-9]*)-*</translation>
     </message>
 </context>
 <context>
@@ -1037,7 +1106,7 @@ KASUTA
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Aadress</translation>
     </message>
     <message>
         <source>Port</source>
@@ -1049,15 +1118,15 @@ KASUTA
     </message>
     <message>
         <source>Query system settings key from the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Süsteemiseadete võtme päring serverist</translation>
     </message>
     <message>
         <source>Query user groups of logged in user from the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisselogitud kasutajate kasutajarühmade päring serverist</translation>
     </message>
     <message>
         <source>Query environment variable from the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Päringu keskkonnamuutuja serverist</translation>
     </message>
 </context>
 <context>
@@ -1251,11 +1320,11 @@ KASUTA
     </message>
     <message>
         <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekraani salvestamine on käsitsi uuesti laadimise tõttu peatatud. Vajadusel taaskäivitage salvestamine.</translation>
     </message>
     <message>
         <source>Screen recording stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekraani salvestamine peatati</translation>
     </message>
 </context>
 <context>

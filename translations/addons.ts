@@ -176,18 +176,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Device hostname</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device MAC address</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Filters</source>
         <translation type="unfinished"></translation>
     </message>
@@ -294,10 +282,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Device attributes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Locations</source>
         <translation type="unfinished"></translation>
     </message>
@@ -341,6 +325,62 @@
         <source>Client credential type</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hostname attribute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MAC address attribute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hostname source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device name (default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multicast DNS (device name + .local suffix)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open query console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MAC address source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MAC address attribute (default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intune Ethernet MAC address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intune Wi-Fi MAC address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intune Ethernet or Wi-Fi MAC address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intune Wi-Fi or Ethernet MAC address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device location attribute</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EntraIdConnectorPlugin</name>
@@ -353,7 +393,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 (read users and groups from Entra ID directory)</source>
+        <source>Entra ID (read users and groups from Entra ID directory)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -361,6 +401,33 @@
     <name>EntraIdDirectory</name>
     <message>
         <source>Unknown location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Query timed out</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EntraIdQueryConsole</name>
+    <message>
+        <source>Entra ID Query Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Query</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resource or query URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run query</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Response</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

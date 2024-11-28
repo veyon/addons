@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="nl">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="nl">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -137,7 +135,7 @@
     <name>EntraIdConnectorConfigurationPage</name>
     <message>
         <source>Entra ID Connector</source>
-        <translation type="unfinished"></translation>
+        <translation>ID Connector invoeren</translation>
     </message>
     <message>
         <source>Basic settings</source>
@@ -145,15 +143,15 @@
     </message>
     <message>
         <source>Tenant ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Tenant ID</translation>
     </message>
     <message>
         <source>Application (client) ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicatie (client) ID</translation>
     </message>
     <message>
         <source>Client secret</source>
-        <translation type="unfinished"></translation>
+        <translation>Klantgeheim</translation>
     </message>
     <message>
         <source>Authentication mechanism</source>
@@ -161,83 +159,71 @@
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft Authentication Library (MSAL)</translation>
     </message>
     <message>
         <source>OAuth 2.0</source>
-        <translation type="unfinished"></translation>
+        <translation>OAuth 2.0</translation>
     </message>
     <message>
         <source>Request timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Time-out verzoek</translation>
     </message>
     <message>
         <source>Domain name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device hostname</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device MAC address</source>
-        <translation type="unfinished"></translation>
+        <translation>Domeinnaam</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Filters</translation>
     </message>
     <message>
         <source>Users filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikers filteren</translation>
     </message>
     <message>
         <source>Devices filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Apparaten filter</translation>
     </message>
     <message>
         <source>User groups filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikersgroepen filter</translation>
     </message>
     <message>
         <source>Device groups filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter apparaatgroepen</translation>
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruik locatiekenmerk van apparaat</translation>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Extractie uit hostnaam via standaard expressie</translation>
     </message>
     <message>
         <source>Regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation>Standaard expressie</translation>
     </message>
     <message>
         <source>Query limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeklimiet</translation>
     </message>
     <message>
         <source>Entra ID configuration check</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID configuratiecontrole</translation>
     </message>
     <message>
         <source>An access token for Entra ID has been obtained successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een toegangstoken voor Entra ID is met succes verkregen.</translation>
     </message>
     <message>
         <source>Entra ID test failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID test mislukt</translation>
     </message>
     <message>
         <source>Entra ID test successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID test geslaagd</translation>
     </message>
     <message>
         <source>%1 %2 have been queried successfully:
@@ -253,11 +239,11 @@
     </message>
     <message>
         <source>Test access</source>
-        <translation type="unfinished"></translation>
+        <translation>Test toegang</translation>
     </message>
     <message>
         <source>Entra ID access</source>
-        <translation type="unfinished"></translation>
+        <translation>Toegang Entra ID</translation>
     </message>
     <message>
         <source>user groups</source>
@@ -265,39 +251,35 @@
     </message>
     <message>
         <source>device groups</source>
-        <translation type="unfinished"></translation>
+        <translation>apparaatgroepen</translation>
     </message>
     <message>
         <source>device locations</source>
-        <translation type="unfinished"></translation>
+        <translation>apparaatlocaties</translation>
     </message>
     <message>
         <source>Location mapping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modus locatie in kaart brengen</translation>
     </message>
     <message>
         <source>Could not query any %1. Please check the API permissions (%2) for the registered app in your Microsoft Entra admin center and the &quot;%3&quot; parameter on this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan %1 niet bevragen. Controleer de API-rechten (%2) voor de geregistreerde app in uw Microsoft Entra beheercentrum en de “%3” parameter op deze pagina.</translation>
     </message>
     <message>
         <source>Could not query any device locations. Please check the API permissions (%1) for the registered app in your Microsoft Entra admin center and the &quot;%2&quot;, &quot;%3&quot; and &quot;%4&quot; parameters on this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er konden geen apparaatlocaties worden opgevraagd. Controleer de API-machtigingen (%1) voor de geregistreerde app in uw Microsoft Entra beheercentrum en de “%2”, “%3” en “%4” parameters op deze pagina.</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"></translation>
+        <translation>apparaten</translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
-        <translation type="unfinished"></translation>
+        <translation>bijv. startsWith(displayName, &apos;PC&apos;)</translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;Room&apos;)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>bijv. startsWith(displayName, &apos;Roomr&apos;)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -305,65 +287,148 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Apparaatgroepen gebruiken</translation>
     </message>
     <message>
         <source>e.g. description</source>
-        <translation type="unfinished"></translation>
+        <translation>bijv. beschrijving</translation>
     </message>
     <message>
         <source>Device group attribute to use as location name</source>
-        <translation type="unfinished"></translation>
+        <translation>Apparaatgroepkenmerk om te gebruiken als locatienaam</translation>
     </message>
     <message>
         <source>Client certificate path</source>
-        <translation type="unfinished"></translation>
+        <translation>Path voor cliëntcertificaat</translation>
     </message>
     <message>
         <source>Client certificate file</source>
-        <translation type="unfinished"></translation>
+        <translation>Client certificaat bestand</translation>
     </message>
     <message>
         <source>PEM files (*.pem)</source>
-        <translation type="unfinished"></translation>
+        <translation>PEM-bestanden (*.pem)</translation>
     </message>
     <message>
         <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan geen toegangstoken verkrijgen voor Entra ID. Controleer de tenant ID, applicatie (client) ID en het clientgeheim of het certificaatpad.</translation>
     </message>
     <message>
         <source>Client certificate with private key file</source>
-        <translation type="unfinished"></translation>
+        <translation>Clientcertificaat met privésleutelbestand</translation>
     </message>
     <message>
         <source>Specify path to client certificate file containing the private key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geef het path op naar het bestand met het cliëntcertificaat dat de privésleutel bevat.</translation>
     </message>
     <message>
         <source>Client credential type</source>
-        <translation type="unfinished"></translation>
+        <translation>Type klantreferentie</translation>
+    </message>
+    <message>
+        <source>Devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname attribute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address attribute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Hostname source</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Device name (default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Multicast DNS (device name + .local suffix)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Open query console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address source</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address attribute (default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Ethernet MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Wi-Fi MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Ethernet or Wi-Fi MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Wi-Fi or Ethernet MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Device location attribute</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>EntraIdConnectorPlugin</name>
     <message>
         <source>Network object directory providing users, groups and devices from Microsoft Entra ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Netwerk object directory met gebruikers, groepen en apparaten van Microsoft Entra ID</translation>
     </message>
     <message>
         <source>Entra ID (read devices from Entra ID directory)</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID (apparaten lezen uit Entra ID-map)</translation>
     </message>
     <message>
-        <source>%1 (read users and groups from Entra ID directory)</source>
-        <translation type="unfinished"></translation>
+        <source>Entra ID (read users and groups from Entra ID directory)</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>EntraIdDirectory</name>
     <message>
         <source>Unknown location</source>
-        <translation type="unfinished"></translation>
+        <translation>Onbekende locatie</translation>
+    </message>
+    <message>
+        <source>Query timed out</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>EntraIdQueryConsole</name>
+    <message>
+        <source>Entra ID Query Console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resource or query URL:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Response</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -893,21 +958,23 @@ USAGE
     </message>
     <message>
         <source>User groups filter expression:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filteruitdrukking voor gebruikersgroepen:</translation>
     </message>
     <message>
         <source>e.g. Class.*</source>
-        <translation type="unfinished"></translation>
+        <translation>bijv. Class.*</translation>
     </message>
     <message>
         <source>Computer names</source>
-        <translation type="unfinished"></translation>
+        <translation>Computernamen</translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
 
 Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer optioneel een reguliere expressie met een capture in om een deel van de computernaam te extraheren en te gebruiken als weergavenaam voor de computer.
+
+Voorbeeld: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -915,51 +982,51 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default / network range groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Standaard / netwerkbereik groepen</translation>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"></translation>
+        <translation>Afleiden uit computernamen</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"></translation>
+        <translation>Groepen ingelogde gebruikers</translation>
     </message>
     <message>
         <source>Data source:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gegevensbron:</translation>
     </message>
     <message>
         <source>Data retrieval timeout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Time-out ophalen gegevens:</translation>
     </message>
     <message>
         <source>Expression for substring extraction:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitdrukking voor substring-extractie:</translation>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Omgevingsvariabele</translation>
     </message>
     <message>
         <source>Environment variable name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam omgevingsvariabele:</translation>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"></translation>
+        <translation>Registersleutel</translation>
     </message>
     <message>
         <source>Registry key name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam registersleutel:</translation>
     </message>
     <message>
         <source>Property for generating persistent network object IDs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschap voor het genereren van hardnekkige netwerkobject-ID&apos;s:</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Standaard</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -967,17 +1034,19 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Computer name</source>
-        <translation type="unfinished"></translation>
+        <translation>Computernaam</translation>
     </message>
     <message>
         <source>Exclude computers whose names could not be resolved</source>
-        <translation type="unfinished"></translation>
+        <translation>Computers uitsluiten waarvan de naam niet kon worden achterhaald</translation>
     </message>
     <message>
         <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
 
 Example: (R[0-9]*)-*</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer een gewone expressie in met een capture om de naam van elke computer te parseren en een deel ervan te gebruiken als de locatie van de computer.
+
+Voorbeeld: (R[0-9]*)-*</translation>
     </message>
 </context>
 <context>
@@ -1037,7 +1106,7 @@ GEBRUIK
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres</translation>
     </message>
     <message>
         <source>Port</source>
@@ -1049,15 +1118,15 @@ GEBRUIK
     </message>
     <message>
         <source>Query system settings key from the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeeminstellingen opvragen op de server</translation>
     </message>
     <message>
         <source>Query user groups of logged in user from the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikersgroepen van ingelogde gebruiker opvragen op de server</translation>
     </message>
     <message>
         <source>Query environment variable from the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Omgevingsvariabele van de server opvragen</translation>
     </message>
 </context>
 <context>
@@ -1251,11 +1320,11 @@ GEBRUIK
     </message>
     <message>
         <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
-        <translation type="unfinished"></translation>
+        <translation>De schermopname is gestopt vanwege handmatig opnieuw laden. Start de opname opnieuw indien nodig.</translation>
     </message>
     <message>
         <source>Screen recording stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermopname gestopt</translation>
     </message>
 </context>
 <context>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="uk">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="uk">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -176,18 +174,6 @@
         <translation>Назва домену</translation>
     </message>
     <message>
-        <source>Device hostname</source>
-        <translation>Назва вузла пристрою</translation>
-    </message>
-    <message>
-        <source>Device location</source>
-        <translation>Розташування пристрою</translation>
-    </message>
-    <message>
-        <source>Device MAC address</source>
-        <translation>MAC-адреса пристрою</translation>
-    </message>
-    <message>
         <source>Filters</source>
         <translation>Фільтри</translation>
     </message>
@@ -296,10 +282,6 @@
         <translation>наприклад, startsWith(displayName, &apos;Room&apos;)</translation>
     </message>
     <message>
-        <source>Device attributes</source>
-        <translation>Атрибути пристрою</translation>
-    </message>
-    <message>
         <source>Locations</source>
         <translation>Місця</translation>
     </message>
@@ -343,6 +325,62 @@
         <source>Client credential type</source>
         <translation>Тип клієнтських реєстраційних даних</translation>
     </message>
+    <message>
+        <source>Devices</source>
+        <translation>Пристрої</translation>
+    </message>
+    <message>
+        <source>Hostname attribute</source>
+        <translation>Атрибут назви вузла</translation>
+    </message>
+    <message>
+        <source>MAC address attribute</source>
+        <translation>Атрибут MAC-адреси</translation>
+    </message>
+    <message>
+        <source>Hostname source</source>
+        <translation>Джерело назви вузла</translation>
+    </message>
+    <message>
+        <source>Device name (default)</source>
+        <translation>Назва пристрою (типове)</translation>
+    </message>
+    <message>
+        <source>Multicast DNS (device name + .local suffix)</source>
+        <translation>Трансляційний DNS (назва пристрою + суфікс .local)</translation>
+    </message>
+    <message>
+        <source>Open query console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address source</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address attribute (default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Ethernet MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Wi-Fi MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Ethernet or Wi-Fi MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Wi-Fi or Ethernet MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Device location attribute</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>EntraIdConnectorPlugin</name>
@@ -355,8 +393,8 @@
         <translation>Entra ID (читати пристрої з каталогу Entra ID)</translation>
     </message>
     <message>
-        <source>%1 (read users and groups from Entra ID directory)</source>
-        <translation>%1 (читати дані користувачів і груп з каталогу Entra ID)</translation>
+        <source>Entra ID (read users and groups from Entra ID directory)</source>
+        <translation>Entra ID (читати дані користувачів і груп з каталогу Entra ID)</translation>
     </message>
 </context>
 <context>
@@ -364,6 +402,33 @@
     <message>
         <source>Unknown location</source>
         <translation>Невідоме місце</translation>
+    </message>
+    <message>
+        <source>Query timed out</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>EntraIdQueryConsole</name>
+    <message>
+        <source>Entra ID Query Console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resource or query URL:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Response</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

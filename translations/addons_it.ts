@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="it">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="it">
 <context>
     <name>ChatConfigurationPage</name>
     <message>
@@ -176,18 +174,6 @@
         <translation>Nome del dominio</translation>
     </message>
     <message>
-        <source>Device hostname</source>
-        <translation>Nome host del dispositivo</translation>
-    </message>
-    <message>
-        <source>Device location</source>
-        <translation>Posizione del dispositivo</translation>
-    </message>
-    <message>
-        <source>Device MAC address</source>
-        <translation>Indirizzo MAC del dispositivo</translation>
-    </message>
-    <message>
         <source>Filters</source>
         <translation>Filtri</translation>
     </message>
@@ -296,10 +282,6 @@
         <translation>ad esempio inizia con (nome visualizzato, &apos;Stanza&apos;)</translation>
     </message>
     <message>
-        <source>Device attributes</source>
-        <translation>Attributi del dispositivo</translation>
-    </message>
-    <message>
         <source>Locations</source>
         <translation>Posizioni</translation>
     </message>
@@ -343,6 +325,62 @@
         <source>Client credential type</source>
         <translation>Tipo di credenziale del client</translation>
     </message>
+    <message>
+        <source>Devices</source>
+        <translation>Dispositivi</translation>
+    </message>
+    <message>
+        <source>Hostname attribute</source>
+        <translation>Attributo nome host</translation>
+    </message>
+    <message>
+        <source>MAC address attribute</source>
+        <translation>Attributo indirizzo MAC</translation>
+    </message>
+    <message>
+        <source>Hostname source</source>
+        <translation>Origine del nome host</translation>
+    </message>
+    <message>
+        <source>Device name (default)</source>
+        <translation>Nome dispositivo (predefinito)</translation>
+    </message>
+    <message>
+        <source>Multicast DNS (device name + .local suffix)</source>
+        <translation>Multicast DNS (nome dispositivo + suffisso .local)</translation>
+    </message>
+    <message>
+        <source>Open query console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address source</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MAC address attribute (default)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Ethernet MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Wi-Fi MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Ethernet or Wi-Fi MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune Wi-Fi or Ethernet MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Device location attribute</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>EntraIdConnectorPlugin</name>
@@ -355,8 +393,8 @@
         <translation>Entra ID (leggi i dispositivi dalla directory Entra ID)</translation>
     </message>
     <message>
-        <source>%1 (read users and groups from Entra ID directory)</source>
-        <translation>%1 (legge utenti e gruppi dalla directory Entra ID)</translation>
+        <source>Entra ID (read users and groups from Entra ID directory)</source>
+        <translation>Entra ID (legge utenti e gruppi dalla directory Entra ID)</translation>
     </message>
 </context>
 <context>
@@ -364,6 +402,33 @@
     <message>
         <source>Unknown location</source>
         <translation>Posizione sconosciuta</translation>
+    </message>
+    <message>
+        <source>Query timed out</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>EntraIdQueryConsole</name>
+    <message>
+        <source>Entra ID Query Console</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Resource or query URL:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Response</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1253,11 +1318,11 @@ USO
     </message>
     <message>
         <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
-        <translation type="unfinished"></translation>
+        <translation>La registrazione dello schermo è stata interrotta a causa del ricaricamento manuale. Riavvia la registrazione se necessario.</translation>
     </message>
     <message>
         <source>Screen recording stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>La registrazione dello schermo è stata interrotta</translation>
     </message>
 </context>
 <context>
