@@ -1,5 +1,127 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="it">
 <context>
+    <name>AuvidusConfigurationPage</name>
+    <message>
+        <source>Auvidus</source>
+        <translation>Auvidus</translation>
+    </message>
+    <message>
+        <source>USB device control</source>
+        <translation>Controllo dispositivo USB</translation>
+    </message>
+    <message>
+        <source>Block USB storage devices</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>AuvidusPlugin</name>
+    <message>
+        <source>Audio control</source>
+        <translation>Controllo audio</translation>
+    </message>
+    <message>
+        <source>Mute or unmute speakers, headsets and microphones.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to mute speakers, headsets etc.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to mute microphones.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Device control</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to disable webcams.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All speakers are now muted.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All microphones are now muted.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All webcams are now disabled.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Manage access to audio, video and USB devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Control webcams and USB devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to enable webcams again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All USB drives are now disabled.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to unmute microphones again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to disable USB storage devices.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to enable USB storage devices again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to unmute speakers, headsets etc. again.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
@@ -86,49 +208,6 @@
     <message>
         <source>Please enter a new nickname:</source>
         <translation>Inserisci un nuovo nickname:</translation>
-    </message>
-</context>
-<context>
-    <name>DeviceLockPlugin</name>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Blocca l&apos;accesso a Internet</translation>
-    </message>
-    <message>
-        <source>Unblock Internet access</source>
-        <translation>Sblocca l&apos;accesso a Internet</translation>
-    </message>
-    <message>
-        <source>Show help about command</source>
-        <translation>Mostra aiuto per i comandi</translation>
-    </message>
-    <message>
-        <source>Internet access</source>
-        <translation>Accesso ad Internet </translation>
-    </message>
-    <message>
-        <source>Block or unblock Internet access.</source>
-        <translation>Blocca o sblocca l&apos;accesso a Internet.</translation>
-    </message>
-    <message>
-        <source>Click this button to block Internet access.</source>
-        <translation>Fare clic su questo pulsante per bloccare l&apos;accesso a Internet.</translation>
-    </message>
-    <message>
-        <source>Click this button to unblock Internet access.</source>
-        <translation>Fare clic su questo pulsante per sbloccare l&apos;accesso a Internet.</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, verrà sbloccato automaticamente in 60 secondi.</translation>
-    </message>
-    <message>
-        <source>Lock peripheral devices</source>
-        <translation>Blocca i dispositivi periferici</translation>
-    </message>
-    <message>
-        <source>Commands for locking/unlocking peripheral devices</source>
-        <translation>Comandi per il blocco/sblocco delle periferiche</translation>
     </message>
 </context>
 <context>
@@ -351,35 +430,35 @@
     </message>
     <message>
         <source>Open query console</source>
-        <translation type="unfinished"/>
+        <translation>Apri la console dellA query</translation>
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>Origine indirizzo MAC</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
-        <translation type="unfinished"/>
+        <translation>Attributo indirizzo MAC (predefinito)</translation>
     </message>
     <message>
         <source>Intune Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Indirizzo MAC Ethernet Intune</translation>
     </message>
     <message>
         <source>Intune Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Indirizzo MAC Wi-Fi Intune</translation>
     </message>
     <message>
         <source>Intune Ethernet or Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Indirizzo MAC Ethernet o Wi-Fi Intune</translation>
     </message>
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Indirizzo MAC Wi-Fi o Ethernet Intune</translation>
     </message>
     <message>
         <source>Device location attribute</source>
-        <translation type="unfinished"/>
+        <translation>Attributo posizione dispositivo</translation>
     </message>
 </context>
 <context>
@@ -405,38 +484,34 @@
     </message>
     <message>
         <source>Query timed out</source>
-        <translation type="unfinished"/>
+        <translation>Query scaduta</translation>
     </message>
 </context>
 <context>
     <name>EntraIdQueryConsole</name>
     <message>
         <source>Entra ID Query Console</source>
-        <translation type="unfinished"/>
+        <translation>Console query ID Entra</translation>
     </message>
     <message>
         <source>Query</source>
-        <translation type="unfinished"/>
+        <translation>Query</translation>
     </message>
     <message>
         <source>Resource or query URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL della risorsa o della query:</translation>
     </message>
     <message>
         <source>Run query</source>
-        <translation type="unfinished"/>
+        <translation>Esegui query</translation>
     </message>
     <message>
         <source>Response</source>
-        <translation type="unfinished"/>
+        <translation>Risposta</translation>
     </message>
 </context>
 <context>
     <name>FirewallConfigurationWidget</name>
-    <message>
-        <source>Block all outbound traffic for TCP ports</source>
-        <translation>Blocca tutto il traffico in uscita per le porte TCP</translation>
-    </message>
     <message>
         <source>e.g. 8080</source>
         <translation>per esempio 8080</translation>
@@ -504,6 +579,10 @@
     <message>
         <source>Name</source>
         <translation>Nome</translation>
+    </message>
+    <message>
+        <source>Block all outbound traffic for TCP and UDP ports</source>
+        <translation>Blocca tutto il traffico in uscita per le porte TCP e UDP</translation>
     </message>
 </context>
 <context>

@@ -27,6 +27,7 @@ configure_cpack_component("veyon-addons" "UNSPECIFIED" "Veyon Add-ons")
 configure_cpack_component("veyon-addons-screenrecorder" "SCREENRECORDER" "Veyon ScreenRecorder Add-on")
 
 add_subdirectory(translations)
+add_subdirectory(auvidus)
 add_subdirectory(chat)
 add_subdirectory(entra-id-connector)
 add_subdirectory(internet-access-control)

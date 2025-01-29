@@ -1,5 +1,127 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="de">
 <context>
+    <name>AuvidusConfigurationPage</name>
+    <message>
+        <source>Auvidus</source>
+        <translation>Auvidus</translation>
+    </message>
+    <message>
+        <source>USB device control</source>
+        <translation>USB-Gerätesteuerung</translation>
+    </message>
+    <message>
+        <source>Block USB storage devices</source>
+        <translation>USB-Speichergeräte sperren</translation>
+    </message>
+</context>
+<context>
+    <name>AuvidusPlugin</name>
+    <message>
+        <source>Audio control</source>
+        <translation>Audio-Steuerung</translation>
+    </message>
+    <message>
+        <source>Mute or unmute speakers, headsets and microphones.</source>
+        <translation>Stummschalten oder Aufheben der Stummschaltung von Lautsprechern, Headsets und Mikrofonen.</translation>
+    </message>
+    <message>
+        <source>Mute audio outputs</source>
+        <translation>Audioausgänge stummschalten</translation>
+    </message>
+    <message>
+        <source>Click to mute speakers, headsets etc.</source>
+        <translation>Anklicken, um Lautsprecher, Headsets usw. stumm zu schalten.</translation>
+    </message>
+    <message>
+        <source>Unmute audio outputs</source>
+        <translation>Stummschaltung der Audioausgänge aufheben</translation>
+    </message>
+    <message>
+        <source>Mute microphones</source>
+        <translation>Mikrofone stummschalten</translation>
+    </message>
+    <message>
+        <source>Click to mute microphones.</source>
+        <translation>Anklicken, um Mikrofone stumm zu schalten.</translation>
+    </message>
+    <message>
+        <source>Unmute microphones</source>
+        <translation>Stummschaltung von Mikrofonen aufheben</translation>
+    </message>
+    <message>
+        <source>Device control</source>
+        <translation>Gerätesteuerung</translation>
+    </message>
+    <message>
+        <source>Disable webcams</source>
+        <translation>Webcams deaktivieren</translation>
+    </message>
+    <message>
+        <source>Click to disable webcams.</source>
+        <translation>Anklicken, um Webcams zu deaktivieren.</translation>
+    </message>
+    <message>
+        <source>All speakers are now muted.</source>
+        <translation>Alle Lautsprecher sind nun stummgeschaltet.</translation>
+    </message>
+    <message>
+        <source>All microphones are now muted.</source>
+        <translation>Alle Mikrofone sind jetzt stummgeschaltet.</translation>
+    </message>
+    <message>
+        <source>All webcams are now disabled.</source>
+        <translation>Alle Webcams sind jetzt deaktiviert.</translation>
+    </message>
+    <message>
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
+        <translation>Da Sie eine Demoversion dieses Add-ons verwenden, wird der vorherige Zustand innerhalb von 3 Minuten automatisch wiederhergestellt.</translation>
+    </message>
+    <message>
+        <source>Manage access to audio, video and USB devices</source>
+        <translation>Zugriff auf Audio-, Video- und USB-Geräte verwalten</translation>
+    </message>
+    <message>
+        <source>Control webcams and USB devices</source>
+        <translation>Webcams und USB-Geräte steuern</translation>
+    </message>
+    <message>
+        <source>Unlock webcams</source>
+        <translation>Webcams freischalten</translation>
+    </message>
+    <message>
+        <source>Click to enable webcams again.</source>
+        <translation>Anklicken, um Webcams wieder zu aktivieren.</translation>
+    </message>
+    <message>
+        <source>Disable USB drives</source>
+        <translation>USB-Laufwerke deaktivieren</translation>
+    </message>
+    <message>
+        <source>Unlock USB drives</source>
+        <translation>USB-Laufwerke entsperren</translation>
+    </message>
+    <message>
+        <source>All USB drives are now disabled.</source>
+        <translation>Alle USB-Laufwerke sind jetzt deaktiviert.</translation>
+    </message>
+    <message>
+        <source>Click to unmute microphones again.</source>
+        <translation>Anklicken, um die Stummschaltung der Mikrofone wieder aufzuheben.</translation>
+    </message>
+    <message>
+        <source>Click to disable USB storage devices.</source>
+        <translation>Anklicken, um USB-Speichergeräte zu deaktivieren.</translation>
+    </message>
+    <message>
+        <source>Click to enable USB storage devices again.</source>
+        <translation>Anklicken, um USB-Speichergeräte wieder zu aktivieren.</translation>
+    </message>
+    <message>
+        <source>Click to unmute speakers, headsets etc. again.</source>
+        <translation>Anklicken, um die Stummschaltung von Lautsprechern, Headsets usw. wieder aufzuheben.</translation>
+    </message>
+</context>
+<context>
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
@@ -86,49 +208,6 @@
     <message>
         <source>Please enter a new nickname:</source>
         <translation>Bitte geben Sie einen neuen Nicknamen ein:</translation>
-    </message>
-</context>
-<context>
-    <name>DeviceLockPlugin</name>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Internetzugriff sperren</translation>
-    </message>
-    <message>
-        <source>Unblock Internet access</source>
-        <translation>Internetzugriff freigeben</translation>
-    </message>
-    <message>
-        <source>Show help about command</source>
-        <translation>Hilfe über Befehl anzeigen</translation>
-    </message>
-    <message>
-        <source>Internet access</source>
-        <translation>Internetzugriff</translation>
-    </message>
-    <message>
-        <source>Block or unblock Internet access.</source>
-        <translation>Internetzugriff sperren oder freigeben</translation>
-    </message>
-    <message>
-        <source>Click this button to block Internet access.</source>
-        <translation>Klicken Sie auf diesen Button, um den Zugriff auf das Internet zu sperren.</translation>
-    </message>
-    <message>
-        <source>Click this button to unblock Internet access.</source>
-        <translation>Klicken Sie auf diesen Button, um den Zugriff auf das Internet freizugeben.</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Der Internetzugriff ist jetzt gesperrt. Da Sie eine Demo-Version dieses Add-ons verwenden, wird der Zugriff in 60 Sekunden automatisch wieder freigegeben.</translation>
-    </message>
-    <message>
-        <source>Lock peripheral devices</source>
-        <translation>Peripheriegeräte sperren</translation>
-    </message>
-    <message>
-        <source>Commands for locking/unlocking peripheral devices</source>
-        <translation>Befehle zum Sperren/Entsperren von Peripheriegeräten</translation>
     </message>
 </context>
 <context>
@@ -434,10 +513,6 @@
 <context>
     <name>FirewallConfigurationWidget</name>
     <message>
-        <source>Block all outbound traffic for TCP ports</source>
-        <translation>Allen ausgehenden Verkehr für TCP-Ports blockieren</translation>
-    </message>
-    <message>
         <source>e.g. 8080</source>
         <translation>z.B. 8080</translation>
     </message>
@@ -504,6 +579,10 @@
     <message>
         <source>Name</source>
         <translation>Name</translation>
+    </message>
+    <message>
+        <source>Block all outbound traffic for TCP and UDP ports</source>
+        <translation>Allen ausgehenden Verkehr für TCP- und UDP-Ports blockieren</translation>
     </message>
 </context>
 <context>

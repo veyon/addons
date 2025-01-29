@@ -1,5 +1,127 @@
 <?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_TW">
 <context>
+    <name>AuvidusConfigurationPage</name>
+    <message>
+        <source>Auvidus</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB device control</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block USB storage devices</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>AuvidusPlugin</name>
+    <message>
+        <source>Audio control</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute or unmute speakers, headsets and microphones.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to mute speakers, headsets etc.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to mute microphones.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Device control</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to disable webcams.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All speakers are now muted.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All microphones are now muted.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All webcams are now disabled.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Manage access to audio, video and USB devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Control webcams and USB devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to enable webcams again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>All USB drives are now disabled.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to unmute microphones again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to disable USB storage devices.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to enable USB storage devices again.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to unmute speakers, headsets etc. again.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
@@ -86,49 +208,6 @@
     <message>
         <source>Please enter a new nickname:</source>
         <translation>請輸入新暱稱:</translation>
-    </message>
-</context>
-<context>
-    <name>DeviceLockPlugin</name>
-    <message>
-        <source>Block Internet access</source>
-        <translation>封鎖 Internet 存取</translation>
-    </message>
-    <message>
-        <source>Unblock Internet access</source>
-        <translation>取消封鎖 Internet 存取</translation>
-    </message>
-    <message>
-        <source>Show help about command</source>
-        <translation>顯示有關命令的說明</translation>
-    </message>
-    <message>
-        <source>Internet access</source>
-        <translation>Internet 存取</translation>
-    </message>
-    <message>
-        <source>Block or unblock Internet access.</source>
-        <translation>封鎖或取消封鎖 Internet 存取。</translation>
-    </message>
-    <message>
-        <source>Click this button to block Internet access.</source>
-        <translation>按一下此按鈕可封鎖 Internet 存取。</translation>
-    </message>
-    <message>
-        <source>Click this button to unblock Internet access.</source>
-        <translation>按一下此按鈕可取消封鎖 Internet 存取。</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Internet 存取現在已封鎖。 由於您使用的是這個附加元件的演示版本，因此它將在 60 秒內自動解除封鎖。</translation>
-    </message>
-    <message>
-        <source>Lock peripheral devices</source>
-        <translation>鎖定周邊裝置</translation>
-    </message>
-    <message>
-        <source>Commands for locking/unlocking peripheral devices</source>
-        <translation>鎖定/解鎖周邊裝置的命令</translation>
     </message>
 </context>
 <context>
@@ -434,10 +513,6 @@
 <context>
     <name>FirewallConfigurationWidget</name>
     <message>
-        <source>Block all outbound traffic for TCP ports</source>
-        <translation>封鎖 TCP 埠的所有連出流量</translation>
-    </message>
-    <message>
         <source>e.g. 8080</source>
         <translation>例如: 8080</translation>
     </message>
@@ -504,6 +579,10 @@
     <message>
         <source>Name</source>
         <translation>名稱</translation>
+    </message>
+    <message>
+        <source>Block all outbound traffic for TCP and UDP ports</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

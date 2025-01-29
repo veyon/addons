@@ -28,3 +28,7 @@
 	path = entra-id-connector
 	url = ../entra-id-connector
 	branch = main
+[submodule "auvidus"]
+	path = auvidus
+	url = ../auvidus.git
+	branch = main
