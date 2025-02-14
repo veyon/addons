@@ -582,7 +582,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation>Blokowanie całego ruchu wychodzącego dla portów TCP i UDP</translation>
     </message>
 </context>
 <context>

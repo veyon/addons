@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>Block USB storage devices</source>
-        <translation type="unfinished"/>
+        <translation>Bloccare i dispositivi di archiviazione USB</translation>
     </message>
 </context>
 <context>
@@ -22,103 +22,103 @@
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Disattiva o riattiva l&apos;audio di altoparlanti, cuffie e microfoni.</translation>
     </message>
     <message>
         <source>Mute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Disattiva le uscite audio</translation>
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
-        <translation type="unfinished"/>
+        <translation>Fare clic per disattivare l&apos;audio degli altoparlanti, delle cuffie, ecc.</translation>
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Disattiva uscite audio</translation>
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Disattiva microfoni</translation>
     </message>
     <message>
         <source>Click to mute microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Fare clic per disattivare l&apos;audio dei microfoni.</translation>
     </message>
     <message>
         <source>Unmute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Disattivare i microfoni</translation>
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>Controllo del dispositivo</translation>
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation type="unfinished"/>
+        <translation>Disattivare le webcam</translation>
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"/>
+        <translation>Clicca per disattivare le webcam.</translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Tutti gli altoparlanti sono disattivati.</translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Tutti i microfoni sono disattivati.</translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Tutte le webcam sono disabilitate.</translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Poiché stai utilizzando una versione demo di questo componente aggiuntivo, lo stato precedente verrà ripristinato automaticamente entro 3 minuti.</translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Gestire l&apos;accesso a dispositivi audio, video e USB</translation>
     </message>
     <message>
         <source>Control webcams and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Controlla webcam e dispositivi USB</translation>
     </message>
     <message>
         <source>Unlock webcams</source>
-        <translation type="unfinished"/>
+        <translation>Sbloccare le webcam</translation>
     </message>
     <message>
         <source>Click to enable webcams again.</source>
-        <translation type="unfinished"/>
+        <translation>Fare clic per abilitare nuovamente le webcam.</translation>
     </message>
     <message>
         <source>Disable USB drives</source>
-        <translation type="unfinished"/>
+        <translation>Disabilitare le unità USB</translation>
     </message>
     <message>
         <source>Unlock USB drives</source>
-        <translation type="unfinished"/>
+        <translation>Sbloccare le unità USB</translation>
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Tutte le unità USB sono disabilitate.</translation>
     </message>
     <message>
         <source>Click to unmute microphones again.</source>
-        <translation type="unfinished"/>
+        <translation>Fare clic per riattivare nuovamente i microfoni.</translation>
     </message>
     <message>
         <source>Click to disable USB storage devices.</source>
-        <translation type="unfinished"/>
+        <translation>Fare clic per disattivare i dispositivi di archiviazione USB.</translation>
     </message>
     <message>
         <source>Click to enable USB storage devices again.</source>
-        <translation type="unfinished"/>
+        <translation>Fare clic per abilitare nuovamente i dispositivi di archiviazione USB.</translation>
     </message>
     <message>
         <source>Click to unmute speakers, headsets etc. again.</source>
-        <translation type="unfinished"/>
+        <translation>Fare clic per riattivare nuovamente l&apos;audio di altoparlanti, cuffie ecc.</translation>
     </message>
 </context>
 <context>

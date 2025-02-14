@@ -3,122 +3,122 @@
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation>Auvidus</translation>
     </message>
     <message>
         <source>USB device control</source>
-        <translation type="unfinished"/>
+        <translation>Керування пристроями USB</translation>
     </message>
     <message>
         <source>Block USB storage devices</source>
-        <translation type="unfinished"/>
+        <translation>Блокові пристрої зберігання даних USB</translation>
     </message>
 </context>
 <context>
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>Керування звуком</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Вимкнути або увімкнути динаміки, гарнітури та мікрофони.</translation>
     </message>
     <message>
         <source>Mute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Вимкнути відтворення звуку</translation>
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть, щоб вимкнути звук на динаміках, гарнітурах тощо</translation>
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Увімкнути відтворення звуку</translation>
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Вимкнути мікрофони</translation>
     </message>
     <message>
         <source>Click to mute microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть, щоб вимкнути мікрофони.</translation>
     </message>
     <message>
         <source>Unmute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Увімкнути мікрофони</translation>
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>Керування пристроями</translation>
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation type="unfinished"/>
+        <translation>Вимкнути вебкамери</translation>
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть, щоб вімкнути вебкамери.</translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Тепер усі динаміки вимкнено.</translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Тепер мікрофони вимкнено.</translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Тепер усі вебкамери вимкнено.</translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Оскільки ви користуєтеся демонстраційною версією цього додатка, попередній стан буде автоматично відновлено за 3 хвилини.</translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Керування доступом до звукових пристроїв, пристроїв відео та пристроїв USB</translation>
     </message>
     <message>
         <source>Control webcams and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Керування вебкамерами та пристроями USB</translation>
     </message>
     <message>
         <source>Unlock webcams</source>
-        <translation type="unfinished"/>
+        <translation>Розблокувати вебкамери</translation>
     </message>
     <message>
         <source>Click to enable webcams again.</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть, щоб знову увімкнути вебкамери.</translation>
     </message>
     <message>
         <source>Disable USB drives</source>
-        <translation type="unfinished"/>
+        <translation>Вимкнути пристрої USB</translation>
     </message>
     <message>
         <source>Unlock USB drives</source>
-        <translation type="unfinished"/>
+        <translation>Розблокувати диски USB</translation>
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Тепер усі диски USB вимкнено.</translation>
     </message>
     <message>
         <source>Click to unmute microphones again.</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть, щоб знову увімкнути мікрофони.</translation>
     </message>
     <message>
         <source>Click to disable USB storage devices.</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть, щоб вимкнути пристрої зберігання даних USB.</translation>
     </message>
     <message>
         <source>Click to enable USB storage devices again.</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть, щоб знову увімкнути пристрої зберігання даних USB.</translation>
     </message>
     <message>
         <source>Click to unmute speakers, headsets etc. again.</source>
-        <translation type="unfinished"/>
+        <translation>Натисніть, щоб знову увімкнути динаміки, гарнітури тощо.</translation>
     </message>
 </context>
 <context>

@@ -1005,15 +1005,15 @@ USAGE
     </message>
     <message>
         <source>User login name</source>
-        <translation type="unfinished"/>
+        <translation>Имя пользователя (логин)</translation>
     </message>
     <message>
         <source>Session client address</source>
-        <translation type="unfinished"/>
+        <translation>Адрес клиента сеанса</translation>
     </message>
     <message>
         <source>Session client name</source>
-        <translation type="unfinished"/>
+        <translation>Имя клиента сеанса</translation>
     </message>
     <message>
         <source>Parallel scans:</source>
@@ -1033,7 +1033,7 @@ USAGE
     </message>
     <message>
         <source>Full name of user</source>
-        <translation type="unfinished"/>
+        <translation>Полное имя пользователя</translation>
     </message>
     <message>
         <source>User groups filter expression:</source>
@@ -1051,7 +1051,9 @@ USAGE
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
 
 Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"/>
+        <translation>При необходимости введите регулярное выражение с захватом, чтобы извлечь часть имени компьютера и использовать её в качестве отображаемого имени компьютера.
+
+Пример: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -1087,7 +1089,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Environment variable name:</source>
-        <translation type="unfinished"/>
+        <translation>Имя переменной среды:</translation>
     </message>
     <message>
         <source>Registry key</source>
@@ -1095,7 +1097,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Registry key name:</source>
-        <translation type="unfinished"/>
+        <translation>Имя ключа реестра:</translation>
     </message>
     <message>
         <source>Property for generating persistent network object IDs:</source>
@@ -1103,7 +1105,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <source>Host address</source>
