@@ -25,7 +25,6 @@ build-linux:
   parallel:
     matrix:
       - DISTRO:
-        - centos.7.9
         - debian.11
         - debian.12
         - fedora.40
@@ -33,6 +32,8 @@ build-linux:
         - opensuse.15.5
         - opensuse.15.6
         - opensuse.tumbleweed
+        - rhel.8
+        - rhel.9
         - ubuntu.20.04
         - ubuntu.22.04
         - ubuntu.24.04
