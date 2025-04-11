@@ -1,126 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="zh_TW">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_TW">
 <context>
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"></translation>
+        <translation>Auvidus</translation>
     </message>
     <message>
         <source>USB device control</source>
-        <translation type="unfinished"></translation>
+        <translation>USB 裝置控制</translation>
     </message>
     <message>
         <source>Block USB storage devices</source>
-        <translation type="unfinished"></translation>
+        <translation>封鎖 USB 存放裝置</translation>
     </message>
 </context>
 <context>
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"></translation>
+        <translation>音訊控制</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
-        <translation type="unfinished"></translation>
+        <translation>使喇叭、耳機和麥克風靜音或取消靜音。</translation>
     </message>
     <message>
         <source>Mute audio outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>靜音音訊輸出</translation>
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>按一下使喇叭、耳機等靜音。</translation>
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>取消音訊輸出靜音</translation>
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation type="unfinished"></translation>
+        <translation>靜音麥克風</translation>
     </message>
     <message>
         <source>Click to mute microphones.</source>
-        <translation type="unfinished"></translation>
+        <translation>按一下使麥克風靜音。</translation>
     </message>
     <message>
         <source>Unmute microphones</source>
-        <translation type="unfinished"></translation>
+        <translation>取消麥克風靜音</translation>
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置控制</translation>
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation type="unfinished"></translation>
+        <translation>停用網路攝影機</translation>
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"></translation>
+        <translation>按一下以停用網路攝影機。</translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"></translation>
+        <translation>所有喇叭現在均已靜音。</translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"></translation>
+        <translation>所有麥克風現在均已靜音。</translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>所有網路攝影機現已停用。</translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>由於您正在使用這個外掛程式的演示版本，因此 3 分鐘後自動恢復到以前的狀態。</translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
-        <translation type="unfinished"></translation>
+        <translation>管理對音訊、視訊和 USB 裝置的存取</translation>
     </message>
     <message>
         <source>Control webcams and USB devices</source>
-        <translation type="unfinished"></translation>
+        <translation>控制網路攝影機和 USB 裝置</translation>
     </message>
     <message>
         <source>Unlock webcams</source>
-        <translation type="unfinished"></translation>
+        <translation>解鎖網路攝影機</translation>
     </message>
     <message>
         <source>Click to enable webcams again.</source>
-        <translation type="unfinished"></translation>
+        <translation>按一下以再次啟用網路攝影機。</translation>
     </message>
     <message>
         <source>Disable USB drives</source>
-        <translation type="unfinished"></translation>
+        <translation>停用 USB 隨身碟</translation>
     </message>
     <message>
         <source>Unlock USB drives</source>
-        <translation type="unfinished"></translation>
+        <translation>解鎖 USB 隨身碟</translation>
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>所有 USB 隨身碟現已停用。</translation>
     </message>
     <message>
         <source>Click to unmute microphones again.</source>
-        <translation type="unfinished"></translation>
+        <translation>按一下以再次取消麥克風靜音。</translation>
     </message>
     <message>
         <source>Click to disable USB storage devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>按一下以停用 USB 儲存裝置。</translation>
     </message>
     <message>
         <source>Click to enable USB storage devices again.</source>
-        <translation type="unfinished"></translation>
+        <translation>按一下以再次啟用 USB 儲存裝置。</translation>
     </message>
     <message>
         <source>Click to unmute speakers, headsets etc. again.</source>
-        <translation type="unfinished"></translation>
+        <translation>按一下以再次取消喇叭、耳機等的靜音。</translation>
     </message>
 </context>
 <context>
@@ -236,7 +234,7 @@
     </message>
     <message>
         <source>Authentication mechanism</source>
-        <translation>認證機制</translation>
+        <translation>身份驗證機制</translation>
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
@@ -280,7 +278,7 @@
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation>透過正規表示式從主機名稱中提取</translation>
+        <translation>透過正規表示式從主機名稱擷取</translation>
     </message>
     <message>
         <source>Regular expression</source>
@@ -372,7 +370,7 @@
     </message>
     <message>
         <source>e.g. description</source>
-        <translation>例如: 描述</translation>
+        <translation>例如: description</translation>
     </message>
     <message>
         <source>Device group attribute to use as location name</source>
@@ -392,15 +390,15 @@
     </message>
     <message>
         <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
-        <translation>無法取得 Entra ID 的存取權杖。 請檢查租用戶 ID、應用程式 (用戶端) ID 以及用戶端金鑰或憑證路徑。</translation>
+        <translation>無法取得 Entra ID 的存取權杖。 請檢查租用戶 ID、應用程式 (用戶端) ID 和用戶端金鑰或憑證路徑。</translation>
     </message>
     <message>
         <source>Client certificate with private key file</source>
-        <translation>用戶端憑證含私密金鑰檔</translation>
+        <translation>含私密金鑰檔案的用戶端憑證</translation>
     </message>
     <message>
         <source>Specify path to client certificate file containing the private key.</source>
-        <translation>指定用戶端憑證檔案的路徑</translation>
+        <translation>指定包含私密金鑰的用戶端憑證檔案的路徑。</translation>
     </message>
     <message>
         <source>Client credential type</source>
@@ -408,59 +406,59 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
-        <translation type="unfinished"></translation>
+        <translation>主機名稱屬性</translation>
     </message>
     <message>
         <source>MAC address attribute</source>
-        <translation type="unfinished"></translation>
+        <translation>MAC 位址屬性</translation>
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"></translation>
+        <translation>主機名稱來源</translation>
     </message>
     <message>
         <source>Device name (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置名稱 (預設)</translation>
     </message>
     <message>
         <source>Multicast DNS (device name + .local suffix)</source>
-        <translation type="unfinished"></translation>
+        <translation>Multicast DNS (裝置名稱 + .local 字首)</translation>
     </message>
     <message>
         <source>Open query console</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟查詢主控台</translation>
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"></translation>
+        <translation>MAC 位址來源</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>MAC 位址屬性 (預設)</translation>
     </message>
     <message>
         <source>Intune Ethernet MAC address</source>
-        <translation type="unfinished"></translation>
+        <translation>Intune Ethernet MAC 位址</translation>
     </message>
     <message>
         <source>Intune Wi-Fi MAC address</source>
-        <translation type="unfinished"></translation>
+        <translation>Intune Wi-Fi MAC 位址</translation>
     </message>
     <message>
         <source>Intune Ethernet or Wi-Fi MAC address</source>
-        <translation type="unfinished"></translation>
+        <translation>Intune Ethernet 或 Wi-Fi MAC 位址</translation>
     </message>
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
-        <translation type="unfinished"></translation>
+        <translation>Intune Wi-Fi 或 Ethernet MAC 位址</translation>
     </message>
     <message>
         <source>Device location attribute</source>
-        <translation type="unfinished"></translation>
+        <translation>裝置位置屬性</translation>
     </message>
 </context>
 <context>
@@ -475,7 +473,7 @@
     </message>
     <message>
         <source>Entra ID (read users and groups from Entra ID directory)</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID (從 Entra ID 目錄讀取使用者和群組)</translation>
     </message>
 </context>
 <context>
@@ -486,30 +484,30 @@
     </message>
     <message>
         <source>Query timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>查詢逾時</translation>
     </message>
 </context>
 <context>
     <name>EntraIdQueryConsole</name>
     <message>
         <source>Entra ID Query Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra ID 查詢主控台</translation>
     </message>
     <message>
         <source>Query</source>
-        <translation type="unfinished"></translation>
+        <translation>查詢</translation>
     </message>
     <message>
         <source>Resource or query URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>資源或查詢 URL:</translation>
     </message>
     <message>
         <source>Run query</source>
-        <translation type="unfinished"></translation>
+        <translation>執行查詢</translation>
     </message>
     <message>
         <source>Response</source>
-        <translation type="unfinished"></translation>
+        <translation>回應</translation>
     </message>
 </context>
 <context>
@@ -584,7 +582,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"></translation>
+        <translation>封鎖 TCP 和 UDP 埠的所有連出流量</translation>
     </message>
 </context>
 <context>
@@ -1401,7 +1399,7 @@ USAGE
     </message>
     <message>
         <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
-        <translation>螢幕錄製已停止由於手動重新載入。 若需要請重新啟動錄製。</translation>
+        <translation>由於手動重新載入，螢幕錄製已停止。 如果需要，請重新開始錄製。</translation>
     </message>
     <message>
         <source>Screen recording stopped</source>
