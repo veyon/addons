@@ -646,16 +646,16 @@
         <translation>Klicken Sie auf diesen Button, um den Zugriff auf das Internet freizugeben.</translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Der Internetzugriff ist jetzt gesperrt. Da Sie eine Demo-Version dieses Add-ons verwenden, wird der Zugriff in 60 Sekunden automatisch wieder freigegeben.</translation>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>Internetzugriff steuern</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Befehle zur Steuerung des Internetzugriffs</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
+        <translation>Der Internetzugriff ist jetzt gesperrt. Da Sie eine Demo-Version dieses Add-ons verwenden, wird der Zugriff in 5 Minuten automatisch wieder freigegeben.</translation>
     </message>
 </context>
 <context>

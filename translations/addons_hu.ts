@@ -646,16 +646,16 @@
         <translation>Az internet-hozzáférés blokkolásának feloldásához kattintson erre a gombra. </translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Az internet-hozzáférés jelenleg blokkolva van. Mivel egy demó verziót használsz ennek a bővítménynek, automatikusan 60 másodpercen belül feloldódik.</translation>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>Internethozzáférés-vezérlés</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Internethozzáférés-vezérlés parancsai</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

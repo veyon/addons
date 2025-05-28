@@ -646,16 +646,16 @@
         <translation>Klik op deze knop om de internettoegang te deblokkeren.</translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>De internettoegang is nu geblokkeerd. Aangezien je een demoversie van deze add-on gebruikt, wordt deze automatisch binnen 60 seconden gedeblokkeerd.</translation>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>Toegang tot internet beheren</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Commando&apos;s om de toegang tot het internet te regelen</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

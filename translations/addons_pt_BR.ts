@@ -648,16 +648,16 @@
         <translation>Clique neste botão para desbloquear o acesso à internet</translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>O acesso à Internet está agora bloqueado. Como você está usando uma versão demo deste complemento, ele será desbloqueado automaticamente em 60 segundos.</translation>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>Controlar acesso à internet</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Comandos para controlar o acesso à internet</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -646,16 +646,16 @@
         <translation>Kliknij ten przycisk, aby odblokować dostęp do Internetu.</translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>Kontroluj dostęp do internetu</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Komendy do zarządzania dostępem do internetu</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

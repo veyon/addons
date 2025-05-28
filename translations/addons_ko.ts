@@ -125,7 +125,7 @@
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>대화</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -156,7 +156,7 @@
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>채팅</translation>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>%2 Chat</source>
-        <translation type="unfinished"/>
+        <translation>%2 채팅</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -175,15 +175,15 @@
     <name>ChatWindow</name>
     <message>
         <source>Veyon Chat</source>
-        <translation type="unfinished"/>
+        <translation>Veyon 채팅</translation>
     </message>
     <message>
         <source>Chat title</source>
-        <translation type="unfinished"/>
+        <translation>채팅 제목</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>닉네임</translation>
     </message>
     <message>
         <source>Type a new message</source>
@@ -191,7 +191,7 @@
     </message>
     <message>
         <source>Close chat</source>
-        <translation type="unfinished"/>
+        <translation>채팅 닫기</translation>
     </message>
     <message>
         <source>Change chat title</source>
@@ -214,7 +214,7 @@
     <name>EntraIdConnectorConfigurationPage</name>
     <message>
         <source>Entra ID Connector</source>
-        <translation type="unfinished"/>
+        <translation>엔트라 ID 컨넥터</translation>
     </message>
     <message>
         <source>Basic settings</source>
@@ -242,7 +242,7 @@
     </message>
     <message>
         <source>OAuth 2.0</source>
-        <translation type="unfinished"/>
+        <translation>OAuth 2.0</translation>
     </message>
     <message>
         <source>Request timeout</source>
@@ -254,23 +254,23 @@
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"/>
+        <translation>필터</translation>
     </message>
     <message>
         <source>Users filter</source>
-        <translation type="unfinished"/>
+        <translation>사용자 필터</translation>
     </message>
     <message>
         <source>Devices filter</source>
-        <translation type="unfinished"/>
+        <translation>장치 필터</translation>
     </message>
     <message>
         <source>User groups filter</source>
-        <translation type="unfinished"/>
+        <translation>사용자 그룹 필터</translation>
     </message>
     <message>
         <source>Device groups filter</source>
-        <translation type="unfinished"/>
+        <translation>디바이스 그룹 필터</translation>
     </message>
     <message>
         <source>Use location attribute of device</source>
@@ -282,7 +282,7 @@
     </message>
     <message>
         <source>Regular expression</source>
-        <translation type="unfinished"/>
+        <translation>정규표현식</translation>
     </message>
     <message>
         <source>Query limit</source>
@@ -318,7 +318,7 @@
     </message>
     <message>
         <source>Test access</source>
-        <translation type="unfinished"/>
+        <translation>접속 테스트</translation>
     </message>
     <message>
         <source>Entra ID access</source>
@@ -366,7 +366,7 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"/>
+        <translation>장치 그룹 사용하기</translation>
     </message>
     <message>
         <source>e.g. description</source>
@@ -406,7 +406,7 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>장치</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
@@ -418,7 +418,7 @@
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation>호스트네임 소스</translation>
     </message>
     <message>
         <source>Device name (default)</source>
@@ -434,7 +434,7 @@
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>MAC 주소 소스</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
@@ -646,16 +646,16 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>인터넷 접근 제어</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>인터넷 접근 제어용 명령어들</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -969,7 +969,7 @@ USAGE
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>세션</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
@@ -1029,7 +1029,7 @@ USAGE
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"/>
+        <translation>세션 호스트의 호스트네임</translation>
     </message>
     <message>
         <source>Full name of user</source>
@@ -1045,7 +1045,7 @@ USAGE
     </message>
     <message>
         <source>Computer names</source>
-        <translation type="unfinished"/>
+        <translation>컴퓨터 이름</translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
@@ -1083,7 +1083,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation>환경 변수</translation>
     </message>
     <message>
         <source>Environment variable name:</source>
@@ -1091,7 +1091,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation>등록 키</translation>
     </message>
     <message>
         <source>Registry key name:</source>
@@ -1185,7 +1185,7 @@ USAGE
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>포트</translation>
     </message>
     <message>
         <source>Locations</source>

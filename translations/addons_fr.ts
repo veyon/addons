@@ -646,16 +646,16 @@
         <translation>Cliquez sur ce bouton pour débloquer l&apos;accès à Internet.</translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>L&apos;accès Internet est maintenant bloqué. Comme vous utilisez une version de démonstration de cette extension, il sera automatiquement débloqué après un délai de 60 secondes.</translation>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>Contrôle l&apos;accès à internet</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Commandes pour contrôler l&apos;accès à Internet</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

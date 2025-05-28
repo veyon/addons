@@ -646,16 +646,16 @@
         <translation>按一下此按鈕可取消封鎖 Internet 存取。</translation>
     </message>
     <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 60 seconds automatically.</source>
-        <translation>Internet 存取現在已封鎖。 由於您使用的是這個附加元件的演示版本，因此它將在 60 秒內自動解除封鎖。</translation>
-    </message>
-    <message>
         <source>Control access to the internet</source>
         <translation>控制存取 internet</translation>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>控制存取 internet 的命令</translation>
+    </message>
+    <message>
+        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
