@@ -655,7 +655,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Internet 存取現已封鎖。 由於您使用的是這個外掛程式的演示版本，它將在 5 分鐘後自動解鎖。</translation>
     </message>
 </context>
 <context>
