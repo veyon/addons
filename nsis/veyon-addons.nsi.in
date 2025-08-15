@@ -8,6 +8,7 @@
 !define INSTALLER_NAME "veyon-addons-${VERSION}-@VEYON_WINDOWS_ARCH@-setup.exe"
 !define INSTALL_TYPE "SetShellVarContext all"
 !define REG_ROOT "HKLM"
+!define REG_VEYON_ADDONS "Software\Veyon Solutions\Veyon\Addons"
 
 ######################################################################
 
@@ -131,6 +132,7 @@ File "plugins/*.dll"
 SetOutPath "$INSTDIR\translations"
 File "translations/*.qm"
 ExecWait '"$INSTDIR\veyon-wcli.exe" service start'
+WriteRegStr ${REG_ROOT} "${REG_VEYON_ADDONS}"  "InstalledVersion" "${VERSION}"
 SectionEnd
 
 
