@@ -1,131 +1,169 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="pt_BR">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="pt_BR">
 <context>
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation type="unfinished"/>
+        <source>Start behavior</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation type="unfinished"/>
+        <source>Retain previous state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Desbloquear computador</translation>
     </message>
 </context>
 <context>
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to mute microphones.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unmute microphones</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Control webcams and USB devices</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unlock webcams</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to enable webcams again.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable USB drives</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unlock USB drives</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to unmute microphones again.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to disable USB storage devices.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to enable USB storage devices again.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to unmute speakers, headsets etc. again.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation>Bate-papo</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -156,13 +194,11 @@
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation>Bate-papo</translation>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
-        <translation>Clique neste botão para iniciar um bate-papo com todos os usuários. Assim, todos os usuários poderão escrever mensagens de texto em um chat comum.
- 
-</translation>
+        <translation>Clique neste botão para iniciar um bate-papo com todos os usuários. Assim, todos os usuários poderão escrever mensagens de texto em um chat comum.</translation>
     </message>
     <message>
         <source>%2 Chat</source>
@@ -356,11 +392,11 @@
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;Room&apos;)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Locations</source>
@@ -368,99 +404,99 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>e.g. description</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Device group attribute to use as location name</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Client certificate path</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Client certificate file</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PEM files (*.pem)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Client certificate with private key file</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specify path to client certificate file containing the private key.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Client credential type</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hostname attribute</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>MAC address attribute</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Device name (default)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Multicast DNS (device name + .local suffix)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open query console</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Intune Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Intune Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Intune Ethernet or Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Device location attribute</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -475,7 +511,7 @@
     </message>
     <message>
         <source>Entra ID (read users and groups from Entra ID directory)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -486,30 +522,30 @@
     </message>
     <message>
         <source>Query timed out</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EntraIdQueryConsole</name>
     <message>
         <source>Entra ID Query Console</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Query</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Resource or query URL:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Run query</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Response</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -584,7 +620,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -598,7 +634,7 @@
     <name>InternetAccessControlConfigurationPage</name>
     <message>
         <source>Internet access control</source>
-        <translation>Controle de acesso a internet</translation>
+        <translation>Controle de acesso à internet</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -609,12 +645,24 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Desbloquear o acesso à Internet no início do serviço (por exemplo, após logoff ou reinicialização)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Configurações de backend</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Desbloquear o acesso à Internet</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Bloquear o acesso à Internet</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -657,53 +705,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Instâncias</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Digite o nome</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Insira um nome para a instância (não pode ser alterado posteriormente!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Remover instância</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Você realmente deseja remover a instância &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Configuração da instância &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Integração profissional LDAP/AD para Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>% 1 (carregar computadores e locais do LDAP/AD)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (carregar usuários e grupos do LDAP/AD)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -919,7 +921,7 @@ USO
     </message>
     <message>
         <source>Scan all subnets of computer</source>
-        <translation>Escaneie todas as sub-redes do computador</translation>
+        <translation>Varrer todas as sub-redes do computador</translation>
     </message>
     <message>
         <source>Test</source>
@@ -927,11 +929,11 @@ USO
     </message>
     <message>
         <source>Scan custom subnet</source>
-        <translation>Escanear sub-rede personalizada</translation>
+        <translation>Varrer sub-rede personalizada</translation>
     </message>
     <message>
         <source>Scan network ranges</source>
-        <translation>Escanear intervalos de rede</translation>
+        <translation>Varrer intervalos de rede</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -975,7 +977,7 @@ USO
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation>Escanear sessões (por exemplo, área de trabalho remota) em todos os computadores</translation>
+        <translation>Varrer sessões (por exemplo, área de trabalho remota) em todos os computadores</translation>
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
@@ -1067,47 +1069,47 @@ Exemplo: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data source:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data retrieval timeout:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Expression for substring extraction:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Environment variable name:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Registry key name:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Property for generating persistent network object IDs:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Host address</source>
@@ -1115,28 +1117,28 @@ Exemplo: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Computer name</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exclude computers whose names could not be resolved</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
 
 Example: (R[0-9]*)-*</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryDirectory</name>
     <message>
         <source>Discovered computers</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Scanning...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1147,7 +1149,7 @@ Example: (R[0-9]*)-*</source>
     </message>
     <message>
         <source>Scan a subnet</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
@@ -1156,23 +1158,23 @@ USAGE
 %1 scan [&lt;SUBNET&gt;]
 
 </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Network object directory which automatically discovers computers in the network</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Network discovery (scan network for Veyon clients)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Commands for managing the network discovery directory</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed to initialize credentials</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Name</source>
@@ -1180,11 +1182,11 @@ USAGE
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Locations</source>
@@ -1192,68 +1194,68 @@ USAGE
     </message>
     <message>
         <source>Query system settings key from the server</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Query user groups of logged in user from the server</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Query environment variable from the server</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add custom route to block internet</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderConfigurationPage</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>frames per second</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>x</source>
@@ -1261,151 +1263,151 @@ USAGE
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>kbps</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keyframe interval</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderControlWidget</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Processing…</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Starting recordings…</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Finishing recordings…</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recording finished (duration: %1)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recording duration: %1</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>auto</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderPlugin</name>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click this button to record the screens of all users into video files.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Record screens to video files</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Screen recording stopped</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

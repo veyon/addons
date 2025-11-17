@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="tr">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="tr">
 <context>
     <name>AuvidusConfigurationPage</name>
     <message>
@@ -6,12 +8,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>USB cihaz kontrolü</translation>
+        <source>Start behavior</source>
+        <translation>Davranışı başlat</translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>USB depolama aygıtlarını engelle</translation>
+        <source>Retain previous state</source>
+        <translation>Önceki durumu koru</translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation>İnternet kameraları</translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation>Mikrofonlar</translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation>USB sürücüler</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Sesini kapat</translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation>Sesini aç</translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation>Ses çıkışları</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Devre dışı bırak</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Etkinleştir</translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Kilidi kaldır</translation>
     </message>
 </context>
 <context>
@@ -607,12 +645,24 @@
         <translation>Arka uç:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Servis başlangıcında internet erişimine izin ver (oturum kapatıldığında ya da yeniden başlatıldığında)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Arka uç ayarları</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation>Önceki İnternet engelleme durumunu koru</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>İnternet erişim engelini kaldır</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>İnternet Erişimini Engelle</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation>Davranışı başlat:</translation>
     </message>
 </context>
 <context>
@@ -655,53 +705,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Örnekler</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>İsim girin</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Lütfen örnek için bir ad girin (daha sonra değiştirilemez!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Örneği kaldır</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Gerçekten &quot;%1&quot; örneğini kaldırmak istiyor musunuz?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>&quot;%1&quot; örneği için yapılandırma</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Veyon için profesyonel LDAP/AD entegrasyonu</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (LDAP/AD&apos;den bilgisayarlar ve konumlar yükleme)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (LDAP/AD&apos;den kullanıcıları ve grupları yükleme)</translation>
+        <translation>İnternet erişiminiz şu anda engellendi. Bu eklentinin demo sürümünü kullandığınız için, 5 dakika içinde otomatik olarak engeli kaldırılacaktır.</translation>
     </message>
 </context>
 <context>

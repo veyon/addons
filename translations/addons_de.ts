@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="de">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="de">
 <context>
     <name>AuvidusConfigurationPage</name>
     <message>
@@ -6,12 +8,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>USB-Gerätesteuerung</translation>
+        <source>Start behavior</source>
+        <translation>Startverhalten</translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>USB-Speichergeräte sperren</translation>
+        <source>Retain previous state</source>
+        <translation>Vorherigen Zustand beibehalten</translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation>Webcams</translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation>Mikrofone</translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation>USB-Laufwerke</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Stumm schalten</translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation>Stummschaltung aufheben</translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation>Audioausgänge</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Deaktivieren</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Aktivieren</translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Entsperren</translation>
     </message>
 </context>
 <context>
@@ -607,12 +645,24 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Internetzugriff beim Starten des Dienstes freigeben (z.B. nach Abmeldung oder Neustart)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Backend-Einstellungen</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation>Vorherigen Internetsperrstatus beibehalten</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Internetzugriff freigeben</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Internetzugriff sperren</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation>Startverhalten:</translation>
     </message>
 </context>
 <context>
@@ -656,52 +706,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation>Der Internetzugriff ist jetzt gesperrt. Da Sie eine Demo-Version dieses Add-ons verwenden, wird der Zugriff in 5 Minuten automatisch wieder freigegeben.</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Instanzen</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Name eingeben</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Bitte geben Sie einen Namen für die Instanz (kann später nicht geändert werden!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Instanz entfernen</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Möchten Sie wirklich die Instanz &quot;%1&quot; entfernen?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Konfiguration für Instanz &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Professionelle LDAP/AD-Anbindung für Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (Computer und Standorte aus LDAP/AD laden)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (Benutzer und Gruppen aus LDAP/AD laden)</translation>
     </message>
 </context>
 <context>
@@ -945,7 +949,7 @@ VERWENDUNG
     </message>
     <message>
         <source>Remove selected group</source>
-        <translation>Gewählte Gruppe entfernen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groups</source>
@@ -1281,7 +1285,7 @@ VERWENDUNG
     </message>
     <message>
         <source>x264 preset</source>
-        <translation>x264-Preset</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>kbps</source>

@@ -1,124 +1,162 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="et">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="et">
 <context>
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation type="unfinished"/>
+        <source>Start behavior</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation type="unfinished"/>
+        <source>Retain previous state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Lukusta lahti</translation>
     </message>
 </context>
 <context>
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to mute microphones.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unmute microphones</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Control webcams and USB devices</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unlock webcams</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to enable webcams again.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable USB drives</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unlock USB drives</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to unmute microphones again.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to disable USB storage devices.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to enable USB storage devices again.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Click to unmute speakers, headsets etc. again.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -258,11 +296,11 @@
     </message>
     <message>
         <source>Users filter</source>
-        <translation>Kasutaja filtrid</translation>
+        <translation>Kasutaja filter</translation>
     </message>
     <message>
         <source>Devices filter</source>
-        <translation>Seadme filtrid</translation>
+        <translation>Seadme filter</translation>
     </message>
     <message>
         <source>User groups filter</source>
@@ -406,59 +444,59 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hostname attribute</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>MAC address attribute</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Device name (default)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Multicast DNS (device name + .local suffix)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open query console</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Intune Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Intune Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Intune Ethernet or Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Device location attribute</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -473,7 +511,7 @@
     </message>
     <message>
         <source>Entra ID (read users and groups from Entra ID directory)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -484,30 +522,30 @@
     </message>
     <message>
         <source>Query timed out</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EntraIdQueryConsole</name>
     <message>
         <source>Entra ID Query Console</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Query</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Resource or query URL:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Run query</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Response</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -582,7 +620,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -607,12 +645,24 @@
         <translation>Taustaprogramm:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Interneti ühenduse blokeerimine teenuse käivitamisel (nt pärast väljalogimist või taaskäivitamist)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Taustprogrammi seaded</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Luba pääs internetti</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Keela internetti pääs</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -655,53 +705,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Näited</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Sisesta nimi</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Sisestage eksemplari nimi (seda ei saa hiljem muuta!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Eemaldage eksemplar</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Kas soovite tõesti eemaldada näite &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Konfiguratsioon näiteks &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Professionaalne LDAP / AD integreerimine Veyonile</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (laadige arvutid ja asukohad LDAP/AD-st)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (laadige kasutajad ja grupid LDAP/AD-st)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

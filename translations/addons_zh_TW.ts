@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_TW">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_TW">
 <context>
     <name>AuvidusConfigurationPage</name>
     <message>
@@ -6,12 +8,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>USB 裝置控制</translation>
+        <source>Start behavior</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>封鎖 USB 存放裝置</translation>
+        <source>Retain previous state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>解鎖</translation>
     </message>
 </context>
 <context>
@@ -607,12 +645,24 @@
         <translation>後端:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>在服務啟動時取消封鎖 Internet 存取 (例如登出或重新開機後)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>後端設定</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>取消封鎖 Internet 存取</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>封鎖 Internet 存取</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -656,52 +706,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation>Internet 存取現已封鎖。 由於您使用的是這個外掛程式的演示版本，它將在 5 分鐘後自動解鎖。</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>實例</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>輸入名稱</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>請輸入實例的名稱 (以後不能變更!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>移除實例</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>您確定要移除實例「%1」?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>實例「%1」的組態</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Veyon 的專業 LDAP/AD 整合</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (從 LDAP/AD 載入電腦和位置)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (從 LDAP/AD 載入使用者和群組)</translation>
     </message>
 </context>
 <context>
