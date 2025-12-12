@@ -6,12 +6,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>USB-Gerätesteuerung</translation>
+        <source>Start behavior</source>
+        <translation>Startverhalten</translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>USB-Speichergeräte sperren</translation>
+        <source>Retain previous state</source>
+        <translation>Vorherigen Zustand beibehalten</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Stumm schalten</translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation>Stummschaltung aufheben</translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation>Webcams</translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation>Audioausgänge</translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation>Mikrofone</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Deaktivieren</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Aktivieren</translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation>USB-Laufwerke</translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Entsperren</translation>
     </message>
 </context>
 <context>
@@ -607,8 +643,20 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Internetzugriff beim Starten des Dienstes freigeben (z.B. nach Abmeldung oder Neustart)</translation>
+        <source>Retain previous Internet blocking state</source>
+        <translation>Vorherigen Internetsperrstatus beibehalten</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Internetzugriff freigeben</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Internetzugriff sperren</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation>Startverhalten:</translation>
     </message>
     <message>
         <source>Backend settings</source>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="bg">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="he">
 <context>
     <name>AuvidusConfigurationPage</name>
     <message>
@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Unlock</source>
-        <translation>Unlock</translation>
+        <translation>שחרור</translation>
     </message>
 </context>
 <context>
@@ -254,7 +254,7 @@
     </message>
     <message>
         <source>Basic settings</source>
-        <translation>Basic settings</translation>
+        <translation>הגדרות בסיסיות</translation>
     </message>
     <message>
         <source>Tenant ID</source>
@@ -344,13 +344,11 @@
         <source>%1 %2 have been queried successfully:
 
 %3</source>
-        <translation>%1 %2 have been queried successfully:
-
-%3</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>users</source>
-        <translation>users</translation>
+        <translation>משתמשים</translation>
     </message>
     <message>
         <source>Test access</source>
@@ -362,7 +360,7 @@
     </message>
     <message>
         <source>user groups</source>
-        <translation>user groups</translation>
+        <translation>קבוצות משתמשים</translation>
     </message>
     <message>
         <source>device groups</source>
@@ -398,7 +396,7 @@
     </message>
     <message>
         <source>Locations</source>
-        <translation>Locations</translation>
+        <translation>מיקומים</translation>
     </message>
     <message>
         <source>Use device groups</source>
@@ -614,7 +612,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>שם</translation>
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
@@ -640,7 +638,7 @@
     </message>
     <message>
         <source>Backend:</source>
-        <translation>Backend:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Retain previous Internet blocking state</source>
@@ -675,7 +673,7 @@
     </message>
     <message>
         <source>Show help about command</source>
-        <translation>Show help about command</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Internet access</source>
@@ -745,11 +743,11 @@
     </message>
     <message>
         <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (load computers and locations from LDAP/AD)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (load users and groups from LDAP/AD)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -800,7 +798,7 @@
     </message>
     <message>
         <source>Computers</source>
-        <translation>Computers</translation>
+        <translation>מחשבים</translation>
     </message>
     <message>
         <source>Licensee</source>
@@ -828,7 +826,7 @@
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
-        <translation>&lt;N/A&gt;</translation>
+        <translation>לא</translation>
     </message>
     <message>
         <source>invalid license</source>
@@ -898,7 +896,7 @@
     <name>LicensingPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation>Show help for specific command</translation>
+        <translation>הצג עזרה עבור פקודה מסויימת</translation>
     </message>
     <message>
         <source>Show all installed licenses</source>
@@ -959,7 +957,7 @@ USAGE
     </message>
     <message>
         <source>Test</source>
-        <translation>Тест</translation>
+        <translation>בדיקה</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
@@ -1019,15 +1017,15 @@ USAGE
     </message>
     <message>
         <source>Options</source>
-        <translation>Options</translation>
+        <translation>אפשרויות</translation>
     </message>
     <message>
         <source> ms</source>
-        <translation> ms</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New location</source>
-        <translation>New location</translation>
+        <translation>מיקום חדש</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1093,7 +1091,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Locations</source>
-        <translation>Locations</translation>
+        <translation>מיקומים</translation>
     </message>
     <message>
         <source>Default / network range groups</source>
@@ -1145,7 +1143,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Host address</source>
-        <translation>Host address</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Computer name</source>
@@ -1177,7 +1175,7 @@ Example: (R[0-9]*)-*</source>
     <name>NetworkDiscoveryPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation>Show help for specific command</translation>
+        <translation>הצג עזרה עבור פקודה מסויימת</translation>
     </message>
     <message>
         <source>Scan a subnet</source>
@@ -1210,7 +1208,7 @@ USAGE
     </message>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>שם</translation>
     </message>
     <message>
         <source>Address</source>
@@ -1222,7 +1220,7 @@ USAGE
     </message>
     <message>
         <source>Locations</source>
-        <translation>Locations</translation>
+        <translation>מיקומים</translation>
     </message>
     <message>
         <source>Query system settings key from the server</source>
@@ -1291,7 +1289,7 @@ USAGE
     </message>
     <message>
         <source>x</source>
-        <translation>x</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use fixed framerate</source>
@@ -1331,7 +1329,7 @@ USAGE
     </message>
     <message>
         <source>seconds</source>
-        <translation>seconds</translation>
+        <translation>שניות</translation>
     </message>
     <message>
         <source>Other settings</source>

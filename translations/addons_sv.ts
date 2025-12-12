@@ -6,12 +6,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>Kontroll av USB-enhet</translation>
+        <source>Start behavior</source>
+        <translation>Startbeteende</translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>Blockera USB-lagringsenheter</translation>
+        <source>Retain previous state</source>
+        <translation>Behåll föregående tillstånd</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Tyst</translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation>Aktivera ljud</translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation>Webbkameror</translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation>Ljudutgångar</translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation>Mikrofoner</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Inaktivera</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Aktivera</translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation>USB-enheter</translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Lås upp</translation>
     </message>
 </context>
 <context>
@@ -607,8 +643,20 @@
         <translation>Bakände:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Avblockera internetåtkomst när tjänsten startas (t.ex. efter utloggning eller omstart)</translation>
+        <source>Retain previous Internet blocking state</source>
+        <translation>Behåll föregående blockeringstillstånd för internet</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Avblockera internetåtkomst</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Blockera tillgång till Internet</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation>Startbeteende:</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -655,7 +703,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Internetåtkomsten är nu blockerad. Eftersom du använder en demoversion av detta tillägg kommer blockeringen att upphävas automatiskt om 5 minuter.</translation>
     </message>
 </context>
 <context>
@@ -1053,7 +1101,7 @@ ANVÄNDNING
 Example: [^-]*-(PC[0-9]*)</source>
         <translation>Ange eventuellt ett reguljärt uttryck med en capture för att extrahera en del av datornamnet och använda det som datorns visningsnamn.
 
-Exempel: [^-]*-(pc[0-9]*) [^-]*-(PC[0-9]*)</translation>
+Exempel: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -1345,7 +1393,7 @@ ANVÄNDNING
     </message>
     <message>
         <source>Stop recording</source>
-        <translation>_Stoppa inspelning</translation>
+        <translation>Stoppa inspelning</translation>
     </message>
     <message>
         <source>Finishing recordings…</source>
@@ -1375,7 +1423,7 @@ ANVÄNDNING
     </message>
     <message>
         <source>Stop recording</source>
-        <translation>_Stoppa inspelning</translation>
+        <translation>Stoppa inspelning</translation>
     </message>
     <message>
         <source>Click this button to record the screens of all users into video files.</source>

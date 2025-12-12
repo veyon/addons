@@ -6,12 +6,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>Керування пристроями USB</translation>
+        <source>Start behavior</source>
+        <translation>Поведінка після запуску</translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>Блокові пристрої зберігання даних USB</translation>
+        <source>Retain previous state</source>
+        <translation>Відновити попередній стан</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Вимкнути звук</translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation>Увімкнути звук</translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation>Вебкамери</translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation>Відтворення звуку</translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation>Мікрофони</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Вимкнути</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Увімкнути</translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation>Диски USB</translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Розблокувати</translation>
     </message>
 </context>
 <context>
@@ -607,8 +643,20 @@
         <translation>Модуль:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Розблокувати доступ до інтернету під час запуску служби (наприклад, після виходу або перезавантаження)</translation>
+        <source>Retain previous Internet blocking state</source>
+        <translation>Відновити попередній стан блокування інтернету</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Розблокувати доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Блокувати доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation>Поведінка після запуску:</translation>
     </message>
     <message>
         <source>Backend settings</source>

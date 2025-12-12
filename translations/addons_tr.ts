@@ -6,12 +6,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>USB cihaz kontrolü</translation>
+        <source>Start behavior</source>
+        <translation>Davranışı başlat</translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>USB depolama aygıtlarını engelle</translation>
+        <source>Retain previous state</source>
+        <translation>Önceki durumu koru</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Sesini kapat</translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation>Sesini aç</translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation>İnternet kameraları</translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation>Ses çıkışları</translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation>Mikrofonlar</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Devre dışı bırak</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Etkinleştir</translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation>USB sürücüler</translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Kilidi kaldır</translation>
     </message>
 </context>
 <context>
@@ -607,8 +643,20 @@
         <translation>Arka uç:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Servis başlangıcında internet erişimine izin ver (oturum kapatıldığında ya da yeniden başlatıldığında)</translation>
+        <source>Retain previous Internet blocking state</source>
+        <translation>Önceki İnternet engelleme durumunu koru</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>İnternet erişim engelini kaldır</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>İnternet Erişimini Engelle</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation>Davranışı başlat:</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -655,7 +703,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>İnternet erişiminiz şu anda engellendi. Bu eklentinin demo sürümünü kullandığınız için, 5 dakika içinde otomatik olarak engeli kaldırılacaktır.</translation>
     </message>
 </context>
 <context>

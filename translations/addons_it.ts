@@ -6,12 +6,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>Controllo dispositivo USB</translation>
+        <source>Start behavior</source>
+        <translation>Comportamento iniziale</translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>Bloccare i dispositivi di archiviazione USB</translation>
+        <source>Retain previous state</source>
+        <translation>Mantieni lo stato precedente</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Muto</translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation>Non muto</translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation>Webcam</translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation>Uscite audio</translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation>Microfoni</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Disabilita</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Abilita</translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation>Unità USB</translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Sblocca</translation>
     </message>
 </context>
 <context>
@@ -607,8 +643,20 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Sblocca l&apos;accesso a Internet all&apos;avvio del servizio (ad es. dopo la disconnessione o il riavvio)</translation>
+        <source>Retain previous Internet blocking state</source>
+        <translation>Mantieni lo stato di blocco Internet precedente</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Sblocca l&apos;accesso a Internet</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Blocca l&apos;accesso a Internet</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation>Comportamento iniziale:</translation>
     </message>
     <message>
         <source>Backend settings</source>

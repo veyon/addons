@@ -6,12 +6,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>USB 裝置控制</translation>
+        <source>Start behavior</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>封鎖 USB 存放裝置</translation>
+        <source>Retain previous state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>解鎖</translation>
     </message>
 </context>
 <context>
@@ -607,8 +643,20 @@
         <translation>後端:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>在服務啟動時取消封鎖 Internet 存取 (例如登出或重新開機後)</translation>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>取消封鎖 Internet 存取</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>封鎖 Internet 存取</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Backend settings</source>
