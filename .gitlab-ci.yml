@@ -4,7 +4,7 @@ stages:
 
 build-windows:
   stage: build
-  image: $CI_REGISTRY/veyon/ci-mingw-w64:4.9
+  image: $CI_REGISTRY/veyon/ci-mingw-w64:main
   script:
     - ./prepare-build.sh
     - cd veyon && .ci/windows/build.sh $ARCH addons-binaries && cd ..
@@ -28,9 +28,10 @@ build-linux:
         - debian.11
         - debian.12
         - debian.13
-        - fedora.41
         - fedora.42
-        - opensuse.15.6
+        - fedora.43
+        - opensuse.leap.15.6
+        - opensuse.leap.16.0
         - opensuse.tumbleweed
         - rhel.8
         - rhel.9

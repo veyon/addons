@@ -6,12 +6,48 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>解锁</translation>
     </message>
 </context>
 <context>
@@ -607,12 +643,24 @@
         <translation>后端：</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
+        <source>Backend settings</source>
+        <translation>后台设置</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>后台设置</translation>
+        <source>Unblock Internet access</source>
+        <translation>恢复互联网访问</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>阻止互联网访问</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>实例</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>输入名称</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>请输入此实例的名称（设置后无法更改！）：</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>移除实例</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>您确定要移除实例 &quot;%1&quot; 吗？</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>实例 &quot;%1&quot; 的配置</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>为Veyon提供LDAP/AD专业集成</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 （从LDAP/AD加载计算机和地点）</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1（从LDAP/AD加载用户和组）</translation>
     </message>
 </context>
 <context>
@@ -1211,8 +1213,12 @@ USAGE
         <translation>删除默认路由以阻止 Internet 访问</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>通过添加自定义路由来阻止访问互联网</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1222,12 +1228,28 @@ USAGE
         <source>Gateway</source>
         <translation>网关</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>添加新地点</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>移除选中的地点</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>通过修改路由表阻止互联网访问</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

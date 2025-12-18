@@ -6,12 +6,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Déverrouiller</translation>
     </message>
 </context>
 <context>
@@ -607,12 +643,24 @@
         <translation>Méthode de fonctionnement:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Débloquer l&apos;accès à Internet au démarrage du service (par exemple après la fermeture d&apos;une session ou un redémarrage)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Paramètres internes</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Débloquer l&apos;accès à Internet</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Bloquer l&apos;accès à Internet</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Instances</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Entrer un nom</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Veuillez entrer un nom pour l&apos;instance (celui-ci ne pourra pas être changer plus tard!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Retirer l&apos;instance</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Voulez-vous vraiment retirer l&apos;instance &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Configuration pour l&apos;instance &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Intégration LDAP/AD professionnelle pour Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (charger les ordinateurs et les emplacements depuis LDAP/AD)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (charger les utilisateurs et les groupes depuis LDAP/AD)</translation>
     </message>
 </context>
 <context>
@@ -1211,8 +1213,12 @@ USAGE
         <translation>Supprimer le routage par défaut pour bloquer internet</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>Ajouter un routage personnalisé pour bloquer internet</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1222,12 +1228,28 @@ USAGE
         <source>Gateway</source>
         <translation>Passerelle</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Ajouter un nouvel emplacement</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Retirer l&apos;emplacement sélectionné</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Bloquer l&apos;accès à Internet en modifiant la table de routage</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

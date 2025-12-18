@@ -6,12 +6,48 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Buka kunci</translation>
     </message>
 </context>
 <context>
@@ -605,12 +641,24 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Buka blokir akses internet saat service dijalankan (seperti setelah logoff atau reboot)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Pengaturan backend</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Buka blokir akses internet</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Blokir akses internet</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -654,52 +702,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Instansi</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Masukkan nama</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Silahkan memasukkan nama instansi (tidak dapat diubah nanti!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Hapus instansi</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Apakah anda yakin ingin menghapus instansi &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Konfigurasi untuk instansi &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Integrasi profesional LDAP/AD untuk Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (memuat komputer dan lokasi untuk LDAP/AD)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (memuat pengguna dan group untuk LDAP/AD)</translation>
     </message>
 </context>
 <context>
@@ -1209,8 +1211,12 @@ PENGGUNAAN
         <translation>Hapus route default untuk memblokir internet</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>Tambahkan kustom route untuk memblokir internet</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nama</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1220,12 +1226,28 @@ PENGGUNAAN
         <source>Gateway</source>
         <translation>Gerbang</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Tambahkan lokasi baru</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Hapus lokasi terpilih</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Blokir akses internet dengan memodifikasi routing table</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

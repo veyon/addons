@@ -32,7 +32,6 @@ add_subdirectory(chat)
 add_subdirectory(entra-id-connector)
 add_subdirectory(internet-access-control)
 add_subdirectory(licensing)
-add_subdirectory(ldap-pro)
 add_subdirectory(network-discovery)
 add_subdirectory(screenrecorder)
 
@@ -49,7 +48,6 @@ add_custom_target(addons-binaries
 	COMMAND rm -rf ${ADDONS_BINARIES}
 	COMMAND mkdir -p ${ADDONS_BINARIES}/plugins
 	COMMAND find -name '*.dll' -exec cp '{}' ${ADDONS_BINARIES}/plugins/ '\;'
-	COMMAND rm ${ADDONS_BINARIES}/plugins/lib*.dll
 	COMMAND mkdir -p ${ADDONS_BINARIES}/translations
 	COMMAND cp translations/*qm ${ADDONS_BINARIES}/translations/
 	COMMAND cp -r ${CMAKE_SOURCE_DIR}/COPYING ${ADDONS_BINARIES}

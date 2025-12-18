@@ -3,122 +3,158 @@
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation type="unfinished"/>
+        <source>Start behavior</source>
+        <translation>Startgedrag</translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation type="unfinished"/>
+        <source>Retain previous state</source>
+        <translation>Behoud vorige status</translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation>Webcams</translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation>Microphones</translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation>USB-sticks</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Dempen</translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation>Dempen opheffen</translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation>Audio-uitgangen</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Uitschakelen</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Inschakelen</translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Ontgrendelen</translation>
     </message>
 </context>
 <context>
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>Audiocontrole</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Luidsprekers, koptelefoons en microfoons dempen of demping opheffen.</translation>
     </message>
     <message>
         <source>Mute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Audio-uitgangen dempen</translation>
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
-        <translation type="unfinished"/>
+        <translation>Klik om luidsprekers, koptelefoons enz. te dempen.</translation>
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Audio-uitgangen dempen opheffen</translation>
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Microfoons dempen</translation>
     </message>
     <message>
         <source>Click to mute microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Klik om microfoons te dempen.</translation>
     </message>
     <message>
         <source>Unmute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Microfoons dempen opheffen</translation>
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>Apparaatbeheer</translation>
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation type="unfinished"/>
+        <translation>Webcams uitschakelen</translation>
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"/>
+        <translation>Klik om webcams uit te schakelen.</translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Alle luidsprekers zijn nu gedempt.</translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Alle microfoons zijn nu gedempt.</translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Alle webcams zijn nu uitgeschakeld.</translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Aangezien u een demoversie van deze add-on gebruikt, wordt de vorige status binnen 3 minuten automatisch hersteld.</translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Beheer de toegang tot audio-, video- en USB-apparaten</translation>
     </message>
     <message>
         <source>Control webcams and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Webcams en USB-apparaten bedienen</translation>
     </message>
     <message>
         <source>Unlock webcams</source>
-        <translation type="unfinished"/>
+        <translation>Webcams ontgrendelen</translation>
     </message>
     <message>
         <source>Click to enable webcams again.</source>
-        <translation type="unfinished"/>
+        <translation>Klik om webcams opnieuw in te schakelen.</translation>
     </message>
     <message>
         <source>Disable USB drives</source>
-        <translation type="unfinished"/>
+        <translation>USB-sticks uitschakelen</translation>
     </message>
     <message>
         <source>Unlock USB drives</source>
-        <translation type="unfinished"/>
+        <translation>USB-sticks ontgrendelen</translation>
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Alle USB-sticks zijn nu uitgeschakeld.</translation>
     </message>
     <message>
         <source>Click to unmute microphones again.</source>
-        <translation type="unfinished"/>
+        <translation>Klik om microfoons weer in te schakelen.</translation>
     </message>
     <message>
         <source>Click to disable USB storage devices.</source>
-        <translation type="unfinished"/>
+        <translation>Klik om USB-opslagapparaten uit te schakelen.</translation>
     </message>
     <message>
         <source>Click to enable USB storage devices again.</source>
-        <translation type="unfinished"/>
+        <translation>Klik om USB-opslagapparaten opnieuw in te schakelen.</translation>
     </message>
     <message>
         <source>Click to unmute speakers, headsets etc. again.</source>
-        <translation type="unfinished"/>
+        <translation>Klik om luidsprekers, koptelefoons enz. weer in te schakelen.</translation>
     </message>
 </context>
 <context>
@@ -406,59 +442,59 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Apparaten</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
-        <translation type="unfinished"/>
+        <translation>Hostnaam eigenschap</translation>
     </message>
     <message>
         <source>MAC address attribute</source>
-        <translation type="unfinished"/>
+        <translation>MAC-adres eigenschap</translation>
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation>Bron van hostnaam</translation>
     </message>
     <message>
         <source>Device name (default)</source>
-        <translation type="unfinished"/>
+        <translation>Apparaatnaam (standaard)</translation>
     </message>
     <message>
         <source>Multicast DNS (device name + .local suffix)</source>
-        <translation type="unfinished"/>
+        <translation>Multicast DNS (apparaatnaam + .local-achtervoegsel)</translation>
     </message>
     <message>
         <source>Open query console</source>
-        <translation type="unfinished"/>
+        <translation>Open zoekconsole</translation>
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>MAC-adres bron</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
-        <translation type="unfinished"/>
+        <translation>MAC-adres kenmerk (standaard)</translation>
     </message>
     <message>
         <source>Intune Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune Ethernet MAC-adres</translation>
     </message>
     <message>
         <source>Intune Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune Wi-Fi MAC-adres</translation>
     </message>
     <message>
         <source>Intune Ethernet or Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune Ethernet- of Wi-Fi-MAC-adres</translation>
     </message>
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune Wi-Fi- of Ethernet-MAC-adres</translation>
     </message>
     <message>
         <source>Device location attribute</source>
-        <translation type="unfinished"/>
+        <translation>Kenmerk apparaatlocatie</translation>
     </message>
 </context>
 <context>
@@ -473,7 +509,7 @@
     </message>
     <message>
         <source>Entra ID (read users and groups from Entra ID directory)</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID (lees gebruikers en groepen uit de Entra ID-directory)</translation>
     </message>
 </context>
 <context>
@@ -484,30 +520,30 @@
     </message>
     <message>
         <source>Query timed out</source>
-        <translation type="unfinished"/>
+        <translation>Zoekopdracht Time-out </translation>
     </message>
 </context>
 <context>
     <name>EntraIdQueryConsole</name>
     <message>
         <source>Entra ID Query Console</source>
-        <translation type="unfinished"/>
+        <translation>Log in op ID Query Console</translation>
     </message>
     <message>
         <source>Query</source>
-        <translation type="unfinished"/>
+        <translation>Zoekopdracht</translation>
     </message>
     <message>
         <source>Resource or query URL:</source>
-        <translation type="unfinished"/>
+        <translation>Bron- of zoekopdracht-URL:</translation>
     </message>
     <message>
         <source>Run query</source>
-        <translation type="unfinished"/>
+        <translation>Zoekopdracht uitvoeren</translation>
     </message>
     <message>
         <source>Response</source>
-        <translation type="unfinished"/>
+        <translation>Reactie</translation>
     </message>
 </context>
 <context>
@@ -582,7 +618,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation>Blokkeer al het uitgaande verkeer voor TCP- en UDP-poorten</translation>
     </message>
 </context>
 <context>
@@ -607,12 +643,24 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Deblokkeer internettoegang bij het starten van de service (bijv. na afmelden of opnieuw opstarten)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Backend-instellingen</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation>Vorige internetblokkering behouden</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Deblokkeer internettoegang</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Blokkeer internettoegang</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation>Startgedrag:</translation>
     </message>
 </context>
 <context>
@@ -655,53 +703,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Instanties</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Voer naam in</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Voer een naam in voor de instantie (kan later niet worden gewijzigd!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Instantie verwijderen</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Wil je echt instantie &quot;%1&quot; verwijderen?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Configuratie voor bijvoorbeeld &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Professionele LDAP/AD integratie voor Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (computers en locaties laden vanuit LDAP/AD)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (gebruikers en groepen laden vanuit LDAP/AD)</translation>
+        <translation>De internettoegang is nu geblokkeerd. Aangezien u een demoversie van deze add-on gebruikt, wordt deze binnen 5 minuten automatisch gedeblokkeerd.</translation>
     </message>
 </context>
 <context>
@@ -1215,8 +1217,12 @@ GEBRUIK
         <translation>Standaardroutes verwijderen om internettoegang te blokkeren</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>Aangepaste route toevoegen om internet te blokkeren</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1226,12 +1232,28 @@ GEBRUIK
         <source>Gateway</source>
         <translation>Toegangspoort</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Voeg nieuwe locatie toe</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Verwijder geselecteerde locatie</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Internettoegang blokkeren door routering-tabel te wijzigen</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

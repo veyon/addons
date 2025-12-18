@@ -6,12 +6,48 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>잠금해제</translation>
     </message>
 </context>
 <context>
@@ -607,12 +643,24 @@
         <translation>백엔드:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
+        <source>Backend settings</source>
+        <translation>백엔드 설정</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>백엔드 설정</translation>
+        <source>Unblock Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>개체</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>이름 입력</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>개체의 이름을 입력하세요 (나중에 변경불가!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>개체 삭제</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>정말로 &quot;%1&quot; 개체를 삭제하시겠습니까?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>&quot;%1&quot; 객체 설정</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Veyon용 프로페셔널 LDAP/AD 결합</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (LDAP/AD에서 컴퓨터와 위치를 가져옴)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (LDAP/AD에서 사용자와 그룹을 가져옴)</translation>
     </message>
 </context>
 <context>
@@ -1211,8 +1213,12 @@ USAGE
         <translation>인터넷 접속을 제한하기 위해 기본 루트 제거</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>인터넷 접근 제한하려는 사용자 루트 추가</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>이름</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1222,11 +1228,27 @@ USAGE
         <source>Gateway</source>
         <translation>게이트 웨이</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>새로운 위치 추가</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>선택한 위치 삭제</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom route</source>
         <translation type="unfinished"/>
     </message>
 </context>

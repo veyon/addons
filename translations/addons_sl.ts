@@ -6,12 +6,48 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Odkleni</translation>
     </message>
 </context>
 <context>
@@ -607,12 +643,24 @@
         <translation>Ozadje:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
+        <source>Backend settings</source>
+        <translation>Nastavitve ozadja</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Nastavitve ozadja</translation>
+        <source>Unblock Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Primerki</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Vnesi ime</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Vnesite ime primerka (kasneje ga ni mogoče spremeniti!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Odstrani primerek</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Ali res želite odstraniti primerek &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Konfiguracija za primerek &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Profesionalna LDAP/AD integracija za Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (naložite računalnike in lokacije iz LDAP/AD)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (naložite uporabnike in skupine iz LDAP/AD)</translation>
     </message>
 </context>
 <context>
@@ -1211,8 +1213,12 @@ UPORABA
         <translation>Odstrani privzete poti za blokiranje dostopa do interneta</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>Dodaj prilagojeno pot za blokiranje interneta</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1222,11 +1228,27 @@ UPORABA
         <source>Gateway</source>
         <translation>Prehod</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Dodaj novo lokacijo</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Odstrani izbrano lokacijo</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom route</source>
         <translation type="unfinished"/>
     </message>
 </context>
