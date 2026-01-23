@@ -6,12 +6,48 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Lukusta lahti</translation>
     </message>
 </context>
 <context>
@@ -163,8 +199,8 @@
         <translation>Kõigi kasutajatega vestluse alustamiseks klõpsake seda nuppu. Seejärel saavad kõik kasutajad ühises vestluses tekstisõnumeid kirjutada.</translation>
     </message>
     <message>
-        <source>%2 Chat</source>
-        <translation>%2 Vestlus</translation>
+        <source>%1 Chat</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -258,11 +294,11 @@
     </message>
     <message>
         <source>Users filter</source>
-        <translation>Kasutaja filtrid</translation>
+        <translation>Kasutaja filter</translation>
     </message>
     <message>
         <source>Devices filter</source>
-        <translation>Seadme filtrid</translation>
+        <translation>Seadme filter</translation>
     </message>
     <message>
         <source>User groups filter</source>
@@ -607,12 +643,24 @@
         <translation>Taustaprogramm:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Interneti ühenduse blokeerimine teenuse käivitamisel (nt pärast väljalogimist või taaskäivitamist)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Taustprogrammi seaded</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Luba pääs internetti</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Keela internetti pääs</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Näited</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Sisesta nimi</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Sisestage eksemplari nimi (seda ei saa hiljem muuta!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Eemaldage eksemplar</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Kas soovite tõesti eemaldada näite &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Konfiguratsioon näiteks &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Professionaalne LDAP / AD integreerimine Veyonile</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (laadige arvutid ja asukohad LDAP/AD-st)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (laadige kasutajad ja grupid LDAP/AD-st)</translation>
     </message>
 </context>
 <context>
@@ -1215,8 +1217,12 @@ KASUTA
         <translation>Interneti ühenduse blokeerimiseks eemaldage vaikemarsruudid</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>Interneti blokeerimiseks lisage kohandatud marsruut</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nimi</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1226,12 +1232,28 @@ KASUTA
         <source>Gateway</source>
         <translation>Värav</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Uus asukoht</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Eemalda valitud asukohad</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Internetiühenduse blokeerimine marsruutimistabeli muutmisega</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

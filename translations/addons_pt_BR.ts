@@ -6,12 +6,48 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Desbloquear computador</translation>
     </message>
 </context>
 <context>
@@ -125,7 +161,7 @@
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation>Bate-papo</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -156,17 +192,15 @@
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation>Bate-papo</translation>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
-        <translation>Clique neste botão para iniciar um bate-papo com todos os usuários. Assim, todos os usuários poderão escrever mensagens de texto em um chat comum.
- 
-</translation>
+        <translation>Clique neste botão para iniciar um bate-papo com todos os usuários. Assim, todos os usuários poderão escrever mensagens de texto em um chat comum.</translation>
     </message>
     <message>
-        <source>%2 Chat</source>
-        <translation>%2 Bater papo</translation>
+        <source>%1 Chat</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -598,7 +632,7 @@
     <name>InternetAccessControlConfigurationPage</name>
     <message>
         <source>Internet access control</source>
-        <translation>Controle de acesso a internet</translation>
+        <translation>Controle de acesso à internet</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -609,12 +643,24 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Desbloquear o acesso à Internet no início do serviço (por exemplo, após logoff ou reinicialização)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Configurações de backend</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Desbloquear o acesso à Internet</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Bloquear o acesso à Internet</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -658,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Instâncias</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Digite o nome</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Insira um nome para a instância (não pode ser alterado posteriormente!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Remover instância</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Você realmente deseja remover a instância &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Configuração da instância &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Integração profissional LDAP/AD para Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>% 1 (carregar computadores e locais do LDAP/AD)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (carregar usuários e grupos do LDAP/AD)</translation>
     </message>
 </context>
 <context>
@@ -919,7 +919,7 @@ USO
     </message>
     <message>
         <source>Scan all subnets of computer</source>
-        <translation>Escaneie todas as sub-redes do computador</translation>
+        <translation>Varrer todas as sub-redes do computador</translation>
     </message>
     <message>
         <source>Test</source>
@@ -927,11 +927,11 @@ USO
     </message>
     <message>
         <source>Scan custom subnet</source>
-        <translation>Escanear sub-rede personalizada</translation>
+        <translation>Varrer sub-rede personalizada</translation>
     </message>
     <message>
         <source>Scan network ranges</source>
-        <translation>Escanear intervalos de rede</translation>
+        <translation>Varrer intervalos de rede</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -975,7 +975,7 @@ USO
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation>Escanear sessões (por exemplo, área de trabalho remota) em todos os computadores</translation>
+        <translation>Varrer sessões (por exemplo, área de trabalho remota) em todos os computadores</translation>
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
@@ -1210,8 +1210,12 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
+        <source>Add custom routes to block internet</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1221,11 +1225,27 @@ USAGE
         <source>Gateway</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Adicionar novo local</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Remover local selecionado</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom route</source>
         <translation type="unfinished"/>
     </message>
 </context>

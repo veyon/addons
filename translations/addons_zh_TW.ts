@@ -6,12 +6,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>USB 裝置控制</translation>
+        <source>Start behavior</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>封鎖 USB 存放裝置</translation>
+        <source>Retain previous state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>解鎖</translation>
     </message>
 </context>
 <context>
@@ -163,8 +199,8 @@
         <translation>按一下這個按鈕可與所有使用者開始交談。 然後所有使用者都可以在公共交談中編寫文字訊息。</translation>
     </message>
     <message>
-        <source>%2 Chat</source>
-        <translation>%2 交談</translation>
+        <source>%1 Chat</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -607,12 +643,24 @@
         <translation>後端:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>在服務啟動時取消封鎖 Internet 存取 (例如登出或重新開機後)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>後端設定</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>取消封鎖 Internet 存取</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>封鎖 Internet 存取</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation>Internet 存取現已封鎖。 由於您使用的是這個外掛程式的演示版本，它將在 5 分鐘後自動解鎖。</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>實例</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>輸入名稱</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>請輸入實例的名稱 (以後不能變更!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>移除實例</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>您確定要移除實例「%1」?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>實例「%1」的組態</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Veyon 的專業 LDAP/AD 整合</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (從 LDAP/AD 載入電腦和位置)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (從 LDAP/AD 載入使用者和群組)</translation>
     </message>
 </context>
 <context>
@@ -1215,8 +1217,12 @@ USAGE
         <translation>移除預設路由以封鎖 Internet 存取</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>加入自訂路由以封鎖 Internet</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1226,12 +1232,28 @@ USAGE
         <source>Gateway</source>
         <translation>閘道</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>加入新位置</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>移除選取的位置</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>透過修改路由表封鎖 Internet 存取</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

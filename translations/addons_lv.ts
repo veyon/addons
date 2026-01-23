@@ -6,12 +6,48 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Atslēgt</translation>
     </message>
 </context>
 <context>
@@ -163,8 +199,8 @@
         <translation>Spied šo pogu, lai saktu čatu ar visiem lietotājiem. Tad visi lietotāji varēs rakstīt teksta ziņas kopīgajā čatā.</translation>
     </message>
     <message>
-        <source>%2 Chat</source>
-        <translation>%2 Čats</translation>
+        <source>%1 Chat</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -605,11 +641,23 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Atbloķējiet piekļuvi internetam, uzsākot pakalpojumu (piem., pēc atteikšanās vai restartēšanas)</translation>
+        <source>Backend settings</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Backend settings</source>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Atļaut interneta lietošanu</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Bloķēt interneta lietošanu</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -653,52 +701,6 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Gadījumi</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Ievadi vārdu</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1194,8 +1196,12 @@ USAGE
         <translation>Noņemt noklusējuma maršrutus, lai bloķētu piekļuvi internetam</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>Pievienot papildus ceļu lai bloķētu internetu</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Vārds</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1205,12 +1211,28 @@ USAGE
         <source>Gateway</source>
         <translation>Vārteja</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Pievienot jaunu vietu</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Noņemt izvēlēto vietu</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Bloķējiet piekļuvi internetam, mainot maršrutēšanas tabulu</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

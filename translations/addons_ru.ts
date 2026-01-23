@@ -6,12 +6,48 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Разблокировать</translation>
     </message>
 </context>
 <context>
@@ -163,7 +199,7 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>%2 Chat</source>
+        <source>%1 Chat</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -480,7 +516,7 @@
     <name>EntraIdDirectory</name>
     <message>
         <source>Unknown location</source>
-        <translation type="unfinished"/>
+        <translation>Неизвестное место</translation>
     </message>
     <message>
         <source>Query timed out</source>
@@ -607,12 +643,24 @@
         <translation>Бэкэнд:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Разблокировать доступ к интернету при запуске службы (например, после разлогинирования или перезагрузки)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Параметры модулей</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Разблокировать доступ к интернету</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Блокировать доступ к интернету</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Экземпляры</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Введите имя</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Пожалуйста, введите название экземпляра (его нельзя будет изменить!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Удалить экземпляр</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Вы действительно хотите удалить экземпляр &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Настройка для экземпляра &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Профессиональная интеграция LDAP/AD в Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (загрузить записи компьютеров и мест с LDAP/AD)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (загрузить записи пользователей и групп с LDAP/AD)</translation>
     </message>
 </context>
 <context>
@@ -1093,7 +1095,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation>Ключ реестра</translation>
     </message>
     <message>
         <source>Registry key name:</source>
@@ -1213,8 +1215,12 @@ USAGE
         <translation>Удалить маршруты по умолчанию для блокировки доступа к интернету</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>Добавить нетипичный маршрут для блокировки интернета</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1224,12 +1230,28 @@ USAGE
         <source>Gateway</source>
         <translation>Шлюз</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Добавить новое место</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Удалить выделенное место</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Блокировать доступ к интернету изменением таблицы маршрутизации</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1256,7 +1278,7 @@ USAGE
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>Каталог для сохранения</translation>
     </message>
     <message>
         <source>x</source>

@@ -6,12 +6,48 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>ロック解除</translation>
     </message>
 </context>
 <context>
@@ -163,8 +199,8 @@
         <translation>このボタンをクリックして、すべてのユーザーとのチャットを開始します。その後、すべてのユーザーが共通のチャットでテキストメッセージを書くことができます。</translation>
     </message>
     <message>
-        <source>%2 Chat</source>
-        <translation>%2 チャット</translation>
+        <source>%1 Chat</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -607,12 +643,24 @@
         <translation>バックエンド:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>サービスの開始時にインターネットアクセスのブロックを解除する (ログオフまたは再起動後など)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>バックエンドの設定</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>インターネットアクセスのブロックを解除する</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>インターネットアクセスのブロック</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>インスタンス</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>名前を入力</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>インスタンスの名前を入力してください (後で変更することはできません！):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>インスタンスを削除</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>インスタンス&quot;%1&quot;を本当に削除しますか？</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>インスタンス&quot;%1&quot;の構成</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>VeyonのプロフェッショナルLDAP/AD統合</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (LDAP/ADからコンピューターとその場所を読み込む)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (LDAP/ADからユーザーとグループを読み込む)</translation>
     </message>
 </context>
 <context>
@@ -1211,8 +1213,12 @@ USAGE
         <translation>デフォルトルートを削除してインターネットアクセスをブロックする</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>インターネットをブロックするカスタムルートを追加する</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1222,12 +1228,28 @@ USAGE
         <source>Gateway</source>
         <translation>ゲートウェイ</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>新しい場所を追加</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>選択した場所を削除</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>ルーティングテーブルを変更してインターネットアクセスをブロックする</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -6,12 +6,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>Controllo dispositivo USB</translation>
+        <source>Start behavior</source>
+        <translation>Comportamento iniziale</translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>Bloccare i dispositivi di archiviazione USB</translation>
+        <source>Retain previous state</source>
+        <translation>Mantieni lo stato precedente</translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation>Webcam</translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation>Microfoni</translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation>Unità USB</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Muto</translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation>Non muto</translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation>Uscite audio</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Disabilita</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Abilita</translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Sblocca</translation>
     </message>
 </context>
 <context>
@@ -163,8 +199,8 @@
         <translation>Fare clic su questo pulsante per avviare una chat con tutti gli utenti. Quindi tutti gli utenti possono scrivere messaggi di testo in una chat comune.</translation>
     </message>
     <message>
-        <source>%2 Chat</source>
-        <translation>%2 Chat</translation>
+        <source>%1 Chat</source>
+        <translation>%1 Chat</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -607,12 +643,24 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Sblocca l&apos;accesso a Internet all&apos;avvio del servizio (ad es. dopo la disconnessione o il riavvio)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Impostazioni back-end</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation>Mantieni lo stato di blocco Internet precedente</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Sblocca l&apos;accesso a Internet</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Blocca l&apos;accesso a Internet</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation>Comportamento iniziale:</translation>
     </message>
 </context>
 <context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, verrà sbloccato automaticamente in 5 minuti.</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Istanze</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Inserisci il nome</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Si prega di inserire un nome per l&apos;istanza (non può essere modificato in seguito!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Rimuovi istanza</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Vuoi veramente rimuovere l&apos;istanza &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Configurazione per esempio &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Integrazione LDAP / AD professionale per Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (carica computer e posizioni da LDAP / AD)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (carica utenti e gruppi da LDAP / AD)</translation>
     </message>
 </context>
 <context>
@@ -1213,8 +1215,12 @@ USO
         <translation>Rimuovi percorsi predefiniti per bloccare l&apos;accesso a Internet</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>Aggiungi un percorso personalizzato per bloccare Internet</translation>
+        <source>Add custom routes to block internet</source>
+        <translation>Aggiungi percorsi personalizzati per bloccare Internet</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1224,12 +1230,28 @@ USO
         <source>Gateway</source>
         <translation>Gateway</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Aggiungi nuova posizione</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Rimuovi la posizione selezionata</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation>Nuovo percorso</translation>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Blocca l&apos;accesso a Internet modificando la tabella di routing</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation>Percorso personalizzato</translation>
     </message>
 </context>
 <context>

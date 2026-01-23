@@ -6,12 +6,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>Керування пристроями USB</translation>
+        <source>Start behavior</source>
+        <translation>Поведінка після запуску</translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>Блокові пристрої зберігання даних USB</translation>
+        <source>Retain previous state</source>
+        <translation>Відновити попередній стан</translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation>Вебкамери</translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation>Мікрофони</translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation>Диски USB</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Вимкнути звук</translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation>Увімкнути звук</translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation>Відтворення звуку</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Вимкнути</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Увімкнути</translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Розблокувати</translation>
     </message>
 </context>
 <context>
@@ -163,8 +199,8 @@
         <translation>Натисніть цю кнопку, щоб розпочати спілкування із усіма користувачами. Усі користувачі зможуть писати текстові повідомлення у загальному спілкуванні.</translation>
     </message>
     <message>
-        <source>%2 Chat</source>
-        <translation>%2, спілкування</translation>
+        <source>%1 Chat</source>
+        <translation>%1, спілкування</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -607,12 +643,24 @@
         <translation>Модуль:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Розблокувати доступ до інтернету під час запуску служби (наприклад, після виходу або перезавантаження)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Параметри модулів</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation>Відновити попередній стан блокування інтернету</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Розблокувати доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Блокувати доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation>Поведінка після запуску:</translation>
     </message>
 </context>
 <context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично розблоковано за 5 хвилин.</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Екземпляри</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Введіть назву</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Будь ласка, введіть назву екземпляра (її не можна буде змінити!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Вилучити екземпляр</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Ви справді хочете вилучити екземпляр «%1»?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Налаштування для екземпляра «%1»</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Професійна інтеграція LDAP/AD до Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (завантажити записи комп&apos;ютерів та місця з LDAP/AD)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (завантажити записи користувачів та груп з LDAP/AD)</translation>
     </message>
 </context>
 <context>
@@ -1215,8 +1217,12 @@ USAGE
         <translation>Вилучити типові маршрути для блокування доступу до інтернету</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>Додати нетиповий маршрут для блокування інтернету</translation>
+        <source>Add custom routes to block internet</source>
+        <translation>Додати нетипові маршрути для блокування інтернету</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Назва</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1226,12 +1232,28 @@ USAGE
         <source>Gateway</source>
         <translation>Шлюз</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Додати нове місце</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Вилучити позначене місце</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation>Новий маршрут</translation>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Блокувати доступ до інтернету зміною таблиці маршрутизації</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation>Нетиповий маршрут</translation>
     </message>
 </context>
 <context>

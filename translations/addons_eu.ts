@@ -6,12 +6,48 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Desblokeatu</translation>
     </message>
 </context>
 <context>
@@ -163,7 +199,7 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>%2 Chat</source>
+        <source>%1 Chat</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -607,11 +643,23 @@
         <translation>Motorea:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
+        <source>Backend settings</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Backend settings</source>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Start behavior:</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>% 1 (kargatu ordenagailuak eta kokalekuak LDAP/ADtik)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>% 1 (kargatu erabiltzaileak eta taldeak LDAP/ADtik)</translation>
     </message>
 </context>
 <context>
@@ -1198,8 +1200,12 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
+        <source>Add custom routes to block internet</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1209,11 +1215,27 @@ USAGE
         <source>Gateway</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Gehitu kokaleku berria</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Kendu hautatutako kokalekua</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Custom route</source>
         <translation type="unfinished"/>
     </message>
 </context>

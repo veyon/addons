@@ -6,12 +6,48 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>USB device control</source>
+        <source>Start behavior</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block USB storage devices</source>
+        <source>Retain previous state</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Odemknout</translation>
     </message>
 </context>
 <context>
@@ -163,7 +199,7 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>%2 Chat</source>
+        <source>%1 Chat</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -607,12 +643,24 @@
         <translation>Podpůrná vrstva (backend):</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Odblokovat přístup k internetu při startu služby (např. po odlogování nebo rebootu)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Nastavení podpůrné vrstvy</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Odblokovat přístup k internetu</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Přístup k internetu blokován</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -656,52 +704,6 @@
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Instance</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Zadejte název</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Zadejte název instance (později už nepůjde změnit!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Odebrat instanci</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Opravdu chcete odebrat instanci „%1“?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Nastavení pro instanci „%1“</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Profesionální začlenění LDAP/AD pro Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (načíst počítače a umístění z LDAP/AD)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (načíst uživatele a skupiny z LDAP/AD)</translation>
     </message>
 </context>
 <context>
@@ -1211,8 +1213,12 @@ POUŽITÍ
         <translation>Odebrat výchozí trasy pro blokování přístupu k Internetu</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>Přidat uživatelsky určenou trasu pro blokování přístupu k Internetu</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Název</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1222,12 +1228,28 @@ POUŽITÍ
         <source>Gateway</source>
         <translation>Brána</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Přidat nové umístění</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Odebrat označené umístění</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Blokovat přístup k Internetu prostřednictvím úpravy směrovacích tabulek</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

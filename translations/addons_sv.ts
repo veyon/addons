@@ -6,12 +6,48 @@
         <translation>Auvidus</translation>
     </message>
     <message>
-        <source>USB device control</source>
-        <translation>Kontroll av USB-enhet</translation>
+        <source>Start behavior</source>
+        <translation>Startbeteende</translation>
     </message>
     <message>
-        <source>Block USB storage devices</source>
-        <translation>Blockera USB-lagringsenheter</translation>
+        <source>Retain previous state</source>
+        <translation>Behåll föregående tillstånd</translation>
+    </message>
+    <message>
+        <source>Webcams</source>
+        <translation>Webbkameror</translation>
+    </message>
+    <message>
+        <source>Microphones</source>
+        <translation>Mikrofoner</translation>
+    </message>
+    <message>
+        <source>USB drives</source>
+        <translation>USB-enheter</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation>Tyst</translation>
+    </message>
+    <message>
+        <source>Unmute</source>
+        <translation>Aktivera ljud</translation>
+    </message>
+    <message>
+        <source>Audio outputs</source>
+        <translation>Ljudutgångar</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Inaktivera</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Aktivera</translation>
+    </message>
+    <message>
+        <source>Unlock</source>
+        <translation>Lås upp</translation>
     </message>
 </context>
 <context>
@@ -163,8 +199,8 @@
         <translation>Klicka på den här knappen för att starta en chatt med alla användare. Då kan alla användare skriva textmeddelanden i en gemensam chatt.</translation>
     </message>
     <message>
-        <source>%2 Chat</source>
-        <translation>%2 Chatt</translation>
+        <source>%1 Chat</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -607,12 +643,24 @@
         <translation>Bakände:</translation>
     </message>
     <message>
-        <source>Unblock Internet access on service start (e.g. after logoff or reboot)</source>
-        <translation>Avblockera internetåtkomst när tjänsten startas (t.ex. efter utloggning eller omstart)</translation>
-    </message>
-    <message>
         <source>Backend settings</source>
         <translation>Inställningar för säkerhetskopiering</translation>
+    </message>
+    <message>
+        <source>Retain previous Internet blocking state</source>
+        <translation>Behåll föregående blockeringstillstånd för internet</translation>
+    </message>
+    <message>
+        <source>Unblock Internet access</source>
+        <translation>Avblockera internetåtkomst</translation>
+    </message>
+    <message>
+        <source>Block Internet access</source>
+        <translation>Blockera tillgång till Internet</translation>
+    </message>
+    <message>
+        <source>Start behavior:</source>
+        <translation>Startbeteende:</translation>
     </message>
 </context>
 <context>
@@ -655,53 +703,7 @@
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>LdapProConfigurationPage</name>
-    <message>
-        <source>LDAP Pro</source>
-        <translation>LDAP Pro</translation>
-    </message>
-    <message>
-        <source>Instances</source>
-        <translation>Instanser</translation>
-    </message>
-    <message>
-        <source>Enter name</source>
-        <translation>Ange namn</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the instance (can&apos;t be changed later!):</source>
-        <translation>Ange ett namn för instansen (kan inte ändras senare!):</translation>
-    </message>
-    <message>
-        <source>Remove instance</source>
-        <translation>Ta bort tillfället</translation>
-    </message>
-    <message>
-        <source>Do you really want to remove instance &quot;%1&quot;?</source>
-        <translation>Vill du verkligen ta bort instansen &quot;%1&quot;?</translation>
-    </message>
-    <message>
-        <source>Configuration for instance &quot;%1&quot;</source>
-        <translation>Konfiguration för instans &quot;%1&quot;</translation>
-    </message>
-</context>
-<context>
-    <name>LdapProPlugin</name>
-    <message>
-        <source>Professional LDAP/AD integration for Veyon</source>
-        <translation>Professionell LDAP/AD-integration för Veyon</translation>
-    </message>
-    <message>
-        <source>%1 (load computers and locations from LDAP/AD)</source>
-        <translation>%1 (ladda datorer och platser från LDAP/AD)</translation>
-    </message>
-    <message>
-        <source>%1 (load users and groups from LDAP/AD)</source>
-        <translation>%1 (ladda användare och grupper från LDAP/AD)</translation>
+        <translation>Internetåtkomsten är nu blockerad. Eftersom du använder en demoversion av detta tillägg kommer blockeringen att upphävas automatiskt om 5 minuter.</translation>
     </message>
 </context>
 <context>
@@ -1053,7 +1055,7 @@ ANVÄNDNING
 Example: [^-]*-(PC[0-9]*)</source>
         <translation>Ange eventuellt ett reguljärt uttryck med en capture för att extrahera en del av datornamnet och använda det som datorns visningsnamn.
 
-Exempel: [^-]*-(pc[0-9]*) [^-]*-(PC[0-9]*)</translation>
+Exempel: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -1215,8 +1217,12 @@ ANVÄNDNING
         <translation>Ta bort standardvägar för att blockera internetåtkomst</translation>
     </message>
     <message>
-        <source>Add custom route to block internet</source>
-        <translation>Lägg till anpassad rutt för att blockera internet</translation>
+        <source>Add custom routes to block internet</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1226,12 +1232,28 @@ ANVÄNDNING
         <source>Gateway</source>
         <translation>Betalmodul</translation>
     </message>
+    <message>
+        <source>Add new location</source>
+        <translation>Skapa ny plats</translation>
+    </message>
+    <message>
+        <source>Remove selected location</source>
+        <translation>Ta bort vald plats</translation>
+    </message>
+    <message>
+        <source>New route</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
         <translation>Blockera internetåtkomst genom att ändra routingtabellen</translation>
+    </message>
+    <message>
+        <source>Custom route</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1345,7 +1367,7 @@ ANVÄNDNING
     </message>
     <message>
         <source>Stop recording</source>
-        <translation>_Stoppa inspelning</translation>
+        <translation>Stoppa inspelning</translation>
     </message>
     <message>
         <source>Finishing recordings…</source>
@@ -1375,7 +1397,7 @@ ANVÄNDNING
     </message>
     <message>
         <source>Stop recording</source>
-        <translation>_Stoppa inspelning</translation>
+        <translation>Stoppa inspelning</translation>
     </message>
     <message>
         <source>Click this button to record the screens of all users into video files.</source>
