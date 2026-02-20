@@ -516,7 +516,7 @@
     <name>EntraIdDirectory</name>
     <message>
         <source>Unknown location</source>
-        <translation type="unfinished"/>
+        <translation>未知位置</translation>
     </message>
     <message>
         <source>Query timed out</source>

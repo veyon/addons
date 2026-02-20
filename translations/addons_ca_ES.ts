@@ -3,7 +3,7 @@
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation>Auvidus</translation>
     </message>
     <message>
         <source>Start behavior</source>
@@ -15,35 +15,35 @@
     </message>
     <message>
         <source>Webcams</source>
-        <translation type="unfinished"/>
+        <translation>Càmeres web</translation>
     </message>
     <message>
         <source>Microphones</source>
-        <translation type="unfinished"/>
+        <translation>Micròfons</translation>
     </message>
     <message>
         <source>USB drives</source>
-        <translation type="unfinished"/>
+        <translation>Unitats USB</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Silencia</translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation type="unfinished"/>
+        <translation>Deixa de silenciar</translation>
     </message>
     <message>
         <source>Audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Sortides d&apos;àudio</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>Desactiva</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Activa</translation>
     </message>
     <message>
         <source>Unlock</source>
@@ -70,11 +70,11 @@
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Deixa de silenciar les sortides d&apos;àudio</translation>
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Silencia els micròfons</translation>
     </message>
     <message>
         <source>Click to mute microphones.</source>
@@ -90,23 +90,23 @@
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation type="unfinished"/>
+        <translation>Desactiva les càmera web</translation>
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"/>
+        <translation>Feu clic per a desactivar les càmeres web.</translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>S&apos;han silenciat tots els altaveus.</translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>S&apos;han silenciat tots els micròfons.</translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>S&apos;han desactivat totes les càmeres web.</translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
@@ -118,62 +118,62 @@
     </message>
     <message>
         <source>Control webcams and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Controleu les càmeres web i els aparells USB</translation>
     </message>
     <message>
         <source>Unlock webcams</source>
-        <translation type="unfinished"/>
+        <translation>Desbloca les càmeres web</translation>
     </message>
     <message>
         <source>Click to enable webcams again.</source>
-        <translation type="unfinished"/>
+        <translation>Feu clic per a activar les càmeres web una altra vegada.</translation>
     </message>
     <message>
         <source>Disable USB drives</source>
-        <translation type="unfinished"/>
+        <translation>Desactiva les unitats USB</translation>
     </message>
     <message>
         <source>Unlock USB drives</source>
-        <translation type="unfinished"/>
+        <translation>Desbloca les unitats USB</translation>
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>S&apos;han desactivat totes les unitats USB.</translation>
     </message>
     <message>
         <source>Click to unmute microphones again.</source>
-        <translation type="unfinished"/>
+        <translation>Feu clic per a deixar de silenciar els micròfons.</translation>
     </message>
     <message>
         <source>Click to disable USB storage devices.</source>
-        <translation type="unfinished"/>
+        <translation>Feu clic per a desactivar els dispositius d&apos;emmagatzematge per USB.</translation>
     </message>
     <message>
         <source>Click to enable USB storage devices again.</source>
-        <translation type="unfinished"/>
+        <translation>Feu clic per a activar els dispositius d&apos;emmagatzematge per USB.</translation>
     </message>
     <message>
         <source>Click to unmute speakers, headsets etc. again.</source>
-        <translation type="unfinished"/>
+        <translation>Feu clic per a deixar de silenciar els altaveus, auriculars, ...</translation>
     </message>
 </context>
 <context>
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Xat</translation>
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished"/>
+        <translation>Ajustaments generals</translation>
     </message>
     <message>
         <source>Allow plain text messages only</source>
-        <translation type="unfinished"/>
+        <translation>Permet només missatges en text pla</translation>
     </message>
     <message>
         <source>Nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Àlies</translation>
     </message>
     <message>
         <source>Login names of users</source>
@@ -185,14 +185,14 @@
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Permet als usuaris de canviar-se l&apos;àlies</translation>
     </message>
 </context>
 <context>
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Xatat</translation>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
@@ -211,19 +211,19 @@
     <name>ChatWindow</name>
     <message>
         <source>Veyon Chat</source>
-        <translation type="unfinished"/>
+        <translation>Veyon Chat</translation>
     </message>
     <message>
         <source>Chat title</source>
-        <translation type="unfinished"/>
+        <translation>Títol del xat</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>Àlies</translation>
     </message>
     <message>
         <source>Type a new message</source>
-        <translation type="unfinished"/>
+        <translation>Escriviu un missatge nou</translation>
     </message>
     <message>
         <source>Close chat</source>
@@ -239,7 +239,7 @@
     </message>
     <message>
         <source>Change nickname</source>
-        <translation type="unfinished"/>
+        <translation>Canvia l&apos;àlies</translation>
     </message>
     <message>
         <source>Please enter a new nickname:</source>
@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>OAuth 2.0</source>
-        <translation type="unfinished"/>
+        <translation>OAuth 2.0</translation>
     </message>
     <message>
         <source>Request timeout</source>
@@ -286,27 +286,27 @@
     </message>
     <message>
         <source>Domain name</source>
-        <translation type="unfinished"/>
+        <translation>Nom de domini</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"/>
+        <translation>Filtres</translation>
     </message>
     <message>
         <source>Users filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre d&apos;usuaris</translation>
     </message>
     <message>
         <source>Devices filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre de dispositiu</translation>
     </message>
     <message>
         <source>User groups filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre de grups d&apos;usuaris</translation>
     </message>
     <message>
         <source>Device groups filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre de grups de dispositius</translation>
     </message>
     <message>
         <source>Use location attribute of device</source>
@@ -318,11 +318,11 @@
     </message>
     <message>
         <source>Regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Expressió regular</translation>
     </message>
     <message>
         <source>Query limit</source>
-        <translation type="unfinished"/>
+        <translation>Límit de la consulta</translation>
     </message>
     <message>
         <source>Entra ID configuration check</source>
@@ -366,11 +366,11 @@
     </message>
     <message>
         <source>device groups</source>
-        <translation type="unfinished"/>
+        <translation>grups de dispositius</translation>
     </message>
     <message>
         <source>device locations</source>
-        <translation type="unfinished"/>
+        <translation>ubicacions de dispositius</translation>
     </message>
     <message>
         <source>Location mapping mode</source>
@@ -386,15 +386,15 @@
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"/>
+        <translation>dispositius</translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
-        <translation type="unfinished"/>
+        <translation>p. ex. startsWith(displayName, &apos;PC&apos;)</translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;Room&apos;)</source>
-        <translation type="unfinished"/>
+        <translation>p. ex. startsWith(displayName, &apos;Room&apos;)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -406,7 +406,7 @@
     </message>
     <message>
         <source>e.g. description</source>
-        <translation type="unfinished"/>
+        <translation>p. ex. descripció</translation>
     </message>
     <message>
         <source>Device group attribute to use as location name</source>
@@ -422,7 +422,7 @@
     </message>
     <message>
         <source>PEM files (*.pem)</source>
-        <translation type="unfinished"/>
+        <translation>Fitxers PEM(*.pem)</translation>
     </message>
     <message>
         <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
@@ -442,7 +442,7 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Dispositius</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
@@ -531,26 +531,26 @@
     </message>
     <message>
         <source>Query</source>
-        <translation type="unfinished"/>
+        <translation>Consulta</translation>
     </message>
     <message>
         <source>Resource or query URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL del recurs o la consulta:</translation>
     </message>
     <message>
         <source>Run query</source>
-        <translation type="unfinished"/>
+        <translation>Executa la consulta</translation>
     </message>
     <message>
         <source>Response</source>
-        <translation type="unfinished"/>
+        <translation>Resposta</translation>
     </message>
 </context>
 <context>
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>e.g. 8080</source>
-        <translation type="unfinished"/>
+        <translation>p. ex. 8080</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -558,11 +558,11 @@
     </message>
     <message>
         <source>21 (FTP)</source>
-        <translation type="unfinished"/>
+        <translation>21 (FTP)</translation>
     </message>
     <message>
         <source>80/443 (HTTP/HTTPS)</source>
-        <translation type="unfinished"/>
+        <translation>80/443 (HTTP/HTTPS)</translation>
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
@@ -570,31 +570,31 @@
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"/>
+        <translation>Excepcions</translation>
     </message>
     <message>
         <source>e.g. 80 443</source>
-        <translation type="unfinished"/>
+        <translation>p. ex. 80 443</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
+        <translation>p. ex. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
-        <translation type="unfinished"/>
+        <translation>Ports</translation>
     </message>
     <message>
         <source>Networks</source>
-        <translation type="unfinished"/>
+        <translation>Xarxes</translation>
     </message>
     <message>
         <source>Hosts</source>
-        <translation type="unfinished"/>
+        <translation>Amfitrions</translation>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>p. ex. docs.veyon.io</translation>
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
@@ -602,11 +602,11 @@
     </message>
     <message>
         <source>Server addresses</source>
-        <translation type="unfinished"/>
+        <translation>Adreça del servidor</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation type="unfinished"/>
+        <translation>p. ex. 192.168.1.253</translation>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
@@ -636,15 +636,15 @@
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished"/>
+        <translation>Ajustaments generals</translation>
     </message>
     <message>
         <source>Backend:</source>
-        <translation>Dorsal:</translation>
+        <translation>Rerefons:</translation>
     </message>
     <message>
         <source>Backend settings</source>
-        <translation type="unfinished"/>
+        <translation>Configuració del rerefons</translation>
     </message>
     <message>
         <source>Retain previous Internet blocking state</source>
@@ -710,15 +710,15 @@
     <name>LicensingConfigurationPage</name>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"/>
+        <translation>Llicència</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informació</translation>
     </message>
     <message>
         <source>Installation ID</source>
-        <translation type="unfinished"/>
+        <translation>ID de l&apos;instal·lació</translation>
     </message>
     <message>
         <source>Addons available for licensing</source>
@@ -726,7 +726,7 @@
     </message>
     <message>
         <source>Installed licenses</source>
-        <translation type="unfinished"/>
+        <translation>Llicències instal·lades</translation>
     </message>
     <message>
         <source>Add license from file</source>
@@ -738,7 +738,7 @@
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Add-on</source>
@@ -778,7 +778,7 @@
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation>Qualsevol</translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
@@ -786,15 +786,15 @@
     </message>
     <message>
         <source>invalid license</source>
-        <translation type="unfinished"/>
+        <translation>llicència no vàlida</translation>
     </message>
     <message>
         <source>unlimited</source>
-        <translation type="unfinished"/>
+        <translation>sense límit</translation>
     </message>
     <message>
         <source>Invalid license file</source>
-        <translation type="unfinished"/>
+        <translation>El fitxer de llicència no és vàlid</translation>
     </message>
     <message>
         <source>Could not open the license file for reading!</source>
@@ -845,7 +845,7 @@
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation>%1 demo</translation>
     </message>
 </context>
 <context>
@@ -905,7 +905,7 @@ USAGE
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode</translation>
     </message>
     <message>
         <source>Scan all subnets of computer</source>
@@ -925,7 +925,7 @@ USAGE
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
+        <translation>p. ex. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
@@ -941,7 +941,7 @@ USAGE
     </message>
     <message>
         <source>Groups</source>
-        <translation type="unfinished"/>
+        <translation>Grups</translation>
     </message>
     <message>
         <source>First address</source>
@@ -989,7 +989,7 @@ USAGE
     </message>
     <message>
         <source>IP address</source>
-        <translation type="unfinished"/>
+        <translation>Adreça IP</translation>
     </message>
     <message>
         <source>DNS name (reverse lookup)</source>
@@ -997,7 +997,7 @@ USAGE
     </message>
     <message>
         <source>User login name</source>
-        <translation type="unfinished"/>
+        <translation>Nom d&apos;inici de sessió</translation>
     </message>
     <message>
         <source>Session client address</source>
@@ -1025,7 +1025,7 @@ USAGE
     </message>
     <message>
         <source>Full name of user</source>
-        <translation type="unfinished"/>
+        <translation>Nom complet de l&apos;usuari</translation>
     </message>
     <message>
         <source>User groups filter expression:</source>
@@ -1037,7 +1037,7 @@ USAGE
     </message>
     <message>
         <source>Computer names</source>
-        <translation type="unfinished"/>
+        <translation>Noms d&apos;ordinador</translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
@@ -1083,7 +1083,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation>Clau de registre</translation>
     </message>
     <message>
         <source>Registry key name:</source>
@@ -1095,7 +1095,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Per defecte</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -1168,7 +1168,7 @@ USAGE
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Adreça</translation>
     </message>
     <message>
         <source>Port</source>
@@ -1207,7 +1207,7 @@ USAGE
     </message>
     <message>
         <source>Destination</source>
-        <translation type="unfinished"/>
+        <translation>Destinació</translation>
     </message>
     <message>
         <source>Gateway</source>
@@ -1223,7 +1223,7 @@ USAGE
     </message>
     <message>
         <source>New route</source>
-        <translation type="unfinished"/>
+        <translation>Ruta nova</translation>
     </message>
 </context>
 <context>
@@ -1234,14 +1234,14 @@ USAGE
     </message>
     <message>
         <source>Custom route</source>
-        <translation type="unfinished"/>
+        <translation>Ruta personalitzada</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderConfigurationPage</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrador de pantalla</translation>
     </message>
     <message>
         <source>Output settings</source>
@@ -1257,11 +1257,11 @@ USAGE
     </message>
     <message>
         <source>frames per second</source>
-        <translation type="unfinished"/>
+        <translation>marcs per segon</translation>
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>Directori de sortida</translation>
     </message>
     <message>
         <source>x</source>
@@ -1289,11 +1289,11 @@ USAGE
     </message>
     <message>
         <source>kbps</source>
-        <translation type="unfinished"/>
+        <translation>kbps</translation>
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation>Perfil H.264</translation>
     </message>
     <message>
         <source>Bitrate</source>
@@ -1320,15 +1320,15 @@ USAGE
     <name>ScreenRecorderControlWidget</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrador de pantalla</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation type="unfinished"/>
+        <translation>Inicia l&apos;enregistrament</translation>
     </message>
     <message>
         <source>Processing…</source>
-        <translation type="unfinished"/>
+        <translation>S&apos;està processant...</translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
@@ -1336,7 +1336,7 @@ USAGE
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Tanca</translation>
     </message>
     <message>
         <source>Screen recording</source>

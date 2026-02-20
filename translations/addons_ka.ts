@@ -1,29 +1,29 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ru">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ka">
 <context>
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation>Auvidus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start behavior</source>
-        <translation>Начальное окружение</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation>Сохранить предыдущее состояние</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Webcams</source>
-        <translation>Веб-камеры</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Microphones</source>
-        <translation>Микрофоны</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>USB drives</source>
-        <translation>USB-накопители</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mute</source>
@@ -39,15 +39,15 @@
     </message>
     <message>
         <source>Disable</source>
-        <translation>Выключить</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Включить</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unlock</source>
-        <translation>Разблокировать</translation>
+        <translation>განბლოკვა</translation>
     </message>
 </context>
 <context>
@@ -66,7 +66,7 @@
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
-        <translation>Нажмите, чтобы отключить звук динамиков, наушников и т.д.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unmute audio outputs</source>
@@ -74,23 +74,23 @@
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation>Отключить микрофоны</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click to mute microphones.</source>
-        <translation>Нажмите, чтобы отключить микрофоны.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unmute microphones</source>
-        <translation>Включить микрофоны</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Device control</source>
-        <translation>Управление устройством</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation>Отключить вэб-камеры</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click to disable webcams.</source>
@@ -122,19 +122,19 @@
     </message>
     <message>
         <source>Unlock webcams</source>
-        <translation>Разблокировать камеры</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click to enable webcams again.</source>
-        <translation>Нажмите, чтобы снова включить веб-камеры.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable USB drives</source>
-        <translation>Отключить USB-накопители</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unlock USB drives</source>
-        <translation>Включить USB-накопители</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
@@ -161,19 +161,19 @@
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>General settings</source>
-        <translation>Общие параметры</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow plain text messages only</source>
-        <translation>Разрешить только сообщения в формате обычного текста</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Nicknames</source>
-        <translation>Никнеймы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Login names of users</source>
@@ -181,18 +181,18 @@
     </message>
     <message>
         <source>Full names of users</source>
-        <translation>Полные имена пользователей</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
-        <translation>Разрешите пользователям менять свои никнеймы</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
@@ -204,65 +204,65 @@
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
-        <translation>Интерактивный чат с авторизованными пользователями</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ChatWindow</name>
     <message>
         <source>Veyon Chat</source>
-        <translation>Чат Veyon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chat title</source>
-        <translation>Заголовок чата</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Nickname</source>
-        <translation>Никнейм</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type a new message</source>
-        <translation>Введите новое сообщение</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close chat</source>
-        <translation>Закрыть чат</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change chat title</source>
-        <translation>Поменять заголовок чата</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter a new title for the chat:</source>
-        <translation>Пожалуйста, введите новый заголовок для этого чата</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change nickname</source>
-        <translation>Измените никнейм</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter a new nickname:</source>
-        <translation>Пожалуйста, введите ваш новый никнейм:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>EntraIdConnectorConfigurationPage</name>
     <message>
         <source>Entra ID Connector</source>
-        <translation>Entra ID Connector</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Basic settings</source>
-        <translation>Основные настройки</translation>
+        <translation>ძირითადი პარამეტრები</translation>
     </message>
     <message>
         <source>Tenant ID</source>
-        <translation>Tenant ID</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Application (client) ID</source>
-        <translation>Идентификатор приложения (клиента)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Client secret</source>
@@ -270,63 +270,63 @@
     </message>
     <message>
         <source>Authentication mechanism</source>
-        <translation>Механизм аутентификации</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
-        <translation>Microsoft Authentication Library (MSAL)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OAuth 2.0</source>
-        <translation>OAuth 2.0</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Request timeout</source>
-        <translation>Истекло время ожидания запроса</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Domain name</source>
-        <translation>Имя домена</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filters</source>
-        <translation>Фильтры</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Users filter</source>
-        <translation>Фильтры пользователей</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Devices filter</source>
-        <translation>Фильтр устройств</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User groups filter</source>
-        <translation>Фильтр групп пользователей</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Device groups filter</source>
-        <translation>Фильтр групп устройств</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation>Используйте атрибут местоположения устройства</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation>Извлечение из имени хоста с помощью регулярного выражения</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Regular expression</source>
-        <translation>Регулярное выражение</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Query limit</source>
-        <translation>Ограничение на количество запросов</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Entra ID configuration check</source>
-        <translation>Проверка конфигурации Entra ID</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>An access token for Entra ID has been obtained successfully.</source>
@@ -334,47 +334,45 @@
     </message>
     <message>
         <source>Entra ID test failed</source>
-        <translation>Entra ID ошибка тестирования</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Entra ID test successful</source>
-        <translation>Entra ID успешный тест</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 %2 have been queried successfully:
 
 %3</source>
-        <translation>%1 %2 успешно опрошено: 
-
-%3</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>users</source>
-        <translation>пользователи</translation>
+        <translation>მომხმარებლები</translation>
     </message>
     <message>
         <source>Test access</source>
-        <translation>Протестировать доступ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Entra ID access</source>
-        <translation>Доступ Entra ID</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>user groups</source>
-        <translation>группы пользователей</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>device groups</source>
-        <translation>группы устройств</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>device locations</source>
-        <translation>локации устройств</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Location mapping mode</source>
-        <translation>Режим отображения местоположения</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Could not query any %1. Please check the API permissions (%2) for the registered app in your Microsoft Entra admin center and the &quot;%3&quot; parameter on this page.</source>
@@ -386,7 +384,7 @@
     </message>
     <message>
         <source>devices</source>
-        <translation>устройства</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
@@ -398,39 +396,39 @@
     </message>
     <message>
         <source>Locations</source>
-        <translation>Места</translation>
+        <translation>მდებარეობები</translation>
     </message>
     <message>
         <source>Use device groups</source>
-        <translation>Использовать группы устройств</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. description</source>
-        <translation>например, описание</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Device group attribute to use as location name</source>
-        <translation>Атрибут группы устройств, используемый в качестве имени местоположения.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Client certificate path</source>
-        <translation>Путь к клиентскому сертификату</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Client certificate file</source>
-        <translation>Путь к файлу клиентского сертификата</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PEM files (*.pem)</source>
-        <translation>PEM файлы (*.pem)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
-        <translation>Не удалось получить токен доступа для Entra ID. Пожалуйста, проверьте trenant ID, идентификатор приложения (клиента) и путь к секретному ключу клиента или сертификату.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Client certificate with private key file</source>
-        <translation>Сертификат клиента с файлом приватного ключа</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Specify path to client certificate file containing the private key.</source>
@@ -442,23 +440,23 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation>Устройства</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hostname attribute</source>
-        <translation>Атрибут имени хоста</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MAC address attribute</source>
-        <translation>Атрибут MAC-адреса</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hostname source</source>
-        <translation>Источник имени хоста</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Device name (default)</source>
-        <translation>Имя устройства (по умолчанию)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Multicast DNS (device name + .local suffix)</source>
@@ -466,15 +464,15 @@
     </message>
     <message>
         <source>Open query console</source>
-        <translation>Открыть консоль запросов</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MAC address source</source>
-        <translation>Источник MAC-адреса</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
-        <translation>Атрибут MAC-адреса (по умолчанию)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Intune Ethernet MAC address</source>
@@ -516,7 +514,7 @@
     <name>EntraIdDirectory</name>
     <message>
         <source>Unknown location</source>
-        <translation>Неизвестное место</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Query timed out</source>
@@ -550,71 +548,71 @@
     <name>FirewallConfigurationWidget</name>
     <message>
         <source>e.g. 8080</source>
-        <translation>Например: 8080</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Нетипичный</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>21 (FTP)</source>
-        <translation>21 (FTP)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>80/443 (HTTP/HTTPS)</source>
-        <translation>80/443 (HTTP/HTTPS)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation>Блокировать передачу любых исходных данных для нелокальных сетей</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation>Исключения</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. 80 443</source>
-        <translation>Например: 80 443</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation>Например: 192.168.1.0/24</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ports</source>
-        <translation>Порты</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Networks</source>
-        <translation>Сети</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hosts</source>
-        <translation>Хосты</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation>например, docs.veyon.io</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation>Блокировать трафик к Proxy/DNS серверам</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Server addresses</source>
-        <translation>Адреса серверов</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
-        <translation>например 192.168.1.253</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation>Включить предварительно настроенное правило брандмауэра</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation>სახელი</translation>
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
@@ -625,26 +623,26 @@
     <name>FirewallPlugin</name>
     <message>
         <source>Block internet access via system firewall</source>
-        <translation>Блокировать доступ к интернету с помощью брандмауэра</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>InternetAccessControlConfigurationPage</name>
     <message>
         <source>Internet access control</source>
-        <translation>Управление доступом к интернету</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>General settings</source>
-        <translation>Общие параметры</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Backend:</source>
-        <translation>Бэкэнд:</translation>
+        <translation>უკანბოლო:</translation>
     </message>
     <message>
         <source>Backend settings</source>
-        <translation>Параметры модулей</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Retain previous Internet blocking state</source>
@@ -652,11 +650,11 @@
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation>Разблокировать доступ к интернету</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Block Internet access</source>
-        <translation>Блокировать доступ к интернету</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start behavior:</source>
@@ -667,39 +665,39 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Block Internet access</source>
-        <translation>Блокировать доступ к интернету</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unblock Internet access</source>
-        <translation>Разблокировать доступ к интернету</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show help about command</source>
-        <translation>Показать помощь по команде</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Internet access</source>
-        <translation>Доступ к интернету</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Block or unblock Internet access.</source>
-        <translation>Блокировать или разблокировать доступ к интернету</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click this button to block Internet access.</source>
-        <translation>Нажмите эту кнопку, чтобы заблокировать доступ к интернету.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click this button to unblock Internet access.</source>
-        <translation>Нажмите эту кнопку, чтобы разблокировать доступ к интернету.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Control access to the internet</source>
-        <translation>Управление доступом к интернету</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Commands for controlling access to the internet</source>
-        <translation>Команды для управления доступом к интернету</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
@@ -710,35 +708,35 @@
     <name>LicensingConfigurationPage</name>
     <message>
         <source>Licensing</source>
-        <translation>Лицензирование</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Information</source>
-        <translation>Информация</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Installation ID</source>
-        <translation>Ид. установки</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Addons available for licensing</source>
-        <translation>Дополнения, доступные для лицензирования</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Installed licenses</source>
-        <translation>Установленные лицензии</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add license from file</source>
-        <translation>Добавить лицензию из файла</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove selected license</source>
-        <translation>Удалить выбранную лицензию</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ID</source>
-        <translation>Идентификатор</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add-on</source>
@@ -746,7 +744,7 @@
     </message>
     <message>
         <source>Valid until</source>
-        <translation>В силе до</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sites</source>
@@ -754,27 +752,27 @@
     </message>
     <message>
         <source>Computers</source>
-        <translation>Компьютеры</translation>
+        <translation>კომპიუტერი</translation>
     </message>
     <message>
         <source>Licensee</source>
-        <translation>Лицензиат</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Browse license file</source>
-        <translation>Просмотреть файл лицензии</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Veyon license files (*.vlf)</source>
-        <translation>файлы лицензий Veyon (*.vlf)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove license</source>
-        <translation>Удалить лицензию</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you really want to remove the selected license?</source>
-        <translation>Вы действительно хотите удалить выбранную лицензию?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Any</source>
@@ -782,11 +780,11 @@
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
-        <translation>&lt;н/д&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>invalid license</source>
-        <translation>Некорректная лицензия</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>unlimited</source>
@@ -794,35 +792,35 @@
     </message>
     <message>
         <source>Invalid license file</source>
-        <translation>Некорректный файл лицензии</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Could not open the license file for reading!</source>
-        <translation>Не удалось открыть файл лицензии для чтения!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The selected license file does not contain valid data.</source>
-        <translation>В указанном файле лицензии не содержится корректных данных.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The selected license file could not be verified.</source>
-        <translation>Выделенный файл лицензии не удалось проверить.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The selected license file is not valid for this installation.</source>
-        <translation>Выделенный файл лицензии не действует для этой установки.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The selected license file is expired.</source>
-        <translation>Срок действия выделенного файла лицензии истек.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The license is already installed.</source>
-        <translation>Эта лицензия уже установлена.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feature</source>
-        <translation>Функция</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -845,26 +843,26 @@
     </message>
     <message>
         <source>%1 demo</source>
-        <translation>%1 демо</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>LicensingPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation>Показать справку по определённой команде</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show all installed licenses</source>
-        <translation>Показать все установленные лицензии</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add license file</source>
-        <translation>Добавить файл лицензии</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove installed license</source>
-        <translation>Удалить установленную лицензию</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>
@@ -873,12 +871,7 @@ USAGE
 %1 add &lt;LICENSE FILE&gt;
 
 </source>
-        <translation>
-ИСПОЛЬЗОВАНИЕ
-
-%1 add &lt;LICENSE FILE&gt;
-
-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>
@@ -887,111 +880,106 @@ USAGE
 %1 remove &lt;LICENSE ID&gt;
 
 </source>
-        <translation>
-ИСПОЛЬЗОВАНИЕ
-
-%1 remove &lt;LICENSE ID&gt;
-
-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No certificate found with given ID</source>
-        <translation>Не найдено сертификата с указанным идентификатором</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Licensing management</source>
-        <translation>Управление лицензиями</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Commands for managing license keys</source>
-        <translation>Команды для управления файлами лицензий</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryConfigurationPage</name>
     <message>
         <source>Network discovery</source>
-        <translation>Обнаружение сети</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Режим</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scan all subnets of computer</source>
-        <translation>Сканировать все подсети компьютера</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Test</source>
-        <translation>Тестировать</translation>
+        <translation>შემოწმება</translation>
     </message>
     <message>
         <source>Scan custom subnet</source>
-        <translation>Сканировать нетипичную подсеть</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scan network ranges</source>
-        <translation>Сканировать диапазоны сети</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation>Например: 192.168.1.0/24</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Network ranges</source>
-        <translation>Диапазоны сети</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add new group</source>
-        <translation>Добавить новую группу</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove selected group</source>
-        <translation>Удалить выделенную группу</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Groups</source>
-        <translation>Группы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First address</source>
-        <translation>Первый адрес</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Last address</source>
-        <translation>Последний адрес</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add new network range</source>
-        <translation>Добавить новый диапазон сети</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove selected network range</source>
-        <translation>Удалить выделенный диапазон сети</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sessions</source>
-        <translation>Сессии</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation>Сканирование (например, удаленного рабочего стола) сеансов на всех компьютерах</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation>Исключить первую (консольную) сессию</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options</source>
-        <translation>Параметры</translation>
+        <translation>მორგება</translation>
     </message>
     <message>
         <source> ms</source>
-        <translation>мс</translation>
+        <translation> მწმ</translation>
     </message>
     <message>
         <source>New location</source>
-        <translation>Новое место</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -999,7 +987,7 @@ USAGE
     </message>
     <message>
         <source>IP address</source>
-        <translation>IP-адресы</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DNS name (reverse lookup)</source>
@@ -1007,15 +995,15 @@ USAGE
     </message>
     <message>
         <source>User login name</source>
-        <translation>Имя пользователя (логин)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session client address</source>
-        <translation>Адрес клиента сеанса</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session client name</source>
-        <translation>Имя клиента сеанса</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Parallel scans:</source>
@@ -1035,7 +1023,7 @@ USAGE
     </message>
     <message>
         <source>Full name of user</source>
-        <translation>Полное имя пользователя</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User groups filter expression:</source>
@@ -1047,19 +1035,17 @@ USAGE
     </message>
     <message>
         <source>Computer names</source>
-        <translation>Имена компьютеров</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
 
 Example: [^-]*-(PC[0-9]*)</source>
-        <translation>При необходимости введите регулярное выражение с захватом, чтобы извлечь часть имени компьютера и использовать её в качестве отображаемого имени компьютера.
-
-Пример: [^-]*-(PC[0-9]*)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Locations</source>
-        <translation>Места</translation>
+        <translation>მდებარეობები</translation>
     </message>
     <message>
         <source>Default / network range groups</source>
@@ -1091,15 +1077,15 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Environment variable name:</source>
-        <translation>Имя переменной среды:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Registry key</source>
-        <translation>Ключ реестра</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Registry key name:</source>
-        <translation>Имя ключа реестра:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Property for generating persistent network object IDs:</source>
@@ -1107,11 +1093,11 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default</source>
-        <translation>По умолчанию</translation>
+        <translation>ნაგულისხმევი</translation>
     </message>
     <message>
         <source>Host address</source>
-        <translation>Адрес хоста</translation>
+        <translation>ჰოსტის მისამართი</translation>
     </message>
     <message>
         <source>Computer name</source>
@@ -1132,22 +1118,22 @@ Example: (R[0-9]*)-*</source>
     <name>NetworkDiscoveryDirectory</name>
     <message>
         <source>Discovered computers</source>
-        <translation>Обнаруженные компьютеры</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scanning...</source>
-        <translation>Сканирование...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation>Показать справку по определённой команде</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scan a subnet</source>
-        <translation>Сканировать подсеть</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>
@@ -1156,32 +1142,27 @@ USAGE
 %1 scan [&lt;SUBNET&gt;]
 
 </source>
-        <translation>
-ИСПОЛЬЗОВАНИЕ
-
-%1 scan [&lt;SUBNET&gt;]
-
-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Network object directory which automatically discovers computers in the network</source>
-        <translation>Каталог объектов сети, который автоматически обнаруживает компьютеры в сети</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Network discovery (scan network for Veyon clients)</source>
-        <translation>Обнаружение сети (поиск в сети клиентов Veyon)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Commands for managing the network discovery directory</source>
-        <translation>Команды для управления каталогом обнаружения сети</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failed to initialize credentials</source>
-        <translation>Не удалось инициализировать регистрационные данные</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation>სახელი</translation>
     </message>
     <message>
         <source>Address</source>
@@ -1189,11 +1170,11 @@ USAGE
     </message>
     <message>
         <source>Port</source>
-        <translation>Порт</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Locations</source>
-        <translation>Места</translation>
+        <translation>მდებარეობები</translation>
     </message>
     <message>
         <source>Query system settings key from the server</source>
@@ -1212,7 +1193,7 @@ USAGE
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation>Удалить маршруты по умолчанию для блокировки доступа к интернету</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add custom routes to block internet</source>
@@ -1220,23 +1201,23 @@ USAGE
     </message>
     <message>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation>სახელი</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation>Назначение</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gateway</source>
-        <translation>Шлюз</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add new location</source>
-        <translation>Добавить новое место</translation>
+        <translation>ახალი მდებარეობის დამატება</translation>
     </message>
     <message>
         <source>Remove selected location</source>
-        <translation>Удалить выделенное место</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New route</source>
@@ -1247,7 +1228,7 @@ USAGE
     <name>RoutingPlugin</name>
     <message>
         <source>Block internet access by modifying routing table</source>
-        <translation>Блокировать доступ к интернету изменением таблицы маршрутизации</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom route</source>
@@ -1258,7 +1239,7 @@ USAGE
     <name>ScreenRecorderConfigurationPage</name>
     <message>
         <source>Screen recorder</source>
-        <translation>Запись экрана</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Output settings</source>
@@ -1278,7 +1259,7 @@ USAGE
     </message>
     <message>
         <source>Output directory</source>
-        <translation>Каталог для сохранения</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>x</source>
@@ -1306,15 +1287,15 @@ USAGE
     </message>
     <message>
         <source>kbps</source>
-        <translation>Kбит/с</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation>H.264 профиль</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation>Битрейт</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Keyframe interval</source>
@@ -1322,11 +1303,11 @@ USAGE
     </message>
     <message>
         <source>seconds</source>
-        <translation>сек.</translation>
+        <translation>წამი</translation>
     </message>
     <message>
         <source>Other settings</source>
-        <translation>Другие настройки</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
@@ -1337,73 +1318,73 @@ USAGE
     <name>ScreenRecorderControlWidget</name>
     <message>
         <source>Screen recorder</source>
-        <translation>Запись экрана</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start recording</source>
-        <translation>Начать запись</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Processing…</source>
-        <translation>Обработка...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation> Откройте папку с записями</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation>Запись экрана</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Starting recordings…</source>
-        <translation>Начало записи...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation>Остановить запись</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Finishing recordings…</source>
-        <translation>Остановка записи...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recording finished (duration: %1)</source>
-        <translation>Запись завершена (длительность: %1)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recording duration: %1</source>
-        <translation>Длительность записи: %1</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>auto</source>
-        <translation>Авто</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ScreenRecorderPlugin</name>
     <message>
         <source>Record</source>
-        <translation>Запись</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation>Остановить запись</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click this button to record the screens of all users into video files.</source>
-        <translation>Нажмите эту кнопку, чтобы начать видеозапись всех экранов пользователей.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation>Запись экрана</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
@@ -1423,14 +1404,14 @@ USAGE
     </message>
     <message>
         <source>Screen recording stopped</source>
-        <translation>Запись экрана остановлена</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>VeyonCore</name>
     <message>
         <source>licensed for</source>
-        <translation>лицензировано для</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
