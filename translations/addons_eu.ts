@@ -516,7 +516,7 @@
     <name>EntraIdDirectory</name>
     <message>
         <source>Unknown location</source>
-        <translation type="unfinished"/>
+        <translation>Kokapen ezezaguna</translation>
     </message>
     <message>
         <source>Query timed out</source>
@@ -1306,6 +1306,10 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Format</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>seconds</source>
         <translation>segundo</translation>
     </message>
@@ -1367,6 +1371,22 @@ USAGE
 </context>
 <context>
     <name>ScreenRecorderEncodingWorker</name>
+    <message>
+        <source>Standard MP4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fragmented MP4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Matroska (MKV)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MPEG-TS</source>
+        <translation type="unfinished"/>
+    </message>
     <message>
         <source>auto</source>
         <translation type="unfinished"/>

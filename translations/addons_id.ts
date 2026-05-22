@@ -1317,6 +1317,10 @@ PENGGUNAAN
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Format</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>seconds</source>
         <translation type="unfinished"/>
     </message>
@@ -1378,6 +1382,22 @@ PENGGUNAAN
 </context>
 <context>
     <name>ScreenRecorderEncodingWorker</name>
+    <message>
+        <source>Standard MP4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fragmented MP4</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Matroska (MKV)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>MPEG-TS</source>
+        <translation type="unfinished"/>
+    </message>
     <message>
         <source>auto</source>
         <translation type="unfinished"/>

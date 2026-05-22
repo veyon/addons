@@ -1323,6 +1323,10 @@ USAGE
         <translation>Інтервал між ключовими кадрами</translation>
     </message>
     <message>
+        <source>Format</source>
+        <translation>Формат</translation>
+    </message>
+    <message>
         <source>seconds</source>
         <translation>секунд</translation>
     </message>
@@ -1384,6 +1388,22 @@ USAGE
 </context>
 <context>
     <name>ScreenRecorderEncodingWorker</name>
+    <message>
+        <source>Standard MP4</source>
+        <translation>Стандартний MP4</translation>
+    </message>
+    <message>
+        <source>Fragmented MP4</source>
+        <translation>Фрагментований MP4</translation>
+    </message>
+    <message>
+        <source>Matroska (MKV)</source>
+        <translation>Matroska (MKV)</translation>
+    </message>
+    <message>
+        <source>MPEG-TS</source>
+        <translation>MPEG-TS</translation>
+    </message>
     <message>
         <source>auto</source>
         <translation>авто</translation>

@@ -1321,6 +1321,10 @@ USO
         <translation>Intervallo di Keyframe</translation>
     </message>
     <message>
+        <source>Format</source>
+        <translation>Formato</translation>
+    </message>
+    <message>
         <source>seconds</source>
         <translation>secondi</translation>
     </message>
@@ -1382,6 +1386,22 @@ USO
 </context>
 <context>
     <name>ScreenRecorderEncodingWorker</name>
+    <message>
+        <source>Standard MP4</source>
+        <translation>MP4 standard</translation>
+    </message>
+    <message>
+        <source>Fragmented MP4</source>
+        <translation>MP4 frammentato</translation>
+    </message>
+    <message>
+        <source>Matroska (MKV)</source>
+        <translation>Matroska (MKV)</translation>
+    </message>
+    <message>
+        <source>MPEG-TS</source>
+        <translation>MPEG-TS</translation>
+    </message>
     <message>
         <source>auto</source>
         <translation>Automatico</translation>
