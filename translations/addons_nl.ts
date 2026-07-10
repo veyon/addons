@@ -200,7 +200,7 @@
     </message>
     <message>
         <source>%1 Chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 Chat</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -643,20 +643,20 @@
         <translation>Backend:</translation>
     </message>
     <message>
+        <source>Retain previous internet blocking state</source>
+        <translation>Eerdere internetblokkering behouden</translation>
+    </message>
+    <message>
+        <source>Block internet access</source>
+        <translation>Internettoegang blokkeren</translation>
+    </message>
+    <message>
+        <source>Restore internet access</source>
+        <translation>Internettoegang herstellen</translation>
+    </message>
+    <message>
         <source>Backend settings</source>
         <translation>Backend-instellingen</translation>
-    </message>
-    <message>
-        <source>Retain previous Internet blocking state</source>
-        <translation>Vorige internetblokkering behouden</translation>
-    </message>
-    <message>
-        <source>Unblock Internet access</source>
-        <translation>Deblokkeer internettoegang</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Blokkeer internettoegang</translation>
     </message>
     <message>
         <source>Start behavior:</source>
@@ -666,12 +666,12 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block Internet access</source>
-        <translation>Blokkeer internettoegang</translation>
+        <source>Restrict internet access</source>
+        <translation>Internettoegang beperken</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Deblokkeer internettoegang</translation>
+        <source>Restore internet access</source>
+        <translation>Internettoegang herstellen</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -682,16 +682,44 @@
         <translation>Internet toegang</translation>
     </message>
     <message>
-        <source>Block or unblock Internet access.</source>
-        <translation>Blokkeer of deblokkeer internettoegang.</translation>
+        <source>Block, restrict or restore internet access.</source>
+        <translation>Internetverbinding blokkeren, beperken of herstellen.</translation>
     </message>
     <message>
-        <source>Click this button to block Internet access.</source>
-        <translation>Klik op deze knop om internettoegang te blokkeren.</translation>
+        <source>Click to restrict internet access to certain websites.</source>
+        <translation>Klik hier om de internettoegang tot bepaalde websites te beperken.</translation>
     </message>
     <message>
-        <source>Click this button to unblock Internet access.</source>
-        <translation>Klik op deze knop om de internettoegang te deblokkeren.</translation>
+        <source>Block internet access</source>
+        <translation>Internettoegang blokkeren</translation>
+    </message>
+    <message>
+        <source>Click to completely block internet access.</source>
+        <translation>Klik hier om de internettoegang volledig te blokkeren.</translation>
+    </message>
+    <message>
+        <source>Click to restore internet access.</source>
+        <translation>Klik hier om de internettoegang te herstellen.</translation>
+    </message>
+    <message>
+        <source>Restrict internet access to selected websites</source>
+        <translation>Beperk de internettoegang tot bepaalde websites</translation>
+    </message>
+    <message>
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
+        <translation>De internettoegang is nu geblokkeerd. Aangezien je een demoversie van deze add-on gebruikt, wordt de toegang over 5 minuten automatisch hersteld.</translation>
+    </message>
+    <message>
+        <source>Allowed websites</source>
+        <translation>Toegestane websites</translation>
+    </message>
+    <message>
+        <source>Please wait while resolving wildcard domains</source>
+        <translation>Even geduld, domeinen met jokertekens worden verwerkt</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -700,10 +728,6 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Commando&apos;s om de toegang tot het internet te regelen</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation>De internettoegang is nu geblokkeerd. Aangezien u een demoversie van deze add-on gebruikt, wordt deze binnen 5 minuten automatisch gedeblokkeerd.</translation>
     </message>
 </context>
 <context>
@@ -723,6 +747,10 @@
     <message>
         <source>Addons available for licensing</source>
         <translation>Add-ons beschikbaar voor licenties</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation>Wijzigen</translation>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -759,6 +787,26 @@
     <message>
         <source>Licensee</source>
         <translation>Licentiehouder</translation>
+    </message>
+    <message>
+        <source>Please enter the installation ID to set:</source>
+        <translation>Voer de installatie-ID in die u wilt instellen:</translation>
+    </message>
+    <message>
+        <source>Invalid installation ID</source>
+        <translation>Ongeldige installatie-ID</translation>
+    </message>
+    <message>
+        <source>The entered installation ID is invalid. The current installation ID is kept.</source>
+        <translation>De ingevoerde installatie-ID is ongeldig. De huidige installatie-ID blijft behouden.</translation>
+    </message>
+    <message>
+        <source>Installation ID changed</source>
+        <translation>Installatie-ID gewijzigd</translation>
+    </message>
+    <message>
+        <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
+        <translation>Het installatie-ID is succesvol gewijzigd. Pas de configuratie toe om deze definitief op te slaan.</translation>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1211,6 +1259,32 @@ GEBRUIK
     </message>
 </context>
 <context>
+    <name>ProxyRedirectConfigurationWidget</name>
+    <message>
+        <source>Exceptions</source>
+        <translation>Uitzonderingen</translation>
+    </message>
+    <message>
+        <source>e.g. 127.0.0.1:8000</source>
+        <translation>bijv. 127.0.0.1:8000</translation>
+    </message>
+    <message>
+        <source>e.g. *.wikipedia.org</source>
+        <translation>bijv. *.wikipedia.org</translation>
+    </message>
+    <message>
+        <source>Redirected proxy address</source>
+        <translation>Omgeleid proxy-adres</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectPlugin</name>
+    <message>
+        <source>Block internet access via proxy redirection</source>
+        <translation>Internettoegang blokkeren via proxy-omleiding</translation>
+    </message>
+</context>
+<context>
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
@@ -1218,7 +1292,7 @@ GEBRUIK
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Voeg aangepaste routes toe om internet te blokkeren</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1242,7 +1316,7 @@ GEBRUIK
     </message>
     <message>
         <source>New route</source>
-        <translation type="unfinished"/>
+        <translation>Nieuwe route</translation>
     </message>
 </context>
 <context>
@@ -1253,7 +1327,7 @@ GEBRUIK
     </message>
     <message>
         <source>Custom route</source>
-        <translation type="unfinished"/>
+        <translation>Aangepaste route</translation>
     </message>
 </context>
 <context>
@@ -1324,7 +1398,7 @@ GEBRUIK
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>Indeling</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1390,19 +1464,19 @@ GEBRUIK
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>Standard MP4</source>
-        <translation type="unfinished"/>
+        <translation>Standaard MP4</translation>
     </message>
     <message>
         <source>Fragmented MP4</source>
-        <translation type="unfinished"/>
+        <translation>Gefragmenteerde MP4</translation>
     </message>
     <message>
         <source>Matroska (MKV)</source>
-        <translation type="unfinished"/>
+        <translation>Matroska (MKV)</translation>
     </message>
     <message>
         <source>MPEG-TS</source>
-        <translation type="unfinished"/>
+        <translation>MPEG-TS</translation>
     </message>
     <message>
         <source>auto</source>

@@ -643,20 +643,20 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Backend-Einstellungen</translation>
-    </message>
-    <message>
-        <source>Retain previous Internet blocking state</source>
+        <source>Retain previous internet blocking state</source>
         <translation>Vorherigen Internetsperrstatus beibehalten</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
+        <source>Block internet access</source>
+        <translation>Internetzugriff sperren</translation>
+    </message>
+    <message>
+        <source>Restore internet access</source>
         <translation>Internetzugriff freigeben</translation>
     </message>
     <message>
-        <source>Block Internet access</source>
-        <translation>Internetzugriff sperren</translation>
+        <source>Backend settings</source>
+        <translation>Backend-Einstellungen</translation>
     </message>
     <message>
         <source>Start behavior:</source>
@@ -666,11 +666,11 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block Internet access</source>
-        <translation>Internetzugriff sperren</translation>
+        <source>Restrict internet access</source>
+        <translation>Internetzugriff einschränken</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
+        <source>Restore internet access</source>
         <translation>Internetzugriff freigeben</translation>
     </message>
     <message>
@@ -682,16 +682,44 @@
         <translation>Internetzugriff</translation>
     </message>
     <message>
-        <source>Block or unblock Internet access.</source>
-        <translation>Internetzugriff sperren oder freigeben</translation>
+        <source>Block, restrict or restore internet access.</source>
+        <translation>Internetzugriff sperren, einschränken oder freigeben</translation>
     </message>
     <message>
-        <source>Click this button to block Internet access.</source>
-        <translation>Klicken Sie auf diesen Button, um den Zugriff auf das Internet zu sperren.</translation>
+        <source>Click to restrict internet access to certain websites.</source>
+        <translation>Klicken Sie hier, um den Internetzugriff auf bestimmte Websites einzuschränken.</translation>
     </message>
     <message>
-        <source>Click this button to unblock Internet access.</source>
-        <translation>Klicken Sie auf diesen Button, um den Zugriff auf das Internet freizugeben.</translation>
+        <source>Block internet access</source>
+        <translation>Internetzugriff sperren</translation>
+    </message>
+    <message>
+        <source>Click to completely block internet access.</source>
+        <translation>Klicken Sie hier, um den Zugriff auf das Internet vollständig zu sperren.</translation>
+    </message>
+    <message>
+        <source>Click to restore internet access.</source>
+        <translation>Klicken Sie hier, um den Zugriff auf das Internet wiederherzustellen.</translation>
+    </message>
+    <message>
+        <source>Restrict internet access to selected websites</source>
+        <translation>Internetzugriff auf ausgewählte Websites beschränken</translation>
+    </message>
+    <message>
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
+        <translation>Der Internetzugriff ist jetzt gesperrt. Da Sie eine Demo-Version dieses Add-ons verwenden, wird der Zugriff in 5 Minuten automatisch wieder freigegeben.</translation>
+    </message>
+    <message>
+        <source>Allowed websites</source>
+        <translation>Zulässige Websites</translation>
+    </message>
+    <message>
+        <source>Please wait while resolving wildcard domains</source>
+        <translation>Bitte warten, während die Wildcard-Domains aufgelöst werden</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -700,10 +728,6 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Befehle zur Steuerung des Internetzugriffs</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation>Der Internetzugriff ist jetzt gesperrt. Da Sie eine Demo-Version dieses Add-ons verwenden, wird der Zugriff in 5 Minuten automatisch wieder freigegeben.</translation>
     </message>
 </context>
 <context>
@@ -723,6 +747,10 @@
     <message>
         <source>Addons available for licensing</source>
         <translation>Lizenzierbare Erweiterungen</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation>Ändern</translation>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -759,6 +787,26 @@
     <message>
         <source>Licensee</source>
         <translation>Lizenznehmer</translation>
+    </message>
+    <message>
+        <source>Please enter the installation ID to set:</source>
+        <translation>Bitte geben Sie die zu setzende Installations-ID ein:</translation>
+    </message>
+    <message>
+        <source>Invalid installation ID</source>
+        <translation>Ungültige Installations-ID</translation>
+    </message>
+    <message>
+        <source>The entered installation ID is invalid. The current installation ID is kept.</source>
+        <translation>Die eingegebene Installations-ID ist ungültig. Die aktuelle Installations-ID wird beibehalten.</translation>
+    </message>
+    <message>
+        <source>Installation ID changed</source>
+        <translation>Installations-ID geändert</translation>
+    </message>
+    <message>
+        <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
+        <translation>Die Installations-ID wurde erfolgreich geändert. Wenden Sie die Konfiguration an, um sie dauerhaft zu speichern.</translation>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1207,6 +1255,32 @@ VERWENDUNG
     <message>
         <source>Query environment variable from the server</source>
         <translation>Umgebungsvariable vom Server abfragen</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectConfigurationWidget</name>
+    <message>
+        <source>Exceptions</source>
+        <translation>Ausnahmen</translation>
+    </message>
+    <message>
+        <source>e.g. 127.0.0.1:8000</source>
+        <translation>z.B. 127.0.0.1:8000</translation>
+    </message>
+    <message>
+        <source>e.g. *.wikipedia.org</source>
+        <translation>z.B. *.wikipedia.org</translation>
+    </message>
+    <message>
+        <source>Redirected proxy address</source>
+        <translation>Umgeleitete Proxy-Adresse</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectPlugin</name>
+    <message>
+        <source>Block internet access via proxy redirection</source>
+        <translation>Internetzugriff mittels Proxy-Umleitung sperren</translation>
     </message>
 </context>
 <context>

@@ -643,20 +643,20 @@
         <translation>Háttér:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Háttér beállításai</translation>
-    </message>
-    <message>
-        <source>Retain previous Internet blocking state</source>
+        <source>Retain previous internet blocking state</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Internet-hozzáférés blokkolásának feloldása</translation>
+        <source>Block internet access</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block Internet access</source>
-        <translation>Internet-hozzáférés blokkolása</translation>
+        <source>Restore internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Háttér beállításai</translation>
     </message>
     <message>
         <source>Start behavior:</source>
@@ -666,12 +666,12 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block Internet access</source>
-        <translation>Internet-hozzáférés blokkolása</translation>
+        <source>Restrict internet access</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Internet-hozzáférés blokkolásának feloldása</translation>
+        <source>Restore internet access</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show help about command</source>
@@ -682,16 +682,44 @@
         <translation>Internetelérés</translation>
     </message>
     <message>
-        <source>Block or unblock Internet access.</source>
-        <translation>Internetelérés blokkolása, illetve annak feloldása.</translation>
+        <source>Block, restrict or restore internet access.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click this button to block Internet access.</source>
-        <translation>Az internet-hozzáférés blokkolásához kattintson erre a gombra. </translation>
+        <source>Click to restrict internet access to certain websites.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click this button to unblock Internet access.</source>
-        <translation>Az internet-hozzáférés blokkolásának feloldásához kattintson erre a gombra. </translation>
+        <source>Block internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to completely block internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to restore internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restrict internet access to selected websites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allowed websites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please wait while resolving wildcard domains</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -700,10 +728,6 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Internethozzáférés-vezérlés parancsai</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -723,6 +747,10 @@
     <message>
         <source>Addons available for licensing</source>
         <translation>Licencelhető</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -759,6 +787,26 @@
     <message>
         <source>Licensee</source>
         <translation>Licencelő</translation>
+    </message>
+    <message>
+        <source>Please enter the installation ID to set:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid installation ID</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The entered installation ID is invalid. The current installation ID is kept.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Installation ID changed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1205,6 +1253,32 @@ HASZNÁLATA
     </message>
     <message>
         <source>Query environment variable from the server</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectConfigurationWidget</name>
+    <message>
+        <source>Exceptions</source>
+        <translation>Kivételek</translation>
+    </message>
+    <message>
+        <source>e.g. 127.0.0.1:8000</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. *.wikipedia.org</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Redirected proxy address</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectPlugin</name>
+    <message>
+        <source>Block internet access via proxy redirection</source>
         <translation type="unfinished"/>
     </message>
 </context>

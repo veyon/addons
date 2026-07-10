@@ -643,20 +643,20 @@
         <translation>Backend:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Impostazioni back-end</translation>
-    </message>
-    <message>
-        <source>Retain previous Internet blocking state</source>
+        <source>Retain previous internet blocking state</source>
         <translation>Mantieni lo stato di blocco Internet precedente</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Sblocca l&apos;accesso a Internet</translation>
+        <source>Block internet access</source>
+        <translation>Blocca l&apos;accesso a Internet</translation>
     </message>
     <message>
-        <source>Block Internet access</source>
-        <translation>Blocca l&apos;accesso a Internet</translation>
+        <source>Restore internet access</source>
+        <translation>Ripristinare l&apos;accesso a Internet</translation>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Impostazioni back-end</translation>
     </message>
     <message>
         <source>Start behavior:</source>
@@ -666,12 +666,12 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block Internet access</source>
-        <translation>Blocca l&apos;accesso a Internet</translation>
+        <source>Restrict internet access</source>
+        <translation>Limitare l&apos;accesso a Internet</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Sblocca l&apos;accesso a Internet</translation>
+        <source>Restore internet access</source>
+        <translation>Ripristinare l&apos;accesso a Internet</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -682,16 +682,44 @@
         <translation>Accesso ad Internet </translation>
     </message>
     <message>
-        <source>Block or unblock Internet access.</source>
-        <translation>Blocca o sblocca l&apos;accesso a Internet.</translation>
+        <source>Block, restrict or restore internet access.</source>
+        <translation>Bloccare, limitare o ripristinare l&apos;accesso a Internet.</translation>
     </message>
     <message>
-        <source>Click this button to block Internet access.</source>
-        <translation>Fare clic su questo pulsante per bloccare l&apos;accesso a Internet.</translation>
+        <source>Click to restrict internet access to certain websites.</source>
+        <translation>Clicca qui per limitare l&apos;accesso a Internet a determinati siti web.</translation>
     </message>
     <message>
-        <source>Click this button to unblock Internet access.</source>
-        <translation>Fare clic su questo pulsante per sbloccare l&apos;accesso a Internet.</translation>
+        <source>Block internet access</source>
+        <translation>Blocca l&apos;accesso a Internet</translation>
+    </message>
+    <message>
+        <source>Click to completely block internet access.</source>
+        <translation>Clicca qui per bloccare completamente l&apos;accesso a Internet.</translation>
+    </message>
+    <message>
+        <source>Click to restore internet access.</source>
+        <translation>Clicca qui per ripristinare l&apos;accesso a Internet.</translation>
+    </message>
+    <message>
+        <source>Restrict internet access to selected websites</source>
+        <translation>Limitare l&apos;accesso a Internet a determinati siti web</translation>
+    </message>
+    <message>
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
+        <translation>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, verrà sbloccato automaticamente in 5 minuti.</translation>
+    </message>
+    <message>
+        <source>Allowed websites</source>
+        <translation>Siti web consentiti</translation>
+    </message>
+    <message>
+        <source>Please wait while resolving wildcard domains</source>
+        <translation>Attendere per favore mentre si risolvono i domini con caratteri jolly</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -700,10 +728,6 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Comandi per il controllo dell&apos;accesso a Internet</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, verrà sbloccato automaticamente in 5 minuti.</translation>
     </message>
 </context>
 <context>
@@ -723,6 +747,10 @@
     <message>
         <source>Addons available for licensing</source>
         <translation>Componenti aggiuntivi disponibili per la licenza</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation>Modifica</translation>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -759,6 +787,26 @@
     <message>
         <source>Licensee</source>
         <translation>Licenziatario</translation>
+    </message>
+    <message>
+        <source>Please enter the installation ID to set:</source>
+        <translation>Inserisci l&apos;ID di installazione per impostare:</translation>
+    </message>
+    <message>
+        <source>Invalid installation ID</source>
+        <translation>ID di installazione non valido</translation>
+    </message>
+    <message>
+        <source>The entered installation ID is invalid. The current installation ID is kept.</source>
+        <translation>L&apos;ID di installazione immesso non è valido. L&apos;ID di installazione corrente viene mantenuto.</translation>
+    </message>
+    <message>
+        <source>Installation ID changed</source>
+        <translation>ID di installazione modificato</translation>
+    </message>
+    <message>
+        <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
+        <translation>L&apos;ID di installazione è stato modificato correttamente. Applica la configurazione per salvarla in modo permanente.</translation>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1206,6 +1254,32 @@ USO
     <message>
         <source>Query environment variable from the server</source>
         <translation>Interrogare la variabile di ambiente dal server</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectConfigurationWidget</name>
+    <message>
+        <source>Exceptions</source>
+        <translation>Eccezioni</translation>
+    </message>
+    <message>
+        <source>e.g. 127.0.0.1:8000</source>
+        <translation>ad es. 127.0.0.1:8000</translation>
+    </message>
+    <message>
+        <source>e.g. *.wikipedia.org</source>
+        <translation>ad es. *.wikipedia.org</translation>
+    </message>
+    <message>
+        <source>Redirected proxy address</source>
+        <translation>Indirizzo proxy reindirizzato</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectPlugin</name>
+    <message>
+        <source>Block internet access via proxy redirection</source>
+        <translation>Bloccare l&apos;accesso a Internet tramite reindirizzamento proxy</translation>
     </message>
 </context>
 <context>

@@ -643,20 +643,20 @@
         <translation>الواجهة الخلفية</translation>
     </message>
     <message>
+        <source>Retain previous internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restore internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Backend settings</source>
         <translation>إعدادات الواجهة الخلفية</translation>
-    </message>
-    <message>
-        <source>Retain previous Internet blocking state</source>
-        <translation>الاحتفاظ بحالة حظر الإنترنت السابقة</translation>
-    </message>
-    <message>
-        <source>Unblock Internet access</source>
-        <translation>إلغاء حظر الوصول إلى الإنترنت</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>حظر الوصول إلى الإنترنت</translation>
     </message>
     <message>
         <source>Start behavior:</source>
@@ -666,12 +666,12 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block Internet access</source>
-        <translation>حظر الوصول إلى الإنترنت</translation>
+        <source>Restrict internet access</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>إلغاء حظر الوصول إلى الإنترنت</translation>
+        <source>Restore internet access</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show help about command</source>
@@ -682,16 +682,44 @@
         <translation> الوصول إلى الإنترنت</translation>
     </message>
     <message>
-        <source>Block or unblock Internet access.</source>
-        <translation>حظر أو إلغاء حظر الوصول إلى الإنترنت.</translation>
+        <source>Block, restrict or restore internet access.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click this button to block Internet access.</source>
-        <translation>اضغط على هذا الزر لحظر الوصول إلى الإنترنت.</translation>
+        <source>Click to restrict internet access to certain websites.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click this button to unblock Internet access.</source>
-        <translation>اضغط على هذا الزر لإلغاء حظر الوصول إلى الإنترنت.</translation>
+        <source>Block internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to completely block internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to restore internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restrict internet access to selected websites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allowed websites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please wait while resolving wildcard domains</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -700,10 +728,6 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>أوامر للتحكم في الوصول إلى الإنترنت.</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation>تم حظر الوصول إلى الإنترنت. نظرًا لأنك تستخدم النسخة التجريبية من هذه الإضافة، فسيتم إلغاء الحظر تلقائيًا بعد 5 دقائق.</translation>
     </message>
 </context>
 <context>
@@ -723,6 +747,10 @@
     <message>
         <source>Addons available for licensing</source>
         <translation>الإضافات المتاحة للترخيص</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -759,6 +787,26 @@
     <message>
         <source>Licensee</source>
         <translation>المرخص له</translation>
+    </message>
+    <message>
+        <source>Please enter the installation ID to set:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid installation ID</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The entered installation ID is invalid. The current installation ID is kept.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Installation ID changed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1208,6 +1256,32 @@ USAGE
     <message>
         <source>Query environment variable from the server</source>
         <translation>استعلام عن متغير البيئة من الخادم</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectConfigurationWidget</name>
+    <message>
+        <source>Exceptions</source>
+        <translation>استثناءات</translation>
+    </message>
+    <message>
+        <source>e.g. 127.0.0.1:8000</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. *.wikipedia.org</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Redirected proxy address</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectPlugin</name>
+    <message>
+        <source>Block internet access via proxy redirection</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

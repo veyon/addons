@@ -643,20 +643,20 @@
         <translation>Bakände:</translation>
     </message>
     <message>
+        <source>Retain previous internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restore internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Backend settings</source>
         <translation>Inställningar för säkerhetskopiering</translation>
-    </message>
-    <message>
-        <source>Retain previous Internet blocking state</source>
-        <translation>Behåll föregående blockeringstillstånd för internet</translation>
-    </message>
-    <message>
-        <source>Unblock Internet access</source>
-        <translation>Avblockera internetåtkomst</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Blockera tillgång till Internet</translation>
     </message>
     <message>
         <source>Start behavior:</source>
@@ -666,12 +666,12 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block Internet access</source>
-        <translation>Blockera tillgång till Internet</translation>
+        <source>Restrict internet access</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Avblockera internetåtkomst</translation>
+        <source>Restore internet access</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show help about command</source>
@@ -682,16 +682,44 @@
         <translation>Tillgång till internet</translation>
     </message>
     <message>
-        <source>Block or unblock Internet access.</source>
-        <translation>Blockera eller avblockera internetåtkomst.</translation>
+        <source>Block, restrict or restore internet access.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click this button to block Internet access.</source>
-        <translation>Klicka på den här knappen för att blockera Internetåtkomst.</translation>
+        <source>Click to restrict internet access to certain websites.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click this button to unblock Internet access.</source>
-        <translation>Klicka på den här knappen för att avblockera Internetåtkomst.</translation>
+        <source>Block internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to completely block internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to restore internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restrict internet access to selected websites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allowed websites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please wait while resolving wildcard domains</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -700,10 +728,6 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Kommandon för att kontrollera åtkomst till internet</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation>Internetåtkomsten är nu blockerad. Eftersom du använder en demoversion av detta tillägg kommer blockeringen att upphävas automatiskt om 5 minuter.</translation>
     </message>
 </context>
 <context>
@@ -723,6 +747,10 @@
     <message>
         <source>Addons available for licensing</source>
         <translation>Tillägg tillgängliga för licensiering</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -759,6 +787,26 @@
     <message>
         <source>Licensee</source>
         <translation>Licenstagare</translation>
+    </message>
+    <message>
+        <source>Please enter the installation ID to set:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid installation ID</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The entered installation ID is invalid. The current installation ID is kept.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Installation ID changed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1208,6 +1256,32 @@ ANVÄNDNING
     <message>
         <source>Query environment variable from the server</source>
         <translation>Fråga efter miljövariabel från servern</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectConfigurationWidget</name>
+    <message>
+        <source>Exceptions</source>
+        <translation>Undantag</translation>
+    </message>
+    <message>
+        <source>e.g. 127.0.0.1:8000</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. *.wikipedia.org</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Redirected proxy address</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectPlugin</name>
+    <message>
+        <source>Block internet access via proxy redirection</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

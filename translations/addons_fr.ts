@@ -7,43 +7,43 @@
     </message>
     <message>
         <source>Start behavior</source>
-        <translation type="unfinished"/>
+        <translation>Comportement au démarrage</translation>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation type="unfinished"/>
+        <translation>Conserver l&apos;état précédent</translation>
     </message>
     <message>
         <source>Webcams</source>
-        <translation type="unfinished"/>
+        <translation>Webcams</translation>
     </message>
     <message>
         <source>Microphones</source>
-        <translation type="unfinished"/>
+        <translation>Microphones</translation>
     </message>
     <message>
         <source>USB drives</source>
-        <translation type="unfinished"/>
+        <translation>Clés USB</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Désactiver le son</translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation type="unfinished"/>
+        <translation>Réactiver le son</translation>
     </message>
     <message>
         <source>Audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Sorties audio</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>Désactiver</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Activer</translation>
     </message>
     <message>
         <source>Unlock</source>
@@ -54,107 +54,107 @@
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>Réglage du son</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Activer ou désactiver le son des haut-parleurs, des casques et des microphones.</translation>
     </message>
     <message>
         <source>Mute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Couper le son des sorties audio</translation>
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
-        <translation type="unfinished"/>
+        <translation>Cliquez ici pour couper le son des haut-parleurs, casques, etc.</translation>
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Réactiver le son des sorties audio</translation>
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Couper le son des microphones</translation>
     </message>
     <message>
         <source>Click to mute microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Cliquez ici pour couper les microphones.</translation>
     </message>
     <message>
         <source>Unmute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Réactiver les microphones</translation>
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>Contrôle des appareils</translation>
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation type="unfinished"/>
+        <translation>Désactiver les webcams</translation>
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"/>
+        <translation>Cliquez ici pour désactiver les webcams.</translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Tous les haut-parleurs sont désormais mis en sourdine.</translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Tous les microphones sont désormais désactivés.</translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Toutes les webcams sont désormais désactivées.</translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Comme vous utilisez une version de démonstration de cette extension, l&apos;état précédent sera automatiquement restauré dans 3 minutes.</translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Gérer l&apos;accès aux périphériques audio, vidéo et USB</translation>
     </message>
     <message>
         <source>Control webcams and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Gérer les webcams et les périphériques USB</translation>
     </message>
     <message>
         <source>Unlock webcams</source>
-        <translation type="unfinished"/>
+        <translation>Déverrouiller les webcams</translation>
     </message>
     <message>
         <source>Click to enable webcams again.</source>
-        <translation type="unfinished"/>
+        <translation>Cliquez ici pour réactiver les webcams.</translation>
     </message>
     <message>
         <source>Disable USB drives</source>
-        <translation type="unfinished"/>
+        <translation>Désactiver les clés USB</translation>
     </message>
     <message>
         <source>Unlock USB drives</source>
-        <translation type="unfinished"/>
+        <translation>Déverrouiller les clés USB</translation>
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Toutes les clés USB sont désormais désactivées.</translation>
     </message>
     <message>
         <source>Click to unmute microphones again.</source>
-        <translation type="unfinished"/>
+        <translation>Cliquez ici pour réactiver les microphones.</translation>
     </message>
     <message>
         <source>Click to disable USB storage devices.</source>
-        <translation type="unfinished"/>
+        <translation>Cliquez ici pour désactiver les périphériques de stockage USB.</translation>
     </message>
     <message>
         <source>Click to enable USB storage devices again.</source>
-        <translation type="unfinished"/>
+        <translation>Cliquez ici pour réactiver les périphériques de stockage USB.</translation>
     </message>
     <message>
         <source>Click to unmute speakers, headsets etc. again.</source>
-        <translation type="unfinished"/>
+        <translation>Cliquez ici pour réactiver le son des haut-parleurs, du casque, etc. </translation>
     </message>
 </context>
 <context>
@@ -200,7 +200,7 @@
     </message>
     <message>
         <source>%1 Chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 Chat</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -258,15 +258,15 @@
     </message>
     <message>
         <source>Tenant ID</source>
-        <translation type="unfinished"/>
+        <translation>ID de locataire</translation>
     </message>
     <message>
         <source>Application (client) ID</source>
-        <translation type="unfinished"/>
+        <translation>Identifiant de l&apos;application (client)</translation>
     </message>
     <message>
         <source>Client secret</source>
-        <translation type="unfinished"/>
+        <translation>Clé secrète du client</translation>
     </message>
     <message>
         <source>Authentication mechanism</source>
@@ -274,71 +274,71 @@
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Authentication Library (MSAL)</translation>
     </message>
     <message>
         <source>OAuth 2.0</source>
-        <translation type="unfinished"/>
+        <translation>OAuth 2.0</translation>
     </message>
     <message>
         <source>Request timeout</source>
-        <translation type="unfinished"/>
+        <translation>Délai d&apos;expiration de la requête</translation>
     </message>
     <message>
         <source>Domain name</source>
-        <translation type="unfinished"/>
+        <translation>Nom de domaine</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"/>
+        <translation>Filtres</translation>
     </message>
     <message>
         <source>Users filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre des utilisateurs</translation>
     </message>
     <message>
         <source>Devices filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre des appareils</translation>
     </message>
     <message>
         <source>User groups filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre par groupes d&apos;utilisateurs</translation>
     </message>
     <message>
         <source>Device groups filter</source>
-        <translation type="unfinished"/>
+        <translation>Filtre par groupes de appareils</translation>
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation type="unfinished"/>
+        <translation>Utiliser l&apos;attribut de localisation de l&apos;appareil</translation>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Extraire le nom d&apos;hôte à l&apos;aide d&apos;une expression régulière</translation>
     </message>
     <message>
         <source>Regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Expression régulière</translation>
     </message>
     <message>
         <source>Query limit</source>
-        <translation type="unfinished"/>
+        <translation>Limite de requêtes</translation>
     </message>
     <message>
         <source>Entra ID configuration check</source>
-        <translation type="unfinished"/>
+        <translation>Vérification de la configuration d&apos;Entra ID</translation>
     </message>
     <message>
         <source>An access token for Entra ID has been obtained successfully.</source>
-        <translation type="unfinished"/>
+        <translation>Un jeton d&apos;accès pour Entra ID a été obtenu avec succès.</translation>
     </message>
     <message>
         <source>Entra ID test failed</source>
-        <translation type="unfinished"/>
+        <translation>Échec du test Entra ID</translation>
     </message>
     <message>
         <source>Entra ID test successful</source>
-        <translation type="unfinished"/>
+        <translation>Test Entra ID réussi</translation>
     </message>
     <message>
         <source>%1 %2 have been queried successfully:
@@ -354,11 +354,11 @@
     </message>
     <message>
         <source>Test access</source>
-        <translation type="unfinished"/>
+        <translation>Tester l&apos;accès</translation>
     </message>
     <message>
         <source>Entra ID access</source>
-        <translation type="unfinished"/>
+        <translation>Accès Entra ID</translation>
     </message>
     <message>
         <source>user groups</source>
@@ -366,35 +366,35 @@
     </message>
     <message>
         <source>device groups</source>
-        <translation type="unfinished"/>
+        <translation>groupes de appareils</translation>
     </message>
     <message>
         <source>device locations</source>
-        <translation type="unfinished"/>
+        <translation>emplacements des appareils</translation>
     </message>
     <message>
         <source>Location mapping mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode d&apos;affectation des sites</translation>
     </message>
     <message>
         <source>Could not query any %1. Please check the API permissions (%2) for the registered app in your Microsoft Entra admin center and the &quot;%3&quot; parameter on this page.</source>
-        <translation type="unfinished"/>
+        <translation>Impossible d&apos;interroger %1. Veuillez vérifier les autorisations API (%2) de l&apos;application enregistrée dans votre centre d&apos;administration Microsoft Entra, ainsi que le paramètre « %3 » sur cette page.</translation>
     </message>
     <message>
         <source>Could not query any device locations. Please check the API permissions (%1) for the registered app in your Microsoft Entra admin center and the &quot;%2&quot;, &quot;%3&quot; and &quot;%4&quot; parameters on this page.</source>
-        <translation type="unfinished"/>
+        <translation>Impossible d&apos;interroger la localisation des appareils. Veuillez vérifier les autorisations API (%1) de l&apos;application enregistrée dans votre centre d&apos;administration Microsoft Entra, ainsi que les paramètres « %2 », « %3 » et « %4 » sur cette page.</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"/>
+        <translation>appareils</translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
-        <translation type="unfinished"/>
+        <translation>par exemple : startsWith(displayName, &apos;Ordinateur&apos;)</translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;Room&apos;)</source>
-        <translation type="unfinished"/>
+        <translation>par exemple : startsWith(displayName, &apos;Salle&apos;)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -402,148 +402,148 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"/>
+        <translation>Utiliser les groupes d&apos;appareils</translation>
     </message>
     <message>
         <source>e.g. description</source>
-        <translation type="unfinished"/>
+        <translation>par exemple : description</translation>
     </message>
     <message>
         <source>Device group attribute to use as location name</source>
-        <translation type="unfinished"/>
+        <translation>Attribut du groupe de périphériques à utiliser comme nom d&apos;emplacement</translation>
     </message>
     <message>
         <source>Client certificate path</source>
-        <translation type="unfinished"/>
+        <translation>Chemin d&apos;accès au certificat client</translation>
     </message>
     <message>
         <source>Client certificate file</source>
-        <translation type="unfinished"/>
+        <translation>Fichier de certificat client</translation>
     </message>
     <message>
         <source>PEM files (*.pem)</source>
-        <translation type="unfinished"/>
+        <translation>Fichiers PEM (*.pem)</translation>
     </message>
     <message>
         <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
-        <translation type="unfinished"/>
+        <translation>Impossible d&apos;obtenir un jeton d&apos;accès pour Entra ID. Veuillez vérifier l&apos;ID du locataire, l&apos;ID de l&apos;application (client) ainsi que le secret client ou le chemin d&apos;accès au certificat.</translation>
     </message>
     <message>
         <source>Client certificate with private key file</source>
-        <translation type="unfinished"/>
+        <translation>Certificat client avec fichier de clé privée</translation>
     </message>
     <message>
         <source>Specify path to client certificate file containing the private key.</source>
-        <translation type="unfinished"/>
+        <translation>Indiquez le chemin d&apos;accès au fichier de certificat client contenant la clé privée.</translation>
     </message>
     <message>
         <source>Client credential type</source>
-        <translation type="unfinished"/>
+        <translation>Type d&apos;identifiant client</translation>
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Appareils</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
-        <translation type="unfinished"/>
+        <translation>Attribut nommé hôte</translation>
     </message>
     <message>
         <source>MAC address attribute</source>
-        <translation type="unfinished"/>
+        <translation>Attribut d&apos;adresse MAC</translation>
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation>Source du nom d&apos;hôte</translation>
     </message>
     <message>
         <source>Device name (default)</source>
-        <translation type="unfinished"/>
+        <translation>Nom de l&apos;appareil (par défaut)</translation>
     </message>
     <message>
         <source>Multicast DNS (device name + .local suffix)</source>
-        <translation type="unfinished"/>
+        <translation>DNS multicast (nom de l&apos;appareil + suffixe .local)</translation>
     </message>
     <message>
         <source>Open query console</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir la console de requêtes</translation>
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>Adresse MAC source</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
-        <translation type="unfinished"/>
+        <translation>Attribut d&apos;adresse MAC (par défaut)</translation>
     </message>
     <message>
         <source>Intune Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse MAC Ethernet d&apos;Intune</translation>
     </message>
     <message>
         <source>Intune Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune Wi-Fi-MAC-Adresse</translation>
     </message>
     <message>
         <source>Intune Ethernet or Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse MAC Ethernet ou Wi-Fi d&apos;Intune</translation>
     </message>
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse MAC Wi-Fi ou Ethernet d&apos;Intune</translation>
     </message>
     <message>
         <source>Device location attribute</source>
-        <translation type="unfinished"/>
+        <translation>Attribut de localisation de l&apos;appareil</translation>
     </message>
 </context>
 <context>
     <name>EntraIdConnectorPlugin</name>
     <message>
         <source>Network object directory providing users, groups and devices from Microsoft Entra ID</source>
-        <translation type="unfinished"/>
+        <translation>Répertoire d&apos;objets réseau répertoriant les utilisateurs, les groupes et les appareils provenant de Microsoft Entra ID</translation>
     </message>
     <message>
         <source>Entra ID (read devices from Entra ID directory)</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID (lecture des appareils à partir du répertoire Entra ID)</translation>
     </message>
     <message>
         <source>Entra ID (read users and groups from Entra ID directory)</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID (lecture des utilisateurs et des groupes à partir du répertoire Entra ID)</translation>
     </message>
 </context>
 <context>
     <name>EntraIdDirectory</name>
     <message>
         <source>Unknown location</source>
-        <translation type="unfinished"/>
+        <translation>Emplacement inconnu</translation>
     </message>
     <message>
         <source>Query timed out</source>
-        <translation type="unfinished"/>
+        <translation>Délai d&apos;attente de la requête dépassé</translation>
     </message>
 </context>
 <context>
     <name>EntraIdQueryConsole</name>
     <message>
         <source>Entra ID Query Console</source>
-        <translation type="unfinished"/>
+        <translation>Console de requêtes Entra ID </translation>
     </message>
     <message>
         <source>Query</source>
-        <translation type="unfinished"/>
+        <translation>Requête</translation>
     </message>
     <message>
         <source>Resource or query URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL de la ressource ou de la requête :</translation>
     </message>
     <message>
         <source>Run query</source>
-        <translation type="unfinished"/>
+        <translation>Exécuter la requête</translation>
     </message>
     <message>
         <source>Response</source>
-        <translation type="unfinished"/>
+        <translation>Réponse</translation>
     </message>
 </context>
 <context>
@@ -643,34 +643,34 @@
         <translation>Méthode de fonctionnement:</translation>
     </message>
     <message>
+        <source>Retain previous internet blocking state</source>
+        <translation>Conserver l&apos;état précédent du blocage d&apos;accès à Internet</translation>
+    </message>
+    <message>
+        <source>Block internet access</source>
+        <translation>Bloquer l&apos;accès à Internet</translation>
+    </message>
+    <message>
+        <source>Restore internet access</source>
+        <translation>Débloquer l&apos;accès à Internet</translation>
+    </message>
+    <message>
         <source>Backend settings</source>
         <translation>Paramètres internes</translation>
     </message>
     <message>
-        <source>Retain previous Internet blocking state</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unblock Internet access</source>
-        <translation>Débloquer l&apos;accès à Internet</translation>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation>Bloquer l&apos;accès à Internet</translation>
-    </message>
-    <message>
         <source>Start behavior:</source>
-        <translation type="unfinished"/>
+        <translation>Comportement au démarrage :</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block Internet access</source>
-        <translation>Bloquer l&apos;accès à Internet</translation>
+        <source>Restrict internet access</source>
+        <translation>Limiter l&apos;accès à Internet</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
+        <source>Restore internet access</source>
         <translation>Débloquer l&apos;accès à Internet</translation>
     </message>
     <message>
@@ -682,16 +682,44 @@
         <translation>Accès à Internet</translation>
     </message>
     <message>
-        <source>Block or unblock Internet access.</source>
-        <translation>Bloquer ou débloquer l&apos;accès à Internet.</translation>
+        <source>Block, restrict or restore internet access.</source>
+        <translation>Bloquer, limiter ou débloquer l&apos;accès à Internet.</translation>
     </message>
     <message>
-        <source>Click this button to block Internet access.</source>
-        <translation>Cliquez sur ce bouton pour bloquer l&apos;accès à Internet.</translation>
+        <source>Click to restrict internet access to certain websites.</source>
+        <translation>Cliquez ici pour limiter l&apos;accès à Internet à certains sites web.</translation>
     </message>
     <message>
-        <source>Click this button to unblock Internet access.</source>
-        <translation>Cliquez sur ce bouton pour débloquer l&apos;accès à Internet.</translation>
+        <source>Block internet access</source>
+        <translation>Bloquer l&apos;accès à Internet</translation>
+    </message>
+    <message>
+        <source>Click to completely block internet access.</source>
+        <translation>Cliquez ici pour bloquer complètement l&apos;accès à Internet.</translation>
+    </message>
+    <message>
+        <source>Click to restore internet access.</source>
+        <translation>Cliquez ici pour débloquer l&apos;accès à Internet.</translation>
+    </message>
+    <message>
+        <source>Restrict internet access to selected websites</source>
+        <translation>Limiter l&apos;accès à Internet à certains sites Web</translation>
+    </message>
+    <message>
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
+        <translation>L&apos;accès Internet est maintenant bloqué. Comme vous utilisez une version de démonstration de cette extension, il sera automatiquement débloqué après un délai de 60 secondes.</translation>
+    </message>
+    <message>
+        <source>Allowed websites</source>
+        <translation>Sites web autorisés</translation>
+    </message>
+    <message>
+        <source>Please wait while resolving wildcard domains</source>
+        <translation>Veuillez patienter pendant le traitement des domaines avec caractères génériques</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -700,10 +728,6 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Commandes pour contrôler l&apos;accès à Internet</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -723,6 +747,10 @@
     <message>
         <source>Addons available for licensing</source>
         <translation>Extensions disponibles pour licence</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation>Modifier</translation>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -759,6 +787,26 @@
     <message>
         <source>Licensee</source>
         <translation>Licencié</translation>
+    </message>
+    <message>
+        <source>Please enter the installation ID to set:</source>
+        <translation>Veuillez saisir l&apos;identifiant d&apos;installation à configurer :</translation>
+    </message>
+    <message>
+        <source>Invalid installation ID</source>
+        <translation>Identifiant d&apos;installation non valide</translation>
+    </message>
+    <message>
+        <source>The entered installation ID is invalid. The current installation ID is kept.</source>
+        <translation>L&apos;identifiant d&apos;installation saisi n&apos;est pas valide. L&apos;identifiant d&apos;installation actuel est conservé.</translation>
+    </message>
+    <message>
+        <source>Installation ID changed</source>
+        <translation>L&apos;identifiant d&apos;installation a été modifié</translation>
+    </message>
+    <message>
+        <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
+        <translation>L&apos;identifiant d&apos;installation a été modifié avec succès. Appliquez la configuration pour l&apos;enregistrer de manière définitive.</translation>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1039,21 +1087,23 @@ USAGE
     </message>
     <message>
         <source>User groups filter expression:</source>
-        <translation type="unfinished"/>
+        <translation>Expression de filtrage des groupes d&apos;utilisateurs :</translation>
     </message>
     <message>
         <source>e.g. Class.*</source>
-        <translation type="unfinished"/>
+        <translation>par exemple : Classe.*</translation>
     </message>
     <message>
         <source>Computer names</source>
-        <translation type="unfinished"/>
+        <translation>Noms d&apos;ordinateurs</translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
 
 Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"/>
+        <translation>Vous pouvez, si vous le souhaitez, saisir une expression régulière avec une capture afin d&apos;extraire une partie du nom de l&apos;ordinateur et de l&apos;utiliser comme nom d&apos;affichage pour celui-ci.
+
+Exemple : [^-]*-(ORD[0-9]*)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -1061,27 +1111,27 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default / network range groups</source>
-        <translation type="unfinished"/>
+        <translation>Groupes par défaut / plages réseau</translation>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation>Extrait des noms d&apos;ordinateurs</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation>Groupes d&apos;utilisateurs connectés</translation>
     </message>
     <message>
         <source>Data source:</source>
-        <translation type="unfinished"/>
+        <translation>Source des données :</translation>
     </message>
     <message>
         <source>Data retrieval timeout:</source>
-        <translation type="unfinished"/>
+        <translation>Délai d&apos;attente pour la récupération des données :</translation>
     </message>
     <message>
         <source>Expression for substring extraction:</source>
-        <translation type="unfinished"/>
+        <translation>Expression permettant d&apos;extraire une sous-chaîne :</translation>
     </message>
     <message>
         <source>Environment variable</source>
@@ -1093,19 +1143,19 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation>Clé de registre</translation>
     </message>
     <message>
         <source>Registry key name:</source>
-        <translation type="unfinished"/>
+        <translation>Nom de la clé de registre :</translation>
     </message>
     <message>
         <source>Property for generating persistent network object IDs:</source>
-        <translation type="unfinished"/>
+        <translation>Propriété permettant de générer des identifiants d&apos;objets réseau persistants : </translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Par défaut</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -1113,17 +1163,19 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Computer name</source>
-        <translation type="unfinished"/>
+        <translation>Nom de l&apos;ordinateur</translation>
     </message>
     <message>
         <source>Exclude computers whose names could not be resolved</source>
-        <translation type="unfinished"/>
+        <translation>Exclure les ordinateurs dont les noms n&apos;ont pas pu être résolus</translation>
     </message>
     <message>
         <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
 
 Example: (R[0-9]*)-*</source>
-        <translation type="unfinished"/>
+        <translation>Saisissez une expression régulière avec une capture pour analyser le nom de chaque ordinateur et utiliser une partie de celui-ci comme emplacement de l&apos;ordinateur.
+
+Exemple : (R[0-9]*)-*</translation>
     </message>
 </context>
 <context>
@@ -1183,7 +1235,7 @@ USAGE
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse</translation>
     </message>
     <message>
         <source>Port</source>
@@ -1195,15 +1247,41 @@ USAGE
     </message>
     <message>
         <source>Query system settings key from the server</source>
-        <translation type="unfinished"/>
+        <translation>Récupérer la clé des paramètres système du serveur</translation>
     </message>
     <message>
         <source>Query user groups of logged in user from the server</source>
-        <translation type="unfinished"/>
+        <translation>Récupérer les groupes d&apos;utilisateurs de l&apos;utilisateur connecté depuis le serveur</translation>
     </message>
     <message>
         <source>Query environment variable from the server</source>
         <translation>Interroger la variable d&apos;environnement du serveur</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectConfigurationWidget</name>
+    <message>
+        <source>Exceptions</source>
+        <translation>Exceptions</translation>
+    </message>
+    <message>
+        <source>e.g. 127.0.0.1:8000</source>
+        <translation>par exemple : 127.0.0.1:8000</translation>
+    </message>
+    <message>
+        <source>e.g. *.wikipedia.org</source>
+        <translation>par exemple *.wikipedia.org</translation>
+    </message>
+    <message>
+        <source>Redirected proxy address</source>
+        <translation>Adresse proxy redirigée</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectPlugin</name>
+    <message>
+        <source>Block internet access via proxy redirection</source>
+        <translation>Bloquer l&apos;accès à Internet via la redirection par proxy</translation>
     </message>
 </context>
 <context>
@@ -1214,7 +1292,7 @@ USAGE
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter des routes personnalisées pour bloquer l&apos;accès à Internet</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1238,7 +1316,7 @@ USAGE
     </message>
     <message>
         <source>New route</source>
-        <translation type="unfinished"/>
+        <translation>Nouvel route</translation>
     </message>
 </context>
 <context>
@@ -1249,7 +1327,7 @@ USAGE
     </message>
     <message>
         <source>Custom route</source>
-        <translation type="unfinished"/>
+        <translation>Route personnalisée</translation>
     </message>
 </context>
 <context>
@@ -1320,7 +1398,7 @@ USAGE
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>Format</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1386,19 +1464,19 @@ USAGE
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>Standard MP4</source>
-        <translation type="unfinished"/>
+        <translation>MP4 standard</translation>
     </message>
     <message>
         <source>Fragmented MP4</source>
-        <translation type="unfinished"/>
+        <translation>Fichier MP4 fragmenté</translation>
     </message>
     <message>
         <source>Matroska (MKV)</source>
-        <translation type="unfinished"/>
+        <translation>Matroska (MKV)</translation>
     </message>
     <message>
         <source>MPEG-TS</source>
-        <translation type="unfinished"/>
+        <translation>MPEG-TS</translation>
     </message>
     <message>
         <source>auto</source>
@@ -1437,11 +1515,11 @@ USAGE
     </message>
     <message>
         <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
-        <translation type="unfinished"/>
+        <translation>L&apos;enregistrement d&apos;écran a été interrompu en raison d&apos;un rafraîchissement manuel de la page. Veuillez relancer l&apos;enregistrement si nécessaire.</translation>
     </message>
     <message>
         <source>Screen recording stopped</source>
-        <translation type="unfinished"/>
+        <translation>L&apos;enregistrement d&apos;écran s&apos;est arrêté</translation>
     </message>
 </context>
 <context>

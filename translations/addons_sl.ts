@@ -643,20 +643,20 @@
         <translation>Ozadje:</translation>
     </message>
     <message>
+        <source>Retain previous internet blocking state</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Block internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restore internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Backend settings</source>
         <translation>Nastavitve ozadja</translation>
-    </message>
-    <message>
-        <source>Retain previous Internet blocking state</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unblock Internet access</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Block Internet access</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start behavior:</source>
@@ -666,11 +666,11 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block Internet access</source>
+        <source>Restrict internet access</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Unblock Internet access</source>
+        <source>Restore internet access</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -682,15 +682,43 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Block or unblock Internet access.</source>
+        <source>Block, restrict or restore internet access.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click this button to block Internet access.</source>
+        <source>Click to restrict internet access to certain websites.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Click this button to unblock Internet access.</source>
+        <source>Block internet access</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to completely block internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Click to restore internet access.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Restrict internet access to selected websites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Allowed websites</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please wait while resolving wildcard domains</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -700,10 +728,6 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Ukazi za nadzor dostopa do interneta</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -722,6 +746,10 @@
     </message>
     <message>
         <source>Addons available for licensing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Change</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -759,6 +787,26 @@
     <message>
         <source>Licensee</source>
         <translation>Licenca</translation>
+    </message>
+    <message>
+        <source>Please enter the installation ID to set:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid installation ID</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The entered installation ID is invalid. The current installation ID is kept.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Installation ID changed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1203,6 +1251,32 @@ UPORABA
     </message>
     <message>
         <source>Query environment variable from the server</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectConfigurationWidget</name>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. 127.0.0.1:8000</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>e.g. *.wikipedia.org</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Redirected proxy address</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectPlugin</name>
+    <message>
+        <source>Block internet access via proxy redirection</source>
         <translation type="unfinished"/>
     </message>
 </context>

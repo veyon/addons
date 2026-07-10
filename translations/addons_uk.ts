@@ -643,20 +643,20 @@
         <translation>Модуль:</translation>
     </message>
     <message>
-        <source>Backend settings</source>
-        <translation>Параметри модулів</translation>
-    </message>
-    <message>
-        <source>Retain previous Internet blocking state</source>
+        <source>Retain previous internet blocking state</source>
         <translation>Відновити попередній стан блокування інтернету</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Розблокувати доступ до інтернету</translation>
+        <source>Block internet access</source>
+        <translation>Блокувати доступ до інтернету</translation>
     </message>
     <message>
-        <source>Block Internet access</source>
-        <translation>Блокувати доступ до інтернету</translation>
+        <source>Restore internet access</source>
+        <translation>Відновити доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Backend settings</source>
+        <translation>Параметри модулів</translation>
     </message>
     <message>
         <source>Start behavior:</source>
@@ -666,12 +666,12 @@
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
-        <source>Block Internet access</source>
-        <translation>Блокувати доступ до інтернету</translation>
+        <source>Restrict internet access</source>
+        <translation>Обмежити доступ до інтернету</translation>
     </message>
     <message>
-        <source>Unblock Internet access</source>
-        <translation>Розблокувати доступ до інтернету</translation>
+        <source>Restore internet access</source>
+        <translation>Відновити доступ до інтернету</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -682,16 +682,44 @@
         <translation>Доступ до інтернету</translation>
     </message>
     <message>
-        <source>Block or unblock Internet access.</source>
-        <translation>Блокувати або розблокувати доступ до інтернету.</translation>
+        <source>Block, restrict or restore internet access.</source>
+        <translation>Блокувати, обмежити або відновити доступ до інтернету.</translation>
     </message>
     <message>
-        <source>Click this button to block Internet access.</source>
-        <translation>Натисніть цю кнопку, щоб заблокувати доступ до інтернету.</translation>
+        <source>Click to restrict internet access to certain websites.</source>
+        <translation>Натисніть, щоб обмежити доступ до інтернету певними сайтами.</translation>
     </message>
     <message>
-        <source>Click this button to unblock Internet access.</source>
-        <translation>Натисніть цю кнопку, щоб розблокувати доступ до інтернету.</translation>
+        <source>Block internet access</source>
+        <translation>Блокувати доступ до інтернету</translation>
+    </message>
+    <message>
+        <source>Click to completely block internet access.</source>
+        <translation>Натисніть, щоб повністю блокувати доступ до інтернету.</translation>
+    </message>
+    <message>
+        <source>Click to restore internet access.</source>
+        <translation>Натисніть, щоб відновити доступ до інтернету.</translation>
+    </message>
+    <message>
+        <source>Restrict internet access to selected websites</source>
+        <translation>Обмежити доступ до інтернету вибраними сайтами.</translation>
+    </message>
+    <message>
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
+        <translation>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично відновлено за 5 хвилин.</translation>
+    </message>
+    <message>
+        <source>Allowed websites</source>
+        <translation>Дозволені сайти</translation>
+    </message>
+    <message>
+        <source>Please wait while resolving wildcard domains</source>
+        <translation>Будь ласка, зачекайте на розв&apos;язання шаблонів доменів</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -700,10 +728,6 @@
     <message>
         <source>Commands for controlling access to the internet</source>
         <translation>Команди для керування доступом до інтернету</translation>
-    </message>
-    <message>
-        <source>The Internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be unblocked in 5 minutes automatically.</source>
-        <translation>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично розблоковано за 5 хвилин.</translation>
     </message>
 </context>
 <context>
@@ -723,6 +747,10 @@
     <message>
         <source>Addons available for licensing</source>
         <translation>Додатки, які доступні до ліцензування</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation>Зміна</translation>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -759,6 +787,26 @@
     <message>
         <source>Licensee</source>
         <translation>Ліцензіат</translation>
+    </message>
+    <message>
+        <source>Please enter the installation ID to set:</source>
+        <translation>Будь ласка, введіть ідентифікатор встановлення:</translation>
+    </message>
+    <message>
+        <source>Invalid installation ID</source>
+        <translation>Некоректний ідентифікатор встановлення</translation>
+    </message>
+    <message>
+        <source>The entered installation ID is invalid. The current installation ID is kept.</source>
+        <translation>Введений ідентифікатор встановлення є некоректним. Буде збережено поточний ідентифікатор встановлення.</translation>
+    </message>
+    <message>
+        <source>Installation ID changed</source>
+        <translation>Змінено ідентифікатор встановлення</translation>
+    </message>
+    <message>
+        <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
+        <translation>Ідентифікатор встановлення успішно змінено. Затосуйте налаштування, щоб зберегти його остаточно.</translation>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1208,6 +1256,32 @@ USAGE
     <message>
         <source>Query environment variable from the server</source>
         <translation>Запитати про змінну середовища сервер</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectConfigurationWidget</name>
+    <message>
+        <source>Exceptions</source>
+        <translation>Виключення</translation>
+    </message>
+    <message>
+        <source>e.g. 127.0.0.1:8000</source>
+        <translation>Приклад: 127.0.0.1:8000</translation>
+    </message>
+    <message>
+        <source>e.g. *.wikipedia.org</source>
+        <translation>Приклад: *.wikipedia.org</translation>
+    </message>
+    <message>
+        <source>Redirected proxy address</source>
+        <translation>Переспрямована адреса проксі</translation>
+    </message>
+</context>
+<context>
+    <name>ProxyRedirectPlugin</name>
+    <message>
+        <source>Block internet access via proxy redirection</source>
+        <translation>Блокувати доступ до інтернету шляхом переспрямування на проксі-сервер</translation>
     </message>
 </context>
 <context>
