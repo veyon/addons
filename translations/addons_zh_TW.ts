@@ -7,43 +7,43 @@
     </message>
     <message>
         <source>Start behavior</source>
-        <translation type="unfinished"/>
+        <translation>開始行為</translation>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation type="unfinished"/>
+        <translation>保留之前的狀態</translation>
     </message>
     <message>
         <source>Webcams</source>
-        <translation type="unfinished"/>
+        <translation>網路攝影機</translation>
     </message>
     <message>
         <source>Microphones</source>
-        <translation type="unfinished"/>
+        <translation>麥克風</translation>
     </message>
     <message>
         <source>USB drives</source>
-        <translation type="unfinished"/>
+        <translation>USB 隨身碟</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>靜音</translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation type="unfinished"/>
+        <translation>取消靜音</translation>
     </message>
     <message>
         <source>Audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>音訊輸出</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>停用</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>啟用</translation>
     </message>
     <message>
         <source>Unlock</source>
@@ -200,7 +200,7 @@
     </message>
     <message>
         <source>%1 Chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 聊天</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -644,15 +644,15 @@
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
-        <translation type="unfinished"/>
+        <translation>保留先前的 internet 封鎖狀態</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>封鎖 internet 存取</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>還原 internet 存取</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -660,18 +660,18 @@
     </message>
     <message>
         <source>Start behavior:</source>
-        <translation type="unfinished"/>
+        <translation>開始行為:</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Restrict internet access</source>
-        <translation type="unfinished"/>
+        <translation>限制 internet 存取</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>還原 internet 存取</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -683,43 +683,43 @@
     </message>
     <message>
         <source>Block, restrict or restore internet access.</source>
-        <translation type="unfinished"/>
+        <translation>封鎖、限制或還原 internet 存取。</translation>
     </message>
     <message>
         <source>Click to restrict internet access to certain websites.</source>
-        <translation type="unfinished"/>
+        <translation>按一下以將 internet 存取限制為特定網站。</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>封鎖 internet 存取</translation>
     </message>
     <message>
         <source>Click to completely block internet access.</source>
-        <translation type="unfinished"/>
+        <translation>按一下以完全封鎖 internet 存取。</translation>
     </message>
     <message>
         <source>Click to restore internet access.</source>
-        <translation type="unfinished"/>
+        <translation>按一下以還原 internet 存取。</translation>
     </message>
     <message>
         <source>Restrict internet access to selected websites</source>
-        <translation type="unfinished"/>
+        <translation>將 internet 存取限制為選取的網站</translation>
     </message>
     <message>
         <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>internet 存取目前已封鎖。 由於您使用的是此附加元件的展示版，5 分鐘後會自動還原。</translation>
     </message>
     <message>
         <source>Allowed websites</source>
-        <translation type="unfinished"/>
+        <translation>允許的網站</translation>
     </message>
     <message>
         <source>Please wait while resolving wildcard domains</source>
-        <translation type="unfinished"/>
+        <translation>正在解析萬用字元域，請稍候</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -750,7 +750,7 @@
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>變更</translation>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -790,23 +790,23 @@
     </message>
     <message>
         <source>Please enter the installation ID to set:</source>
-        <translation type="unfinished"/>
+        <translation>請輸入安裝 ID 進行設定:</translation>
     </message>
     <message>
         <source>Invalid installation ID</source>
-        <translation type="unfinished"/>
+        <translation>無效安裝 ID</translation>
     </message>
     <message>
         <source>The entered installation ID is invalid. The current installation ID is kept.</source>
-        <translation type="unfinished"/>
+        <translation>輸入的安裝 ID 無效。 保留目前安裝 ID。</translation>
     </message>
     <message>
         <source>Installation ID changed</source>
-        <translation type="unfinished"/>
+        <translation>安裝 ID已變更</translation>
     </message>
     <message>
         <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
-        <translation type="unfinished"/>
+        <translation>安裝 ID 已成功變更。 應用設定永久保存。</translation>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1266,22 +1266,22 @@ USAGE
     </message>
     <message>
         <source>e.g. 127.0.0.1:8000</source>
-        <translation type="unfinished"/>
+        <translation>例如 127. 0. 0. 1:8000</translation>
     </message>
     <message>
         <source>e.g. *.wikipedia.org</source>
-        <translation type="unfinished"/>
+        <translation>例如 *. wikipedia. org</translation>
     </message>
     <message>
         <source>Redirected proxy address</source>
-        <translation type="unfinished"/>
+        <translation>重新導向的代理地址</translation>
     </message>
 </context>
 <context>
     <name>ProxyRedirectPlugin</name>
     <message>
         <source>Block internet access via proxy redirection</source>
-        <translation type="unfinished"/>
+        <translation>透過 Proxy 重新導向封鎖 internet 存取</translation>
     </message>
 </context>
 <context>
@@ -1292,7 +1292,7 @@ USAGE
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>加入自訂路由以封鎖 internet</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1316,7 +1316,7 @@ USAGE
     </message>
     <message>
         <source>New route</source>
-        <translation type="unfinished"/>
+        <translation>新路由</translation>
     </message>
 </context>
 <context>
@@ -1327,7 +1327,7 @@ USAGE
     </message>
     <message>
         <source>Custom route</source>
-        <translation type="unfinished"/>
+        <translation>自訂路由</translation>
     </message>
 </context>
 <context>
@@ -1398,7 +1398,7 @@ USAGE
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>格式</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1464,19 +1464,19 @@ USAGE
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>Standard MP4</source>
-        <translation type="unfinished"/>
+        <translation>標準 MP4</translation>
     </message>
     <message>
         <source>Fragmented MP4</source>
-        <translation type="unfinished"/>
+        <translation>分散的 MP4</translation>
     </message>
     <message>
         <source>Matroska (MKV)</source>
-        <translation type="unfinished"/>
+        <translation>Matroska (MKV)</translation>
     </message>
     <message>
         <source>MPEG-TS</source>
-        <translation type="unfinished"/>
+        <translation>MPEG-TS</translation>
     </message>
     <message>
         <source>auto</source>

@@ -3,47 +3,47 @@
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation>内部</translation>
     </message>
     <message>
         <source>Start behavior</source>
-        <translation type="unfinished"/>
+        <translation>启动行为</translation>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation type="unfinished"/>
+        <translation>保留先前状态</translation>
     </message>
     <message>
         <source>Webcams</source>
-        <translation type="unfinished"/>
+        <translation>网络摄像头</translation>
     </message>
     <message>
         <source>Microphones</source>
-        <translation type="unfinished"/>
+        <translation>麦克风</translation>
     </message>
     <message>
         <source>USB drives</source>
-        <translation type="unfinished"/>
+        <translation>USB 驱动器</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>静音</translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation type="unfinished"/>
+        <translation>取消静音</translation>
     </message>
     <message>
         <source>Audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>音频输出</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>启用</translation>
     </message>
     <message>
         <source>Unlock</source>
@@ -54,114 +54,114 @@
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>音频控制</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
-        <translation type="unfinished"/>
+        <translation>将扬声器、耳机和麦克风静音或取消静音。</translation>
     </message>
     <message>
         <source>Mute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>静音音频输出</translation>
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
-        <translation type="unfinished"/>
+        <translation>点击以将扬声器、耳机等设备静音。</translation>
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>取消音频输出静音</translation>
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation type="unfinished"/>
+        <translation>静音麦克风</translation>
     </message>
     <message>
         <source>Click to mute microphones.</source>
-        <translation type="unfinished"/>
+        <translation>点击以静音麦克风。</translation>
     </message>
     <message>
         <source>Unmute microphones</source>
-        <translation type="unfinished"/>
+        <translation>取消麦克风静音</translation>
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>设备控制</translation>
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation type="unfinished"/>
+        <translation>禁用网络摄像头</translation>
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"/>
+        <translation>点击以禁用网络摄像头。</translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>所有发言者均已静音。</translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>所有麦克风现已静音。</translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>所有网络摄像头现已禁用。</translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>由于您正在使用此插件的演示版本，系统将在 3 分钟后自动恢复至之前的状态。</translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>管理对音频、视频和 USB 设备的访问权限</translation>
     </message>
     <message>
         <source>Control webcams and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>控制网络摄像头和 USB 设备</translation>
     </message>
     <message>
         <source>Unlock webcams</source>
-        <translation type="unfinished"/>
+        <translation>解锁网络摄像头</translation>
     </message>
     <message>
         <source>Click to enable webcams again.</source>
-        <translation type="unfinished"/>
+        <translation>点击以重新启用网络摄像头。</translation>
     </message>
     <message>
         <source>Disable USB drives</source>
-        <translation type="unfinished"/>
+        <translation>禁用 USB 驱动器</translation>
     </message>
     <message>
         <source>Unlock USB drives</source>
-        <translation type="unfinished"/>
+        <translation>解锁 USB 驱动器</translation>
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>所有 USB 驱动器现已禁用。</translation>
     </message>
     <message>
         <source>Click to unmute microphones again.</source>
-        <translation type="unfinished"/>
+        <translation>再次点击以取消麦克风静音。</translation>
     </message>
     <message>
         <source>Click to disable USB storage devices.</source>
-        <translation type="unfinished"/>
+        <translation>点击以禁用 USB 存储设备。</translation>
     </message>
     <message>
         <source>Click to enable USB storage devices again.</source>
-        <translation type="unfinished"/>
+        <translation>点击以重新启用 USB 存储设备。</translation>
     </message>
     <message>
         <source>Click to unmute speakers, headsets etc. again.</source>
-        <translation type="unfinished"/>
+        <translation>再次点击以取消扬声器、耳机等的静音。</translation>
     </message>
 </context>
 <context>
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>聊天</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Allow plain text messages only</source>
-        <translation type="unfinished"/>
+        <translation>仅允许纯文本消息</translation>
     </message>
     <message>
         <source>Nicknames</source>
@@ -177,80 +177,80 @@
     </message>
     <message>
         <source>Login names of users</source>
-        <translation type="unfinished"/>
+        <translation>用户的登录名</translation>
     </message>
     <message>
         <source>Full names of users</source>
-        <translation type="unfinished"/>
+        <translation>用户的全名</translation>
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
-        <translation type="unfinished"/>
+        <translation>允许用户更改昵称</translation>
     </message>
 </context>
 <context>
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>聊天</translation>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
-        <translation type="unfinished"/>
+        <translation>点击此按钮即可与所有用户开始聊天。随后，所有用户都可以在公共聊天区发送文本消息。</translation>
     </message>
     <message>
         <source>%1 Chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 聊天</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
-        <translation type="unfinished"/>
+        <translation>与已登录用户进行交互式聊天</translation>
     </message>
 </context>
 <context>
     <name>ChatWindow</name>
     <message>
         <source>Veyon Chat</source>
-        <translation type="unfinished"/>
+        <translation>Veyon 聊天</translation>
     </message>
     <message>
         <source>Chat title</source>
-        <translation type="unfinished"/>
+        <translation>聊天标题</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>昵称</translation>
     </message>
     <message>
         <source>Type a new message</source>
-        <translation type="unfinished"/>
+        <translation>输入新消息</translation>
     </message>
     <message>
         <source>Close chat</source>
-        <translation type="unfinished"/>
+        <translation>关闭聊天</translation>
     </message>
     <message>
         <source>Change chat title</source>
-        <translation type="unfinished"/>
+        <translation>更改聊天标题</translation>
     </message>
     <message>
         <source>Please enter a new title for the chat:</source>
-        <translation type="unfinished"/>
+        <translation>请输入聊天的新标题：</translation>
     </message>
     <message>
         <source>Change nickname</source>
-        <translation type="unfinished"/>
+        <translation>更改昵称</translation>
     </message>
     <message>
         <source>Please enter a new nickname:</source>
-        <translation type="unfinished"/>
+        <translation>请输入新昵称：</translation>
     </message>
 </context>
 <context>
     <name>EntraIdConnectorConfigurationPage</name>
     <message>
         <source>Entra ID Connector</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID 连接器</translation>
     </message>
     <message>
         <source>Basic settings</source>
@@ -258,87 +258,87 @@
     </message>
     <message>
         <source>Tenant ID</source>
-        <translation type="unfinished"/>
+        <translation>租户 ID</translation>
     </message>
     <message>
         <source>Application (client) ID</source>
-        <translation type="unfinished"/>
+        <translation>应用程序（客户端）ID</translation>
     </message>
     <message>
         <source>Client secret</source>
-        <translation type="unfinished"/>
+        <translation>客户端密钥</translation>
     </message>
     <message>
         <source>Authentication mechanism</source>
-        <translation type="unfinished"/>
+        <translation>身份验证机制</translation>
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft 身份验证库 (MSAL)</translation>
     </message>
     <message>
         <source>OAuth 2.0</source>
-        <translation type="unfinished"/>
+        <translation>OAuth 2.0</translation>
     </message>
     <message>
         <source>Request timeout</source>
-        <translation type="unfinished"/>
+        <translation>请求超时</translation>
     </message>
     <message>
         <source>Domain name</source>
-        <translation type="unfinished"/>
+        <translation>域名名称</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"/>
+        <translation>筛选器</translation>
     </message>
     <message>
         <source>Users filter</source>
-        <translation type="unfinished"/>
+        <translation>用户筛选器</translation>
     </message>
     <message>
         <source>Devices filter</source>
-        <translation type="unfinished"/>
+        <translation>设备筛选器</translation>
     </message>
     <message>
         <source>User groups filter</source>
-        <translation type="unfinished"/>
+        <translation>用户组筛选器</translation>
     </message>
     <message>
         <source>Device groups filter</source>
-        <translation type="unfinished"/>
+        <translation>设备组筛选器</translation>
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation type="unfinished"/>
+        <translation>使用设备的地理位置属性</translation>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation type="unfinished"/>
+        <translation>通过正则表达式从主机名中提取</translation>
     </message>
     <message>
         <source>Regular expression</source>
-        <translation type="unfinished"/>
+        <translation>正则表达式</translation>
     </message>
     <message>
         <source>Query limit</source>
-        <translation type="unfinished"/>
+        <translation>查询限制</translation>
     </message>
     <message>
         <source>Entra ID configuration check</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID 配置检查</translation>
     </message>
     <message>
         <source>An access token for Entra ID has been obtained successfully.</source>
-        <translation type="unfinished"/>
+        <translation>已成功获取 Entra ID 访问令牌。</translation>
     </message>
     <message>
         <source>Entra ID test failed</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID 测试失败</translation>
     </message>
     <message>
         <source>Entra ID test successful</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID 测试成功</translation>
     </message>
     <message>
         <source>%1 %2 have been queried successfully:
@@ -354,11 +354,11 @@
     </message>
     <message>
         <source>Test access</source>
-        <translation type="unfinished"/>
+        <translation>测试访问</translation>
     </message>
     <message>
         <source>Entra ID access</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID 访问</translation>
     </message>
     <message>
         <source>user groups</source>
@@ -366,35 +366,35 @@
     </message>
     <message>
         <source>device groups</source>
-        <translation type="unfinished"/>
+        <translation>设备组</translation>
     </message>
     <message>
         <source>device locations</source>
-        <translation type="unfinished"/>
+        <translation>设备位置</translation>
     </message>
     <message>
         <source>Location mapping mode</source>
-        <translation type="unfinished"/>
+        <translation>位置映射模式</translation>
     </message>
     <message>
         <source>Could not query any %1. Please check the API permissions (%2) for the registered app in your Microsoft Entra admin center and the &quot;%3&quot; parameter on this page.</source>
-        <translation type="unfinished"/>
+        <translation>无法查询任何 %1。请检查 Microsoft Entra 管理中心内已注册应用的 API 权限 (%2) 以及本页面上的“%3”参数。</translation>
     </message>
     <message>
         <source>Could not query any device locations. Please check the API permissions (%1) for the registered app in your Microsoft Entra admin center and the &quot;%2&quot;, &quot;%3&quot; and &quot;%4&quot; parameters on this page.</source>
-        <translation type="unfinished"/>
+        <translation>无法查询任何设备位置。请检查 Microsoft Entra 管理中心内已注册应用的 API 权限 (%1)，以及本页面上的“%2”、“%3”和“%4”参数。</translation>
     </message>
     <message>
         <source>devices</source>
-        <translation type="unfinished"/>
+        <translation>设备</translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
-        <translation type="unfinished"/>
+        <translation>例如：startsWith(displayName, &apos;PC&apos;)</translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;Room&apos;)</source>
-        <translation type="unfinished"/>
+        <translation>例如：startsWith(displayName, &apos;Room&apos;)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -402,114 +402,114 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"/>
+        <translation>使用设备组</translation>
     </message>
     <message>
         <source>e.g. description</source>
-        <translation type="unfinished"/>
+        <translation>例如：描述</translation>
     </message>
     <message>
         <source>Device group attribute to use as location name</source>
-        <translation type="unfinished"/>
+        <translation>用作位置名称的设备组属性</translation>
     </message>
     <message>
         <source>Client certificate path</source>
-        <translation type="unfinished"/>
+        <translation>客户端证书路径</translation>
     </message>
     <message>
         <source>Client certificate file</source>
-        <translation type="unfinished"/>
+        <translation>客户端证书文件</translation>
     </message>
     <message>
         <source>PEM files (*.pem)</source>
-        <translation type="unfinished"/>
+        <translation>PEM 文件 (*.pem)</translation>
     </message>
     <message>
         <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
-        <translation type="unfinished"/>
+        <translation>无法获取 Entra ID 的访问令牌。请检查租户 ID、应用程序（客户端）ID 以及客户端密码或证书路径。</translation>
     </message>
     <message>
         <source>Client certificate with private key file</source>
-        <translation type="unfinished"/>
+        <translation>包含私钥文件的客户端证书</translation>
     </message>
     <message>
         <source>Specify path to client certificate file containing the private key.</source>
-        <translation type="unfinished"/>
+        <translation>指定包含私钥的客户端证书文件的路径。</translation>
     </message>
     <message>
         <source>Client credential type</source>
-        <translation type="unfinished"/>
+        <translation>客户端凭据类型</translation>
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>设备</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
-        <translation type="unfinished"/>
+        <translation>主机名属性</translation>
     </message>
     <message>
         <source>MAC address attribute</source>
-        <translation type="unfinished"/>
+        <translation>MAC 地址属性</translation>
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation>主机名来源</translation>
     </message>
     <message>
         <source>Device name (default)</source>
-        <translation type="unfinished"/>
+        <translation>设备名称（默认）</translation>
     </message>
     <message>
         <source>Multicast DNS (device name + .local suffix)</source>
-        <translation type="unfinished"/>
+        <translation>多播 DNS（设备名称 + .local 后缀）</translation>
     </message>
     <message>
         <source>Open query console</source>
-        <translation type="unfinished"/>
+        <translation>打开查询控制台</translation>
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>MAC 地址来源</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
-        <translation type="unfinished"/>
+        <translation>MAC 地址属性（默认）</translation>
     </message>
     <message>
         <source>Intune Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune 以太网 MAC 地址</translation>
     </message>
     <message>
         <source>Intune Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune Wi-Fi MAC 地址</translation>
     </message>
     <message>
         <source>Intune Ethernet or Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune 以太网或 Wi-Fi MAC 地址</translation>
     </message>
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune Wi-Fi 或以太网 MAC 地址</translation>
     </message>
     <message>
         <source>Device location attribute</source>
-        <translation type="unfinished"/>
+        <translation>设备位置属性</translation>
     </message>
 </context>
 <context>
     <name>EntraIdConnectorPlugin</name>
     <message>
         <source>Network object directory providing users, groups and devices from Microsoft Entra ID</source>
-        <translation type="unfinished"/>
+        <translation>提供来自 Microsoft Entra ID 的用户、组和设备的网络对象目录</translation>
     </message>
     <message>
         <source>Entra ID (read devices from Entra ID directory)</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID（从 Entra ID 目录读取设备）</translation>
     </message>
     <message>
         <source>Entra ID (read users and groups from Entra ID directory)</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID（从 Entra ID 目录读取用户和组）</translation>
     </message>
 </context>
 <context>
@@ -520,30 +520,30 @@
     </message>
     <message>
         <source>Query timed out</source>
-        <translation type="unfinished"/>
+        <translation>查询超时</translation>
     </message>
 </context>
 <context>
     <name>EntraIdQueryConsole</name>
     <message>
         <source>Entra ID Query Console</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID 查询控制台</translation>
     </message>
     <message>
         <source>Query</source>
-        <translation type="unfinished"/>
+        <translation>查询</translation>
     </message>
     <message>
         <source>Resource or query URL:</source>
-        <translation type="unfinished"/>
+        <translation>资源或查询 URL：</translation>
     </message>
     <message>
         <source>Run query</source>
-        <translation type="unfinished"/>
+        <translation>运行查询</translation>
     </message>
     <message>
         <source>Response</source>
-        <translation type="unfinished"/>
+        <translation>回复</translation>
     </message>
 </context>
 <context>
@@ -594,15 +594,15 @@
     </message>
     <message>
         <source>e.g. docs.veyon.io</source>
-        <translation type="unfinished"/>
+        <translation>例如 docs.veion.io</translation>
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>阻止流向（例如代理或 DNS）服务器的流量</translation>
     </message>
     <message>
         <source>Server addresses</source>
-        <translation type="unfinished"/>
+        <translation>服务器地址</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.253</source>
@@ -618,7 +618,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation>阻止所有 TCP 和 UDP 端口的出站流量</translation>
     </message>
 </context>
 <context>
@@ -644,15 +644,15 @@
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
-        <translation type="unfinished"/>
+        <translation>保留之前的互联网拦截状态</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>阻止互联网访问</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>恢复互联网连接</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -660,18 +660,18 @@
     </message>
     <message>
         <source>Start behavior:</source>
-        <translation type="unfinished"/>
+        <translation>启动行为：</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Restrict internet access</source>
-        <translation type="unfinished"/>
+        <translation>限制互联网访问</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>恢复互联网连接</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -683,43 +683,43 @@
     </message>
     <message>
         <source>Block, restrict or restore internet access.</source>
-        <translation type="unfinished"/>
+        <translation>阻止、限制或恢复互联网访问。</translation>
     </message>
     <message>
         <source>Click to restrict internet access to certain websites.</source>
-        <translation type="unfinished"/>
+        <translation>点击以限制对特定网站的互联网访问。</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>阻止互联网访问</translation>
     </message>
     <message>
         <source>Click to completely block internet access.</source>
-        <translation type="unfinished"/>
+        <translation>点击以完全阻止互联网访问。</translation>
     </message>
     <message>
         <source>Click to restore internet access.</source>
-        <translation type="unfinished"/>
+        <translation>单击可恢复互联网访问。</translation>
     </message>
     <message>
         <source>Restrict internet access to selected websites</source>
-        <translation type="unfinished"/>
+        <translation>将互联网访问限制在特定网站</translation>
     </message>
     <message>
         <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>互联网访问现已被拦截。由于您使用的是此插件的演示版，访问权限将在 5 分钟后自动恢复。</translation>
     </message>
     <message>
         <source>Allowed websites</source>
-        <translation type="unfinished"/>
+        <translation>允许访问的网站</translation>
     </message>
     <message>
         <source>Please wait while resolving wildcard domains</source>
-        <translation type="unfinished"/>
+        <translation>正在解析通配符域名，请稍候。</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -742,7 +742,7 @@
     </message>
     <message>
         <source>Installation ID</source>
-        <translation>安装ID</translation>
+        <translation>安装 ID</translation>
     </message>
     <message>
         <source>Addons available for licensing</source>
@@ -750,7 +750,7 @@
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>更改</translation>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -770,7 +770,7 @@
     </message>
     <message>
         <source>Add-on</source>
-        <translation type="unfinished"/>
+        <translation>附加组件</translation>
     </message>
     <message>
         <source>Valid until</source>
@@ -778,7 +778,7 @@
     </message>
     <message>
         <source>Sites</source>
-        <translation type="unfinished"/>
+        <translation>站点</translation>
     </message>
     <message>
         <source>Computers</source>
@@ -790,23 +790,23 @@
     </message>
     <message>
         <source>Please enter the installation ID to set:</source>
-        <translation type="unfinished"/>
+        <translation>请输入要设置的安装 ID：</translation>
     </message>
     <message>
         <source>Invalid installation ID</source>
-        <translation type="unfinished"/>
+        <translation>无效的安装 ID</translation>
     </message>
     <message>
         <source>The entered installation ID is invalid. The current installation ID is kept.</source>
-        <translation type="unfinished"/>
+        <translation>输入的安装 ID 无效。保留当前的安装 ID。</translation>
     </message>
     <message>
         <source>Installation ID changed</source>
-        <translation type="unfinished"/>
+        <translation>安装 ID 已更改</translation>
     </message>
     <message>
         <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
-        <translation type="unfinished"/>
+        <translation>安装 ID 已成功更改。应用配置以永久保存。</translation>
     </message>
     <message>
         <source>Browse license file</source>
@@ -814,7 +814,7 @@
     </message>
     <message>
         <source>Veyon license files (*.vlf)</source>
-        <translation>Veyon  许可证文件</translation>
+        <translation>Veyon 许可证文件 (*.vlf)</translation>
     </message>
     <message>
         <source>Remove license</source>
@@ -826,7 +826,7 @@
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation>任意</translation>
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
@@ -834,11 +834,11 @@
     </message>
     <message>
         <source>invalid license</source>
-        <translation type="unfinished"/>
+        <translation>无效许可证</translation>
     </message>
     <message>
         <source>unlimited</source>
-        <translation type="unfinished"/>
+        <translation>无限制</translation>
     </message>
     <message>
         <source>Invalid license file</source>
@@ -877,23 +877,23 @@
     <name>LicensingHelper</name>
     <message>
         <source>The %1 add-on is licensed for use with up to %2 computers only. Please reduce the number of computers displayed or upgrade your license.</source>
-        <translation type="unfinished"/>
+        <translation>%1 附加组件的许可仅限在最多 %2 台计算机上使用。请减少显示的计算机数量或升级您的许可。</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to upgrade your license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation>请访问 %1，了解有关如何升级此插件许可证的更多信息。</translation>
     </message>
     <message>
         <source>Thank you for testing the %1 add-on.</source>
-        <translation type="unfinished"/>
+        <translation>感谢您测试 %1 附加组件。</translation>
     </message>
     <message>
         <source>Please visit %1 for more information on how to obtain a license for this add-on.</source>
-        <translation type="unfinished"/>
+        <translation>请访问 %1，了解如何获取此附加组件的许可证。</translation>
     </message>
     <message>
         <source>%1 demo</source>
-        <translation type="unfinished"/>
+        <translation>%1 演示</translation>
     </message>
 </context>
 <context>
@@ -1023,11 +1023,11 @@ USAGE
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
+        <translation>扫描所有计算机上的会话（例如远程桌面会话）</translation>
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation type="unfinished"/>
+        <translation>排除第一个（例如控制台）会话</translation>
     </message>
     <message>
         <source>Options</source>
@@ -1043,65 +1043,67 @@ USAGE
     </message>
     <message>
         <source>Session scan limit:</source>
-        <translation type="unfinished"/>
+        <translation>会话扫描限制：</translation>
     </message>
     <message>
         <source>IP address</source>
-        <translation type="unfinished"/>
+        <translation>IP 地址</translation>
     </message>
     <message>
         <source>DNS name (reverse lookup)</source>
-        <translation type="unfinished"/>
+        <translation>DNS 名称（反向查找）</translation>
     </message>
     <message>
         <source>User login name</source>
-        <translation type="unfinished"/>
+        <translation>用户登录名</translation>
     </message>
     <message>
         <source>Session client address</source>
-        <translation type="unfinished"/>
+        <translation>会话客户端地址</translation>
     </message>
     <message>
         <source>Session client name</source>
-        <translation type="unfinished"/>
+        <translation>会话客户端名称</translation>
     </message>
     <message>
         <source>Parallel scans:</source>
-        <translation type="unfinished"/>
+        <translation>并行扫描：</translation>
     </message>
     <message>
         <source>Scan timeout:</source>
-        <translation type="unfinished"/>
+        <translation>扫描超时：</translation>
     </message>
     <message>
         <source>Retain time:</source>
-        <translation type="unfinished"/>
+        <translation>保留时间：</translation>
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"/>
+        <translation>会话主机的主机名</translation>
     </message>
     <message>
         <source>Full name of user</source>
-        <translation type="unfinished"/>
+        <translation>用户全名</translation>
     </message>
     <message>
         <source>User groups filter expression:</source>
-        <translation type="unfinished"/>
+        <translation>用户组筛选表达式：</translation>
     </message>
     <message>
         <source>e.g. Class.*</source>
-        <translation type="unfinished"/>
+        <translation>例如：Class.*</translation>
     </message>
     <message>
         <source>Computer names</source>
-        <translation type="unfinished"/>
+        <translation>计算机名称</translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
 
 Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"/>
+        <translation>您可以选择输入一个包含捕获组的正则表达式，以提取计算机名称的一部分，并将其用作该计算机的显示名称。
+
+示例：[^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -1109,51 +1111,51 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default / network range groups</source>
-        <translation type="unfinished"/>
+        <translation>默认/网络范围组</translation>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation>从计算机名称中提取</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation>已登录用户群组</translation>
     </message>
     <message>
         <source>Data source:</source>
-        <translation type="unfinished"/>
+        <translation>数据来源：</translation>
     </message>
     <message>
         <source>Data retrieval timeout:</source>
-        <translation type="unfinished"/>
+        <translation>数据检索超时：</translation>
     </message>
     <message>
         <source>Expression for substring extraction:</source>
-        <translation type="unfinished"/>
+        <translation>用于提取子字符串的表达式：</translation>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation>环境变量</translation>
     </message>
     <message>
         <source>Environment variable name:</source>
-        <translation type="unfinished"/>
+        <translation>环境变量名称：</translation>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation>注册表项</translation>
     </message>
     <message>
         <source>Registry key name:</source>
-        <translation type="unfinished"/>
+        <translation>注册表项名称：</translation>
     </message>
     <message>
         <source>Property for generating persistent network object IDs:</source>
-        <translation type="unfinished"/>
+        <translation>用于生成持久网络对象 ID 的属性：</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>默认</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -1161,17 +1163,19 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Computer name</source>
-        <translation type="unfinished"/>
+        <translation>计算机名称</translation>
     </message>
     <message>
         <source>Exclude computers whose names could not be resolved</source>
-        <translation type="unfinished"/>
+        <translation>排除名称无法解析的计算机</translation>
     </message>
     <message>
         <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
 
 Example: (R[0-9]*)-*</source>
-        <translation type="unfinished"/>
+        <translation>输入包含捕获组的正则表达式，以解析每台计算机的名称，并将其中的一部分用作该计算机的位置。
+
+示例：(R[0-9]*)-*</translation>
     </message>
 </context>
 <context>
@@ -1231,7 +1235,7 @@ USAGE
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>地址</translation>
     </message>
     <message>
         <source>Port</source>
@@ -1243,15 +1247,15 @@ USAGE
     </message>
     <message>
         <source>Query system settings key from the server</source>
-        <translation type="unfinished"/>
+        <translation>从服务器查询系统设置键</translation>
     </message>
     <message>
         <source>Query user groups of logged in user from the server</source>
-        <translation type="unfinished"/>
+        <translation>从服务器查询已登录用户的用户组</translation>
     </message>
     <message>
         <source>Query environment variable from the server</source>
-        <translation type="unfinished"/>
+        <translation>从服务器查询环境变量</translation>
     </message>
 </context>
 <context>
@@ -1262,22 +1266,22 @@ USAGE
     </message>
     <message>
         <source>e.g. 127.0.0.1:8000</source>
-        <translation type="unfinished"/>
+        <translation>例如 127.0.0.1:8000</translation>
     </message>
     <message>
         <source>e.g. *.wikipedia.org</source>
-        <translation type="unfinished"/>
+        <translation>例如 *.wikipedia.org</translation>
     </message>
     <message>
         <source>Redirected proxy address</source>
-        <translation type="unfinished"/>
+        <translation>重定向代理地址</translation>
     </message>
 </context>
 <context>
     <name>ProxyRedirectPlugin</name>
     <message>
         <source>Block internet access via proxy redirection</source>
-        <translation type="unfinished"/>
+        <translation>通过代理重定向阻止互联网访问</translation>
     </message>
 </context>
 <context>
@@ -1288,7 +1292,7 @@ USAGE
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>添加自定义路由以阻止互联网访问</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1312,7 +1316,7 @@ USAGE
     </message>
     <message>
         <source>New route</source>
-        <translation type="unfinished"/>
+        <translation>新建路由</translation>
     </message>
 </context>
 <context>
@@ -1323,34 +1327,34 @@ USAGE
     </message>
     <message>
         <source>Custom route</source>
-        <translation type="unfinished"/>
+        <translation>自定义路由</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderConfigurationPage</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>屏幕录制</translation>
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation>输出设置</translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation>使用固定分辨率</translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
-        <translation type="unfinished"/>
+        <translation>保持纵横比</translation>
     </message>
     <message>
         <source>frames per second</source>
-        <translation type="unfinished"/>
+        <translation>每秒帧数</translation>
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>输出目录</translation>
     </message>
     <message>
         <source>x</source>
@@ -1358,43 +1362,43 @@ USAGE
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation>使用固定帧率</translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>保存到特定于计算机的子目录</translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation>编码设置</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation>编码器</translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation>x264 预设</translation>
     </message>
     <message>
         <source>kbps</source>
-        <translation type="unfinished"/>
+        <translation>kbps</translation>
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation>H.264 配置文件</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation>比特率</translation>
     </message>
     <message>
         <source>Keyframe interval</source>
-        <translation type="unfinished"/>
+        <translation>关键帧间隔</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>格式</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1402,120 +1406,120 @@ USAGE
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>其他设置</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>当用户的屏幕被录制时通知用户</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderControlWidget</name>
     <message>
         <source>Screen recorder</source>
-        <translation type="unfinished"/>
+        <translation>屏幕录制</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation type="unfinished"/>
+        <translation>开始录制</translation>
     </message>
     <message>
         <source>Processing…</source>
-        <translation type="unfinished"/>
+        <translation>正在处理…</translation>
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation>打开包含录制的文件夹</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation>屏幕正在录制</translation>
     </message>
     <message>
         <source>Starting recordings…</source>
-        <translation type="unfinished"/>
+        <translation>正在开始录制…</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation>正在停止录制</translation>
     </message>
     <message>
         <source>Finishing recordings…</source>
-        <translation type="unfinished"/>
+        <translation>正在完成录制...</translation>
     </message>
     <message>
         <source>Recording finished (duration: %1)</source>
-        <translation type="unfinished"/>
+        <translation>录制完成（时长：%1）</translation>
     </message>
     <message>
         <source>Recording duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>录制时长：%1</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>Standard MP4</source>
-        <translation type="unfinished"/>
+        <translation>标准 MP4</translation>
     </message>
     <message>
         <source>Fragmented MP4</source>
-        <translation type="unfinished"/>
+        <translation>分片 MP4</translation>
     </message>
     <message>
         <source>Matroska (MKV)</source>
-        <translation type="unfinished"/>
+        <translation>Matroska (MKV)</translation>
     </message>
     <message>
         <source>MPEG-TS</source>
-        <translation type="unfinished"/>
+        <translation>MPEG-TS</translation>
     </message>
     <message>
         <source>auto</source>
-        <translation type="unfinished"/>
+        <translation>自动</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorderPlugin</name>
     <message>
         <source>Record</source>
-        <translation type="unfinished"/>
+        <translation>录制</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"/>
+        <translation>正在停止录制</translation>
     </message>
     <message>
         <source>Click this button to record the screens of all users into video files.</source>
-        <translation type="unfinished"/>
+        <translation>点击此按钮，将所有用户的屏幕画面录制为视频文件。</translation>
     </message>
     <message>
         <source>Screen recording</source>
-        <translation type="unfinished"/>
+        <translation>屏幕正在录制</translation>
     </message>
     <message>
         <source>The screen is now recorded in a video file on the teacher&apos;s computer.</source>
-        <translation type="unfinished"/>
+        <translation>屏幕画面现已录制为视频文件，保存在教师的电脑上。</translation>
     </message>
     <message>
         <source>The screen recording on the teacher&apos;s computer has been stopped.</source>
-        <translation type="unfinished"/>
+        <translation>教师电脑上的屏幕录制已停止。</translation>
     </message>
     <message>
         <source>Record screens to video files</source>
-        <translation type="unfinished"/>
+        <translation>将屏幕录制为视频文件</translation>
     </message>
     <message>
         <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
-        <translation type="unfinished"/>
+        <translation>由于手动重新加载，屏幕录制已停止。如有需要，请重新开始录制。</translation>
     </message>
     <message>
         <source>Screen recording stopped</source>
-        <translation type="unfinished"/>
+        <translation>屏幕录制已停止</translation>
     </message>
 </context>
 <context>

@@ -514,7 +514,7 @@
     <name>EntraIdDirectory</name>
     <message>
         <source>Unknown location</source>
-        <translation type="unfinished"/>
+        <translation>מקום לא ידוע</translation>
     </message>
     <message>
         <source>Query timed out</source>
@@ -638,7 +638,7 @@
     </message>
     <message>
         <source>Backend:</source>
-        <translation type="unfinished"/>
+        <translation>מנגנון:</translation>
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
@@ -673,7 +673,7 @@
     </message>
     <message>
         <source>Show help about command</source>
-        <translation type="unfinished"/>
+        <translation>הצגת עזרה על פקודה</translation>
     </message>
     <message>
         <source>Internet access</source>
@@ -1023,7 +1023,7 @@ USAGE
     </message>
     <message>
         <source> ms</source>
-        <translation type="unfinished"/>
+        <translation>מ״ש</translation>
     </message>
     <message>
         <source>New location</source>
@@ -1043,15 +1043,15 @@ USAGE
     </message>
     <message>
         <source>User login name</source>
-        <translation type="unfinished"/>
+        <translation>שם כניסה של המשתמש</translation>
     </message>
     <message>
         <source>Session client address</source>
-        <translation type="unfinished"/>
+        <translation>כתובת לקוח הפעלה</translation>
     </message>
     <message>
         <source>Session client name</source>
-        <translation type="unfinished"/>
+        <translation>שם לקוח הפעלה</translation>
     </message>
     <message>
         <source>Parallel scans:</source>
@@ -1071,7 +1071,7 @@ USAGE
     </message>
     <message>
         <source>Full name of user</source>
-        <translation type="unfinished"/>
+        <translation>שם המשתמש המלא</translation>
     </message>
     <message>
         <source>User groups filter expression:</source>
@@ -1141,11 +1141,11 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>ברירת מחדל</translation>
     </message>
     <message>
         <source>Host address</source>
-        <translation type="unfinished"/>
+        <translation>כתובת מארח</translation>
     </message>
     <message>
         <source>Computer name</source>
@@ -1206,7 +1206,7 @@ USAGE
     </message>
     <message>
         <source>Failed to initialize credentials</source>
-        <translation type="unfinished"/>
+        <translation>אתחול פרטי הגישה נכשל</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1337,7 +1337,7 @@ USAGE
     </message>
     <message>
         <source>x</source>
-        <translation type="unfinished"/>
+        <translation>x</translation>
     </message>
     <message>
         <source>Use fixed framerate</source>

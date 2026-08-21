@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Unlock</source>
-        <translation type="unfinished"/>
+        <translation>Otključati</translation>
     </message>
 </context>
 <context>
@@ -254,7 +254,7 @@
     </message>
     <message>
         <source>Basic settings</source>
-        <translation type="unfinished"/>
+        <translation>Osnovne postavke</translation>
     </message>
     <message>
         <source>Tenant ID</source>
@@ -344,11 +344,13 @@
         <source>%1 %2 have been queried successfully:
 
 %3</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2 su uspješno upitana:
+
+%3</translation>
     </message>
     <message>
         <source>users</source>
-        <translation type="unfinished"/>
+        <translation>Korisnici</translation>
     </message>
     <message>
         <source>Test access</source>
@@ -360,7 +362,7 @@
     </message>
     <message>
         <source>user groups</source>
-        <translation type="unfinished"/>
+        <translation>Korisničke grupe</translation>
     </message>
     <message>
         <source>device groups</source>
@@ -396,7 +398,7 @@
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"/>
+        <translation>Lokacije</translation>
     </message>
     <message>
         <source>Use device groups</source>
@@ -514,7 +516,7 @@
     <name>EntraIdDirectory</name>
     <message>
         <source>Unknown location</source>
-        <translation type="unfinished"/>
+        <translation>Nepoznata lokacija</translation>
     </message>
     <message>
         <source>Query timed out</source>
@@ -612,7 +614,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
@@ -638,7 +640,7 @@
     </message>
     <message>
         <source>Backend:</source>
-        <translation type="unfinished"/>
+        <translation>Backend:</translation>
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
@@ -673,7 +675,7 @@
     </message>
     <message>
         <source>Show help about command</source>
-        <translation type="unfinished"/>
+        <translation>Pokaži pomoć o zapovijedanju</translation>
     </message>
     <message>
         <source>Internet access</source>
@@ -780,7 +782,7 @@
     </message>
     <message>
         <source>Computers</source>
-        <translation type="unfinished"/>
+        <translation>Računala</translation>
     </message>
     <message>
         <source>Licensee</source>
@@ -828,7 +830,7 @@
     </message>
     <message>
         <source>&lt;N/A&gt;</source>
-        <translation type="unfinished"/>
+        <translation>%n sat</translation>
     </message>
     <message>
         <source>invalid license</source>
@@ -898,7 +900,7 @@
     <name>LicensingPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation type="unfinished"/>
+        <translation>Pokaži pomoć za određenu naredbu</translation>
     </message>
     <message>
         <source>Show all installed licenses</source>
@@ -1019,15 +1021,15 @@ USAGE
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opcije</translation>
     </message>
     <message>
         <source> ms</source>
-        <translation type="unfinished"/>
+        <translation> ms</translation>
     </message>
     <message>
         <source>New location</source>
-        <translation type="unfinished"/>
+        <translation>Nova lokacija</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1043,15 +1045,15 @@ USAGE
     </message>
     <message>
         <source>User login name</source>
-        <translation type="unfinished"/>
+        <translation>Korisničko korisničko korisničko ime za prijavu</translation>
     </message>
     <message>
         <source>Session client address</source>
-        <translation type="unfinished"/>
+        <translation>Adresa klijenta sesije</translation>
     </message>
     <message>
         <source>Session client name</source>
-        <translation type="unfinished"/>
+        <translation>Naziv klijenta sesije</translation>
     </message>
     <message>
         <source>Parallel scans:</source>
@@ -1071,7 +1073,7 @@ USAGE
     </message>
     <message>
         <source>Full name of user</source>
-        <translation type="unfinished"/>
+        <translation>Puno ime korisnika</translation>
     </message>
     <message>
         <source>User groups filter expression:</source>
@@ -1089,11 +1091,13 @@ USAGE
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
 
 Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"/>
+        <translation>Opcionalno unesite regularni izraz s hvatanjem kako biste izdvojili dio imena računala i koristili ga kao prikazni naziv za računalo.
+
+Primjer: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"/>
+        <translation>Lokacije</translation>
     </message>
     <message>
         <source>Default / network range groups</source>
@@ -1141,11 +1145,11 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Zadano</translation>
     </message>
     <message>
         <source>Host address</source>
-        <translation type="unfinished"/>
+        <translation>Adresa hosta</translation>
     </message>
     <message>
         <source>Computer name</source>
@@ -1177,7 +1181,7 @@ Example: (R[0-9]*)-*</source>
     <name>NetworkDiscoveryPlugin</name>
     <message>
         <source>Show help for specific command</source>
-        <translation type="unfinished"/>
+        <translation>Pokaži pomoć za određenu naredbu</translation>
     </message>
     <message>
         <source>Scan a subnet</source>
@@ -1206,11 +1210,11 @@ USAGE
     </message>
     <message>
         <source>Failed to initialize credentials</source>
-        <translation type="unfinished"/>
+        <translation>Nije uspjelo inicijalizirati vjerodajnice</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Address</source>
@@ -1222,7 +1226,7 @@ USAGE
     </message>
     <message>
         <source>Locations</source>
-        <translation type="unfinished"/>
+        <translation>Lokacije</translation>
     </message>
     <message>
         <source>Query system settings key from the server</source>
@@ -1275,7 +1279,7 @@ USAGE
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -1287,11 +1291,11 @@ USAGE
     </message>
     <message>
         <source>Add new location</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj novu lokaciju</translation>
     </message>
     <message>
         <source>Remove selected location</source>
-        <translation type="unfinished"/>
+        <translation>Uklonite odabranu lokaciju</translation>
     </message>
     <message>
         <source>New route</source>
@@ -1337,7 +1341,7 @@ USAGE
     </message>
     <message>
         <source>x</source>
-        <translation type="unfinished"/>
+        <translation>x</translation>
     </message>
     <message>
         <source>Use fixed framerate</source>

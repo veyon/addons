@@ -15,35 +15,35 @@
     </message>
     <message>
         <source>Webcams</source>
-        <translation type="unfinished"/>
+        <translation>Web-kamerak</translation>
     </message>
     <message>
         <source>Microphones</source>
-        <translation type="unfinished"/>
+        <translation>Mikronfonoak</translation>
     </message>
     <message>
         <source>USB drives</source>
-        <translation type="unfinished"/>
+        <translation>USB unitateak</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Ixilarazi</translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation type="unfinished"/>
+        <translation>Mututasuna eten</translation>
     </message>
     <message>
         <source>Audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Audio irteerak</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>Desgaitu</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu</translation>
     </message>
     <message>
         <source>Unlock</source>
@@ -54,59 +54,59 @@
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>Audio kontrola</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Mututu edo mututasuna eten bozgorailu, entzungailu eta mikrofonoetan.</translation>
     </message>
     <message>
         <source>Mute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Mututu audio irteerak</translation>
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
-        <translation type="unfinished"/>
+        <translation>Egin klik mututzeko  bozgorailuak, entzungailuak eta abar</translation>
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Eten audio irteeren mututasuna</translation>
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Mututu mikrofonoak</translation>
     </message>
     <message>
         <source>Click to mute microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Egin klik mikrofonoak mututzeko</translation>
     </message>
     <message>
         <source>Unmute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Eten mikrofonoen mututasuna</translation>
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>Gailuen kontrola</translation>
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation type="unfinished"/>
+        <translation>Desgaitu web-kamerak</translation>
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"/>
+        <translation>Egin klik web-kamerak desgaitzeko</translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Bozgorailu guztiak mutututa daude orain</translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Mikrofono guztiak mutututa daude orain</translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Web-kamera guztiak desgaituta daude orain</translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
@@ -1222,7 +1222,7 @@ USAGE
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Ataka</translation>
     </message>
     <message>
         <source>Locations</source>
