@@ -409,10 +409,6 @@
         <translation>例如: description</translation>
     </message>
     <message>
-        <source>Device group attribute to use as location name</source>
-        <translation>用作位置名稱的裝置群組屬性</translation>
-    </message>
-    <message>
         <source>Client certificate path</source>
         <translation>用戶端憑證路徑</translation>
     </message>
@@ -461,12 +457,20 @@
         <translation>裝置名稱 (預設)</translation>
     </message>
     <message>
-        <source>Multicast DNS (device name + .local suffix)</source>
-        <translation>Multicast DNS (裝置名稱 + .local 字首)</translation>
-    </message>
-    <message>
         <source>Open query console</source>
         <translation>開啟查詢主控台</translation>
+    </message>
+    <message>
+        <source>Device name with multicast DNS suffix (.local)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune device name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune device name with multicast DNS suffix (.local)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MAC address source</source>
@@ -491,6 +495,14 @@
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
         <translation>Intune Wi-Fi 或 Ethernet MAC 位址</translation>
+    </message>
+    <message>
+        <source>Use groups of users with associated Intune devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Group attribute to use as location name</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Device location attribute</source>

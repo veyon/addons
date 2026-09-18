@@ -409,10 +409,6 @@
         <translation>ad esempio, descrizione</translation>
     </message>
     <message>
-        <source>Device group attribute to use as location name</source>
-        <translation>Attributo del gruppo di dispositivi da utilizzare come nome della posizione</translation>
-    </message>
-    <message>
         <source>Client certificate path</source>
         <translation>Percorso del certificato del client</translation>
     </message>
@@ -461,12 +457,20 @@
         <translation>Nome dispositivo (predefinito)</translation>
     </message>
     <message>
-        <source>Multicast DNS (device name + .local suffix)</source>
-        <translation>Multicast DNS (nome dispositivo + suffisso .local)</translation>
-    </message>
-    <message>
         <source>Open query console</source>
         <translation>Apri la console dellA query</translation>
+    </message>
+    <message>
+        <source>Device name with multicast DNS suffix (.local)</source>
+        <translation>Nome del dispositivo con suffisso DNS multicast (.local)</translation>
+    </message>
+    <message>
+        <source>Intune device name</source>
+        <translation>Nome del dispositivo Intune</translation>
+    </message>
+    <message>
+        <source>Intune device name with multicast DNS suffix (.local)</source>
+        <translation>Nome del dispositivo Intune con suffisso DNS multicast (.local)</translation>
     </message>
     <message>
         <source>MAC address source</source>
@@ -491,6 +495,14 @@
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
         <translation>Indirizzo MAC Wi-Fi o Ethernet Intune</translation>
+    </message>
+    <message>
+        <source>Use groups of users with associated Intune devices</source>
+        <translation>Utilizza gruppi di utenti con dispositivi Intune associati</translation>
+    </message>
+    <message>
+        <source>Group attribute to use as location name</source>
+        <translation>Attributo di gruppo da utilizzare come nome della posizione</translation>
     </message>
     <message>
         <source>Device location attribute</source>

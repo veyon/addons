@@ -200,7 +200,7 @@
     </message>
     <message>
         <source>%1 Chat</source>
-        <translation type="unfinished"/>
+        <translation>%1-chatt</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -409,10 +409,6 @@
         <translation>t.ex. beskrivning</translation>
     </message>
     <message>
-        <source>Device group attribute to use as location name</source>
-        <translation>Attribut för enhetsgrupp som ska användas som platsnamn</translation>
-    </message>
-    <message>
         <source>Client certificate path</source>
         <translation>Sökväg för klientcertifikat</translation>
     </message>
@@ -461,12 +457,20 @@
         <translation>Enhetens namn (standard)</translation>
     </message>
     <message>
-        <source>Multicast DNS (device name + .local suffix)</source>
-        <translation>Multicast DNS (enhetsnamn + .local-suffix)</translation>
-    </message>
-    <message>
         <source>Open query console</source>
         <translation>Öppna frågekonsolen</translation>
+    </message>
+    <message>
+        <source>Device name with multicast DNS suffix (.local)</source>
+        <translation>Enhetsnamn med multicast-DNS-suffixet (.local)</translation>
+    </message>
+    <message>
+        <source>Intune device name</source>
+        <translation>Enhetsnamn i Intune</translation>
+    </message>
+    <message>
+        <source>Intune device name with multicast DNS suffix (.local)</source>
+        <translation>Enhetsnamn i Intune med multicast-DNS-suffixet (.local)</translation>
     </message>
     <message>
         <source>MAC address source</source>
@@ -491,6 +495,14 @@
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
         <translation>Intune MAC-adress för Wi-Fi eller Ethernet</translation>
+    </message>
+    <message>
+        <source>Use groups of users with associated Intune devices</source>
+        <translation>Använd användargrupper med tillhörande Intune-enheter</translation>
+    </message>
+    <message>
+        <source>Group attribute to use as location name</source>
+        <translation>Gruppattribut att använda som platsnamn</translation>
     </message>
     <message>
         <source>Device location attribute</source>
@@ -644,15 +656,15 @@
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
-        <translation type="unfinished"/>
+        <translation>Behåll föregående status för internetblockering</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Blockera internetåtkomst</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Återställ internetåtkomst</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -667,11 +679,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Restrict internet access</source>
-        <translation type="unfinished"/>
+        <translation>Begränsa internetåtkomst</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Återställ internetåtkomst</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -683,43 +695,43 @@
     </message>
     <message>
         <source>Block, restrict or restore internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Blockera, begränsa eller återställ internetåtkomst.</translation>
     </message>
     <message>
         <source>Click to restrict internet access to certain websites.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka för att begränsa internetåtkomsten till vissa webbplatser.</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Blockera internetåtkomst</translation>
     </message>
     <message>
         <source>Click to completely block internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka för att helt blockera internetåtkomsten.</translation>
     </message>
     <message>
         <source>Click to restore internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Klicka för att återställa internetåtkomsten.</translation>
     </message>
     <message>
         <source>Restrict internet access to selected websites</source>
-        <translation type="unfinished"/>
+        <translation>Begränsa internetåtkomsten till valda webbplatser</translation>
     </message>
     <message>
         <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Internetåtkomsten är nu blockerad. Eftersom du använder en demoversion av detta tillägg återställs den automatiskt om 5 minuter.</translation>
     </message>
     <message>
         <source>Allowed websites</source>
-        <translation type="unfinished"/>
+        <translation>Tillåtna webbplatser</translation>
     </message>
     <message>
         <source>Please wait while resolving wildcard domains</source>
-        <translation type="unfinished"/>
+        <translation>Vänta medan jokerteckendomäner löses upp</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -750,7 +762,7 @@
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Ändra</translation>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -790,23 +802,23 @@
     </message>
     <message>
         <source>Please enter the installation ID to set:</source>
-        <translation type="unfinished"/>
+        <translation>Ange installations-id:t som ska ställas in:</translation>
     </message>
     <message>
         <source>Invalid installation ID</source>
-        <translation type="unfinished"/>
+        <translation>Ogiltigt installations-id</translation>
     </message>
     <message>
         <source>The entered installation ID is invalid. The current installation ID is kept.</source>
-        <translation type="unfinished"/>
+        <translation>Det angivna installations-id:t är ogiltigt. Det nuvarande installations-id:t behålls.</translation>
     </message>
     <message>
         <source>Installation ID changed</source>
-        <translation type="unfinished"/>
+        <translation>Installations-id ändrat</translation>
     </message>
     <message>
         <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
-        <translation type="unfinished"/>
+        <translation>Installations-id:t har ändrats. Tillämpa konfigurationen för att spara det permanent.</translation>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1266,22 +1278,22 @@ ANVÄNDNING
     </message>
     <message>
         <source>e.g. 127.0.0.1:8000</source>
-        <translation type="unfinished"/>
+        <translation>t.ex. 127.0.0.1:8000</translation>
     </message>
     <message>
         <source>e.g. *.wikipedia.org</source>
-        <translation type="unfinished"/>
+        <translation>t.ex. *.wikipedia.org</translation>
     </message>
     <message>
         <source>Redirected proxy address</source>
-        <translation type="unfinished"/>
+        <translation>Omdirigerad proxyadress</translation>
     </message>
 </context>
 <context>
     <name>ProxyRedirectPlugin</name>
     <message>
         <source>Block internet access via proxy redirection</source>
-        <translation type="unfinished"/>
+        <translation>Blockera internetåtkomst via proxyomdirigering</translation>
     </message>
 </context>
 <context>
@@ -1292,7 +1304,7 @@ ANVÄNDNING
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Lägg till anpassade rutter för att blockera internet</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1316,7 +1328,7 @@ ANVÄNDNING
     </message>
     <message>
         <source>New route</source>
-        <translation type="unfinished"/>
+        <translation>Ny rutt</translation>
     </message>
 </context>
 <context>
@@ -1327,7 +1339,7 @@ ANVÄNDNING
     </message>
     <message>
         <source>Custom route</source>
-        <translation type="unfinished"/>
+        <translation>Anpassad rutt</translation>
     </message>
 </context>
 <context>
@@ -1398,7 +1410,7 @@ ANVÄNDNING
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>Format</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1464,19 +1476,19 @@ ANVÄNDNING
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>Standard MP4</source>
-        <translation type="unfinished"/>
+        <translation>Standard-MP4</translation>
     </message>
     <message>
         <source>Fragmented MP4</source>
-        <translation type="unfinished"/>
+        <translation>Fragmenterad MP4</translation>
     </message>
     <message>
         <source>Matroska (MKV)</source>
-        <translation type="unfinished"/>
+        <translation>Matroska (MKV)</translation>
     </message>
     <message>
         <source>MPEG-TS</source>
-        <translation type="unfinished"/>
+        <translation>MPEG-TS</translation>
     </message>
     <message>
         <source>auto</source>

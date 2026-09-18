@@ -409,10 +409,6 @@
         <translation>par exemple : description</translation>
     </message>
     <message>
-        <source>Device group attribute to use as location name</source>
-        <translation>Attribut du groupe de périphériques à utiliser comme nom d&apos;emplacement</translation>
-    </message>
-    <message>
         <source>Client certificate path</source>
         <translation>Chemin d&apos;accès au certificat client</translation>
     </message>
@@ -461,12 +457,20 @@
         <translation>Nom de l&apos;appareil (par défaut)</translation>
     </message>
     <message>
-        <source>Multicast DNS (device name + .local suffix)</source>
-        <translation>DNS multicast (nom de l&apos;appareil + suffixe .local)</translation>
-    </message>
-    <message>
         <source>Open query console</source>
         <translation>Ouvrir la console de requêtes</translation>
+    </message>
+    <message>
+        <source>Device name with multicast DNS suffix (.local)</source>
+        <translation>Nom de l&apos;appareil avec suffixe DNS multicast (.local)</translation>
+    </message>
+    <message>
+        <source>Intune device name</source>
+        <translation>Nom de l&apos;appareil Intune</translation>
+    </message>
+    <message>
+        <source>Intune device name with multicast DNS suffix (.local)</source>
+        <translation>Nom de l&apos;appareil Intune avec suffixe DNS multicast (.local)</translation>
     </message>
     <message>
         <source>MAC address source</source>
@@ -491,6 +495,14 @@
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
         <translation>Adresse MAC Wi-Fi ou Ethernet d&apos;Intune</translation>
+    </message>
+    <message>
+        <source>Use groups of users with associated Intune devices</source>
+        <translation>Utiliser des groupes d&apos;utilisateurs associés à des appareils Intune</translation>
+    </message>
+    <message>
+        <source>Group attribute to use as location name</source>
+        <translation>Attribut de groupe à utiliser comme nom d&apos;emplacement</translation>
     </message>
     <message>
         <source>Device location attribute</source>

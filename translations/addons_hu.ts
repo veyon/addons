@@ -3,47 +3,47 @@
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation>Auvidus</translation>
     </message>
     <message>
         <source>Start behavior</source>
-        <translation type="unfinished"/>
+        <translation>Kezdeti viselkedés</translation>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation type="unfinished"/>
+        <translation>Előző állapot megtartása</translation>
     </message>
     <message>
         <source>Webcams</source>
-        <translation type="unfinished"/>
+        <translation>Webkamerák</translation>
     </message>
     <message>
         <source>Microphones</source>
-        <translation type="unfinished"/>
+        <translation>Mikrofonok</translation>
     </message>
     <message>
         <source>USB drives</source>
-        <translation type="unfinished"/>
+        <translation>USB meghajtók</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Némítás</translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation type="unfinished"/>
+        <translation>Némítás feloldása</translation>
     </message>
     <message>
         <source>Audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Hangkimenetek</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>Kikapcsolás</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Bekapcsolás</translation>
     </message>
     <message>
         <source>Unlock</source>
@@ -54,107 +54,107 @@
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>Hangvezérlés</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Hangszórók, fejhallgatók és mikrofonok némítása és annak feloldása.</translation>
     </message>
     <message>
         <source>Mute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Hangkimenetek némítása</translation>
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints a hangszórók, fejhallgatók stb. némításához.</translation>
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Hangkimenetek némításának feloldása</translation>
     </message>
     <message>
         <source>Mute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Mikrofonok némítása</translation>
     </message>
     <message>
         <source>Click to mute microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints a mikrofonok némításához.</translation>
     </message>
     <message>
         <source>Unmute microphones</source>
-        <translation type="unfinished"/>
+        <translation>Mikrofonok némításának feloldása</translation>
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>Eszközvezérlés</translation>
     </message>
     <message>
         <source>Disable webcams</source>
-        <translation type="unfinished"/>
+        <translation>Webkamera kikapcsolása</translation>
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints a webkamerák kikapcsolásához.</translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Most minden hangszórót némítottál.</translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Most minden mikrofont némítottál.</translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Most minden webkamerát kikapcsoltál.</translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Az internet-hozzáférés jelenleg blokkolva van. Mivel egy demó verzióját használod ennek a bővítménynek, automatikusan 3 percen belül feloldódik.</translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Hang-, video- és USB-eszközökhöz hozzáférés kezelése</translation>
     </message>
     <message>
         <source>Control webcams and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Webkamerák és USB-eszközök vezérlése</translation>
     </message>
     <message>
         <source>Unlock webcams</source>
-        <translation type="unfinished"/>
+        <translation>Webkamera zárolásának feloldása</translation>
     </message>
     <message>
         <source>Click to enable webcams again.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints a webkamerák újbóli bekapcsolásához.</translation>
     </message>
     <message>
         <source>Disable USB drives</source>
-        <translation type="unfinished"/>
+        <translation>USB meghajtók kikapcsolása</translation>
     </message>
     <message>
         <source>Unlock USB drives</source>
-        <translation type="unfinished"/>
+        <translation>USB meghajtók visszakapcsolása</translation>
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Most minden USB meghajtót kikapcsoltál.</translation>
     </message>
     <message>
         <source>Click to unmute microphones again.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints a mikrofonok újbóli visszakapcsolásához.</translation>
     </message>
     <message>
         <source>Click to disable USB storage devices.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints az USB tárolóeszközök kikapcsolásához.</translation>
     </message>
     <message>
         <source>Click to enable USB storage devices again.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints az USB tárolóeszközök újbóli bekapcsolásához.</translation>
     </message>
     <message>
         <source>Click to unmute speakers, headsets etc. again.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints a hangszórók, fejhallgatók stb. újbóli visszakapcsolásához.</translation>
     </message>
 </context>
 <context>
@@ -200,7 +200,7 @@
     </message>
     <message>
         <source>%1 Chat</source>
-        <translation type="unfinished"/>
+        <translation>%1 üzenet</translation>
     </message>
     <message>
         <source>Interactive chat with logged on users</source>
@@ -250,7 +250,7 @@
     <name>EntraIdConnectorConfigurationPage</name>
     <message>
         <source>Entra ID Connector</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID Connector</translation>
     </message>
     <message>
         <source>Basic settings</source>
@@ -258,15 +258,15 @@
     </message>
     <message>
         <source>Tenant ID</source>
-        <translation type="unfinished"/>
+        <translation>Tenant ID</translation>
     </message>
     <message>
         <source>Application (client) ID</source>
-        <translation type="unfinished"/>
+        <translation>Alkalmazás (kliens) ID</translation>
     </message>
     <message>
         <source>Client secret</source>
-        <translation type="unfinished"/>
+        <translation>Kliens titok</translation>
     </message>
     <message>
         <source>Authentication mechanism</source>
@@ -274,15 +274,15 @@
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft Authentication Library (MSAL)</translation>
     </message>
     <message>
         <source>OAuth 2.0</source>
-        <translation type="unfinished"/>
+        <translation>OAuth 2.0</translation>
     </message>
     <message>
         <source>Request timeout</source>
-        <translation type="unfinished"/>
+        <translation>Kérés időtúllépése</translation>
     </message>
     <message>
         <source>Domain name</source>
@@ -302,43 +302,43 @@
     </message>
     <message>
         <source>User groups filter</source>
-        <translation type="unfinished"/>
+        <translation>Felhasználóicsoport-szűrő</translation>
     </message>
     <message>
         <source>Device groups filter</source>
-        <translation type="unfinished"/>
+        <translation>Eszközcsoport-szűrő</translation>
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation type="unfinished"/>
+        <translation>Az eszköz helyszín attribútumának használata</translation>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Kinyerés a gépnévből reguláris kifejezéssel</translation>
     </message>
     <message>
         <source>Regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Reguláris kifejezés</translation>
     </message>
     <message>
         <source>Query limit</source>
-        <translation type="unfinished"/>
+        <translation>Lekérdezési korlát</translation>
     </message>
     <message>
         <source>Entra ID configuration check</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID konfigurációjának ellenőrzése</translation>
     </message>
     <message>
         <source>An access token for Entra ID has been obtained successfully.</source>
-        <translation type="unfinished"/>
+        <translation>Az Entra ID hozzáférési tokenjét sikeresen megszereztük.</translation>
     </message>
     <message>
         <source>Entra ID test failed</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID tesztelése sikertelen</translation>
     </message>
     <message>
         <source>Entra ID test successful</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID tesztelése sikeres</translation>
     </message>
     <message>
         <source>%1 %2 have been queried successfully:
@@ -358,7 +358,7 @@
     </message>
     <message>
         <source>Entra ID access</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID hozzáférés</translation>
     </message>
     <message>
         <source>user groups</source>
@@ -366,23 +366,23 @@
     </message>
     <message>
         <source>device groups</source>
-        <translation type="unfinished"/>
+        <translation>eszközcsoportok</translation>
     </message>
     <message>
         <source>device locations</source>
-        <translation type="unfinished"/>
+        <translation>eszközhelyszínek</translation>
     </message>
     <message>
         <source>Location mapping mode</source>
-        <translation type="unfinished"/>
+        <translation>Helyszínleképezési mód</translation>
     </message>
     <message>
         <source>Could not query any %1. Please check the API permissions (%2) for the registered app in your Microsoft Entra admin center and the &quot;%3&quot; parameter on this page.</source>
-        <translation type="unfinished"/>
+        <translation>Nem sikerült lekérdezni egyetlen %1 elemet sem. Ellenőrizd a regisztrált alkalmazás API-engedélyeit (%2) a Microsoft Entra felügyeleti központban, valamint az &quot;%3&quot; paramétert ezen az oldalon.</translation>
     </message>
     <message>
         <source>Could not query any device locations. Please check the API permissions (%1) for the registered app in your Microsoft Entra admin center and the &quot;%2&quot;, &quot;%3&quot; and &quot;%4&quot; parameters on this page.</source>
-        <translation type="unfinished"/>
+        <translation>Nem sikerült lekérdezni az eszközök helyét. Ellenőrizd a regisztrált alkalmazás API-engedélyeit (%1) a Microsoft Entra felügyeleti központban, valamint az ezen az oldalon található &quot;%2&quot;, &quot;%3&quot; és &quot;%4&quot; paramétereket.</translation>
     </message>
     <message>
         <source>devices</source>
@@ -390,11 +390,11 @@
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;PC&apos;)</source>
-        <translation type="unfinished"/>
+        <translation>pl. startsWith(displayName, &apos;PC&apos;)</translation>
     </message>
     <message>
         <source>e.g. startsWith(displayName, &apos;Room&apos;)</source>
-        <translation type="unfinished"/>
+        <translation>pl. startsWith(displayName, &apos;Room&apos;)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -402,114 +402,126 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"/>
+        <translation>Eszközcsoportok használata</translation>
     </message>
     <message>
         <source>e.g. description</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Device group attribute to use as location name</source>
-        <translation type="unfinished"/>
+        <translation>pl. leírás</translation>
     </message>
     <message>
         <source>Client certificate path</source>
-        <translation type="unfinished"/>
+        <translation>Klienstanúsítvány-útvonal</translation>
     </message>
     <message>
         <source>Client certificate file</source>
-        <translation type="unfinished"/>
+        <translation>Klienstanúsítvány-fájl</translation>
     </message>
     <message>
         <source>PEM files (*.pem)</source>
-        <translation type="unfinished"/>
+        <translation>PEM fájlok (*.pem)</translation>
     </message>
     <message>
         <source>Could not obtain an access token for Entra ID. Please check the tenant ID, application (client) ID and the client secret or certificate path.</source>
-        <translation type="unfinished"/>
+        <translation>Nem sikerült hozzáférési tokent lekérni az Entra ID-hez. Ellenőrizd a bérlői azonosítót, az alkalmazás (kliens) azonosítóját és a kliens titkos kulcsát vagy tanúsítvány elérési útját.</translation>
     </message>
     <message>
         <source>Client certificate with private key file</source>
-        <translation type="unfinished"/>
+        <translation>Klienstanúsítvány privát kulcsfájllal</translation>
     </message>
     <message>
         <source>Specify path to client certificate file containing the private key.</source>
-        <translation type="unfinished"/>
+        <translation>Add meg a privát kulcsot tartalmazó klienstanúsítványfájl elérési útját.</translation>
     </message>
     <message>
         <source>Client credential type</source>
-        <translation type="unfinished"/>
+        <translation>Ügyfél hitelesítő típusa</translation>
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Eszközök</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
-        <translation type="unfinished"/>
+        <translation>Kiszolgálónév attribútum</translation>
     </message>
     <message>
         <source>MAC address attribute</source>
-        <translation type="unfinished"/>
+        <translation>MAC-cím attribútum</translation>
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation>Gépnév forrása</translation>
     </message>
     <message>
         <source>Device name (default)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Multicast DNS (device name + .local suffix)</source>
-        <translation type="unfinished"/>
+        <translation>Eszköz neve (alapértelmezett)</translation>
     </message>
     <message>
         <source>Open query console</source>
+        <translation>Lekérdezési konzol megnyitása</translation>
+    </message>
+    <message>
+        <source>Device name with multicast DNS suffix (.local)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune device name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune device name with multicast DNS suffix (.local)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>MAC-cím forrása</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
-        <translation type="unfinished"/>
+        <translation>MAC-cím attribútum (alapértelmezett)</translation>
     </message>
     <message>
         <source>Intune Ethernet MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune Ethernet MAC-cím</translation>
     </message>
     <message>
         <source>Intune Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune Wi-Fi MAC-cím</translation>
     </message>
     <message>
         <source>Intune Ethernet or Wi-Fi MAC address</source>
-        <translation type="unfinished"/>
+        <translation>Intune Ethernet vagy Wi-Fi MAC-cím</translation>
     </message>
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
+        <translation>Intune Wi-Fi vagy Ethernet MAC-cím</translation>
+    </message>
+    <message>
+        <source>Use groups of users with associated Intune devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Group attribute to use as location name</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <source>Device location attribute</source>
-        <translation type="unfinished"/>
+        <translation>Eszközhelyszín attribútum</translation>
     </message>
 </context>
 <context>
     <name>EntraIdConnectorPlugin</name>
     <message>
         <source>Network object directory providing users, groups and devices from Microsoft Entra ID</source>
-        <translation type="unfinished"/>
+        <translation>Hálózati objektumkönyvtár, amely felhasználókat, csoportokat és eszközöket biztosít a Microsoft Entra ID-ből</translation>
     </message>
     <message>
         <source>Entra ID (read devices from Entra ID directory)</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID (eszközök olvasása az Entra ID könyvtárból)</translation>
     </message>
     <message>
         <source>Entra ID (read users and groups from Entra ID directory)</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID (felhasználók és csoportok beolvasása az Entra ID könyvtárból)</translation>
     </message>
 </context>
 <context>
@@ -520,30 +532,30 @@
     </message>
     <message>
         <source>Query timed out</source>
-        <translation type="unfinished"/>
+        <translation>Lekérdezés időtúllépés</translation>
     </message>
 </context>
 <context>
     <name>EntraIdQueryConsole</name>
     <message>
         <source>Entra ID Query Console</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID Lekérdezési Konzol</translation>
     </message>
     <message>
         <source>Query</source>
-        <translation type="unfinished"/>
+        <translation>Lekérdezés</translation>
     </message>
     <message>
         <source>Resource or query URL:</source>
-        <translation type="unfinished"/>
+        <translation>Erőforrás vagy lekérdezés URL-je:</translation>
     </message>
     <message>
         <source>Run query</source>
-        <translation type="unfinished"/>
+        <translation>Lekérdezés futtatása</translation>
     </message>
     <message>
         <source>Response</source>
-        <translation type="unfinished"/>
+        <translation>Válasz</translation>
     </message>
 </context>
 <context>
@@ -618,14 +630,14 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation>Minden kimenő TCP és UDP port forgalmának tiltása</translation>
     </message>
 </context>
 <context>
     <name>FirewallPlugin</name>
     <message>
         <source>Block internet access via system firewall</source>
-        <translation>Internetelérés tiltása a rendszer tűzfalán</translation>
+        <translation>Internet-hozzáférés tiltása a rendszer tűzfalán</translation>
     </message>
 </context>
 <context>
@@ -644,15 +656,15 @@
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
-        <translation type="unfinished"/>
+        <translation>Előző internetblokkolási állapot megtartása</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés blokkolása</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés visszaállítása</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -660,18 +672,18 @@
     </message>
     <message>
         <source>Start behavior:</source>
-        <translation type="unfinished"/>
+        <translation>Kezdeti viselkedés:</translation>
     </message>
 </context>
 <context>
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Restrict internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés korlátozása</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés visszaállítása</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -683,43 +695,43 @@
     </message>
     <message>
         <source>Block, restrict or restore internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés blokkolása, tiltása vagy visszaállítása</translation>
     </message>
     <message>
         <source>Click to restrict internet access to certain websites.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints bizonyos webhelyek internet-hozzáférésének korlátozásához.</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés blokkolása</translation>
     </message>
     <message>
         <source>Click to completely block internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints az internetelérés teljes blokkolásához.</translation>
     </message>
     <message>
         <source>Click to restore internet access.</source>
-        <translation type="unfinished"/>
+        <translation>Kattints az internethozzáférés visszaállításához.</translation>
     </message>
     <message>
         <source>Restrict internet access to selected websites</source>
-        <translation type="unfinished"/>
+        <translation>Internet-hozzáférés korlátozása a kiválasztott weboldalakra</translation>
     </message>
     <message>
         <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Az internet-hozzáférés jelenleg blokkolva van. Mivel egy demó verzióját használod ennek a bővítménynek, automatikusan 5 percen belül feloldódik.</translation>
     </message>
     <message>
         <source>Allowed websites</source>
-        <translation type="unfinished"/>
+        <translation>Engedélyezett weboldalak</translation>
     </message>
     <message>
         <source>Please wait while resolving wildcard domains</source>
-        <translation type="unfinished"/>
+        <translation>Várj a helyettesítő karakteres domainek feloldásáig</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <source>Control access to the internet</source>
@@ -742,7 +754,7 @@
     </message>
     <message>
         <source>Installation ID</source>
-        <translation>Telepítésazonosító</translation>
+        <translation>Telepítés-ID</translation>
     </message>
     <message>
         <source>Addons available for licensing</source>
@@ -750,7 +762,7 @@
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Módosítás</translation>
     </message>
     <message>
         <source>Installed licenses</source>
@@ -790,23 +802,23 @@
     </message>
     <message>
         <source>Please enter the installation ID to set:</source>
-        <translation type="unfinished"/>
+        <translation>Add meg a telepítési-ID-t a beállításhoz:</translation>
     </message>
     <message>
         <source>Invalid installation ID</source>
-        <translation type="unfinished"/>
+        <translation>Érvénytelen telepítés-ID</translation>
     </message>
     <message>
         <source>The entered installation ID is invalid. The current installation ID is kept.</source>
-        <translation type="unfinished"/>
+        <translation>A megadott telepítési-ID érvénytelen. A jelenlegi telepítési-ID megmarad.</translation>
     </message>
     <message>
         <source>Installation ID changed</source>
-        <translation type="unfinished"/>
+        <translation>Telepítés-ID megváltozott</translation>
     </message>
     <message>
         <source>The installation ID has been changed successfully. Apply the configuration to save it permanently.</source>
-        <translation type="unfinished"/>
+        <translation>A telepítési-ID-t sikeresen megváltoztattad. Alkalmazd a konfigurációt a végleges mentéshez.</translation>
     </message>
     <message>
         <source>Browse license file</source>
@@ -1151,7 +1163,7 @@ Példa: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Property for generating persistent network object IDs:</source>
-        <translation type="unfinished"/>
+        <translation>Tulajdonság a tartós hálózati objektumazonosítók generálásához:</translation>
     </message>
     <message>
         <source>Default</source>
@@ -1167,13 +1179,15 @@ Példa: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Exclude computers whose names could not be resolved</source>
-        <translation type="unfinished"/>
+        <translation>Azon számítógépek kizárása, amelyek nevét nem sikerült feloldani</translation>
     </message>
     <message>
         <source>Enter a regular expression with a capture to parse the name of each computer and use a part of it as the location of the computer.
 
 Example: (R[0-9]*)-*</source>
-        <translation type="unfinished"/>
+        <translation>Adj meg egy reguláris kifejezést egy capture utasítással, amely elemzi az egyes számítógépek nevét, és annak egy részét használja a számítógép helyeként.
+
+Példa: (R[0-9]*)-*</translation>
     </message>
 </context>
 <context>
@@ -1253,7 +1267,7 @@ HASZNÁLATA
     </message>
     <message>
         <source>Query environment variable from the server</source>
-        <translation type="unfinished"/>
+        <translation>Környezeti változó lekérdezése a szerverről</translation>
     </message>
 </context>
 <context>
@@ -1264,22 +1278,22 @@ HASZNÁLATA
     </message>
     <message>
         <source>e.g. 127.0.0.1:8000</source>
-        <translation type="unfinished"/>
+        <translation>pl. 127.0.0.1:8000</translation>
     </message>
     <message>
         <source>e.g. *.wikipedia.org</source>
-        <translation type="unfinished"/>
+        <translation>pl. *.wikipedia.org</translation>
     </message>
     <message>
         <source>Redirected proxy address</source>
-        <translation type="unfinished"/>
+        <translation>Átirányított proxy-cím</translation>
     </message>
 </context>
 <context>
     <name>ProxyRedirectPlugin</name>
     <message>
         <source>Block internet access via proxy redirection</source>
-        <translation type="unfinished"/>
+        <translation>Az internet-hozzáférés tiltása proxy átirányításával</translation>
     </message>
 </context>
 <context>
@@ -1290,7 +1304,7 @@ HASZNÁLATA
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Egyéni útvonalak hozzáadása az internet blokkolásáért</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1314,7 +1328,7 @@ HASZNÁLATA
     </message>
     <message>
         <source>New route</source>
-        <translation type="unfinished"/>
+        <translation>Új útvonal</translation>
     </message>
 </context>
 <context>
@@ -1325,7 +1339,7 @@ HASZNÁLATA
     </message>
     <message>
         <source>Custom route</source>
-        <translation type="unfinished"/>
+        <translation>Egyéni útvonal</translation>
     </message>
 </context>
 <context>
@@ -1396,7 +1410,7 @@ HASZNÁLATA
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>Formátum</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1462,19 +1476,19 @@ HASZNÁLATA
     <name>ScreenRecorderEncodingWorker</name>
     <message>
         <source>Standard MP4</source>
-        <translation type="unfinished"/>
+        <translation>Standard MP4</translation>
     </message>
     <message>
         <source>Fragmented MP4</source>
-        <translation type="unfinished"/>
+        <translation>Töredezett MP4</translation>
     </message>
     <message>
         <source>Matroska (MKV)</source>
-        <translation type="unfinished"/>
+        <translation>Matroska (MKV)</translation>
     </message>
     <message>
         <source>MPEG-TS</source>
-        <translation type="unfinished"/>
+        <translation>MPEG-TS</translation>
     </message>
     <message>
         <source>auto</source>
@@ -1513,11 +1527,11 @@ HASZNÁLATA
     </message>
     <message>
         <source>Screen recording has been stopped due to manual reload. Please restart the recording if required.</source>
-        <translation type="unfinished"/>
+        <translation>A képernyőfelvétel leállt a kézi újratöltés miatt. Indítsd újra a felvételt, ha szükséges.</translation>
     </message>
     <message>
         <source>Screen recording stopped</source>
-        <translation type="unfinished"/>
+        <translation>Képernyőfelvétel leállt</translation>
     </message>
 </context>
 <context>

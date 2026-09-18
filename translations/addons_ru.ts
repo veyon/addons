@@ -409,10 +409,6 @@
         <translation>например, описание</translation>
     </message>
     <message>
-        <source>Device group attribute to use as location name</source>
-        <translation>Атрибут группы устройств, используемый в качестве имени местоположения.</translation>
-    </message>
-    <message>
         <source>Client certificate path</source>
         <translation>Путь к клиентскому сертификату</translation>
     </message>
@@ -461,12 +457,20 @@
         <translation>Имя устройства (по умолчанию)</translation>
     </message>
     <message>
-        <source>Multicast DNS (device name + .local suffix)</source>
+        <source>Open query console</source>
+        <translation>Открыть консоль запросов</translation>
+    </message>
+    <message>
+        <source>Device name with multicast DNS suffix (.local)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Open query console</source>
-        <translation>Открыть консоль запросов</translation>
+        <source>Intune device name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune device name with multicast DNS suffix (.local)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MAC address source</source>
@@ -490,6 +494,14 @@
     </message>
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use groups of users with associated Intune devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Group attribute to use as location name</source>
         <translation type="unfinished"/>
     </message>
     <message>

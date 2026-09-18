@@ -409,10 +409,6 @@
         <translation>örneğin açıklama</translation>
     </message>
     <message>
-        <source>Device group attribute to use as location name</source>
-        <translation>Konum adı olarak kullanılacak cihaz grubu niteliği</translation>
-    </message>
-    <message>
         <source>Client certificate path</source>
         <translation>İstemci sertifika yolu</translation>
     </message>
@@ -461,12 +457,20 @@
         <translation>Cihaz adı (varsayılan)</translation>
     </message>
     <message>
-        <source>Multicast DNS (device name + .local suffix)</source>
-        <translation>Çoklu yayın DNS (cihaz adı + .local son eki)</translation>
-    </message>
-    <message>
         <source>Open query console</source>
         <translation>Sorgu konsolunu aç</translation>
+    </message>
+    <message>
+        <source>Device name with multicast DNS suffix (.local)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune device name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune device name with multicast DNS suffix (.local)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MAC address source</source>
@@ -491,6 +495,14 @@
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
         <translation>Intune Wi-Fi veya Ethernet MAC adresi</translation>
+    </message>
+    <message>
+        <source>Use groups of users with associated Intune devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Group attribute to use as location name</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Device location attribute</source>

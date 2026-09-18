@@ -409,10 +409,6 @@
         <translation>مثال: وصف</translation>
     </message>
     <message>
-        <source>Device group attribute to use as location name</source>
-        <translation>خاصية مجموعة الأجهزة لاستخدامها كاسم للموقع</translation>
-    </message>
-    <message>
         <source>Client certificate path</source>
         <translation>مسار شهادة العميل</translation>
     </message>
@@ -461,12 +457,20 @@
         <translation>اسم الجهاز (افتراضي)</translation>
     </message>
     <message>
-        <source>Multicast DNS (device name + .local suffix)</source>
-        <translation>نظام أسماء النطاقات المتعدد الإرسال (اسم الجهاز + ‎.local suffix‎)</translation>
-    </message>
-    <message>
         <source>Open query console</source>
         <translation>فتح وحدة التحكم بالاستعلام</translation>
+    </message>
+    <message>
+        <source>Device name with multicast DNS suffix (.local)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune device name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Intune device name with multicast DNS suffix (.local)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MAC address source</source>
@@ -491,6 +495,14 @@
     <message>
         <source>Intune Wi-Fi or Ethernet MAC address</source>
         <translation>عنوان MAC لشبكة Wi-Fi أو Ethernet في Intune</translation>
+    </message>
+    <message>
+        <source>Use groups of users with associated Intune devices</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Group attribute to use as location name</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Device location attribute</source>
