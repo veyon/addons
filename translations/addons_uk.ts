@@ -462,15 +462,15 @@
     </message>
     <message>
         <source>Device name with multicast DNS suffix (.local)</source>
-        <translation type="unfinished"/>
+        <translation>Назва пристрою з суфіксом мультитрансляції DNS (.local)</translation>
     </message>
     <message>
         <source>Intune device name</source>
-        <translation type="unfinished"/>
+        <translation>Назва пристрою Intune</translation>
     </message>
     <message>
         <source>Intune device name with multicast DNS suffix (.local)</source>
-        <translation type="unfinished"/>
+        <translation>Назва пристрою Intune з суфіксом мультитрансляції DNS (.local)</translation>
     </message>
     <message>
         <source>MAC address source</source>
@@ -498,11 +498,11 @@
     </message>
     <message>
         <source>Use groups of users with associated Intune devices</source>
-        <translation type="unfinished"/>
+        <translation>Використовувати групи користувачів із пов&apos;язаними пристроями Intune</translation>
     </message>
     <message>
         <source>Group attribute to use as location name</source>
-        <translation type="unfinished"/>
+        <translation>Атрибути групи для використання замість назви місця</translation>
     </message>
     <message>
         <source>Device location attribute</source>

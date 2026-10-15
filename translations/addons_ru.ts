@@ -27,15 +27,15 @@
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"/>
+        <translation>Заглушить</translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation type="unfinished"/>
+        <translation>Включить звук</translation>
     </message>
     <message>
         <source>Audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Аудио выходы</translation>
     </message>
     <message>
         <source>Disable</source>
@@ -54,15 +54,15 @@
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>Аудио контроль</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
-        <translation type="unfinished"/>
+        <translation>Включать и отключать звук динамиков, гарнитур и микрофонов.</translation>
     </message>
     <message>
         <source>Mute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Отключить звук на аудиовыходах</translation>
     </message>
     <message>
         <source>Click to mute speakers, headsets etc.</source>
@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>Unmute audio outputs</source>
-        <translation type="unfinished"/>
+        <translation>Включить звук на аудиовыходах</translation>
     </message>
     <message>
         <source>Mute microphones</source>
@@ -94,31 +94,31 @@
     </message>
     <message>
         <source>Click to disable webcams.</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите, чтобы отключить веб-камеры.</translation>
     </message>
     <message>
         <source>All speakers are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Все динамики теперь отключены.</translation>
     </message>
     <message>
         <source>All microphones are now muted.</source>
-        <translation type="unfinished"/>
+        <translation>Все микрофоны теперь отключены.</translation>
     </message>
     <message>
         <source>All webcams are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Все веб-камеры теперь отключены.</translation>
     </message>
     <message>
         <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Так как вы используете демо-версию этого дополнения, предыдущее состояние будет автоматически восстановлено через 3 минуты.</translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Управление доступом к аудио-, видео- и USB-устройствам</translation>
     </message>
     <message>
         <source>Control webcams and USB devices</source>
-        <translation type="unfinished"/>
+        <translation>Управление веб-камерами и USB-устройствами</translation>
     </message>
     <message>
         <source>Unlock webcams</source>
@@ -138,23 +138,23 @@
     </message>
     <message>
         <source>All USB drives are now disabled.</source>
-        <translation type="unfinished"/>
+        <translation>Все USB-накопители теперь отключены.</translation>
     </message>
     <message>
         <source>Click to unmute microphones again.</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите, чтобы снова включить звук микрофонов.</translation>
     </message>
     <message>
         <source>Click to disable USB storage devices.</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите, чтобы отключить USB-накопители.</translation>
     </message>
     <message>
         <source>Click to enable USB storage devices again.</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите, чтобы снова включить USB-накопители.</translation>
     </message>
     <message>
         <source>Click to unmute speakers, headsets etc. again.</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите, чтобы снова включить звук динамиков, гарнитур и т. д.</translation>
     </message>
 </context>
 <context>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Login names of users</source>
-        <translation type="unfinished"/>
+        <translation>Имена пользователей для входа</translation>
     </message>
     <message>
         <source>Full names of users</source>
