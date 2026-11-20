@@ -1067,15 +1067,15 @@ USAGE
     </message>
     <message>
         <source>User login name</source>
-        <translation type="unfinished"/>
+        <translation>ユーザーログイン名</translation>
     </message>
     <message>
         <source>Session client address</source>
-        <translation type="unfinished"/>
+        <translation>セッションクライアントのアドレス</translation>
     </message>
     <message>
         <source>Session client name</source>
-        <translation type="unfinished"/>
+        <translation>セッションクライアント名</translation>
     </message>
     <message>
         <source>Parallel scans:</source>
@@ -1095,7 +1095,7 @@ USAGE
     </message>
     <message>
         <source>Full name of user</source>
-        <translation type="unfinished"/>
+        <translation>ユーザーのフルネーム</translation>
     </message>
     <message>
         <source>User groups filter expression:</source>
@@ -1113,7 +1113,9 @@ USAGE
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
 
 Example: [^-]*-(PC[0-9]*)</source>
-        <translation type="unfinished"/>
+        <translation>必要に応じて、キャプチャを含む正規表現を入力することで、コンピュータ名の一部を抽出し、それをそのコンピュータの表示名として使用できます。
+
+例: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -1165,7 +1167,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>デフォルト</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -1235,7 +1237,7 @@ USAGE
     </message>
     <message>
         <source>Failed to initialize credentials</source>
-        <translation type="unfinished"/>
+        <translation>認証情報の初期化に失敗しました</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1362,11 +1364,11 @@ USAGE
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>出力先ディレクトリ</translation>
     </message>
     <message>
         <source>x</source>
-        <translation type="unfinished"/>
+        <translation>x</translation>
     </message>
     <message>
         <source>Use fixed framerate</source>

@@ -590,7 +590,7 @@
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
+        <translation>adib. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Ports</source>
@@ -916,15 +916,15 @@
     </message>
     <message>
         <source>Show all installed licenses</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi instalatutako lizentzia guztiak</translation>
     </message>
     <message>
         <source>Add license file</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu lizentzia fitxategia</translation>
     </message>
     <message>
         <source>Remove installed license</source>
-        <translation type="unfinished"/>
+        <translation>Kendu instalatutako lizentziak</translation>
     </message>
     <message>
         <source>
@@ -933,7 +933,12 @@ USAGE
 %1 add &lt;LICENSE FILE&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+ERABILERA
+
+%1 gehitu &lt;LICENSE FILE&gt;
+
+</translation>
     </message>
     <message>
         <source>
@@ -942,34 +947,39 @@ USAGE
 %1 remove &lt;LICENSE ID&gt;
 
 </source>
-        <translation type="unfinished"/>
+        <translation>
+ERABILERA
+
+%1 kendu &lt;LICENSE ID&gt;
+
+</translation>
     </message>
     <message>
         <source>No certificate found with given ID</source>
-        <translation type="unfinished"/>
+        <translation>Ez da ziurtagiririk aurkitu emandako IDarekin</translation>
     </message>
     <message>
         <source>Licensing management</source>
-        <translation type="unfinished"/>
+        <translation>Lizentzien kudeaketa</translation>
     </message>
     <message>
         <source>Commands for managing license keys</source>
-        <translation type="unfinished"/>
+        <translation>Lizentzia-gakoak kudeatzeko komandoak</translation>
     </message>
 </context>
 <context>
     <name>NetworkDiscoveryConfigurationPage</name>
     <message>
         <source>Network discovery</source>
-        <translation type="unfinished"/>
+        <translation>Sarearen aurkikuntza</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"/>
+        <translation>Modua</translation>
     </message>
     <message>
         <source>Scan all subnets of computer</source>
-        <translation type="unfinished"/>
+        <translation>Eskaneatu ordenagailuko azpisare guztiak</translation>
     </message>
     <message>
         <source>Test</source>
@@ -977,59 +987,59 @@ USAGE
     </message>
     <message>
         <source>Scan custom subnet</source>
-        <translation type="unfinished"/>
+        <translation>Eskaneatu azpisare pertsonalizatua</translation>
     </message>
     <message>
         <source>Scan network ranges</source>
-        <translation type="unfinished"/>
+        <translation>Eskaneatu sare barrutiak</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
-        <translation type="unfinished"/>
+        <translation>adib. 192.168.1.0/24</translation>
     </message>
     <message>
         <source>Network ranges</source>
-        <translation type="unfinished"/>
+        <translation>Sare barrutiak</translation>
     </message>
     <message>
         <source>Add new group</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu talde berria</translation>
     </message>
     <message>
         <source>Remove selected group</source>
-        <translation type="unfinished"/>
+        <translation>Kendu hautatutako taldea</translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="unfinished"/>
+        <translation>Taldeak</translation>
     </message>
     <message>
         <source>First address</source>
-        <translation type="unfinished"/>
+        <translation>Lehenengo helbidea</translation>
     </message>
     <message>
         <source>Last address</source>
-        <translation type="unfinished"/>
+        <translation>Azken helbidea</translation>
     </message>
     <message>
         <source>Add new network range</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu sare barruti berria</translation>
     </message>
     <message>
         <source>Remove selected network range</source>
-        <translation type="unfinished"/>
+        <translation>Kendu hautatutako sare barrutia</translation>
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Saioak</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
-        <translation type="unfinished"/>
+        <translation>Eskaneatu (adibidez, urruneko mahaigaina) saioak ordenagailu guztietan</translation>
     </message>
     <message>
         <source>Exclude first (e.g. console) session</source>
-        <translation type="unfinished"/>
+        <translation>Baztertu lehen saioa (adibidez, kontsola)</translation>
     </message>
     <message>
         <source>Options</source>
@@ -1045,15 +1055,15 @@ USAGE
     </message>
     <message>
         <source>Session scan limit:</source>
-        <translation type="unfinished"/>
+        <translation>Saioa eskaneatzeko muga:</translation>
     </message>
     <message>
         <source>IP address</source>
-        <translation type="unfinished"/>
+        <translation>IP helbidea</translation>
     </message>
     <message>
         <source>DNS name (reverse lookup)</source>
-        <translation type="unfinished"/>
+        <translation>DNS izena (alderantzizko bilaketa)</translation>
     </message>
     <message>
         <source>User login name</source>
@@ -1069,19 +1079,19 @@ USAGE
     </message>
     <message>
         <source>Parallel scans:</source>
-        <translation type="unfinished"/>
+        <translation>Eskaneatze paraleloak:</translation>
     </message>
     <message>
         <source>Scan timeout:</source>
-        <translation type="unfinished"/>
+        <translation>Eskaneatzeko denbora-muga:</translation>
     </message>
     <message>
         <source>Retain time:</source>
-        <translation type="unfinished"/>
+        <translation>Atxikitzeko denbora:</translation>
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"/>
+        <translation>Saioaren ostalari-izena</translation>
     </message>
     <message>
         <source>Full name of user</source>
@@ -1089,15 +1099,15 @@ USAGE
     </message>
     <message>
         <source>User groups filter expression:</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaile-taldeen iragazki-espresioa:</translation>
     </message>
     <message>
         <source>e.g. Class.*</source>
-        <translation type="unfinished"/>
+        <translation>adibidez Klasea.*</translation>
     </message>
     <message>
         <source>Computer names</source>
-        <translation type="unfinished"/>
+        <translation>Ordenagailuen izenak</translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
@@ -1113,23 +1123,23 @@ Adibidea: [^ -] * - (PC [0-9] *)</translation>
     </message>
     <message>
         <source>Default / network range groups</source>
-        <translation type="unfinished"/>
+        <translation>Lehenetsitako / sare barruti taldeak</translation>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation>Erauzi ordenagailuen izenetatik</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation>Saioa hasitako erabiltzaileen taldeak</translation>
     </message>
     <message>
         <source>Data source:</source>
-        <translation type="unfinished"/>
+        <translation>Datuen iturria:</translation>
     </message>
     <message>
         <source>Data retrieval timeout:</source>
-        <translation type="unfinished"/>
+        <translation>Datuak berreskuratzeko denbora-muga:</translation>
     </message>
     <message>
         <source>Expression for substring extraction:</source>
