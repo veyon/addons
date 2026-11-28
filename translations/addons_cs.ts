@@ -3,15 +3,15 @@
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation>Auvidus</translation>
     </message>
     <message>
         <source>Start behavior</source>
-        <translation type="unfinished"/>
+        <translation>Chování při spuštění</translation>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation type="unfinished"/>
+        <translation>Zachovat předchozí stav</translation>
     </message>
     <message>
         <source>Webcams</source>
@@ -54,7 +54,7 @@
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>Ovládání zvuku</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>Ovládání zařízení</translation>
     </message>
     <message>
         <source>Disable webcams</source>
@@ -108,9 +108,9 @@
         <source>All webcams are now disabled.</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
@@ -161,7 +161,7 @@
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -169,34 +169,38 @@
     </message>
     <message>
         <source>Allow plain text messages only</source>
-        <translation type="unfinished"/>
+        <translation>Povolit pouze zprávy v prostém textu</translation>
     </message>
     <message>
         <source>Nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Přezdívky</translation>
     </message>
     <message>
         <source>Login names of users</source>
-        <translation type="unfinished"/>
+        <translation>Přihlašovací jména uživatelů</translation>
     </message>
     <message>
         <source>Full names of users</source>
-        <translation type="unfinished"/>
+        <translation>Celá jména uživatelů</translation>
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Umožnit uživatelům měnit své přezdívky</translation>
     </message>
 </context>
 <context>
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
         <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the chat will be closed in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>%1 Chat</source>
@@ -215,11 +219,11 @@
     </message>
     <message>
         <source>Chat title</source>
-        <translation type="unfinished"/>
+        <translation>Název chatu</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>Přezdívka</translation>
     </message>
     <message>
         <source>Type a new message</source>
@@ -227,7 +231,7 @@
     </message>
     <message>
         <source>Close chat</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít chat</translation>
     </message>
     <message>
         <source>Change chat title</source>
@@ -250,7 +254,7 @@
     <name>EntraIdConnectorConfigurationPage</name>
     <message>
         <source>Entra ID Connector</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID Connector</translation>
     </message>
     <message>
         <source>Basic settings</source>
@@ -270,7 +274,7 @@
     </message>
     <message>
         <source>Authentication mechanism</source>
-        <translation type="unfinished"/>
+        <translation>Mechanismus ověřování</translation>
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
@@ -282,15 +286,15 @@
     </message>
     <message>
         <source>Request timeout</source>
-        <translation type="unfinished"/>
+        <translation>Časový limit požadavku</translation>
     </message>
     <message>
         <source>Domain name</source>
-        <translation type="unfinished"/>
+        <translation>Název domény</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"/>
+        <translation>Filtry</translation>
     </message>
     <message>
         <source>Users filter</source>
@@ -310,11 +314,11 @@
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation type="unfinished"/>
+        <translation>Použít atribut umístění zařízení</translation>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Extrahovat z názvu hostitele pomocí regulárního výrazu</translation>
     </message>
     <message>
         <source>Regular expression</source>
@@ -322,7 +326,7 @@
     </message>
     <message>
         <source>Query limit</source>
-        <translation type="unfinished"/>
+        <translation>Limit dotazu</translation>
     </message>
     <message>
         <source>Entra ID configuration check</source>
@@ -402,7 +406,7 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"/>
+        <translation>Použít skupiny zařízení</translation>
     </message>
     <message>
         <source>e.g. description</source>
@@ -438,7 +442,7 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Zařízení</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
@@ -450,7 +454,7 @@
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation>Zdroj názvu hostitele</translation>
     </message>
     <message>
         <source>Device name (default)</source>
@@ -474,7 +478,7 @@
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>Zdroj MAC adresy</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
@@ -498,7 +502,7 @@
     </message>
     <message>
         <source>Use groups of users with associated Intune devices</source>
-        <translation type="unfinished"/>
+        <translation>Použít skupiny uživatelů s přiřazenými zařízeními Intune</translation>
     </message>
     <message>
         <source>Group attribute to use as location name</source>
@@ -610,7 +614,7 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Blokovat provoz na servery (např. proxy nebo DNS)</translation>
     </message>
     <message>
         <source>Server addresses</source>
@@ -630,7 +634,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation>Blokovat veškerý odchozí provoz na portech TCP a UDP</translation>
     </message>
 </context>
 <context>
@@ -656,15 +660,15 @@
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
-        <translation type="unfinished"/>
+        <translation>Zachovat předchozí stav blokování Internetu</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Blokovat přístup k Internetu</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Obnovit přístup k Internetu</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -679,11 +683,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Restrict internet access</source>
-        <translation type="unfinished"/>
+        <translation>Omezit přístup k Internetu</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Obnovit přístup k Internetu</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -703,7 +707,7 @@
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Blokovat přístup k Internetu</translation>
     </message>
     <message>
         <source>Click to completely block internet access.</source>
@@ -717,9 +721,9 @@
         <source>Restrict internet access to selected websites</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Allowed websites</source>
@@ -982,6 +986,14 @@ POUŽITÍ
         <translation>Skenovat všechny podsítě počítače</translation>
     </message>
     <message>
+        <source>Do not scan subnets of network interfaces of Docker, libvirt, VirtualBox, VMware, the Hyper-V default switch or WSL. These subnets usually do not contain Veyon clients but can be very large.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude network interfaces of virtual machines and containers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Test</source>
         <translation>Vyzkoušet funkčnost</translation>
     </message>
@@ -992,6 +1004,10 @@ POUŽITÍ
     <message>
         <source>Scan network ranges</source>
         <translation>Skenovat síťové rozsahy</translation>
+    </message>
+    <message>
+        <source>Subnet in CIDR notation. Subnets larger than /16 are limited to the /16 subnet of the given address.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -1014,6 +1030,10 @@ POUŽITÍ
         <translation>Skupiny</translation>
     </message>
     <message>
+        <source>Enter the first and last address of each network range. Alternatively enter a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>First address</source>
         <translation>První adresa</translation>
     </message>
@@ -1031,7 +1051,7 @@ POUŽITÍ
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Relace</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
@@ -1052,6 +1072,18 @@ POUŽITÍ
     <message>
         <source>New location</source>
         <translation>Nové umístění</translation>
+    </message>
+    <message>
+        <source>Invalid network range. Please enter the first and last IPv4 address or a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The network range contains %1 addresses which exceeds the maximum of %2 addresses.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 - %2 (%3 addresses)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1091,7 +1123,7 @@ POUŽITÍ
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"/>
+        <translation>Název hostitele relace</translation>
     </message>
     <message>
         <source>Full name of user</source>
@@ -1106,8 +1138,12 @@ POUŽITÍ
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Computer names</source>
+        <source>Persistent IDs are used e.g. for remembering selected computers. When using computer names, these have to be unique across all locations, otherwise the host address is used for duplicate names.</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computer names</source>
+        <translation>Názvy počítačů</translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
@@ -1125,11 +1161,11 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation>Extrahovat z názvů počítačů</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation>Skupiny přihlášených uživatelů</translation>
     </message>
     <message>
         <source>Data source:</source>
@@ -1145,7 +1181,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation>Proměnná prostředí</translation>
     </message>
     <message>
         <source>Environment variable name:</source>
@@ -1153,7 +1189,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation>Klíč registru</translation>
     </message>
     <message>
         <source>Registry key name:</source>
@@ -1165,7 +1201,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Výchozí hodnota</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -1208,20 +1244,6 @@ Example: (R[0-9]*)-*</source>
         <translation>Skenovat podsíť</translation>
     </message>
     <message>
-        <source>
-USAGE
-
-%1 scan [&lt;SUBNET&gt;]
-
-</source>
-        <translation>
-POUŽITÍ
-
-%1 scan [&lt;SUBNET&gt;]
-
-</translation>
-    </message>
-    <message>
         <source>Network object directory which automatically discovers computers in the network</source>
         <translation>Adresář síťových objektů který automaticky objevuje počítače v síti</translation>
     </message>
@@ -1232,6 +1254,22 @@ POUŽITÍ
     <message>
         <source>Commands for managing the network discovery directory</source>
         <translation>Příkazy pro správu adresáře průzkumu sítě</translation>
+    </message>
+    <message>
+        <source>
+USAGE
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; is a subnet in CIDR notation (e.g. 192.168.1.0/24). If omitted, all local subnets are scanned.
+details prints name, address, port and locations of all discovered computers.
+
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid subnet: %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failed to initialize credentials</source>
@@ -1247,7 +1285,7 @@ POUŽITÍ
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Port</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -1300,7 +1338,7 @@ POUŽITÍ
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Přidat vlastní trasy pro blokování Internetu</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1346,11 +1384,11 @@ POUŽITÍ
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavení výstupu</translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation>Použít pevné rozlišení</translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
@@ -1362,7 +1400,7 @@ POUŽITÍ
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>Výstupní adresář</translation>
     </message>
     <message>
         <source>x</source>
@@ -1370,23 +1408,23 @@ POUŽITÍ
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation>Použít pevnou snímkovou frekvenci</translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>Ukládat do podadresářů pro jednotlivé počítače</translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavení kódování</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation>Kodér</translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation>Předvolba x264</translation>
     </message>
     <message>
         <source>kbps</source>
@@ -1394,19 +1432,19 @@ POUŽITÍ
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation>Profil H.264</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation>Datový tok</translation>
     </message>
     <message>
         <source>Keyframe interval</source>
-        <translation type="unfinished"/>
+        <translation>Interval klíčových snímků</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>Formát</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1414,11 +1452,11 @@ POUŽITÍ
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>Ostatní nastavení</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>Upozornit uživatele, když se nahrává jejich obrazovka</translation>
     </message>
 </context>
 <context>
@@ -1437,11 +1475,11 @@ POUŽITÍ
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít složku se záznamy</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Screen recording</source>

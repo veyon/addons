@@ -3,15 +3,15 @@
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation>Auvidus</translation>
     </message>
     <message>
         <source>Start behavior</source>
-        <translation type="unfinished"/>
+        <translation>Ponašanje pri pokretanju</translation>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation type="unfinished"/>
+        <translation>Zadrži prethodno stanje</translation>
     </message>
     <message>
         <source>Webcams</source>
@@ -54,7 +54,7 @@
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola zvuka</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>Kontrola uređaja</translation>
     </message>
     <message>
         <source>Disable webcams</source>
@@ -108,9 +108,9 @@
         <source>All webcams are now disabled.</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
@@ -161,7 +161,7 @@
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Ćaskanje</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -169,34 +169,38 @@
     </message>
     <message>
         <source>Allow plain text messages only</source>
-        <translation type="unfinished"/>
+        <translation>Dozvoli samo poruke u običnom tekstu</translation>
     </message>
     <message>
         <source>Nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Nadimci</translation>
     </message>
     <message>
         <source>Login names of users</source>
-        <translation type="unfinished"/>
+        <translation>Korisnička imena za prijavu</translation>
     </message>
     <message>
         <source>Full names of users</source>
-        <translation type="unfinished"/>
+        <translation>Puna imena korisnika</translation>
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Dozvoli korisnicima da promene svoje nadimke</translation>
     </message>
 </context>
 <context>
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Ćaskanje</translation>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
         <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the chat will be closed in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>%1 Chat</source>
@@ -215,11 +219,11 @@
     </message>
     <message>
         <source>Chat title</source>
-        <translation type="unfinished"/>
+        <translation>Naslov ćaskanja</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>Nadimak</translation>
     </message>
     <message>
         <source>Type a new message</source>
@@ -227,7 +231,7 @@
     </message>
     <message>
         <source>Close chat</source>
-        <translation type="unfinished"/>
+        <translation>Zatvori ćaskanje</translation>
     </message>
     <message>
         <source>Change chat title</source>
@@ -250,7 +254,7 @@
     <name>EntraIdConnectorConfigurationPage</name>
     <message>
         <source>Entra ID Connector</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID Connector</translation>
     </message>
     <message>
         <source>Basic settings</source>
@@ -282,15 +286,15 @@
     </message>
     <message>
         <source>Request timeout</source>
-        <translation type="unfinished"/>
+        <translation>Vremensko ograničenje zahteva</translation>
     </message>
     <message>
         <source>Domain name</source>
-        <translation type="unfinished"/>
+        <translation>Ime domena</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"/>
+        <translation>Filteri</translation>
     </message>
     <message>
         <source>Users filter</source>
@@ -310,11 +314,11 @@
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation type="unfinished"/>
+        <translation>Koristi atribut lokacije uređaja</translation>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Izdvoji iz imena hosta pomoću regularnog izraza</translation>
     </message>
     <message>
         <source>Regular expression</source>
@@ -322,7 +326,7 @@
     </message>
     <message>
         <source>Query limit</source>
-        <translation type="unfinished"/>
+        <translation>Ograničenje upita</translation>
     </message>
     <message>
         <source>Entra ID configuration check</source>
@@ -402,7 +406,7 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"/>
+        <translation>Koristi grupe uređaja</translation>
     </message>
     <message>
         <source>e.g. description</source>
@@ -438,7 +442,7 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Uređaji</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
@@ -450,7 +454,7 @@
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation>Izvor imena hosta</translation>
     </message>
     <message>
         <source>Device name (default)</source>
@@ -474,7 +478,7 @@
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>Izvor MAC adrese</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
@@ -498,7 +502,7 @@
     </message>
     <message>
         <source>Use groups of users with associated Intune devices</source>
-        <translation type="unfinished"/>
+        <translation>Koristi grupe korisnika sa povezanim Intune uređajima</translation>
     </message>
     <message>
         <source>Group attribute to use as location name</source>
@@ -610,7 +614,7 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Blokiraj saobraćaj prema serverima (npr. proksi ili DNS)</translation>
     </message>
     <message>
         <source>Server addresses</source>
@@ -630,7 +634,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation>Blokiraj sav odlazni saobraćaj za TCP i UDP portove</translation>
     </message>
 </context>
 <context>
@@ -656,15 +660,15 @@
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
-        <translation type="unfinished"/>
+        <translation>Zadrži prethodno stanje blokade interneta</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Blokiraj pristup internetu</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Vrati pristup internetu</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -679,11 +683,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Restrict internet access</source>
-        <translation type="unfinished"/>
+        <translation>Ograniči pristup internetu</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Vrati pristup internetu</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -703,7 +707,7 @@
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Blokiraj pristup internetu</translation>
     </message>
     <message>
         <source>Click to completely block internet access.</source>
@@ -717,9 +721,9 @@
         <source>Restrict internet access to selected websites</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Allowed websites</source>
@@ -982,6 +986,14 @@ UPOTREBA
         <translation>Skeniranje svih podmreža računara</translation>
     </message>
     <message>
+        <source>Do not scan subnets of network interfaces of Docker, libvirt, VirtualBox, VMware, the Hyper-V default switch or WSL. These subnets usually do not contain Veyon clients but can be very large.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude network interfaces of virtual machines and containers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Test</source>
         <translation>Test</translation>
     </message>
@@ -992,6 +1004,10 @@ UPOTREBA
     <message>
         <source>Scan network ranges</source>
         <translation>Skeniranje mrežnih opsega</translation>
+    </message>
+    <message>
+        <source>Subnet in CIDR notation. Subnets larger than /16 are limited to the /16 subnet of the given address.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -1014,6 +1030,10 @@ UPOTREBA
         <translation>Grupe</translation>
     </message>
     <message>
+        <source>Enter the first and last address of each network range. Alternatively enter a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>First address</source>
         <translation>Prva adresa</translation>
     </message>
@@ -1031,7 +1051,7 @@ UPOTREBA
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Sesije</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
@@ -1052,6 +1072,18 @@ UPOTREBA
     <message>
         <source>New location</source>
         <translation>Nova lokacija</translation>
+    </message>
+    <message>
+        <source>Invalid network range. Please enter the first and last IPv4 address or a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The network range contains %1 addresses which exceeds the maximum of %2 addresses.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 - %2 (%3 addresses)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1091,7 +1123,7 @@ UPOTREBA
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"/>
+        <translation>Naziv hosta sesije</translation>
     </message>
     <message>
         <source>Full name of user</source>
@@ -1106,8 +1138,12 @@ UPOTREBA
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Computer names</source>
+        <source>Persistent IDs are used e.g. for remembering selected computers. When using computer names, these have to be unique across all locations, otherwise the host address is used for duplicate names.</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computer names</source>
+        <translation>Nazivi računara</translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
@@ -1125,11 +1161,11 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation>Izdvoj iz naziva računara</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation>Grupe prijavljenih korisnika</translation>
     </message>
     <message>
         <source>Data source:</source>
@@ -1145,7 +1181,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation>Promenljiva okruženja</translation>
     </message>
     <message>
         <source>Environment variable name:</source>
@@ -1153,7 +1189,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation>Ključ registra</translation>
     </message>
     <message>
         <source>Registry key name:</source>
@@ -1165,7 +1201,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Podrazumevano</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -1208,20 +1244,6 @@ Example: (R[0-9]*)-*</source>
         <translation>Skeniranje podmreže</translation>
     </message>
     <message>
-        <source>
-USAGE
-
-%1 scan [&lt;SUBNET&gt;]
-
-</source>
-        <translation>
-UPOTREBA
-
-%1 skenirano [1]
-
-</translation>
-    </message>
-    <message>
         <source>Network object directory which automatically discovers computers in the network</source>
         <translation>Direktorij mrežnog objekta koji automatski otkriva kompjutere u mreži</translation>
     </message>
@@ -1232,6 +1254,22 @@ UPOTREBA
     <message>
         <source>Commands for managing the network discovery directory</source>
         <translation>Naredbe za upravljanje direktorijem mrežne pretrage</translation>
+    </message>
+    <message>
+        <source>
+USAGE
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; is a subnet in CIDR notation (e.g. 192.168.1.0/24). If omitted, all local subnets are scanned.
+details prints name, address, port and locations of all discovered computers.
+
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid subnet: %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failed to initialize credentials</source>
@@ -1300,7 +1338,7 @@ UPOTREBA
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj prilagođene rute za blokiranje interneta</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1346,11 +1384,11 @@ UPOTREBA
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation>Podešavanja izlaza</translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation>Koristi fiksnu rezoluciju</translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
@@ -1362,7 +1400,7 @@ UPOTREBA
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>Izlazni direktorijum</translation>
     </message>
     <message>
         <source>x</source>
@@ -1370,23 +1408,23 @@ UPOTREBA
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation>Koristi fiksnu brzinu kadrova</translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>Čuvaj u poddirektorijume za pojedinačne računare</translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation>Podešavanja kodiranja</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation>Koder</translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation>x264 preset</translation>
     </message>
     <message>
         <source>kbps</source>
@@ -1394,19 +1432,19 @@ UPOTREBA
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation>H.264 profil</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation>Brzina prenosa</translation>
     </message>
     <message>
         <source>Keyframe interval</source>
-        <translation type="unfinished"/>
+        <translation>Interval ključnih kadrova</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>Format</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1414,11 +1452,11 @@ UPOTREBA
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>Ostala podešavanja</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>Obavesti korisnike kada se njihov ekran snima</translation>
     </message>
 </context>
 <context>
@@ -1437,11 +1475,11 @@ UPOTREBA
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation>Otvori fasciklu sa snimcima</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zatvori</translation>
     </message>
     <message>
         <source>Screen recording</source>

@@ -3,15 +3,15 @@
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation>Auvidus</translation>
     </message>
     <message>
         <source>Start behavior</source>
-        <translation type="unfinished"/>
+        <translation>Comportamento de inicialização</translation>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation type="unfinished"/>
+        <translation>Manter estado anterior</translation>
     </message>
     <message>
         <source>Webcams</source>
@@ -54,7 +54,7 @@
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>Controle de áudio</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>Controle de dispositivos</translation>
     </message>
     <message>
         <source>Disable webcams</source>
@@ -108,9 +108,9 @@
         <source>All webcams are now disabled.</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
@@ -197,6 +197,10 @@
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
         <translation>Clique neste botão para iniciar um bate-papo com todos os usuários. Assim, todos os usuários poderão escrever mensagens de texto em um chat comum.</translation>
+    </message>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the chat will be closed in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>%1 Chat</source>
@@ -402,7 +406,7 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"/>
+        <translation>Usar grupos de dispositivos</translation>
     </message>
     <message>
         <source>e.g. description</source>
@@ -438,7 +442,7 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivos</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
@@ -450,7 +454,7 @@
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation>Origem do nome do host</translation>
     </message>
     <message>
         <source>Device name (default)</source>
@@ -474,7 +478,7 @@
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>Origem do endereço MAC</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
@@ -498,7 +502,7 @@
     </message>
     <message>
         <source>Use groups of users with associated Intune devices</source>
-        <translation type="unfinished"/>
+        <translation>Usar grupos de usuários com dispositivos Intune associados</translation>
     </message>
     <message>
         <source>Group attribute to use as location name</source>
@@ -630,7 +634,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation>Bloquear todo o tráfego de saída para portas TCP e UDP</translation>
     </message>
 </context>
 <context>
@@ -656,15 +660,15 @@
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
-        <translation type="unfinished"/>
+        <translation>Manter o estado anterior de bloqueio da internet</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Bloquear acesso à internet</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Restaurar acesso à internet</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -679,11 +683,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Restrict internet access</source>
-        <translation type="unfinished"/>
+        <translation>Restringir acesso à internet</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Restaurar acesso à internet</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -703,7 +707,7 @@
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Bloquear acesso à internet</translation>
     </message>
     <message>
         <source>Click to completely block internet access.</source>
@@ -717,9 +721,9 @@
         <source>Restrict internet access to selected websites</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Allowed websites</source>
@@ -982,6 +986,14 @@ USO
         <translation>Varrer todas as sub-redes do computador</translation>
     </message>
     <message>
+        <source>Do not scan subnets of network interfaces of Docker, libvirt, VirtualBox, VMware, the Hyper-V default switch or WSL. These subnets usually do not contain Veyon clients but can be very large.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude network interfaces of virtual machines and containers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Test</source>
         <translation>Teste</translation>
     </message>
@@ -992,6 +1004,10 @@ USO
     <message>
         <source>Scan network ranges</source>
         <translation>Varrer intervalos de rede</translation>
+    </message>
+    <message>
+        <source>Subnet in CIDR notation. Subnets larger than /16 are limited to the /16 subnet of the given address.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -1012,6 +1028,10 @@ USO
     <message>
         <source>Groups</source>
         <translation>Grupos</translation>
+    </message>
+    <message>
+        <source>Enter the first and last address of each network range. Alternatively enter a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First address</source>
@@ -1052,6 +1072,18 @@ USO
     <message>
         <source>New location</source>
         <translation>Novo local</translation>
+    </message>
+    <message>
+        <source>Invalid network range. Please enter the first and last IPv4 address or a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The network range contains %1 addresses which exceeds the maximum of %2 addresses.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 - %2 (%3 addresses)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1106,6 +1138,10 @@ USO
         <translation>por exemplo Aula.*</translation>
     </message>
     <message>
+        <source>Persistent IDs are used e.g. for remembering selected computers. When using computer names, these have to be unique across all locations, otherwise the host address is used for duplicate names.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Computer names</source>
         <translation>Nomes de computadores</translation>
     </message>
@@ -1127,11 +1163,11 @@ Exemplo: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation>Extrair dos nomes dos computadores</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation>Grupos dos usuários conectados</translation>
     </message>
     <message>
         <source>Data source:</source>
@@ -1147,7 +1183,7 @@ Exemplo: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation>Variável de ambiente</translation>
     </message>
     <message>
         <source>Environment variable name:</source>
@@ -1155,7 +1191,7 @@ Exemplo: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation>Chave do registro</translation>
     </message>
     <message>
         <source>Registry key name:</source>
@@ -1167,7 +1203,7 @@ Exemplo: [^-]*-(PC[0-9]*)</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -1210,15 +1246,6 @@ Example: (R[0-9]*)-*</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>
-USAGE
-
-%1 scan [&lt;SUBNET&gt;]
-
-</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Network object directory which automatically discovers computers in the network</source>
         <translation type="unfinished"/>
     </message>
@@ -1228,6 +1255,22 @@ USAGE
     </message>
     <message>
         <source>Commands for managing the network discovery directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>
+USAGE
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; is a subnet in CIDR notation (e.g. 192.168.1.0/24). If omitted, all local subnets are scanned.
+details prints name, address, port and locations of all discovered computers.
+
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid subnet: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1244,7 +1287,7 @@ USAGE
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>Porta</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -1293,11 +1336,11 @@ USAGE
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Remover rotas padrão para bloquear o acesso à Internet</translation>
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar rotas personalizadas para bloquear a Internet</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1343,11 +1386,11 @@ USAGE
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation>Configurações de saída</translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation>Usar resolução fixa</translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
@@ -1359,7 +1402,7 @@ USAGE
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>Diretório de saída</translation>
     </message>
     <message>
         <source>x</source>
@@ -1367,23 +1410,23 @@ USAGE
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation>Usar taxa de quadros fixa</translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>Salvar em subdiretórios específicos de cada computador</translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation>Configurações de codificação</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation>Codificador</translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation>Predefinição do x264</translation>
     </message>
     <message>
         <source>kbps</source>
@@ -1391,19 +1434,19 @@ USAGE
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation>Perfil H.264</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation>Taxa de bits</translation>
     </message>
     <message>
         <source>Keyframe interval</source>
-        <translation type="unfinished"/>
+        <translation>Intervalo de quadros-chave</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>Formato</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1411,11 +1454,11 @@ USAGE
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>Outras configurações</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>Notificar os usuários quando sua tela for gravada</translation>
     </message>
 </context>
 <context>
@@ -1434,11 +1477,11 @@ USAGE
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation>Abrir pasta com as gravações</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Screen recording</source>

@@ -108,9 +108,9 @@
         <source>All webcams are now disabled.</source>
         <translation>Most minden webkamerát kikapcsoltál.</translation>
     </message>
-    <message>
-        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation>Az internet-hozzáférés jelenleg blokkolva van. Mivel egy demó verzióját használod ennek a bővítménynek, automatikusan 3 percen belül feloldódik.</translation>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
@@ -197,6 +197,10 @@
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
         <translation>Kattints erre a gombra, hogy elindítsd a csevegést az összes felhasználóval. Ezután az összes felhasználó írhat szöveges üzeneteket egy közös csevegőben.</translation>
+    </message>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the chat will be closed in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>%1 Chat</source>
@@ -498,7 +502,7 @@
     </message>
     <message>
         <source>Use groups of users with associated Intune devices</source>
-        <translation type="unfinished"/>
+        <translation>Felhasználók csoportjainak használata a hozzájuk rendelt Intune-eszközökkel</translation>
     </message>
     <message>
         <source>Group attribute to use as location name</source>
@@ -717,9 +721,9 @@
         <source>Restrict internet access to selected websites</source>
         <translation>Internet-hozzáférés korlátozása a kiválasztott weboldalakra</translation>
     </message>
-    <message>
-        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation>Az internet-hozzáférés jelenleg blokkolva van. Mivel egy demó verzióját használod ennek a bővítménynek, automatikusan 5 percen belül feloldódik.</translation>
+    <message numerus="yes">
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Allowed websites</source>
@@ -982,6 +986,14 @@ HASZNÁLAT
         <translation>A számítógép összes alhálózatának átvizsgálása</translation>
     </message>
     <message>
+        <source>Do not scan subnets of network interfaces of Docker, libvirt, VirtualBox, VMware, the Hyper-V default switch or WSL. These subnets usually do not contain Veyon clients but can be very large.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude network interfaces of virtual machines and containers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Test</source>
         <translation>Tesztelés</translation>
     </message>
@@ -992,6 +1004,10 @@ HASZNÁLAT
     <message>
         <source>Scan network ranges</source>
         <translation>Hálózati tartományok átvizsgálása</translation>
+    </message>
+    <message>
+        <source>Subnet in CIDR notation. Subnets larger than /16 are limited to the /16 subnet of the given address.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -1012,6 +1028,10 @@ HASZNÁLAT
     <message>
         <source>Groups</source>
         <translation>Csoportok</translation>
+    </message>
+    <message>
+        <source>Enter the first and last address of each network range. Alternatively enter a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First address</source>
@@ -1052,6 +1072,18 @@ HASZNÁLAT
     <message>
         <source>New location</source>
         <translation>Új helyszín</translation>
+    </message>
+    <message>
+        <source>Invalid network range. Please enter the first and last IPv4 address or a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The network range contains %1 addresses which exceeds the maximum of %2 addresses.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 - %2 (%3 addresses)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1104,6 +1136,10 @@ HASZNÁLAT
     <message>
         <source>e.g. Class.*</source>
         <translation>pl. Osztály.*</translation>
+    </message>
+    <message>
+        <source>Persistent IDs are used e.g. for remembering selected computers. When using computer names, these have to be unique across all locations, otherwise the host address is used for duplicate names.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Computer names</source>
@@ -1212,20 +1248,6 @@ Példa: (R[0-9]*)-*</translation>
         <translation>Egy alhálózat átvizsgálása</translation>
     </message>
     <message>
-        <source>
-USAGE
-
-%1 scan [&lt;SUBNET&gt;]
-
-</source>
-        <translation>
-HASZNÁLATA
-
-%1 scan [&lt;SUBNET&gt;]
-
-</translation>
-    </message>
-    <message>
         <source>Network object directory which automatically discovers computers in the network</source>
         <translation>Hálózatobjektum-felderítő, ami automatikusan felderíti a hálózat számítógépeit</translation>
     </message>
@@ -1236,6 +1258,22 @@ HASZNÁLATA
     <message>
         <source>Commands for managing the network discovery directory</source>
         <translation>A hálózatfelderítő-mappát kezelő parancsok</translation>
+    </message>
+    <message>
+        <source>
+USAGE
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; is a subnet in CIDR notation (e.g. 192.168.1.0/24). If omitted, all local subnets are scanned.
+details prints name, address, port and locations of all discovered computers.
+
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid subnet: %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failed to initialize credentials</source>

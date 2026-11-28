@@ -108,9 +108,9 @@
         <source>All webcams are now disabled.</source>
         <translation>Tutte le webcam sono disabilitate.</translation>
     </message>
-    <message>
-        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation>Poiché stai utilizzando una versione demo di questo componente aggiuntivo, lo stato precedente verrà ripristinato automaticamente entro 3 minuti.</translation>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in %n minute(s) automatically.</source>
+        <translation><numerusform>Poiché stai utilizzando una versione demo di questo componente aggiuntivo, lo stato precedente verrà ripristinato automaticamente tra %n minuti.</numerusform><numerusform>Poiché stai utilizzando una versione demo di questo componente aggiuntivo, lo stato precedente verrà ripristinato automaticamente tra %n minuti.</numerusform><numerusform>Poiché stai utilizzando una versione demo di questo componente aggiuntivo, lo stato precedente verrà ripristinato automaticamente tra %n minuti.</numerusform></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
@@ -197,6 +197,10 @@
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
         <translation>Fare clic su questo pulsante per avviare una chat con tutti gli utenti. Quindi tutti gli utenti possono scrivere messaggi di testo in una chat comune.</translation>
+    </message>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the chat will be closed in %n minute(s) automatically.</source>
+        <translation><numerusform>Poiché stai utilizzando una versione demo di questo componente aggiuntivo, la chat verrà chiusa automaticamente tra %n minuti.</numerusform><numerusform>Dato che stai utilizzando una versione demo di questo componente aggiuntivo, la chat si chiuderà automaticamente tra %n minuti.</numerusform><numerusform>Dato che stai utilizzando una versione demo di questo componente aggiuntivo, la chat si chiuderà automaticamente tra %n minuti.</numerusform></translation>
     </message>
     <message>
         <source>%1 Chat</source>
@@ -717,9 +721,9 @@
         <source>Restrict internet access to selected websites</source>
         <translation>Limitare l&apos;accesso a Internet a determinati siti web</translation>
     </message>
-    <message>
-        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, verrà sbloccato automaticamente in 5 minuti.</translation>
+    <message numerus="yes">
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in %n minute(s) automatically.</source>
+        <translation><numerusform>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, l&apos;accesso verrà ripristinato automaticamente tra %n minuti.</numerusform><numerusform>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, l&apos;accesso verrà ripristinato automaticamente tra %n minuti.</numerusform><numerusform>L&apos;accesso a Internet è ora bloccato. Poiché stai utilizzando una versione demo di questo componente aggiuntivo, l&apos;accesso verrà ripristinato automaticamente tra %n minuti.</numerusform></translation>
     </message>
     <message>
         <source>Allowed websites</source>
@@ -982,6 +986,14 @@ USO
         <translation>Analizza tutte le subnet del computer</translation>
     </message>
     <message>
+        <source>Do not scan subnets of network interfaces of Docker, libvirt, VirtualBox, VMware, the Hyper-V default switch or WSL. These subnets usually do not contain Veyon clients but can be very large.</source>
+        <translation>Non analizzare le subnet delle interfacce di rete di Docker, libvirt, VirtualBox, VMware, dello switch predefinito di Hyper-V o di WSL. Queste subnet di solito non contengono client Veyon, ma possono essere molto grandi.</translation>
+    </message>
+    <message>
+        <source>Exclude network interfaces of virtual machines and containers</source>
+        <translation>Escludi le interfacce di rete di macchine virtuali e container</translation>
+    </message>
+    <message>
         <source>Test</source>
         <translation>Prova</translation>
     </message>
@@ -992,6 +1004,10 @@ USO
     <message>
         <source>Scan network ranges</source>
         <translation>Scansione intervalli di rete</translation>
+    </message>
+    <message>
+        <source>Subnet in CIDR notation. Subnets larger than /16 are limited to the /16 subnet of the given address.</source>
+        <translation>Subnet in notazione CIDR. Le subnet più grandi di /16 vengono limitate alla subnet /16 dell&apos;indirizzo indicato.</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -1012,6 +1028,10 @@ USO
     <message>
         <source>Groups</source>
         <translation>Gruppi</translation>
+    </message>
+    <message>
+        <source>Enter the first and last address of each network range. Alternatively enter a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation>Inserisci il primo e l&apos;ultimo indirizzo di ogni intervallo di rete. In alternativa, inserisci come primo indirizzo una subnet in notazione CIDR (ad es. 192.168.1.0/24).</translation>
     </message>
     <message>
         <source>First address</source>
@@ -1052,6 +1072,18 @@ USO
     <message>
         <source>New location</source>
         <translation>Nuova posizione</translation>
+    </message>
+    <message>
+        <source>Invalid network range. Please enter the first and last IPv4 address or a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation>Intervallo di rete non valido. Inserisci il primo e l&apos;ultimo indirizzo IPv4 oppure, come primo indirizzo, una subnet in notazione CIDR (ad es. 192.168.1.0/24).</translation>
+    </message>
+    <message>
+        <source>The network range contains %1 addresses which exceeds the maximum of %2 addresses.</source>
+        <translation>L&apos;intervallo di rete contiene %1 indirizzi e supera il massimo di %2 indirizzi.</translation>
+    </message>
+    <message>
+        <source>%1 - %2 (%3 addresses)</source>
+        <translation>%1 - %2 (%3 indirizzi)</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1104,6 +1136,10 @@ USO
     <message>
         <source>e.g. Class.*</source>
         <translation>ad es. Classe.*</translation>
+    </message>
+    <message>
+        <source>Persistent IDs are used e.g. for remembering selected computers. When using computer names, these have to be unique across all locations, otherwise the host address is used for duplicate names.</source>
+        <translation>Gli ID persistenti vengono utilizzati ad es. per ricordare i computer selezionati. Se si utilizzano i nomi dei computer, questi devono essere univoci in tutte le posizioni, altrimenti per i nomi duplicati viene utilizzato l&apos;indirizzo dell&apos;host.</translation>
     </message>
     <message>
         <source>Computer names</source>
@@ -1210,20 +1246,6 @@ Example: (R[0-9]*)-*</source>
         <translation>Scansione di una sotto rete</translation>
     </message>
     <message>
-        <source>
-USAGE
-
-%1 scan [&lt;SUBNET&gt;]
-
-</source>
-        <translation>
-USO 
-
- %1 scansione[&lt;SUBNET&gt;]
-
-</translation>
-    </message>
-    <message>
         <source>Network object directory which automatically discovers computers in the network</source>
         <translation>Directory dell&apos;oggetto di rete che rileva automaticamente i computer nella rete</translation>
     </message>
@@ -1234,6 +1256,30 @@ USO
     <message>
         <source>Commands for managing the network discovery directory</source>
         <translation>Comandi per la gestione della directory di ricerca della rete</translation>
+    </message>
+    <message>
+        <source>
+USAGE
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; is a subnet in CIDR notation (e.g. 192.168.1.0/24). If omitted, all local subnets are scanned.
+details prints name, address, port and locations of all discovered computers.
+
+</source>
+        <translation>
+USO
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; è una subnet in notazione CIDR (ad es. 192.168.1.0/24). Se omessa, vengono analizzate tutte le subnet locali.
+details mostra nome, indirizzo, porta e posizioni di tutti i computer rilevati.
+
+</translation>
+    </message>
+    <message>
+        <source>Invalid subnet: %1</source>
+        <translation>Subnet non valida: %1</translation>
     </message>
     <message>
         <source>Failed to initialize credentials</source>

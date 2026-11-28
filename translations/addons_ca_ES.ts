@@ -7,11 +7,11 @@
     </message>
     <message>
         <source>Start behavior</source>
-        <translation type="unfinished"/>
+        <translation>Comportament d&apos;inici</translation>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation type="unfinished"/>
+        <translation>Mantén l&apos;estat anterior</translation>
     </message>
     <message>
         <source>Webcams</source>
@@ -54,7 +54,7 @@
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>Control d&apos;àudio</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>Control de dispositius</translation>
     </message>
     <message>
         <source>Disable webcams</source>
@@ -108,9 +108,9 @@
         <source>All webcams are now disabled.</source>
         <translation>S&apos;han desactivat totes les càmeres web.</translation>
     </message>
-    <message>
-        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
@@ -177,11 +177,11 @@
     </message>
     <message>
         <source>Login names of users</source>
-        <translation type="unfinished"/>
+        <translation>Noms d&apos;inici de sessió dels usuaris</translation>
     </message>
     <message>
         <source>Full names of users</source>
-        <translation type="unfinished"/>
+        <translation>Noms complets dels usuaris</translation>
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
@@ -197,6 +197,10 @@
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
         <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the chat will be closed in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>%1 Chat</source>
@@ -227,7 +231,7 @@
     </message>
     <message>
         <source>Close chat</source>
-        <translation type="unfinished"/>
+        <translation>Tanca el xat</translation>
     </message>
     <message>
         <source>Change chat title</source>
@@ -250,7 +254,7 @@
     <name>EntraIdConnectorConfigurationPage</name>
     <message>
         <source>Entra ID Connector</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID Connector</translation>
     </message>
     <message>
         <source>Basic settings</source>
@@ -270,7 +274,7 @@
     </message>
     <message>
         <source>Authentication mechanism</source>
-        <translation type="unfinished"/>
+        <translation>Mecanisme d&apos;autenticació</translation>
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
@@ -282,7 +286,7 @@
     </message>
     <message>
         <source>Request timeout</source>
-        <translation type="unfinished"/>
+        <translation>Temps d&apos;espera de la sol·licitud</translation>
     </message>
     <message>
         <source>Domain name</source>
@@ -310,11 +314,11 @@
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation type="unfinished"/>
+        <translation>Usa l&apos;atribut d&apos;ubicació del dispositiu</translation>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Extreu del nom d&apos;amfitrió mitjançant una expressió regular</translation>
     </message>
     <message>
         <source>Regular expression</source>
@@ -402,7 +406,7 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"/>
+        <translation>Usa grups de dispositius</translation>
     </message>
     <message>
         <source>e.g. description</source>
@@ -450,7 +454,7 @@
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation>Origen del nom d&apos;amfitrió</translation>
     </message>
     <message>
         <source>Device name (default)</source>
@@ -474,7 +478,7 @@
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>Origen de l&apos;adreça MAC</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
@@ -498,7 +502,7 @@
     </message>
     <message>
         <source>Use groups of users with associated Intune devices</source>
-        <translation type="unfinished"/>
+        <translation>Usa grups d&apos;usuaris amb dispositius Intune associats</translation>
     </message>
     <message>
         <source>Group attribute to use as location name</source>
@@ -578,7 +582,7 @@
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>Bloqueja tot el trànsit sortint cap a subxarxes no locals</translation>
     </message>
     <message>
         <source>Exceptions</source>
@@ -610,7 +614,7 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Bloqueja el trànsit cap a servidors (p. ex. intermediaris o DNS)</translation>
     </message>
     <message>
         <source>Server addresses</source>
@@ -622,7 +626,7 @@
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
+        <translation>Activa una regla de tallafoc preconfigurada</translation>
     </message>
     <message>
         <source>Name</source>
@@ -630,7 +634,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation>Bloqueja tot el trànsit sortint per als ports TCP i UDP</translation>
     </message>
 </context>
 <context>
@@ -656,15 +660,15 @@
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
-        <translation type="unfinished"/>
+        <translation>Mantén l&apos;estat de bloqueig d&apos;Internet anterior</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Bloqueja l&apos;accés a Internet</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Restaura l&apos;accés a Internet</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -679,11 +683,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Restrict internet access</source>
-        <translation type="unfinished"/>
+        <translation>Restringeix l&apos;accés a Internet</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Restaura l&apos;accés a Internet</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -703,7 +707,7 @@
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Bloqueja l&apos;accés a Internet</translation>
     </message>
     <message>
         <source>Click to completely block internet access.</source>
@@ -717,9 +721,9 @@
         <source>Restrict internet access to selected websites</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Allowed websites</source>
@@ -972,6 +976,14 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Do not scan subnets of network interfaces of Docker, libvirt, VirtualBox, VMware, the Hyper-V default switch or WSL. These subnets usually do not contain Veyon clients but can be very large.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude network interfaces of virtual machines and containers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Test</source>
         <translation>Prova</translation>
     </message>
@@ -981,6 +993,10 @@ USAGE
     </message>
     <message>
         <source>Scan network ranges</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Subnet in CIDR notation. Subnets larger than /16 are limited to the /16 subnet of the given address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1004,6 +1020,10 @@ USAGE
         <translation>Grups</translation>
     </message>
     <message>
+        <source>Enter the first and last address of each network range. Alternatively enter a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>First address</source>
         <translation type="unfinished"/>
     </message>
@@ -1021,7 +1041,7 @@ USAGE
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Sessions</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
@@ -1042,6 +1062,18 @@ USAGE
     <message>
         <source>New location</source>
         <translation>Ubicació nova</translation>
+    </message>
+    <message>
+        <source>Invalid network range. Please enter the first and last IPv4 address or a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The network range contains %1 addresses which exceeds the maximum of %2 addresses.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 - %2 (%3 addresses)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1081,7 +1113,7 @@ USAGE
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"/>
+        <translation>Nom d&apos;amfitrió de l&apos;amfitrió de la sessió</translation>
     </message>
     <message>
         <source>Full name of user</source>
@@ -1093,6 +1125,10 @@ USAGE
     </message>
     <message>
         <source>e.g. Class.*</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Persistent IDs are used e.g. for remembering selected computers. When using computer names, these have to be unique across all locations, otherwise the host address is used for duplicate names.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1115,11 +1151,11 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation>Extreu dels noms dels ordinadors</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation>Grups dels usuaris connectats</translation>
     </message>
     <message>
         <source>Data source:</source>
@@ -1135,7 +1171,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation>Variable d&apos;entorn</translation>
     </message>
     <message>
         <source>Environment variable name:</source>
@@ -1198,15 +1234,6 @@ Example: (R[0-9]*)-*</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>
-USAGE
-
-%1 scan [&lt;SUBNET&gt;]
-
-</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Network object directory which automatically discovers computers in the network</source>
         <translation type="unfinished"/>
     </message>
@@ -1216,6 +1243,22 @@ USAGE
     </message>
     <message>
         <source>Commands for managing the network discovery directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>
+USAGE
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; is a subnet in CIDR notation (e.g. 192.168.1.0/24). If omitted, all local subnets are scanned.
+details prints name, address, port and locations of all discovered computers.
+
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid subnet: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1281,11 +1324,11 @@ USAGE
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Elimina les rutes predeterminades per a bloquejar l&apos;accés a Internet</translation>
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Afegeix rutes personalitzades per a bloquejar Internet</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1331,11 +1374,11 @@ USAGE
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation>Paràmetres de sortida</translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation>Usa una resolució fixa</translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
@@ -1355,23 +1398,23 @@ USAGE
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation>Usa una freqüència de fotogrames fixa</translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>Desa en subdirectoris específics per a cada ordinador</translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation>Paràmetres de codificació</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation>Codificador</translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation>Preajust x264</translation>
     </message>
     <message>
         <source>kbps</source>
@@ -1383,15 +1426,15 @@ USAGE
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation>Taxa de bits</translation>
     </message>
     <message>
         <source>Keyframe interval</source>
-        <translation type="unfinished"/>
+        <translation>Interval de fotogrames clau</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>Format</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1399,11 +1442,11 @@ USAGE
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>Altres paràmetres</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>Notifica als usuaris quan s&apos;enregistra la seva pantalla</translation>
     </message>
 </context>
 <context>
@@ -1422,7 +1465,7 @@ USAGE
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation>Obre la carpeta amb els enregistraments</translation>
     </message>
     <message>
         <source>Close</source>

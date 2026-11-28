@@ -108,9 +108,9 @@
         <source>All webcams are now disabled.</source>
         <translation>Тепер усі вебкамери вимкнено.</translation>
     </message>
-    <message>
-        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation>Оскільки ви користуєтеся демонстраційною версією цього додатка, попередній стан буде автоматично відновлено за 3 хвилини.</translation>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in %n minute(s) automatically.</source>
+        <translation><numerusform>Оскільки ви користуєтеся демонстраційною версією цього додатка, попередній стан буде автоматично відновлено за %n хвилину.</numerusform><numerusform>Оскільки ви користуєтеся демонстраційною версією цього додатка, попередній стан буде автоматично відновлено за %n хвилини.</numerusform><numerusform>Оскільки ви користуєтеся демонстраційною версією цього додатка, попередній стан буде автоматично відновлено за %n хвилин.</numerusform><numerusform>Оскільки ви користуєтеся демонстраційною версією цього додатка, попередній стан буде автоматично відновлено за %n хвилину.</numerusform></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
@@ -197,6 +197,10 @@
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
         <translation>Натисніть цю кнопку, щоб розпочати спілкування із усіма користувачами. Усі користувачі зможуть писати текстові повідомлення у загальному спілкуванні.</translation>
+    </message>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the chat will be closed in %n minute(s) automatically.</source>
+        <translation><numerusform>Оскільки ви користуєтеся демонстраційною версією цього додатка, вікно спілкування буде закрито за %n хвилину.</numerusform><numerusform>Оскільки ви користуєтеся демонстраційною версією цього додатка, вікно спілкування буде закрито за %n хвилини.</numerusform><numerusform>Оскільки ви користуєтеся демонстраційною версією цього додатка, вікно спілкування буде закрито за %n хвилин.</numerusform><numerusform>Оскільки ви користуєтеся демонстраційною версією цього додатка, вікно спілкування буде закрито за %n хвилину.</numerusform></translation>
     </message>
     <message>
         <source>%1 Chat</source>
@@ -717,9 +721,9 @@
         <source>Restrict internet access to selected websites</source>
         <translation>Обмежити доступ до інтернету вибраними сайтами.</translation>
     </message>
-    <message>
-        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично відновлено за 5 хвилин.</translation>
+    <message numerus="yes">
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in %n minute(s) automatically.</source>
+        <translation><numerusform>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично відновлено за %n хвилину.</numerusform><numerusform>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично відновлено за %n хвилини.</numerusform><numerusform>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично відновлено за %n хвилин.</numerusform><numerusform>Доступ до інтернету заблоковано. Оскільки ви користуєтеся демонстраційною версією цього додатка, його буде автоматично відновлено за %n хвилину.</numerusform></translation>
     </message>
     <message>
         <source>Allowed websites</source>
@@ -982,6 +986,14 @@ USAGE
         <translation>Сканувати усі підмережі комп&apos;ютера</translation>
     </message>
     <message>
+        <source>Do not scan subnets of network interfaces of Docker, libvirt, VirtualBox, VMware, the Hyper-V default switch or WSL. These subnets usually do not contain Veyon clients but can be very large.</source>
+        <translation>Не сканувати підмережі мережевих інтерфейсів Docker, libvirt, VirtualBox, VMware, стандартного комутатора Hyper-V або WSL. Ці підмережі зазвичай не містять клієнтів Veyon, проте можуть бути дуже великими.</translation>
+    </message>
+    <message>
+        <source>Exclude network interfaces of virtual machines and containers</source>
+        <translation>Виключити мережеві інтерфейси віртуальних машин і контейнерів</translation>
+    </message>
+    <message>
         <source>Test</source>
         <translation>Перевірити</translation>
     </message>
@@ -992,6 +1004,10 @@ USAGE
     <message>
         <source>Scan network ranges</source>
         <translation>Сканувати діапазони мережі</translation>
+    </message>
+    <message>
+        <source>Subnet in CIDR notation. Subnets larger than /16 are limited to the /16 subnet of the given address.</source>
+        <translation>Підмережа у позначеннях CIDR. Підмережі, більші за /16, обмежуються підмережею /16, до якої належить вказана адреса.</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -1012,6 +1028,11 @@ USAGE
     <message>
         <source>Groups</source>
         <translation>Групи</translation>
+    </message>
+    <message>
+        <source>Enter the first and last address of each network range. Alternatively enter a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation>Введіть першу та останню адресу кожного мережевого діапазону. Як варіант, введіть підмережу в нотації CIDR (наприклад, 192.168.1.0/24) замість першої адреси.
+</translation>
     </message>
     <message>
         <source>First address</source>
@@ -1052,6 +1073,18 @@ USAGE
     <message>
         <source>New location</source>
         <translation>Нове місце</translation>
+    </message>
+    <message>
+        <source>Invalid network range. Please enter the first and last IPv4 address or a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation>Неприпустимий діапазон мережі. Будь ласка, введіть першу та останню IPv4-адреси або підмережу в нотації CIDR (наприклад, 192.168.1.0/24) — у такому разі вона вважатиметься першою адресою.</translation>
+    </message>
+    <message>
+        <source>The network range contains %1 addresses which exceeds the maximum of %2 addresses.</source>
+        <translation>Діапазон мережі містить %1 адрес, що перевищує максимальну кількість у %2 адрес.</translation>
+    </message>
+    <message>
+        <source>%1 - %2 (%3 addresses)</source>
+        <translation>%1 – %2 (%3 адрес)</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1104,6 +1137,10 @@ USAGE
     <message>
         <source>e.g. Class.*</source>
         <translation>Приклад: Клас.*</translation>
+    </message>
+    <message>
+        <source>Persistent IDs are used e.g. for remembering selected computers. When using computer names, these have to be unique across all locations, otherwise the host address is used for duplicate names.</source>
+        <translation>Постійні ідентифікатори використовуються, наприклад, для запам’ятовування вибраних комп’ютерів. Якщо використовуються назви комп’ютерів, вони мають бути унікальними у межах усіх місць; в іншому разі для розрізнення однакових назв використовується адреса вузла.</translation>
     </message>
     <message>
         <source>Computer names</source>
@@ -1212,20 +1249,6 @@ Example: (R[0-9]*)-*</source>
         <translation>Сканувати підмережу</translation>
     </message>
     <message>
-        <source>
-USAGE
-
-%1 scan [&lt;SUBNET&gt;]
-
-</source>
-        <translation>
-КОРИСТУВАННЯ
-
-%1 scan [&lt;SUBNET&gt;]
-
-</translation>
-    </message>
-    <message>
         <source>Network object directory which automatically discovers computers in the network</source>
         <translation>Каталог об&apos;єктів мережі, який автоматично виявляє комп&apos;ютери у мережі</translation>
     </message>
@@ -1236,6 +1259,30 @@ USAGE
     <message>
         <source>Commands for managing the network discovery directory</source>
         <translation>Команди для керування каталогом виявлення мережі</translation>
+    </message>
+    <message>
+        <source>
+USAGE
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; is a subnet in CIDR notation (e.g. 192.168.1.0/24). If omitted, all local subnets are scanned.
+details prints name, address, port and locations of all discovered computers.
+
+</source>
+        <translation>
+КОРИСТУВАННЯ
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; підмережа у позначеннях CIDR (наприклад, 192.168.1.0/24). Якщо пропущено, буде виконано сканування усіх підмереж.
+details виводить назву, адресу, порт і місця усіх виявлених комп&apos;ютерів.
+
+</translation>
+    </message>
+    <message>
+        <source>Invalid subnet: %1</source>
+        <translation>Некоректна підмережа: %1</translation>
     </message>
     <message>
         <source>Failed to initialize credentials</source>

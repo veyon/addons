@@ -3,15 +3,15 @@
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation>Auvidus</translation>
     </message>
     <message>
         <source>Start behavior</source>
-        <translation type="unfinished"/>
+        <translation>ลักษณะการทำงานเมื่อเริ่มต้น</translation>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation type="unfinished"/>
+        <translation>คงสถานะก่อนหน้าไว้</translation>
     </message>
     <message>
         <source>Webcams</source>
@@ -54,7 +54,7 @@
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>การควบคุมเสียง</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>การควบคุมอุปกรณ์</translation>
     </message>
     <message>
         <source>Disable webcams</source>
@@ -108,9 +108,9 @@
         <source>All webcams are now disabled.</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
@@ -161,7 +161,7 @@
     <name>ChatConfigurationPage</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>แชท</translation>
     </message>
     <message>
         <source>General settings</source>
@@ -169,34 +169,38 @@
     </message>
     <message>
         <source>Allow plain text messages only</source>
-        <translation type="unfinished"/>
+        <translation>อนุญาตเฉพาะข้อความธรรมดาเท่านั้น</translation>
     </message>
     <message>
         <source>Nicknames</source>
-        <translation type="unfinished"/>
+        <translation>ชื่อเล่น</translation>
     </message>
     <message>
         <source>Login names of users</source>
-        <translation type="unfinished"/>
+        <translation>ชื่อลงชื่อเข้าใช้ของผู้ใช้</translation>
     </message>
     <message>
         <source>Full names of users</source>
-        <translation type="unfinished"/>
+        <translation>ชื่อเต็มของผู้ใช้</translation>
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
-        <translation type="unfinished"/>
+        <translation>อนุญาตให้ผู้ใช้เปลี่ยนชื่อเล่นของตนเอง</translation>
     </message>
 </context>
 <context>
     <name>ChatPlugin</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>แชท</translation>
     </message>
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
         <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the chat will be closed in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>%1 Chat</source>
@@ -215,11 +219,11 @@
     </message>
     <message>
         <source>Chat title</source>
-        <translation type="unfinished"/>
+        <translation>หัวข้อแชท</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>ชื่อเล่น</translation>
     </message>
     <message>
         <source>Type a new message</source>
@@ -227,7 +231,7 @@
     </message>
     <message>
         <source>Close chat</source>
-        <translation type="unfinished"/>
+        <translation>ปิดแชท</translation>
     </message>
     <message>
         <source>Change chat title</source>
@@ -250,7 +254,7 @@
     <name>EntraIdConnectorConfigurationPage</name>
     <message>
         <source>Entra ID Connector</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID Connector</translation>
     </message>
     <message>
         <source>Basic settings</source>
@@ -270,7 +274,7 @@
     </message>
     <message>
         <source>Authentication mechanism</source>
-        <translation type="unfinished"/>
+        <translation>กลไกการยืนยันตัวตน</translation>
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
@@ -282,15 +286,15 @@
     </message>
     <message>
         <source>Request timeout</source>
-        <translation type="unfinished"/>
+        <translation>หมดเวลาคำขอ</translation>
     </message>
     <message>
         <source>Domain name</source>
-        <translation type="unfinished"/>
+        <translation>ชื่อโดเมน</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"/>
+        <translation>ตัวกรอง</translation>
     </message>
     <message>
         <source>Users filter</source>
@@ -310,11 +314,11 @@
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation type="unfinished"/>
+        <translation>ใช้แอตทริบิวต์สถานที่ของอุปกรณ์</translation>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation type="unfinished"/>
+        <translation>แยกจากชื่อโฮสต์ด้วยนิพจน์ทั่วไป</translation>
     </message>
     <message>
         <source>Regular expression</source>
@@ -322,7 +326,7 @@
     </message>
     <message>
         <source>Query limit</source>
-        <translation type="unfinished"/>
+        <translation>ขีดจำกัดการสอบถาม</translation>
     </message>
     <message>
         <source>Entra ID configuration check</source>
@@ -400,7 +404,7 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"/>
+        <translation>ใช้กลุ่มอุปกรณ์</translation>
     </message>
     <message>
         <source>e.g. description</source>
@@ -436,7 +440,7 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>อุปกรณ์</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
@@ -448,7 +452,7 @@
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation>แหล่งที่มาของชื่อโฮสต์</translation>
     </message>
     <message>
         <source>Device name (default)</source>
@@ -472,7 +476,7 @@
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>แหล่งที่มาของที่อยู่ MAC</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
@@ -496,7 +500,7 @@
     </message>
     <message>
         <source>Use groups of users with associated Intune devices</source>
-        <translation type="unfinished"/>
+        <translation>ใช้กลุ่มของผู้ใช้ที่มีอุปกรณ์ Intune ที่เกี่ยวข้อง</translation>
     </message>
     <message>
         <source>Group attribute to use as location name</source>
@@ -576,7 +580,7 @@
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>บล็อกการรับส่งข้อมูลขาออกทั้งหมดไปยังซับเน็ตที่ไม่ใช่ซับเน็ตภายใน</translation>
     </message>
     <message>
         <source>Exceptions</source>
@@ -608,7 +612,7 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>บล็อกการรับส่งข้อมูลไปยังเซิร์ฟเวอร์ (เช่น พร็อกซีหรือ DNS)</translation>
     </message>
     <message>
         <source>Server addresses</source>
@@ -620,7 +624,7 @@
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
+        <translation>เปิดใช้งานกฎไฟร์วอลล์ที่กำหนดค่าไว้ล่วงหน้า</translation>
     </message>
     <message>
         <source>Name</source>
@@ -628,7 +632,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation>บล็อกการรับส่งข้อมูลขาออกทั้งหมดสำหรับพอร์ต TCP และ UDP</translation>
     </message>
 </context>
 <context>
@@ -654,15 +658,15 @@
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
-        <translation type="unfinished"/>
+        <translation>คงสถานะการบล็อกอินเทอร์เน็ตก่อนหน้า</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>บล็อกการเข้าถึงอินเทอร์เน็ต</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>คืนค่าการเข้าถึงอินเทอร์เน็ต</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -677,11 +681,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Restrict internet access</source>
-        <translation type="unfinished"/>
+        <translation>จำกัดการเข้าถึงอินเทอร์เน็ต</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>คืนค่าการเข้าถึงอินเทอร์เน็ต</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -701,7 +705,7 @@
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>บล็อกการเข้าถึงอินเทอร์เน็ต</translation>
     </message>
     <message>
         <source>Click to completely block internet access.</source>
@@ -715,9 +719,9 @@
         <source>Restrict internet access to selected websites</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Allowed websites</source>
@@ -744,7 +748,7 @@
     <name>LicensingConfigurationPage</name>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"/>
+        <translation>การอนุญาตใช้งาน</translation>
     </message>
     <message>
         <source>Information</source>
@@ -970,6 +974,14 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Do not scan subnets of network interfaces of Docker, libvirt, VirtualBox, VMware, the Hyper-V default switch or WSL. These subnets usually do not contain Veyon clients but can be very large.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude network interfaces of virtual machines and containers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Test</source>
         <translation>ทดสอบ</translation>
     </message>
@@ -980,6 +992,10 @@ USAGE
     <message>
         <source>Scan network ranges</source>
         <translation>สแกนระยะเครือข่าย</translation>
+    </message>
+    <message>
+        <source>Subnet in CIDR notation. Subnets larger than /16 are limited to the /16 subnet of the given address.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -1002,6 +1018,10 @@ USAGE
         <translation>กลุ่ม</translation>
     </message>
     <message>
+        <source>Enter the first and last address of each network range. Alternatively enter a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>First address</source>
         <translation>ที่อยู่แรก</translation>
     </message>
@@ -1019,7 +1039,7 @@ USAGE
     </message>
     <message>
         <source>Sessions</source>
-        <translation type="unfinished"/>
+        <translation>เซสชัน</translation>
     </message>
     <message>
         <source>Scan (e.g. remote desktop) sessions on all computers</source>
@@ -1040,6 +1060,18 @@ USAGE
     <message>
         <source>New location</source>
         <translation>สถานที่ใหม่</translation>
+    </message>
+    <message>
+        <source>Invalid network range. Please enter the first and last IPv4 address or a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The network range contains %1 addresses which exceeds the maximum of %2 addresses.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 - %2 (%3 addresses)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1079,7 +1111,7 @@ USAGE
     </message>
     <message>
         <source>Hostname of session host</source>
-        <translation type="unfinished"/>
+        <translation>ชื่อโฮสต์ของโฮสต์เซสชัน</translation>
     </message>
     <message>
         <source>Full name of user</source>
@@ -1094,8 +1126,12 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Computer names</source>
+        <source>Persistent IDs are used e.g. for remembering selected computers. When using computer names, these have to be unique across all locations, otherwise the host address is used for duplicate names.</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Computer names</source>
+        <translation>ชื่อคอมพิวเตอร์</translation>
     </message>
     <message>
         <source>Optionally enter a regular expression with a capture to extract a part of the computer name and use it as the display name for the computer.
@@ -1113,11 +1149,11 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation>ดึงจากชื่อคอมพิวเตอร์</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation>กลุ่มของผู้ใช้ที่เข้าสู่ระบบ</translation>
     </message>
     <message>
         <source>Data source:</source>
@@ -1133,7 +1169,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation>ตัวแปรสภาพแวดล้อม</translation>
     </message>
     <message>
         <source>Environment variable name:</source>
@@ -1141,7 +1177,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation>คีย์รีจิสทรี</translation>
     </message>
     <message>
         <source>Registry key name:</source>
@@ -1153,7 +1189,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>ค่าเริ่มต้น</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -1196,15 +1232,6 @@ Example: (R[0-9]*)-*</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>
-USAGE
-
-%1 scan [&lt;SUBNET&gt;]
-
-</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Network object directory which automatically discovers computers in the network</source>
         <translation type="unfinished"/>
     </message>
@@ -1214,6 +1241,22 @@ USAGE
     </message>
     <message>
         <source>Commands for managing the network discovery directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>
+USAGE
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; is a subnet in CIDR notation (e.g. 192.168.1.0/24). If omitted, all local subnets are scanned.
+details prints name, address, port and locations of all discovered computers.
+
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid subnet: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1230,7 +1273,7 @@ USAGE
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished"/>
+        <translation>พอร์ต</translation>
     </message>
     <message>
         <source>Locations</source>
@@ -1279,11 +1322,11 @@ USAGE
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation type="unfinished"/>
+        <translation>ลบเส้นทางเริ่มต้นเพื่อบล็อกการเข้าถึงอินเทอร์เน็ต</translation>
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>เพิ่มเส้นทางที่กำหนดเองเพื่อบล็อกอินเทอร์เน็ต</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1329,11 +1372,11 @@ USAGE
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation>การตั้งค่าเอาต์พุต</translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation>ใช้ความละเอียดคงที่</translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
@@ -1345,7 +1388,7 @@ USAGE
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>ไดเรกทอรีเอาต์พุต</translation>
     </message>
     <message>
         <source>x</source>
@@ -1353,23 +1396,23 @@ USAGE
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation>ใช้อัตราเฟรมคงที่</translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>บันทึกลงในไดเรกทอรีย่อยแยกตามคอมพิวเตอร์</translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation>การตั้งค่าการเข้ารหัส</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation>ตัวเข้ารหัส</translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation>พรีเซ็ต x264</translation>
     </message>
     <message>
         <source>kbps</source>
@@ -1377,19 +1420,19 @@ USAGE
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation>โปรไฟล์ H.264</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation>บิตเรต</translation>
     </message>
     <message>
         <source>Keyframe interval</source>
-        <translation type="unfinished"/>
+        <translation>ช่วงเวลาคีย์เฟรม</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>รูปแบบ</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1397,11 +1440,11 @@ USAGE
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>การตั้งค่าอื่น ๆ</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>แจ้งผู้ใช้เมื่อหน้าจอของตนถูกบันทึก</translation>
     </message>
 </context>
 <context>
@@ -1420,11 +1463,11 @@ USAGE
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation>เปิดโฟลเดอร์ที่มีการบันทึก</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>ปิด</translation>
     </message>
     <message>
         <source>Screen recording</source>

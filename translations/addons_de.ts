@@ -108,9 +108,9 @@
         <source>All webcams are now disabled.</source>
         <translation>Alle Webcams sind jetzt deaktiviert.</translation>
     </message>
-    <message>
-        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation>Da Sie eine Demoversion dieses Add-ons verwenden, wird der vorherige Zustand innerhalb von 3 Minuten automatisch wiederhergestellt.</translation>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in %n minute(s) automatically.</source>
+        <translation><numerusform>Da Sie eine Demo-Version dieses Add-ons verwenden, wird der vorherige Zustand in %n Minute automatisch wiederhergestellt.</numerusform><numerusform>Da Sie eine Demo-Version dieses Add-ons verwenden, wird der vorherige Zustand in %n Minuten automatisch wiederhergestellt.</numerusform></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
@@ -197,6 +197,10 @@
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
         <translation>Klicken Sie auf diesen Button, um einen Chat mit allen Benutzern zu starten. Anschließend können alle Benutzer Textnachrichten in einem gemeinsame Chat schreiben.</translation>
+    </message>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the chat will be closed in %n minute(s) automatically.</source>
+        <translation><numerusform>Da Sie eine Demoversion dieses Add-ons verwenden, wird der Chat in %n Minute automatisch geschlossen.</numerusform><numerusform>Da Sie eine Demoversion dieses Add-ons verwenden, wird der Chat in %n Minuten automatisch geschlossen.</numerusform></translation>
     </message>
     <message>
         <source>%1 Chat</source>
@@ -717,9 +721,9 @@
         <source>Restrict internet access to selected websites</source>
         <translation>Internetzugriff auf ausgewählte Websites beschränken</translation>
     </message>
-    <message>
-        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation>Der Internetzugriff ist jetzt gesperrt. Da Sie eine Demo-Version dieses Add-ons verwenden, wird der Zugriff in 5 Minuten automatisch wieder freigegeben.</translation>
+    <message numerus="yes">
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in %n minute(s) automatically.</source>
+        <translation><numerusform>Der Internetzugriff ist jetzt gesperrt. Da Sie eine Demo-Version dieses Add-ons verwenden, wird der Zugriff in %n Minute automatisch wieder freigegeben.</numerusform><numerusform>Der Internetzugriff ist jetzt gesperrt. Da Sie eine Demo-Version dieses Add-ons verwenden, wird der Zugriff in %n Minuten automatisch wieder freigegeben.</numerusform></translation>
     </message>
     <message>
         <source>Allowed websites</source>
@@ -982,6 +986,14 @@ VERWENDUNG
         <translation>Alle Subnetze des Computers scannen</translation>
     </message>
     <message>
+        <source>Do not scan subnets of network interfaces of Docker, libvirt, VirtualBox, VMware, the Hyper-V default switch or WSL. These subnets usually do not contain Veyon clients but can be very large.</source>
+        <translation>Subnetze der Netzwerkschnittstellen von Docker, libvirt, VirtualBox, VMware, dem Hyper-V-Standardswitch oder WSL nicht scannen. Diese Subnetze enthalten üblicherweise keine Veyon-Clients, können aber sehr groß sein.</translation>
+    </message>
+    <message>
+        <source>Exclude network interfaces of virtual machines and containers</source>
+        <translation>Netzwerkschnittstellen virtueller Maschinen und Container ausschließen</translation>
+    </message>
+    <message>
         <source>Test</source>
         <translation>Testen</translation>
     </message>
@@ -992,6 +1004,10 @@ VERWENDUNG
     <message>
         <source>Scan network ranges</source>
         <translation>Netzwerkbereiche scannen</translation>
+    </message>
+    <message>
+        <source>Subnet in CIDR notation. Subnets larger than /16 are limited to the /16 subnet of the given address.</source>
+        <translation>Subnetz in CIDR-Notation. Subnetze größer als /16 werden auf das /16-Subnetz der angegebenen Adresse beschränkt.</translation>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -1012,6 +1028,10 @@ VERWENDUNG
     <message>
         <source>Groups</source>
         <translation>Gruppen</translation>
+    </message>
+    <message>
+        <source>Enter the first and last address of each network range. Alternatively enter a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation>Geben Sie die erste und letzte Adresse jedes Netzwerkbereichs ein. Alternativ können Sie als erste Adresse ein Subnetz in CIDR-Notation (z.B. 192.168.1.0/24) eingeben.</translation>
     </message>
     <message>
         <source>First address</source>
@@ -1052,6 +1072,18 @@ VERWENDUNG
     <message>
         <source>New location</source>
         <translation>Neuer Standort</translation>
+    </message>
+    <message>
+        <source>Invalid network range. Please enter the first and last IPv4 address or a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation>Ungültiger Netzwerkbereich. Bitte geben Sie die erste und letzte IPv4-Adresse oder als erste Adresse ein Subnetz in CIDR-Notation (z.B. 192.168.1.0/24) ein.</translation>
+    </message>
+    <message>
+        <source>The network range contains %1 addresses which exceeds the maximum of %2 addresses.</source>
+        <translation>Der Netzwerkbereich enthält %1 Adressen und überschreitet damit das Maximum von %2 Adressen.</translation>
+    </message>
+    <message>
+        <source>%1 - %2 (%3 addresses)</source>
+        <translation>%1 - %2 (%3 Adressen)</translation>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1104,6 +1136,10 @@ VERWENDUNG
     <message>
         <source>e.g. Class.*</source>
         <translation>z.B. Klasse.*</translation>
+    </message>
+    <message>
+        <source>Persistent IDs are used e.g. for remembering selected computers. When using computer names, these have to be unique across all locations, otherwise the host address is used for duplicate names.</source>
+        <translation>Persistente IDs werden z.B. verwendet, um sich ausgewählte Computer zu merken. Bei Verwendung von Computernamen müssen diese über alle Standorte hinweg eindeutig sein, andernfalls wird für doppelte Namen die Hostadresse verwendet.</translation>
     </message>
     <message>
         <source>Computer names</source>
@@ -1212,19 +1248,6 @@ Beispiel: (R[0-9]*)-*</translation>
         <translation>Ein Subnetz scannen</translation>
     </message>
     <message>
-        <source>
-USAGE
-
-%1 scan [&lt;SUBNET&gt;]
-
-</source>
-        <translation>
-VERWENDUNG
-
-%1 scan [&lt;SUBNETZ&gt;]
-</translation>
-    </message>
-    <message>
         <source>Network object directory which automatically discovers computers in the network</source>
         <translation>Netzwerkobjektverzeichnis, das automatisch Computer im Netzwerk erkennt</translation>
     </message>
@@ -1235,6 +1258,30 @@ VERWENDUNG
     <message>
         <source>Commands for managing the network discovery directory</source>
         <translation>Befehle zur Verwaltung des Netzwerkobjektverzeichnisses</translation>
+    </message>
+    <message>
+        <source>
+USAGE
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; is a subnet in CIDR notation (e.g. 192.168.1.0/24). If omitted, all local subnets are scanned.
+details prints name, address, port and locations of all discovered computers.
+
+</source>
+        <translation>
+VERWENDUNG
+
+%1 scan [&lt;SUBNETZ&gt;] [details]
+
+&lt;SUBNETZ&gt; ist ein Subnetz in CIDR-Notation (z.B. 192.168.1.0/24). Ohne Angabe werden alle lokalen Subnetze gescannt.
+details gibt Name, Adresse, Port und Standorte aller gefundenen Computer aus.
+
+</translation>
+    </message>
+    <message>
+        <source>Invalid subnet: %1</source>
+        <translation>Ungültiges Subnetz: %1</translation>
     </message>
     <message>
         <source>Failed to initialize credentials</source>

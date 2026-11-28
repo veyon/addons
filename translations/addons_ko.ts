@@ -3,15 +3,15 @@
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation>Auvidus</translation>
     </message>
     <message>
         <source>Start behavior</source>
-        <translation type="unfinished"/>
+        <translation>시작 동작</translation>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation type="unfinished"/>
+        <translation>이전 상태 유지</translation>
     </message>
     <message>
         <source>Webcams</source>
@@ -54,7 +54,7 @@
     <name>AuvidusPlugin</name>
     <message>
         <source>Audio control</source>
-        <translation type="unfinished"/>
+        <translation>오디오 제어</translation>
     </message>
     <message>
         <source>Mute or unmute speakers, headsets and microphones.</source>
@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>Device control</source>
-        <translation type="unfinished"/>
+        <translation>장치 제어</translation>
     </message>
     <message>
         <source>Disable webcams</source>
@@ -108,9 +108,9 @@
         <source>All webcams are now disabled.</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
@@ -169,23 +169,23 @@
     </message>
     <message>
         <source>Allow plain text messages only</source>
-        <translation type="unfinished"/>
+        <translation>일반 텍스트 메시지만 허용</translation>
     </message>
     <message>
         <source>Nicknames</source>
-        <translation type="unfinished"/>
+        <translation>닉네임</translation>
     </message>
     <message>
         <source>Login names of users</source>
-        <translation type="unfinished"/>
+        <translation>사용자 로그인 이름</translation>
     </message>
     <message>
         <source>Full names of users</source>
-        <translation type="unfinished"/>
+        <translation>사용자 전체 이름</translation>
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
-        <translation type="unfinished"/>
+        <translation>사용자가 닉네임을 변경하도록 허용</translation>
     </message>
 </context>
 <context>
@@ -197,6 +197,10 @@
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
         <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the chat will be closed in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>%1 Chat</source>
@@ -270,7 +274,7 @@
     </message>
     <message>
         <source>Authentication mechanism</source>
-        <translation type="unfinished"/>
+        <translation>인증 메커니즘</translation>
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
@@ -282,11 +286,11 @@
     </message>
     <message>
         <source>Request timeout</source>
-        <translation type="unfinished"/>
+        <translation>요청 시간 제한</translation>
     </message>
     <message>
         <source>Domain name</source>
-        <translation type="unfinished"/>
+        <translation>도메인 이름</translation>
     </message>
     <message>
         <source>Filters</source>
@@ -310,11 +314,11 @@
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation type="unfinished"/>
+        <translation>장치의 위치 속성 사용</translation>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation type="unfinished"/>
+        <translation>정규 표현식으로 호스트 이름에서 추출</translation>
     </message>
     <message>
         <source>Regular expression</source>
@@ -322,7 +326,7 @@
     </message>
     <message>
         <source>Query limit</source>
-        <translation type="unfinished"/>
+        <translation>쿼리 제한</translation>
     </message>
     <message>
         <source>Entra ID configuration check</source>
@@ -498,7 +502,7 @@
     </message>
     <message>
         <source>Use groups of users with associated Intune devices</source>
-        <translation type="unfinished"/>
+        <translation>연결된 Intune 장치가 있는 사용자 그룹 사용</translation>
     </message>
     <message>
         <source>Group attribute to use as location name</source>
@@ -578,7 +582,7 @@
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>로컬이 아닌 서브넷으로 향하는 모든 외부 트래픽 차단</translation>
     </message>
     <message>
         <source>Exceptions</source>
@@ -610,7 +614,7 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>(예: 프록시 또는 DNS) 서버로 향하는 트래픽 차단</translation>
     </message>
     <message>
         <source>Server addresses</source>
@@ -622,7 +626,7 @@
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
+        <translation>미리 설정된 방화벽 규칙 활성화</translation>
     </message>
     <message>
         <source>Name</source>
@@ -630,7 +634,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation>TCP 및 UDP 포트에 대한 모든 외부 트래픽 차단</translation>
     </message>
 </context>
 <context>
@@ -656,15 +660,15 @@
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
-        <translation type="unfinished"/>
+        <translation>이전 인터넷 차단 상태 유지</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>인터넷 접속 차단</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>인터넷 접속 복원</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -679,11 +683,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Restrict internet access</source>
-        <translation type="unfinished"/>
+        <translation>인터넷 접속 제한</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>인터넷 접속 복원</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -703,7 +707,7 @@
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>인터넷 접속 차단</translation>
     </message>
     <message>
         <source>Click to completely block internet access.</source>
@@ -717,9 +721,9 @@
         <source>Restrict internet access to selected websites</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Allowed websites</source>
@@ -982,6 +986,14 @@ USAGE
         <translation>컴퓨터의 모든 서브넷 검색</translation>
     </message>
     <message>
+        <source>Do not scan subnets of network interfaces of Docker, libvirt, VirtualBox, VMware, the Hyper-V default switch or WSL. These subnets usually do not contain Veyon clients but can be very large.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude network interfaces of virtual machines and containers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Test</source>
         <translation>테스트</translation>
     </message>
@@ -992,6 +1004,10 @@ USAGE
     <message>
         <source>Scan network ranges</source>
         <translation>네트워크 범위 검색</translation>
+    </message>
+    <message>
+        <source>Subnet in CIDR notation. Subnets larger than /16 are limited to the /16 subnet of the given address.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -1012,6 +1028,10 @@ USAGE
     <message>
         <source>Groups</source>
         <translation>그룹</translation>
+    </message>
+    <message>
+        <source>Enter the first and last address of each network range. Alternatively enter a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First address</source>
@@ -1052,6 +1072,18 @@ USAGE
     <message>
         <source>New location</source>
         <translation>새로운 위치</translation>
+    </message>
+    <message>
+        <source>Invalid network range. Please enter the first and last IPv4 address or a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The network range contains %1 addresses which exceeds the maximum of %2 addresses.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 - %2 (%3 addresses)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1106,6 +1138,10 @@ USAGE
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Persistent IDs are used e.g. for remembering selected computers. When using computer names, these have to be unique across all locations, otherwise the host address is used for duplicate names.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Computer names</source>
         <translation>컴퓨터 이름</translation>
     </message>
@@ -1125,11 +1161,11 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Extract from computer names</source>
-        <translation type="unfinished"/>
+        <translation>컴퓨터 이름에서 추출</translation>
     </message>
     <message>
         <source>Groups of logged-in users</source>
-        <translation type="unfinished"/>
+        <translation>로그인한 사용자의 그룹</translation>
     </message>
     <message>
         <source>Data source:</source>
@@ -1165,7 +1201,7 @@ Example: [^-]*-(PC[0-9]*)</source>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>기본값</translation>
     </message>
     <message>
         <source>Host address</source>
@@ -1208,20 +1244,6 @@ Example: (R[0-9]*)-*</source>
         <translation>서브넷 스캔</translation>
     </message>
     <message>
-        <source>
-USAGE
-
-%1 scan [&lt;SUBNET&gt;]
-
-</source>
-        <translation>
-사용법
-
-%1 scan [&lt;SUBNET&gt;]
-
-</translation>
-    </message>
-    <message>
         <source>Network object directory which automatically discovers computers in the network</source>
         <translation>네트워크의 컴퓨터들을 자동으로 검색하기 위한 네트워크 오브젝트 폴더</translation>
     </message>
@@ -1232,6 +1254,22 @@ USAGE
     <message>
         <source>Commands for managing the network discovery directory</source>
         <translation>네트워크 검색 폴더를 제어하기 위한 명령어들</translation>
+    </message>
+    <message>
+        <source>
+USAGE
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; is a subnet in CIDR notation (e.g. 192.168.1.0/24). If omitted, all local subnets are scanned.
+details prints name, address, port and locations of all discovered computers.
+
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid subnet: %1</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failed to initialize credentials</source>
@@ -1300,7 +1338,7 @@ USAGE
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>인터넷 차단을 위한 사용자 지정 경로 추가</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1346,11 +1384,11 @@ USAGE
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation>출력 설정</translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation>고정 해상도 사용</translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
@@ -1362,7 +1400,7 @@ USAGE
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>출력 디렉터리</translation>
     </message>
     <message>
         <source>x</source>
@@ -1370,23 +1408,23 @@ USAGE
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation>고정 프레임 속도 사용</translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>컴퓨터별 하위 디렉터리에 저장</translation>
     </message>
     <message>
         <source>Encoding settings</source>
-        <translation type="unfinished"/>
+        <translation>인코딩 설정</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"/>
+        <translation>인코더</translation>
     </message>
     <message>
         <source>x264 preset</source>
-        <translation type="unfinished"/>
+        <translation>x264 프리셋</translation>
     </message>
     <message>
         <source>kbps</source>
@@ -1394,19 +1432,19 @@ USAGE
     </message>
     <message>
         <source>H.264 profile</source>
-        <translation type="unfinished"/>
+        <translation>H.264 프로필</translation>
     </message>
     <message>
         <source>Bitrate</source>
-        <translation type="unfinished"/>
+        <translation>비트레이트</translation>
     </message>
     <message>
         <source>Keyframe interval</source>
-        <translation type="unfinished"/>
+        <translation>키프레임 간격</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>형식</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -1414,11 +1452,11 @@ USAGE
     </message>
     <message>
         <source>Other settings</source>
-        <translation type="unfinished"/>
+        <translation>기타 설정</translation>
     </message>
     <message>
         <source>Notify users when their screen is recorded</source>
-        <translation type="unfinished"/>
+        <translation>화면이 녹화될 때 사용자에게 알림</translation>
     </message>
 </context>
 <context>
@@ -1437,11 +1475,11 @@ USAGE
     </message>
     <message>
         <source>Open folder with recordings</source>
-        <translation type="unfinished"/>
+        <translation>녹화 폴더 열기</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>닫기</translation>
     </message>
     <message>
         <source>Screen recording</source>

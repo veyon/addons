@@ -3,15 +3,15 @@
     <name>AuvidusConfigurationPage</name>
     <message>
         <source>Auvidus</source>
-        <translation type="unfinished"/>
+        <translation>Auvidus</translation>
     </message>
     <message>
         <source>Start behavior</source>
-        <translation type="unfinished"/>
+        <translation>Abioko portaera</translation>
     </message>
     <message>
         <source>Retain previous state</source>
-        <translation type="unfinished"/>
+        <translation>Mantendu aurreko egoera</translation>
     </message>
     <message>
         <source>Webcams</source>
@@ -108,9 +108,9 @@
         <source>All webcams are now disabled.</source>
         <translation>Web-kamera guztiak desgaituta daude orain</translation>
     </message>
-    <message>
-        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in 3 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the previous state will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Manage access to audio, video and USB devices</source>
@@ -169,23 +169,23 @@
     </message>
     <message>
         <source>Allow plain text messages only</source>
-        <translation type="unfinished"/>
+        <translation>Baimendu testu arrunteko mezuak soilik</translation>
     </message>
     <message>
         <source>Nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Ezizenak</translation>
     </message>
     <message>
         <source>Login names of users</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaileen saio-izenak</translation>
     </message>
     <message>
         <source>Full names of users</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaileen izen osoak</translation>
     </message>
     <message>
         <source>Allow users to change their nicknames</source>
-        <translation type="unfinished"/>
+        <translation>Baimendu erabiltzaileei beren ezizenak aldatzea</translation>
     </message>
 </context>
 <context>
@@ -197,6 +197,10 @@
     <message>
         <source>Click this button to start a chat with all users. Then all users can write text messages in a common chat.</source>
         <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <source>Since you&apos;re using a demo version of this add-on, the chat will be closed in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>%1 Chat</source>
@@ -215,11 +219,11 @@
     </message>
     <message>
         <source>Chat title</source>
-        <translation type="unfinished"/>
+        <translation>Txataren izenburua</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"/>
+        <translation>Ezizena</translation>
     </message>
     <message>
         <source>Type a new message</source>
@@ -227,7 +231,7 @@
     </message>
     <message>
         <source>Close chat</source>
-        <translation type="unfinished"/>
+        <translation>Itxi txata</translation>
     </message>
     <message>
         <source>Change chat title</source>
@@ -250,7 +254,7 @@
     <name>EntraIdConnectorConfigurationPage</name>
     <message>
         <source>Entra ID Connector</source>
-        <translation type="unfinished"/>
+        <translation>Entra ID Connector</translation>
     </message>
     <message>
         <source>Basic settings</source>
@@ -270,7 +274,7 @@
     </message>
     <message>
         <source>Authentication mechanism</source>
-        <translation type="unfinished"/>
+        <translation>Autentifikazio-mekanismoa</translation>
     </message>
     <message>
         <source>Microsoft Authentication Library (MSAL)</source>
@@ -282,15 +286,15 @@
     </message>
     <message>
         <source>Request timeout</source>
-        <translation type="unfinished"/>
+        <translation>Eskaeraren denbora-muga</translation>
     </message>
     <message>
         <source>Domain name</source>
-        <translation type="unfinished"/>
+        <translation>Domeinu-izena</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished"/>
+        <translation>Iragazkiak</translation>
     </message>
     <message>
         <source>Users filter</source>
@@ -310,11 +314,11 @@
     </message>
     <message>
         <source>Use location attribute of device</source>
-        <translation type="unfinished"/>
+        <translation>Erabili gailuaren kokaleku-atributua</translation>
     </message>
     <message>
         <source>Extract from hostname via regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Atera ostalari-izenetik adierazpen erregular bidez</translation>
     </message>
     <message>
         <source>Regular expression</source>
@@ -322,7 +326,7 @@
     </message>
     <message>
         <source>Query limit</source>
-        <translation type="unfinished"/>
+        <translation>Kontsulta-muga</translation>
     </message>
     <message>
         <source>Entra ID configuration check</source>
@@ -402,7 +406,7 @@
     </message>
     <message>
         <source>Use device groups</source>
-        <translation type="unfinished"/>
+        <translation>Erabili gailu-taldeak</translation>
     </message>
     <message>
         <source>e.g. description</source>
@@ -438,7 +442,7 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Gailuak</translation>
     </message>
     <message>
         <source>Hostname attribute</source>
@@ -450,7 +454,7 @@
     </message>
     <message>
         <source>Hostname source</source>
-        <translation type="unfinished"/>
+        <translation>Ostalari-izenaren iturria</translation>
     </message>
     <message>
         <source>Device name (default)</source>
@@ -474,7 +478,7 @@
     </message>
     <message>
         <source>MAC address source</source>
-        <translation type="unfinished"/>
+        <translation>MAC helbidearen iturria</translation>
     </message>
     <message>
         <source>MAC address attribute (default)</source>
@@ -498,7 +502,7 @@
     </message>
     <message>
         <source>Use groups of users with associated Intune devices</source>
-        <translation type="unfinished"/>
+        <translation>Erabili Intune gailuak lotuta dituzten erabiltzaileen taldeak</translation>
     </message>
     <message>
         <source>Group attribute to use as location name</source>
@@ -578,7 +582,7 @@
     </message>
     <message>
         <source>Block all outbound traffic to non-local subnets</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatu kanpoko trafiko guztia sare-azpisare ez-lokaletara</translation>
     </message>
     <message>
         <source>Exceptions</source>
@@ -610,7 +614,7 @@
     </message>
     <message>
         <source>Block traffic to (e.g. proxy or DNS) servers</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatu zerbitzarietarako (adib. proxy edo DNS) trafikoa</translation>
     </message>
     <message>
         <source>Server addresses</source>
@@ -622,7 +626,7 @@
     </message>
     <message>
         <source>Enable preconfigured firewall rule</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu aurrez konfiguratutako suebaki-araua</translation>
     </message>
     <message>
         <source>Name</source>
@@ -630,7 +634,7 @@
     </message>
     <message>
         <source>Block all outbound traffic for TCP and UDP ports</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatu kanpoko trafiko guztia TCP eta UDP ataketarako</translation>
     </message>
 </context>
 <context>
@@ -656,15 +660,15 @@
     </message>
     <message>
         <source>Retain previous internet blocking state</source>
-        <translation type="unfinished"/>
+        <translation>Mantendu Interneteko blokeoaren aurreko egoera</translation>
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatu Interneterako sarbidea</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Leheneratu Interneterako sarbidea</translation>
     </message>
     <message>
         <source>Backend settings</source>
@@ -679,11 +683,11 @@
     <name>InternetAccessControlPlugin</name>
     <message>
         <source>Restrict internet access</source>
-        <translation type="unfinished"/>
+        <translation>Mugatu Interneterako sarbidea</translation>
     </message>
     <message>
         <source>Restore internet access</source>
-        <translation type="unfinished"/>
+        <translation>Leheneratu Interneterako sarbidea</translation>
     </message>
     <message>
         <source>Show help about command</source>
@@ -703,7 +707,7 @@
     </message>
     <message>
         <source>Block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatu Interneterako sarbidea</translation>
     </message>
     <message>
         <source>Click to completely block internet access.</source>
@@ -717,9 +721,9 @@
         <source>Restrict internet access to selected websites</source>
         <translation type="unfinished"/>
     </message>
-    <message>
-        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in 5 minutes automatically.</source>
-        <translation type="unfinished"/>
+    <message numerus="yes">
+        <source>The internet access is now blocked. Since you&apos;re using a demo version of this add-on, it will be restored in %n minute(s) automatically.</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Allowed websites</source>
@@ -746,7 +750,7 @@
     <name>LicensingConfigurationPage</name>
     <message>
         <source>Licensing</source>
-        <translation type="unfinished"/>
+        <translation>Lizentziak</translation>
     </message>
     <message>
         <source>Information</source>
@@ -982,6 +986,14 @@ ERABILERA
         <translation>Eskaneatu ordenagailuko azpisare guztiak</translation>
     </message>
     <message>
+        <source>Do not scan subnets of network interfaces of Docker, libvirt, VirtualBox, VMware, the Hyper-V default switch or WSL. These subnets usually do not contain Veyon clients but can be very large.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Exclude network interfaces of virtual machines and containers</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Test</source>
         <translation>Proba</translation>
     </message>
@@ -992,6 +1004,10 @@ ERABILERA
     <message>
         <source>Scan network ranges</source>
         <translation>Eskaneatu sare barrutiak</translation>
+    </message>
+    <message>
+        <source>Subnet in CIDR notation. Subnets larger than /16 are limited to the /16 subnet of the given address.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>e.g. 192.168.1.0/24</source>
@@ -1012,6 +1028,10 @@ ERABILERA
     <message>
         <source>Groups</source>
         <translation>Taldeak</translation>
+    </message>
+    <message>
+        <source>Enter the first and last address of each network range. Alternatively enter a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First address</source>
@@ -1052,6 +1072,18 @@ ERABILERA
     <message>
         <source>New location</source>
         <translation>Kokaleku berria</translation>
+    </message>
+    <message>
+        <source>Invalid network range. Please enter the first and last IPv4 address or a subnet in CIDR notation (e.g. 192.168.1.0/24) as first address.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The network range contains %1 addresses which exceeds the maximum of %2 addresses.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 - %2 (%3 addresses)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session scan limit:</source>
@@ -1106,6 +1138,10 @@ ERABILERA
         <translation>adibidez Klasea.*</translation>
     </message>
     <message>
+        <source>Persistent IDs are used e.g. for remembering selected computers. When using computer names, these have to be unique across all locations, otherwise the host address is used for duplicate names.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Computer names</source>
         <translation>Ordenagailuen izenak</translation>
     </message>
@@ -1147,7 +1183,7 @@ Adibidea: [^ -] * - (PC [0-9] *)</translation>
     </message>
     <message>
         <source>Environment variable</source>
-        <translation type="unfinished"/>
+        <translation>Ingurune-aldagaia</translation>
     </message>
     <message>
         <source>Environment variable name:</source>
@@ -1155,7 +1191,7 @@ Adibidea: [^ -] * - (PC [0-9] *)</translation>
     </message>
     <message>
         <source>Registry key</source>
-        <translation type="unfinished"/>
+        <translation>Erregistro-gakoa</translation>
     </message>
     <message>
         <source>Registry key name:</source>
@@ -1210,15 +1246,6 @@ Example: (R[0-9]*)-*</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>
-USAGE
-
-%1 scan [&lt;SUBNET&gt;]
-
-</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Network object directory which automatically discovers computers in the network</source>
         <translation type="unfinished"/>
     </message>
@@ -1228,6 +1255,22 @@ USAGE
     </message>
     <message>
         <source>Commands for managing the network discovery directory</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>
+USAGE
+
+%1 scan [&lt;SUBNET&gt;] [details]
+
+&lt;SUBNET&gt; is a subnet in CIDR notation (e.g. 192.168.1.0/24). If omitted, all local subnets are scanned.
+details prints name, address, port and locations of all discovered computers.
+
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Invalid subnet: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1293,11 +1336,11 @@ USAGE
     <name>RoutingConfigurationWidget</name>
     <message>
         <source>Remove default routes to block internet access</source>
-        <translation type="unfinished"/>
+        <translation>Kendu bide lehenetsiak Interneterako sarbidea blokeatzeko</translation>
     </message>
     <message>
         <source>Add custom routes to block internet</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu bide pertsonalizatuak Internet blokeatzeko</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1343,11 +1386,11 @@ USAGE
     </message>
     <message>
         <source>Output settings</source>
-        <translation type="unfinished"/>
+        <translation>Irteera-ezarpenak</translation>
     </message>
     <message>
         <source>Use fixed resolution</source>
-        <translation type="unfinished"/>
+        <translation>Erabili bereizmen finkoa</translation>
     </message>
     <message>
         <source>Keep aspect ratio</source>
@@ -1359,7 +1402,7 @@ USAGE
     </message>
     <message>
         <source>Output directory</source>
-        <translation type="unfinished"/>
+        <translation>Irteera-direktorioa</translation>
     </message>
     <message>
         <source>x</source>
@@ -1367,7 +1410,7 @@ USAGE
     </message>
     <message>
         <source>Use fixed framerate</source>
-        <translation type="unfinished"/>
+        <translation>Erabili fotograma-abiadura finkoa</translation>
     </message>
     <message>
         <source>Save to computer-specific subdirectories</source>
